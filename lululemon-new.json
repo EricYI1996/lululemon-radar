@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T09:13:07.527467+00:00",
+  "fetchedAt": "2026-06-14T14:02:15.541939+00:00",
   "source": "https://shop.lululemon.com/c/whats-new/n1q0cf",
   "count": 480,
   "products": [
@@ -53,7 +53,7 @@
       "title": "Heavyweight Cotton Jersey T-Shirt",
       "url": "https://shop.lululemon.com/p/men-ss-tops/Heavyweight-Cotton-Jersey-T-Shirt/_/prod11680050",
       "price": 68.0,
-      "colorsCount": 7,
+      "colorsCount": 6,
       "image": "https://images.lululemon.com/is/image/lululemon/LM3FBSS_0001_1?wid=600",
       "gender": "men"
     },
@@ -161,7 +161,7 @@
       "title": "Flow Y Bra Nulu *Light Support, A–C Cups",
       "url": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Bra-Nulu/_/prod8910081",
       "price": 48.0,
-      "colorsCount": 12,
+      "colorsCount": 11,
       "image": "https://images.lululemon.com/is/image/lululemon/LW2DH5S_074050_1?wid=600",
       "gender": "women"
     },
@@ -467,7 +467,7 @@
       "title": "lululemon Align™ High-Rise Pant 28\"",
       "url": "https://shop.lululemon.com/p/womens-leggings/Align-Pant-Full-Length-28/_/prod8780551",
       "price": 98.0,
-      "colorsCount": 14,
+      "colorsCount": 13,
       "image": "https://images.lululemon.com/is/image/lululemon/LW5DITS_073703_1?wid=600",
       "gender": "women"
     },
@@ -926,7 +926,7 @@
       "title": "Men's ShowZero™ Slim-Fit Polo Shirt",
       "url": "https://shop.lululemon.com/p/mens-polos/ShowZero-Polo/_/prod11710514",
       "price": 98.0,
-      "colorsCount": 10,
+      "colorsCount": 9,
       "image": "https://images.lululemon.com/is/image/lululemon/LM3FLWS_049106_1?wid=600",
       "gender": "men"
     },
@@ -2128,6 +2128,15 @@
       "gender": "men"
     },
     {
+      "productId": "prod9750511",
+      "title": "Wunder Train High-Rise Short 6\"",
+      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-6/_/prod9750511",
+      "price": 64.0,
+      "colorsCount": 5,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW7BESS_075697_1?wid=600",
+      "gender": "women"
+    },
+    {
       "productId": "ykqe72op5v",
       "title": "Flow Y Ruched Bra *Light Support, B/C Cup",
       "url": "https://shop.lululemon.com/p/flow-y-ruched-bra-light-support-bc-cup/ykqe72op5v",
@@ -2377,15 +2386,6 @@
       "price": 118.0,
       "colorsCount": 4,
       "image": "https://images.lululemon.com/is/image/lululemon/LW5JJYR_033454_1?wid=600",
-      "gender": "women"
-    },
-    {
-      "productId": "prod9750511",
-      "title": "Wunder Train High-Rise Short 6\"",
-      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-6/_/prod9750511",
-      "price": 64.0,
-      "colorsCount": 5,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW7BESS_075697_1?wid=600",
       "gender": "women"
     },
     {
@@ -2848,21 +2848,21 @@
       "gender": "men"
     },
     {
-      "productId": "os2yqbn0y0",
-      "title": "UnderEase Mid-Rise Thong Underwear *Updated",
-      "url": "https://shop.lululemon.com/p/underease-mid-rise-thong-underwear-updated/os2yqbn0y0",
-      "price": 18.0,
-      "colorsCount": 2,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW9GAAS_0001_1?wid=600",
-      "gender": "women"
-    },
-    {
       "productId": "gy8dzofx26",
       "title": "Nulu Added Absorbency Extra-High-Rise Thong Underwear",
       "url": "https://shop.lululemon.com/p/nulu-added-absorbency-extra-high-rise-thong-under/gy8dzofx26",
       "price": 26.0,
       "colorsCount": 3,
       "image": "https://images.lululemon.com/is/image/lululemon/LW9FPYS_072756_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "os2yqbn0y0",
+      "title": "UnderEase Mid-Rise Thong Underwear *Updated",
+      "url": "https://shop.lululemon.com/p/underease-mid-rise-thong-underwear-updated/os2yqbn0y0",
+      "price": 18.0,
+      "colorsCount": 2,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW9GAAS_0001_1?wid=600",
       "gender": "women"
     },
     {
