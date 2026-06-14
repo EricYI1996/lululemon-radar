@@ -1,34 +1,37 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Lululemon 美区上新爬取脚本
+Lululemon 美区上新爬取脚本（curl_cffi · TLS 指纹伪装 + __NEXT_DATA__ 解析）
 ================================================================
 背景：
-  Lululemon 官网 (shop.lululemon.com) 由 Akamai 防护，直接 HTTP 请求会被
-  403 拦截，必须用无头浏览器（Playwright + headless Chromium）渲染页面，
-  再从页面内嵌的 `#__NEXT_DATA__` JSON 中提取上新商品。
+  Lululemon 官网 (shop.lululemon.com) 由 Akamai 防护。普通 requests / headless
+  Chromium 都会被拦截（403 Access Denied / net::ERR_HTTP2_PROTOCOL_ERROR），
+  因为 Akamai 会对 TLS/JA3 指纹做识别。
 
-输出：
-  在脚本同级（默认仓库根目录）生成 `lululemon-new.json`，结构为：
+方案：
+  使用 `curl_cffi`，它能复刻真实浏览器的 TLS 指纹（impersonate）。实测多指纹
+  轮换（chrome116 优先，遇 400 自动换下一指纹）可稳定拿到 HTTP 200。
+
+数据位置（关键）：
+  商品列表并非通过独立的客户端 API 加载，而是被服务端直接渲染进页面内嵌的
+  `<script id="__NEXT_DATA__">` JSON 中，路径为：
+    props.pageProps.dehydratedState.queries[?].state.data.pages[0].products
+  其中 queries[?] 为 queryKey[0] == "CategoryPageDataQuery" 的那一项（索引不固定，
+  需遍历查找，切勿写死）。同级 pages[0] 含分页元信息：results / totalProductPages。
+
+翻页：
+  ?page=N（1-based）。第 1 页无需参数，后续 ?page=2 / ?page=3 ...
+
+输出（保持不变）：
+  lululemon-new.json:
     {
-      "fetchedAt": "2026-06-12T02:00:00Z",
+      "fetchedAt": "...Z",
       "source": "https://shop.lululemon.com/c/whats-new/n1q0cf",
-      "count": 748,
+      "count": N,
       "products": [
-        {
-          "productId": "prod...",
-          "title": "Align High-Rise Pant 25\"",
-          "url": "https://shop.lululemon.com/p/.../...",
-          "price": 98.0,
-          "colorsCount": 12,
-          "image": "https://images.lululemon.com/....jpg",
-          "gender": "women"
-        },
-        ...
+        {"productId","title","url","price","colorsCount","image","gender"}, ...
       ]
     }
-
-本脚本被 .github/workflows/fetch-lululemon.yml 定时调用。
 ================================================================
 """
 
@@ -36,29 +39,56 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone
 
-from playwright.sync_api import sync_playwright
+from curl_cffi import requests as creq
 
 NEW_ARRIVALS_URL = "https://shop.lululemon.com/c/whats-new/n1q0cf"
+BASE = "https://shop.lululemon.com"
 OUTPUT_FILE = os.environ.get("LULU_OUTPUT", "lululemon-new.json")
-
-# 翻页参数：lululemon 列表页支持 ?pn=N（page number）。设置一个上限避免无限翻。
 MAX_PAGES = int(os.environ.get("LULU_MAX_PAGES", "12"))
 
-USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-)
+# 实测可绕过 Akamai 的指纹，按优先级轮换（chrome116 最稳，遇 400 换下一项）
+IMPERSONATE_ORDER = ["chrome116", "chrome120", "chrome124", "chrome110", "chrome107"]
+
+HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Upgrade-Insecure-Requests": "1",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+}
+
+
+def fetch_html(url, attempts=12):
+    """多 TLS 指纹轮换重试。Akamai 会间歇性返回 400，遇到即换指纹+退避重试。"""
+    last = ""
+    last_status = None
+    for i in range(attempts):
+        imp = IMPERSONATE_ORDER[i % len(IMPERSONATE_ORDER)]
+        try:
+            r = creq.get(url, headers=HEADERS, impersonate=imp, timeout=35)
+        except Exception as e:
+            print(f"      [{imp}] 请求异常: {type(e).__name__}", flush=True)
+            time.sleep(1.3)
+            continue
+        html = r.text or ""
+        last_status = r.status_code
+        if r.status_code == 200 and "Access Denied" not in html and "__NEXT_DATA__" in html:
+            print(f"      [{imp}] OK ({len(html)} bytes)", flush=True)
+            return html
+        print(f"      [{imp}] HTTP {r.status_code} size={len(html)} -> 重试", flush=True)
+        last = html
+        time.sleep(1.3)
+    print(f"      [fail] last_status={last_status}", flush=True)
+    return last
 
 
 def extract_next_data(html):
-    """从页面 HTML 中取出 #__NEXT_DATA__ 的 JSON。"""
-    m = re.search(
-        r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>',
-        html,
-        re.DOTALL,
-    )
+    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.DOTALL)
     if not m:
         return None
     try:
@@ -67,48 +97,26 @@ def extract_next_data(html):
         return None
 
 
-def looks_like_product(node):
-    """判断一个 dict 是否像 lululemon 的商品对象。"""
-    if not isinstance(node, dict):
-        return False
-    has_id = any(k in node for k in ("productId", "productCode", "id"))
-    has_name = any(
-        k in node for k in ("displayName", "name", "title", "productName")
-    )
-    has_extra = any(
-        k in node
-        for k in (
-            "colors",
-            "colorCount",
-            "swatches",
-            "listPrice",
-            "price",
-            "pdpUrl",
-            "images",
-            "imageInfo",
-        )
-    )
-    return has_id and has_name and has_extra
-
-
-def _first(node, keys, default=None):
-    for k in keys:
-        if k in node and node[k] not in (None, "", []):
-            return node[k]
-    return default
+def get_plp(data):
+    """定位 CategoryPageDataQuery 的 pages[0]（含 products 与分页元信息）。"""
+    try:
+        queries = data["props"]["pageProps"]["dehydratedState"]["queries"]
+    except (KeyError, TypeError):
+        return None
+    for q in queries:
+        if (q.get("queryKey") or [None])[0] == "CategoryPageDataQuery":
+            try:
+                return q["state"]["data"]["pages"][0]
+            except (KeyError, TypeError, IndexError):
+                return None
+    return None
 
 
 def _to_price(val):
-    """把各种价格写法转换为 float（取数字部分）。"""
     if val is None:
         return None
     if isinstance(val, (int, float)):
         return float(val)
-    if isinstance(val, dict):
-        for k in ("price", "value", "amount", "min", "low", "current"):
-            if k in val:
-                return _to_price(val[k])
-        return None
     if isinstance(val, list) and val:
         return _to_price(val[0])
     if isinstance(val, str):
@@ -117,145 +125,113 @@ def _to_price(val):
     return None
 
 
-def _count_colors(node):
-    """统计商品颜色数量。"""
-    for k in ("colorCount", "colorsCount"):
-        v = node.get(k)
-        if isinstance(v, int):
-            return v
-    for k in ("colors", "swatches", "colorList"):
-        v = node.get(k)
-        if isinstance(v, list):
-            return len(v)
-    return None
-
-
-def _extract_image(node):
-    """尽力取出一张商品图 URL。"""
-    for k in ("primaryImage", "image", "imageUrl", "thumbnail"):
-        v = node.get(k)
-        if isinstance(v, str) and v.startswith("http"):
-            return v
-        if isinstance(v, dict):
-            u = _first(v, ("url", "src", "href"))
-            if isinstance(u, str) and u.startswith("http"):
-                return u
-    for k in ("images", "imageInfo", "media"):
-        v = node.get(k)
-        if isinstance(v, list) and v:
-            first = v[0]
-            if isinstance(first, str) and first.startswith("http"):
-                return first
-            if isinstance(first, dict):
-                u = _first(first, ("url", "src", "href", "imageUrl"))
-                if isinstance(u, str) and u.startswith("http"):
-                    return u
+def _gender_of(p):
+    s = ((p.get("parentCategoryUnifiedId") or "") + " " + (p.get("pdpUrl") or "")).lower()
+    if "women" in s:
+        return "women"
+    if "men" in s:
+        return "men"
     return ""
 
 
-def _build_url(node):
-    """拼接完整商品详情页链接。"""
-    url = _first(node, ("pdpUrl", "url", "productUrl", "href"))
-    if isinstance(url, str) and url:
-        if url.startswith("http"):
-            return url
-        return "https://shop.lululemon.com" + (
-            url if url.startswith("/") else "/" + url
-        )
-    pid = _first(node, ("productId", "productCode", "id"))
-    if pid:
-        return "https://shop.lululemon.com/p/_/prod-" + str(pid)
-    return NEW_ARRIVALS_URL
+def _image_of(p):
+    sw = p.get("swatches") or []
+    if sw and isinstance(sw[0], dict):
+        img = sw[0].get("primaryImage")
+        if isinstance(img, str) and img.startswith("http"):
+            return img + ("?wid=600" if "?" not in img else "")
+    sso = p.get("skuStyleOrder") or []
+    if sso and isinstance(sso[0], dict):
+        imgs = sso[0].get("images") or []
+        if imgs and isinstance(imgs[0], str) and imgs[0].startswith("http"):
+            return imgs[0]
+    return ""
 
 
-def normalize_product(node):
-    pid = _first(node, ("productId", "productCode", "id"), "")
-    title = _first(node, ("displayName", "name", "title", "productName"), "")
+def _colors_count(p):
+    sw = p.get("swatches")
+    if isinstance(sw, list) and sw:
+        return len(sw)
+    sso = p.get("skuStyleOrder")
+    if isinstance(sso, list) and sso:
+        return len(sso)
+    return None
+
+
+def _build_url(p):
+    pdp = p.get("pdpUrl")
+    if isinstance(pdp, str) and pdp:
+        return pdp if pdp.startswith("http") else BASE + (pdp if pdp.startswith("/") else "/" + pdp)
+    pid = p.get("productId")
+    return f"{BASE}/p/_/prod-{pid}" if pid else NEW_ARRIVALS_URL
+
+
+def normalize_product(p):
+    title = p.get("displayName") or p.get("name")
     if not title:
         return None
     return {
-        "productId": str(pid),
+        "productId": str(p.get("productId") or p.get("repositoryId") or ""),
         "title": str(title).strip(),
-        "url": _build_url(node),
-        "price": _to_price(_first(node, ("listPrice", "price", "priceRange"))),
-        "colorsCount": _count_colors(node),
-        "image": _extract_image(node),
-        "gender": str(_first(node, ("gender", "department"), "")).lower(),
+        "url": _build_url(p),
+        "price": _to_price(p.get("listPrice") or p.get("price")),
+        "colorsCount": _colors_count(p),
+        "image": _image_of(p),
+        "gender": _gender_of(p),
     }
-
-
-def collect_products(obj, out):
-    """递归遍历整棵 JSON 树，收集所有像商品的节点。"""
-    if isinstance(obj, dict):
-        if looks_like_product(obj):
-            norm = normalize_product(obj)
-            if norm:
-                out.append(norm)
-        for v in obj.values():
-            collect_products(v, out)
-    elif isinstance(obj, list):
-        for v in obj:
-            collect_products(v, out)
-
-
-def harvest_from_html(html, bucket, seen):
-    """从单页 HTML 抽取商品并按 productId / title 去重。返回本页新增数量。"""
-    data = extract_next_data(html)
-    if not data:
-        return 0
-    found = []
-    collect_products(data, found)
-    added = 0
-    for p in found:
-        key = p["productId"] or p["title"]
-        if key in seen:
-            continue
-        seen.add(key)
-        bucket.append(p)
-        added += 1
-    return added
 
 
 def main():
     products = []
     seen = set()
+    total_expected = None
+    total_pages = None
 
-    with sync_playwright() as pw:
-        browser = pw.chromium.launch(
-            headless=True,
-            args=[
-                "--no-sandbox",
-                "--disable-blink-features=AutomationControlled",
-                "--disable-dev-shm-usage",
-            ],
-        )
-        context = browser.new_context(
-            user_agent=USER_AGENT,
-            locale="en-US",
-            viewport={"width": 1366, "height": 900},
-        )
-        page = context.new_page()
-
-        for pn in range(1, MAX_PAGES + 1):
-            url = NEW_ARRIVALS_URL if pn == 1 else f"{NEW_ARRIVALS_URL}?pn={pn}"
-            print(f"[fetch] page {pn}: {url}", flush=True)
-            try:
-                page.goto(url, wait_until="networkidle", timeout=60000)
-            except Exception as e:
-                print(f"[warn] goto failed on page {pn}: {e}", flush=True)
-                if pn == 1:
-                    raise
+    for pn in range(1, MAX_PAGES + 1):
+        url = NEW_ARRIVALS_URL if pn == 1 else f"{NEW_ARRIVALS_URL}?page={pn}"
+        print(f"[fetch] page {pn}: {url}", flush=True)
+        html = fetch_html(url)
+        data = extract_next_data(html) if html else None
+        if not data:
+            if pn == 1:
+                print("[error] 首页抓取失败（Akamai 拦截或结构变化）", flush=True)
                 break
+            print(f"[fetch] page {pn} 无有效内容，停止翻页", flush=True)
+            break
 
-            page.wait_for_timeout(2500)
-            html = page.content()
-            added = harvest_from_html(html, products, seen)
-            print(f"[fetch] page {pn} -> +{added} (total {len(products)})", flush=True)
-
-            if added == 0 and pn > 1:
+        plp = get_plp(data)
+        if not plp:
+            if pn == 1:
+                print("[error] 未找到 CategoryPageDataQuery 商品数据（结构可能变化）", flush=True)
                 break
+            print(f"[fetch] page {pn} 无商品数据，停止翻页", flush=True)
+            break
 
-        browser.close()
+        if total_expected is None:
+            total_expected = plp.get("results")
+            total_pages = plp.get("totalProductPages")
+            print(f"[meta] 总商品数={total_expected} 总页数={total_pages}", flush=True)
+
+        added = 0
+        for raw in (plp.get("products") or []):
+            if not isinstance(raw, dict):
+                continue
+            norm = normalize_product(raw)
+            if not norm:
+                continue
+            key = norm["productId"] or norm["title"]
+            if key in seen:
+                continue
+            seen.add(key)
+            products.append(norm)
+            added += 1
+        print(f"[fetch] page {pn} -> +{added} (total {len(products)})", flush=True)
+
+        if added == 0 and pn > 1:
+            break
+        if total_pages and pn >= total_pages:
+            break
+        time.sleep(1.5)
 
     result = {
         "fetchedAt": datetime.now(timezone.utc).isoformat(),
