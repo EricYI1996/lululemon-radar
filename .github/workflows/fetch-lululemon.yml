@@ -1,5 +1,8 @@
 name: Fetch Lululemon New Arrivals
 
+# 定时爬取 Lululemon 美区上新，结果写入 lululemon-new.json 并提交回仓库。
+# 仓库开启 GitHub Pages 后，前端即可读取该 JSON。
+
 on:
   schedule:
     # UTC 02:00 == 北京时间 10:00，每天一次
@@ -29,11 +32,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install Playwright + Chromium
+      - name: Install dependencies (curl_cffi · TLS 指纹伪装绕过 Akamai)
         run: |
           python -m pip install --upgrade pip
-          pip install playwright
-          python -m playwright install --with-deps chromium
+          pip install "curl_cffi>=0.7.0"
 
       - name: Run Lululemon scraper
         run: python scripts/fetch_lululemon.py
