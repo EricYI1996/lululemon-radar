@@ -43,13 +43,53 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          for f in lululemon-new.json alo.json adan.json dfyne.json tala.json gym.json; do
-            [ -f "$f" ] && git add "$f" || echo "skip missing: $f"
+
+          files="lululemon-new.json alo.json adan.json dfyne.json tala.json gym.json"
+          tmp_dir="/tmp/new-arrivals-json"
+          mkdir -p "$tmp_dir"
+
+          # 1. 先把本次抓取结果暂存到临时目录
+          for f in $files; do
+            if [ -f "$f" ]; then
+              cp "$f" "$tmp_dir/$f"
+            else
+              echo "skip missing: $f"
+            fi
           done
+
+          # 2. 强制同步到远端最新 main（绕开所有冲突）
+          git fetch origin main
+          git checkout -B main origin/main
+
+          # 3. 把本次 JSON 覆盖回工作区并暂存
+          for f in $files; do
+            if [ -f "$tmp_dir/$f" ]; then
+              cp "$tmp_dir/$f" "$f"
+              git add "$f"
+            fi
+          done
+
+          # 4. 提交并 push；如果 push 再次被并发抢占则 retry 一次
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "chore: update new-arrivals JSON ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git pull --rebase origin main
-            git push
+            git push origin main || {
+              echo "Push rejected, retrying..."
+              for f in $files; do
+                [ -f "$f" ] && cp "$f" "$tmp_dir/$f"
+              done
+              git fetch origin main
+              git reset --hard origin/main
+              for f in $files; do
+                if [ -f "$tmp_dir/$f" ]; then
+                  cp "$tmp_dir/$f" "$f"
+                  git add "$f"
+                fi
+              done
+              if ! git diff --staged --quiet; then
+                git commit -m "chore: update new-arrivals JSON ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+                git push origin main
+              fi
+            }
           fi
