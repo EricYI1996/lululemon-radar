@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T05:23:53.669210+00:00",
+  "fetchedAt": "2026-06-15T06:47:44.259172+00:00",
   "source": "https://shop.lululemon.com/c/whats-new/n1q0cf",
   "count": 480,
   "products": [
@@ -161,7 +161,7 @@
       "title": "Flow Y Bra Nulu *Light Support, A–C Cups",
       "url": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Bra-Nulu/_/prod8910081",
       "price": 48.0,
-      "colorsCount": 11,
+      "colorsCount": 12,
       "image": "https://images.lululemon.com/is/image/lululemon/LW2DH5S_074050_1?wid=600",
       "gender": "women"
     },
@@ -634,6 +634,15 @@
       "gender": "women"
     },
     {
+      "productId": "prod9600539",
+      "title": "lululemon Align™ Tank Top *Light Support, A/B Cup",
+      "url": "https://shop.lululemon.com/p/women-tanks/Align-Tank/_/prod9600539",
+      "price": 68.0,
+      "colorsCount": 10,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW1DUDS_075743_1?wid=600",
+      "gender": "women"
+    },
+    {
       "productId": "prod10370071",
       "title": "lululemon Align™ High-Rise Pant with Pockets 25\"",
       "url": "https://shop.lululemon.com/p/womens-leggings/Align-HighRise-Tight-25-Pockets/_/prod10370071",
@@ -856,15 +865,6 @@
       "price": 108.0,
       "colorsCount": 7,
       "image": "https://images.lululemon.com/is/image/lululemon/LW5IIIS_074050_1?wid=600",
-      "gender": "women"
-    },
-    {
-      "productId": "prod9600539",
-      "title": "lululemon Align™ Tank Top *Light Support, A/B Cup",
-      "url": "https://shop.lululemon.com/p/women-tanks/Align-Tank/_/prod9600539",
-      "price": 68.0,
-      "colorsCount": 10,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW1DUDS_075743_1?wid=600",
       "gender": "women"
     },
     {
@@ -1502,7 +1502,7 @@
       "title": "License to Train Tank",
       "url": "https://shop.lululemon.com/p/mens-tanks/License-To-Train-Tank/_/prod10030207",
       "price": 68.0,
-      "colorsCount": 5,
+      "colorsCount": 4,
       "image": "https://images.lululemon.com/is/image/lululemon/LM1279S_074052_1?wid=600",
       "gender": "men"
     },
@@ -1727,7 +1727,7 @@
       "title": "License to Train Textured Nylon Jacket",
       "url": "https://shop.lululemon.com/p/license-to-train-textured-nylon-jacket/pe23drbezh",
       "price": 168.0,
-      "colorsCount": 2,
+      "colorsCount": 1,
       "image": "https://images.lululemon.com/is/image/lululemon/LW3KGCS_075905_1?wid=600",
       "gender": ""
     },
