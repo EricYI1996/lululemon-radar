@@ -34,6 +34,7 @@ jobs:
         run: python scripts/fetch_lululemon.py
 
       - name: Run all-brands scraper (alo/adan/dfyne/tala/gym)
+        if: ${{ always() }}
         run: python scripts/fetch_all_brands.py
         continue-on-error: true
 
@@ -49,5 +50,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: update new-arrivals JSON ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git pull --rebase origin main
             git push
           fi
