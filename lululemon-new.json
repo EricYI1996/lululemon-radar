@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-15T03:25:50.123084+00:00",
+  "fetchedAt": "2026-06-15T05:23:53.669210+00:00",
   "source": "https://shop.lululemon.com/c/whats-new/n1q0cf",
-  "count": 440,
+  "count": 480,
   "products": [
     {
       "productId": "wz7vj6nn0d",
@@ -463,6 +463,15 @@
       "gender": "women"
     },
     {
+      "productId": "prod8780551",
+      "title": "lululemon Align™ High-Rise Pant 28\"",
+      "url": "https://shop.lululemon.com/p/womens-leggings/Align-Pant-Full-Length-28/_/prod8780551",
+      "price": 98.0,
+      "colorsCount": 14,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW5DITS_073703_1?wid=600",
+      "gender": "women"
+    },
+    {
       "productId": "prod11700296",
       "title": "lululemon Align™ High-Rise Skirt",
       "url": "https://shop.lululemon.com/p/skirts-and-dresses-skirts/lululemon-Align-High-Rise-Skirt/_/prod11700296",
@@ -470,24 +479,6 @@
       "colorsCount": 10,
       "image": "https://images.lululemon.com/is/image/lululemon/LW8ALWS_075743_1?wid=600",
       "gender": ""
-    },
-    {
-      "productId": "prod2020012",
-      "title": "lululemon Align™ High-Rise Pant 25\"",
-      "url": "https://shop.lululemon.com/p/womens-leggings/Align-Pant-2/_/prod2020012",
-      "price": 98.0,
-      "colorsCount": 14,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW5DRJS_074050_1?wid=600",
-      "gender": "women"
-    },
-    {
-      "productId": "prod8780551",
-      "title": "lululemon Align™ High-Rise Pant 28\"",
-      "url": "https://shop.lululemon.com/p/womens-leggings/Align-Pant-Full-Length-28/_/prod8780551",
-      "price": 98.0,
-      "colorsCount": 13,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW5DITS_073703_1?wid=600",
-      "gender": "women"
     },
     {
       "productId": "prod8530240",
@@ -625,15 +616,6 @@
       "gender": ""
     },
     {
-      "productId": "prod9250073",
-      "title": "Hotty Hot High-Rise Lined Short 4\"",
-      "url": "https://shop.lululemon.com/p/women-shorts/Hotty-Hot-Short-HR-Long/_/prod9250073",
-      "price": 68.0,
-      "colorsCount": 11,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW7DCNS_076735_1?wid=600",
-      "gender": "women"
-    },
-    {
       "productId": "prod9610029",
       "title": "lululemon Align™ High-Rise Crop 23\"",
       "url": "https://shop.lululemon.com/p/women-crops/Align-Crop-23/_/prod9610029",
@@ -697,6 +679,15 @@
       "gender": ""
     },
     {
+      "productId": "prod2020012",
+      "title": "lululemon Align™ High-Rise Pant 25\"",
+      "url": "https://shop.lululemon.com/p/womens-leggings/Align-Pant-2/_/prod2020012",
+      "price": 98.0,
+      "colorsCount": 14,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW5DRJS_074050_1?wid=600",
+      "gender": "women"
+    },
+    {
       "productId": "prod11871018",
       "title": "lululemon Focuser Scoop-Neck Bra Nulu *Light Support, A/B Cup",
       "url": "https://shop.lululemon.com/p/women-sports-bras/Focuser-Scoop-Neck-Bra-Nulu-Light-Support-AB-Cup/_/prod11871018",
@@ -757,15 +748,6 @@
       "price": 78.0,
       "colorsCount": 8,
       "image": "https://images.lululemon.com/is/image/lululemon/LW7DSYS_076630_1?wid=600",
-      "gender": "women"
-    },
-    {
-      "productId": "prod10370225",
-      "title": "Wunder Train High-Rise Short 4\"",
-      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HighRise-Short-4/_/prod10370225",
-      "price": 64.0,
-      "colorsCount": 4,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW7BPSS_075697_1?wid=600",
       "gender": "women"
     },
     {
@@ -838,6 +820,24 @@
       "price": 58.0,
       "colorsCount": 13,
       "image": "https://images.lululemon.com/is/image/lululemon/LW1CN3S_075985_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "prod9250073",
+      "title": "Hotty Hot High-Rise Lined Short 4\"",
+      "url": "https://shop.lululemon.com/p/women-shorts/Hotty-Hot-Short-HR-Long/_/prod9250073",
+      "price": 68.0,
+      "colorsCount": 11,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW7DCNS_076735_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "prod10370225",
+      "title": "Wunder Train High-Rise Short 4\"",
+      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HighRise-Short-4/_/prod10370225",
+      "price": 64.0,
+      "colorsCount": 4,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW7BPSS_075697_1?wid=600",
       "gender": "women"
     },
     {
@@ -1016,7 +1016,7 @@
       "title": "Swiftly Tech Short-Sleeve Shirt 2.0 *Waist Length",
       "url": "https://shop.lululemon.com/p/tops-short-sleeve/Swiftly-Tech-Short-Sleeve-2-Race/_/prod9820343",
       "price": 68.0,
-      "colorsCount": 14,
+      "colorsCount": 15,
       "image": "https://images.lululemon.com/is/image/lululemon/LW3HT1S_076691_1?wid=600",
       "gender": ""
     },
@@ -1304,7 +1304,7 @@
       "title": "Wunder Train Strappy Racer Bra *Light Support, C/D Cup",
       "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Strappy-Race-Bra-Light-CD/_/prod11520057",
       "price": 58.0,
-      "colorsCount": 10,
+      "colorsCount": 11,
       "image": "https://images.lululemon.com/is/image/lululemon/LW2DYCS_074050_1?wid=600",
       "gender": "women"
     },
@@ -1727,7 +1727,7 @@
       "title": "License to Train Textured Nylon Jacket",
       "url": "https://shop.lululemon.com/p/license-to-train-textured-nylon-jacket/pe23drbezh",
       "price": 168.0,
-      "colorsCount": 1,
+      "colorsCount": 2,
       "image": "https://images.lululemon.com/is/image/lululemon/LW3KGCS_075905_1?wid=600",
       "gender": ""
     },
@@ -2146,24 +2146,6 @@
       "gender": "men"
     },
     {
-      "productId": "prod9750511",
-      "title": "Wunder Train High-Rise Short 6\"",
-      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-6/_/prod9750511",
-      "price": 64.0,
-      "colorsCount": 5,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW7BESS_075697_1?wid=600",
-      "gender": "women"
-    },
-    {
-      "productId": "prod11680024",
-      "title": "ABC Slim-Fit Golf Trouser 30L",
-      "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Golf-Trouser-30L/_/prod11680024",
-      "price": 148.0,
-      "colorsCount": 5,
-      "image": "https://images.lululemon.com/is/image/lululemon/LM5AWWS_0001_1?wid=600",
-      "gender": "men"
-    },
-    {
       "productId": "prod20001311",
       "title": "Wunder Train Mesh-Back Bra *Medium Support, B/C Cup",
       "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Wunder-Train-Mesh-Back-Bra-Medium-Support-BC-Cup/_/prod20001311",
@@ -2198,15 +2180,6 @@
       "colorsCount": 5,
       "image": "https://images.lululemon.com/is/image/lululemon/LM3GSJS_0001_1?wid=600",
       "gender": "men"
-    },
-    {
-      "productId": "prod11680482",
-      "title": "Wunder Train High-Rise Short 2\"",
-      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-2/_/prod11680482",
-      "price": 64.0,
-      "colorsCount": 4,
-      "image": "https://images.lululemon.com/is/image/lululemon/LW7CWJS_073703_1?wid=600",
-      "gender": "women"
     },
     {
       "productId": "prod11430004",
@@ -2288,6 +2261,15 @@
       "colorsCount": 2,
       "image": "https://images.lululemon.com/is/image/lululemon/LW3JOXS_033454_1?wid=600",
       "gender": ""
+    },
+    {
+      "productId": "prod11680024",
+      "title": "ABC Slim-Fit Golf Trouser 30L",
+      "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Golf-Trouser-30L/_/prod11680024",
+      "price": 148.0,
+      "colorsCount": 5,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5AWWS_0001_1?wid=600",
+      "gender": "men"
     },
     {
       "productId": "o41dkwbx7l",
@@ -2389,6 +2371,15 @@
       "gender": ""
     },
     {
+      "productId": "prod9750511",
+      "title": "Wunder Train High-Rise Short 6\"",
+      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-6/_/prod9750511",
+      "price": 64.0,
+      "colorsCount": 5,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW7BESS_075697_1?wid=600",
+      "gender": "women"
+    },
+    {
       "productId": "aqgpt550mb",
       "title": "A-Line Side-Pleat Tennis Skirt",
       "url": "https://shop.lululemon.com/p/a-line-side-pleat-tennis-skirt/aqgpt550mb",
@@ -2414,6 +2405,15 @@
       "colorsCount": 4,
       "image": "https://images.lululemon.com/is/image/lululemon/LM3GLPS_074052_1?wid=600",
       "gender": "men"
+    },
+    {
+      "productId": "prod11680482",
+      "title": "Wunder Train High-Rise Short 2\"",
+      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-2/_/prod11680482",
+      "price": 64.0,
+      "colorsCount": 4,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW7CWJS_073703_1?wid=600",
+      "gender": "women"
     },
     {
       "productId": "w2k5fayt8t",
@@ -2933,7 +2933,7 @@
       "title": "Quick-Dry Sleeveless Polo Shirt Straight Hem *Logo",
       "url": "https://shop.lululemon.com/p/w-polo-shirts/Quick-Dry-Sleeveless-Polo-Shirt-Straight-Hem-Logo/_/prod11710328",
       "price": 68.0,
-      "colorsCount": 3,
+      "colorsCount": 5,
       "image": "https://images.lululemon.com/is/image/lululemon/LW1GCIS_075697_1?wid=600",
       "gender": ""
     },
@@ -3961,6 +3961,366 @@
       "price": 128.0,
       "colorsCount": 2,
       "image": "https://images.lululemon.com/is/image/lululemon/LM5BP2S_035955_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "smfna59rhx",
+      "title": "Heavyweight Cotton Jersey Boxy T-Shirt *Wash",
+      "url": "https://shop.lululemon.com/p/heavyweight-cotton-jersey-boxy-t-shirt-wash/smfna59rhx",
+      "price": 68.0,
+      "colorsCount": 2,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3GNMS_068863_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod8780491",
+      "title": "lululemon Align™ High-Rise Crop 21\"",
+      "url": "https://shop.lululemon.com/p/women-crops/Align-Crop-21/_/prod8780491",
+      "price": 88.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW6BQUS_075743_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "prod20002747",
+      "title": "Lightweight Stretch UV-Protective Jacket",
+      "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Lightweight-Stretch-UV-Protective-Jacket/_/prod20002747",
+      "price": 148.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW4CLZS_0002_1?wid=600",
+      "gender": ""
+    },
+    {
+      "productId": "prod20001767",
+      "title": "Organic Cotton Classic-Fit T-Shirt *5 Pack",
+      "url": "https://shop.lululemon.com/p/mens-t-shirts/Organic-Cotton-Classic-Fit-T-Shirt-5-Pack/_/prod20001767",
+      "price": 198.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3FWCS_073066_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "hnz1f3njjk",
+      "title": "Men's Restfeel Woven Slide",
+      "url": "https://shop.lululemon.com/p/mens-restfeel-woven-slide/hnz1f3njjk",
+      "price": 78.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM9B81S_071409_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "xvc1em2taj",
+      "title": "Wundermost Ultra-Soft Nulu String Low-Rise Bikini Underwear",
+      "url": "https://shop.lululemon.com/p/wundermost-ultra-soft-nulu-string-low-bikini-under/xvc1em2taj",
+      "price": 18.0,
+      "colorsCount": 2,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW9GF0S_074863_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "vk7731lxsd",
+      "title": "Mile Maker Jogger *Regular",
+      "url": "https://shop.lululemon.com/p/mile-maker-jogger-regular/vk7731lxsd",
+      "price": 118.0,
+      "colorsCount": 5,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5BP9S_030210_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod11500065",
+      "title": "ABC Slim-Fit Trouser 37L *Warpstreme",
+      "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-37/_/prod11500065",
+      "price": 138.0,
+      "colorsCount": 9,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5AR0T_1179_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "dfao6xox1b",
+      "title": "EasyFive Loose-Straight Pant 30L",
+      "url": "https://shop.lululemon.com/p/easyfive-loose-straight-pant-30l/dfao6xox1b",
+      "price": 148.0,
+      "colorsCount": 8,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5BNRS_072761_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod20005935",
+      "title": "Sojourn Overshirt",
+      "url": "https://shop.lululemon.com/p/men-ls-tops/Sojourn-Overshirt/_/prod20005935",
+      "price": 148.0,
+      "colorsCount": 2,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3FYCS_0001_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod11900034",
+      "title": "Fast and Free Lined Running Short 5\"",
+      "url": "https://shop.lululemon.com/p/men-shorts/Fast-and-Free-Lined-Running-Short-5/_/prod11900034",
+      "price": 88.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM7C50S_075671_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod11720117",
+      "title": "Wunder Train High-Rise Short 6\" *Pride",
+      "url": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-6-Pride/_/prod11720117",
+      "price": 64.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW7DR3S_074996_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "hvti24msso",
+      "title": "Wunder Train Strappy Racer Bra, Light Support, C/D Cup *Pride",
+      "url": "https://shop.lululemon.com/p/wunder-train-strappy-racer-bra-light-supp-cd-pride/hvti24msso",
+      "price": 58.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW2ESMS_074996_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "prod20002043",
+      "title": "Scoop-Neck Cutout Tennis Tank Top *Medium Support, B/C Cup",
+      "url": "https://shop.lululemon.com/p/women-tanks/Scoop-Neck-Cutout-Tennis-Tank-Top-Medium-Supp-BC/_/prod20002043",
+      "price": 68.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW1FSCS_074071_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "prod11500069",
+      "title": "ABC Classic-Fit Trouser 37L *Warpstreme",
+      "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-37-Warpstreme/_/prod11500069",
+      "price": 138.0,
+      "colorsCount": 9,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5AR4T_048432_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod20006075",
+      "title": "Unrestricted Power Long-Sleeve Shirt",
+      "url": "https://shop.lululemon.com/p/men-ls-tops/Unrestricted-Power-Long-Sleeve-Shirt/_/prod20006075",
+      "price": 98.0,
+      "colorsCount": 2,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3FZ0S_072760_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "jf255dgfow",
+      "title": "Zero Tucks Ripstop Relaxed-Fit Pant *Regular",
+      "url": "https://shop.lululemon.com/p/zero-tucks-ripstop-relaxed-fit-pant-regular/jf255dgfow",
+      "price": 128.0,
+      "colorsCount": 6,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5BSIS_072762_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "dx92k803n5",
+      "title": "Men's Restfeel Woven Slide *Pride",
+      "url": "https://shop.lululemon.com/p/mens-restfeel-woven-slide-pride/dx92k803n5",
+      "price": 78.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM9BC1S_079450_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "zoklf0nvo0",
+      "title": "Heavyweight Cotton Jersey T-Shirt *Pride",
+      "url": "https://shop.lululemon.com/p/heavyweight-cotton-jersey-t-shirt-pride/zoklf0nvo0",
+      "price": 78.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3GEYS_074050_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "vthd8hq4kw",
+      "title": "Zero Tucks Short 5\"",
+      "url": "https://shop.lululemon.com/p/zero-tucks-short-5/vthd8hq4kw",
+      "price": 88.0,
+      "colorsCount": 7,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM7C11S_031382_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "skfk2rf3v3",
+      "title": "Grand Standard Long-Sleeve Crew",
+      "url": "https://shop.lululemon.com/p/grand-standard-long-sleeve-crew/skfk2rf3v3",
+      "price": 128.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3GJLS_0001_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "rib3fpdf6m",
+      "title": "Always In Motion Boxer Brief 7\" *5 Pack",
+      "url": "https://shop.lululemon.com/p/always-in-motion-boxer-brief-7-5-pack/rib3fpdf6m",
+      "price": 128.0,
+      "colorsCount": 4,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM9B99S_045958_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod20004247",
+      "title": "Soft Stretch Active Boxer Brief 7\"",
+      "url": "https://shop.lululemon.com/p/men-underwear/Soft-Stretch-Active-Boxer-Brief-7/_/prod20004247",
+      "price": 38.0,
+      "colorsCount": 5,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM9B90S_045739_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "voa8u69gp1",
+      "title": "Water-Repellent Golf Pullover",
+      "url": "https://shop.lululemon.com/p/water-repellent-golf-pullover-graphic/voa8u69gp1",
+      "price": 128.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3GORS_031382_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod20006479",
+      "title": "Repper Sleeveless Tank Top",
+      "url": "https://shop.lululemon.com/p/mens-tanks/Repper-Sleeveless-Tank-Top/_/prod20006479",
+      "price": 48.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM1404S_031382_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod11870174",
+      "title": "French Terry Pullover Hoodie",
+      "url": "https://shop.lululemon.com/p/mens-jackets-and-hoodies-hoodies/French-Terry-Pullover-Hoodie/_/prod11870174",
+      "price": 118.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3GLTS_0001_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "nug4h6m7xr",
+      "title": "Women's Mary Train Sneaker",
+      "url": "https://shop.lululemon.com/p/women-mary-train-workout-shoe/nug4h6m7xr",
+      "price": 148.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW9FZIS_4310_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "vyo3xfzqbo",
+      "title": "Ease The Day Jogger *Tall",
+      "url": "https://shop.lululemon.com/p/ease-the-day-jogger-tall/vyo3xfzqbo",
+      "price": 128.0,
+      "colorsCount": 2,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5ASPT_038068_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "qyzovxdbnc",
+      "title": "Side-Ruched Running Short-Sleeve Shirt",
+      "url": "https://shop.lululemon.com/p/side-ruched-running-short-sleeve-shirt/qyzovxdbnc",
+      "price": 68.0,
+      "colorsCount": 4,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3JWIS_074052_1?wid=600",
+      "gender": ""
+    },
+    {
+      "productId": "prod11870484",
+      "title": "Striped Mesh Tennis Short 5\"",
+      "url": "https://shop.lululemon.com/p/men-shorts/Striped-Mesh-Tennis-Short-5/_/prod11870484",
+      "price": 78.0,
+      "colorsCount": 2,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM7BXAS_0002_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "tu4aud7do7",
+      "title": "Grand Standard Short-Sleeve Crew",
+      "url": "https://shop.lululemon.com/p/grand-standard-short-sleeve-crew/tu4aud7do7",
+      "price": 88.0,
+      "colorsCount": 5,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3GJNS_072760_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod11700308",
+      "title": "Pace Breaker Pant *Shorter",
+      "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Pant-Shorter/_/prod11700308",
+      "price": 128.0,
+      "colorsCount": 4,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5AWPS_075675_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "fytlz2a83c",
+      "title": "Ultralu™ Panelled High-Rise Tight 25\"",
+      "url": "https://shop.lululemon.com/p/ultralu-panelled-high-rise-tight-25/fytlz2a83c",
+      "price": 118.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW5IHRS_076546_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "prod20006935",
+      "title": "Repper Short-Sleeve Shirt",
+      "url": "https://shop.lululemon.com/p/men-ss-tops/Repper-Short-Sleeve-Shirt/_/prod20006935",
+      "price": 58.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3FYYS_074060_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod11750464",
+      "title": "Zeroed In Slim-Fit Pant *Shorter",
+      "url": "https://shop.lululemon.com/p/men-joggers/Zeroed-In-Slim-Fit-Pant-Shorter/_/prod11750464",
+      "price": 118.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5BBPS_072762_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod10390084",
+      "title": "ABC Slim-Fit 5 Pocket Pant 28L *Warpstreme",
+      "url": "https://shop.lululemon.com/p/mens-trousers/Abc-Slim-5-Pocket-28-US/_/prod10390084",
+      "price": 138.0,
+      "colorsCount": 8,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5AQQS_1179_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "prod20001935",
+      "title": "License to Train Textured Jogger *Tall",
+      "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Textured-Jogger-Tall/_/prod20001935",
+      "price": 128.0,
+      "colorsCount": 7,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5BFIS_031382_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "hv5n8hlw8j",
+      "title": "Wunder Train Strappy Racer Bra, Light Support, A/B Cup *Pride",
+      "url": "https://shop.lululemon.com/p/wunder-train-strappy-racer-bra-light-ab-cup/hv5n8hlw8j",
+      "price": 58.0,
+      "colorsCount": 1,
+      "image": "https://images.lululemon.com/is/image/lululemon/LW2ESLS_074996_1?wid=600",
+      "gender": "women"
+    },
+    {
+      "productId": "em1q7qvc53",
+      "title": "ABC Slim-Fit Trouser 32L *Textured WovenAir",
+      "url": "https://shop.lululemon.com/p/abc-slim-fit-trouser-32l-textured-wovenair/em1q7qvc53",
+      "price": 138.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM5BLQS_035955_1?wid=600",
+      "gender": "men"
+    },
+    {
+      "productId": "spmr8tr6ia",
+      "title": "Men's Always Effortless Jacket",
+      "url": "https://shop.lululemon.com/p/mens-always-effortless-jacket/spmr8tr6ia",
+      "price": 168.0,
+      "colorsCount": 3,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM4AX1S_045739_1?wid=600",
       "gender": "men"
     }
   ]
