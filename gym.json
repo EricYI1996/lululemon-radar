@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-17T14:30:35.254728+00:00",
+  "fetchedAt": "2026-06-18T13:55:49.129740+00:00",
   "source": "https://www.gymshark.com/collections/new-releases",
   "count": 134,
   "products": [
@@ -16,7 +16,7 @@
         {
           "id": 39798026404042,
           "inStock": true,
-          "inventoryQuantity": 259,
+          "inventoryQuantity": 253,
           "price": 46,
           "size": "s",
           "sku": "A4C5L-BB2J-S"
@@ -24,7 +24,7 @@
         {
           "id": 39797827895498,
           "inStock": true,
-          "inventoryQuantity": 774,
+          "inventoryQuantity": 773,
           "price": 46,
           "size": "m",
           "sku": "A4C5L-BB2J-M"
@@ -32,7 +32,7 @@
         {
           "id": 39797832089802,
           "inStock": true,
-          "inventoryQuantity": 919,
+          "inventoryQuantity": 920,
           "price": 46,
           "size": "l",
           "sku": "A4C5L-BB2J-L"
@@ -40,7 +40,7 @@
         {
           "id": 39797830287562,
           "inStock": true,
-          "inventoryQuantity": 536,
+          "inventoryQuantity": 538,
           "price": 46,
           "size": "xl",
           "sku": "A4C5L-BB2J-XL"
@@ -48,7 +48,7 @@
         {
           "id": 39797852471498,
           "inStock": true,
-          "inventoryQuantity": 143,
+          "inventoryQuantity": 142,
           "price": 46,
           "size": "xxl",
           "sku": "A4C5L-BB2J-XXL"
@@ -56,7 +56,7 @@
         {
           "id": 39797878227146,
           "inStock": true,
-          "inventoryQuantity": 79,
+          "inventoryQuantity": 77,
           "price": 46,
           "size": "3xl",
           "sku": "A4C5L-BB2J-3XL"
@@ -227,7 +227,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8359,
+        "userScore": 8334,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -256,7 +256,7 @@
         {
           "id": 39797826814154,
           "inStock": true,
-          "inventoryQuantity": 205,
+          "inventoryQuantity": 204,
           "price": 84,
           "size": "m",
           "sku": "A4C5J-WCM1-M"
@@ -552,7 +552,7 @@
         {
           "id": 39797615231178,
           "inStock": true,
-          "inventoryQuantity": 58,
+          "inventoryQuantity": 55,
           "price": 46,
           "size": "s",
           "sku": "A4C5L-WCM1-S"
@@ -560,7 +560,7 @@
         {
           "id": 39797723758794,
           "inStock": true,
-          "inventoryQuantity": 274,
+          "inventoryQuantity": 272,
           "price": 46,
           "size": "m",
           "sku": "A4C5L-WCM1-M"
@@ -568,7 +568,7 @@
         {
           "id": 39797577023690,
           "inStock": true,
-          "inventoryQuantity": 302,
+          "inventoryQuantity": 300,
           "price": 46,
           "size": "l",
           "sku": "A4C5L-WCM1-L"
@@ -592,7 +592,7 @@
         {
           "id": 39797714583754,
           "inStock": true,
-          "inventoryQuantity": 23,
+          "inventoryQuantity": 22,
           "price": 46,
           "size": "3xl",
           "sku": "A4C5L-WCM1-3XL"
@@ -759,7 +759,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7648,
+        "userScore": 7623,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -796,7 +796,7 @@
         {
           "id": 39797982560458,
           "inStock": true,
-          "inventoryQuantity": 186,
+          "inventoryQuantity": 182,
           "price": 40,
           "size": "l",
           "sku": "A4C7E-EC7K-L"
@@ -804,7 +804,7 @@
         {
           "id": 39797864497354,
           "inStock": true,
-          "inventoryQuantity": 22,
+          "inventoryQuantity": 21,
           "price": 40,
           "size": "xl",
           "sku": "A4C7E-EC7K-XL"
@@ -1009,7 +1009,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7559,
+        "userScore": 7565,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -1022,7 +1022,7 @@
         {
           "id": 39797567946954,
           "inStock": true,
-          "inventoryQuantity": 21,
+          "inventoryQuantity": 20,
           "price": 46,
           "size": "xs",
           "sku": "A4C5K-EDFC-XS"
@@ -1054,7 +1054,7 @@
         {
           "id": 39797653897418,
           "inStock": true,
-          "inventoryQuantity": 116,
+          "inventoryQuantity": 114,
           "price": 46,
           "size": "xl",
           "sku": "A4C5K-EDFC-XL"
@@ -1252,7 +1252,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7546,
+        "userScore": 7547,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -1273,7 +1273,7 @@
         {
           "id": 39797869805770,
           "inStock": true,
-          "inventoryQuantity": 29,
+          "inventoryQuantity": 26,
           "price": 46,
           "size": "s",
           "sku": "A4C5K-WFP3-S"
@@ -1281,7 +1281,7 @@
         {
           "id": 39798020899018,
           "inStock": true,
-          "inventoryQuantity": 267,
+          "inventoryQuantity": 264,
           "price": 46,
           "size": "m",
           "sku": "A4C5K-WFP3-M"
@@ -1289,7 +1289,7 @@
         {
           "id": 39797921579210,
           "inStock": true,
-          "inventoryQuantity": 256,
+          "inventoryQuantity": 248,
           "price": 46,
           "size": "l",
           "sku": "A4C5K-WFP3-L"
@@ -1305,7 +1305,7 @@
         {
           "id": 39797886714058,
           "inStock": true,
-          "inventoryQuantity": 50,
+          "inventoryQuantity": 49,
           "price": 46,
           "size": "xxl",
           "sku": "A4C5K-WFP3-XXL"
@@ -1497,7 +1497,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7457,
+        "userScore": 7435,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -1509,8 +1509,8 @@
       "availableSizes": [
         {
           "id": 39797863776458,
-          "inStock": true,
-          "inventoryQuantity": 4,
+          "inStock": false,
+          "inventoryQuantity": 0,
           "price": 46,
           "size": "xs",
           "sku": "A4C5L-UCTN-XS"
@@ -1526,7 +1526,7 @@
         {
           "id": 39797992685770,
           "inStock": true,
-          "inventoryQuantity": 178,
+          "inventoryQuantity": 175,
           "price": 46,
           "size": "m",
           "sku": "A4C5L-UCTN-M"
@@ -1708,7 +1708,6 @@
       ],
       "price": 46,
       "sizeInStock": [
-        "xs",
         "m",
         "l",
         "xl",
@@ -1757,7 +1756,7 @@
         {
           "id": 39797959950538,
           "inStock": true,
-          "inventoryQuantity": 9,
+          "inventoryQuantity": 6,
           "price": 84,
           "size": "s",
           "sku": "A4C5J-BB2J-S"
@@ -2055,7 +2054,7 @@
         {
           "id": 39797988753610,
           "inStock": true,
-          "inventoryQuantity": 2,
+          "inventoryQuantity": 1,
           "price": 46,
           "size": "xs",
           "sku": "A4C5K-NDGF-XS"
@@ -2063,7 +2062,7 @@
         {
           "id": 39797975711946,
           "inStock": true,
-          "inventoryQuantity": 35,
+          "inventoryQuantity": 32,
           "price": 46,
           "size": "s",
           "sku": "A4C5K-NDGF-S"
@@ -2071,7 +2070,7 @@
         {
           "id": 39797950021834,
           "inStock": true,
-          "inventoryQuantity": 187,
+          "inventoryQuantity": 186,
           "price": 46,
           "size": "m",
           "sku": "A4C5K-NDGF-M"
@@ -2079,7 +2078,7 @@
         {
           "id": 39797973516490,
           "inStock": true,
-          "inventoryQuantity": 166,
+          "inventoryQuantity": 164,
           "price": 46,
           "size": "l",
           "sku": "A4C5K-NDGF-L"
@@ -2087,7 +2086,7 @@
         {
           "id": 39797970763978,
           "inStock": true,
-          "inventoryQuantity": 74,
+          "inventoryQuantity": 73,
           "price": 46,
           "size": "xl",
           "sku": "A4C5K-NDGF-XL"
@@ -2095,7 +2094,7 @@
         {
           "id": 39797922267338,
           "inStock": true,
-          "inventoryQuantity": 22,
+          "inventoryQuantity": 23,
           "price": 46,
           "size": "xxl",
           "sku": "A4C5K-NDGF-XXL"
@@ -2298,7 +2297,7 @@
         {
           "id": 39798003794122,
           "inStock": true,
-          "inventoryQuantity": 21,
+          "inventoryQuantity": 20,
           "price": 40,
           "size": "xs",
           "sku": "A4C7E-WCM1-XS"
@@ -2314,7 +2313,7 @@
         {
           "id": 39797858631882,
           "inStock": true,
-          "inventoryQuantity": 164,
+          "inventoryQuantity": 163,
           "price": 40,
           "size": "m",
           "sku": "A4C7E-WCM1-M"
@@ -2322,7 +2321,7 @@
         {
           "id": 39797974270154,
           "inStock": true,
-          "inventoryQuantity": 77,
+          "inventoryQuantity": 74,
           "price": 40,
           "size": "l",
           "sku": "A4C7E-WCM1-L"
@@ -2547,7 +2546,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7247,
+        "userScore": 7270,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -2568,7 +2567,7 @@
         {
           "id": 39797854863562,
           "inStock": true,
-          "inventoryQuantity": 151,
+          "inventoryQuantity": 150,
           "price": 40,
           "size": "s",
           "sku": "A4C7E-BB2J-S"
@@ -2576,7 +2575,7 @@
         {
           "id": 39797960835274,
           "inStock": true,
-          "inventoryQuantity": 190,
+          "inventoryQuantity": 176,
           "price": 40,
           "size": "m",
           "sku": "A4C7E-BB2J-M"
@@ -2584,7 +2583,7 @@
         {
           "id": 39797852930250,
           "inStock": true,
-          "inventoryQuantity": 18,
+          "inventoryQuantity": 13,
           "price": 40,
           "size": "l",
           "sku": "A4C7E-BB2J-L"
@@ -2809,7 +2808,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7214,
+        "userScore": 7192,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -2838,7 +2837,7 @@
         {
           "id": 39797703114954,
           "inStock": true,
-          "inventoryQuantity": 2419,
+          "inventoryQuantity": 2416,
           "price": 38,
           "size": "m",
           "sku": "B4C1M-PCKZ-M"
@@ -3057,7 +3056,7 @@
         {
           "id": 39797942845642,
           "inStock": true,
-          "inventoryQuantity": 946,
+          "inventoryQuantity": 944,
           "price": 38,
           "size": "s",
           "sku": "B4C1M-NBZG-S"
@@ -3285,7 +3284,7 @@
         {
           "id": 39797920694474,
           "inStock": true,
-          "inventoryQuantity": 1118,
+          "inventoryQuantity": 1114,
           "price": 38,
           "size": "s",
           "sku": "B4C1M-UD6Z-S"
@@ -3293,7 +3292,7 @@
         {
           "id": 39798030794954,
           "inStock": true,
-          "inventoryQuantity": 1225,
+          "inventoryQuantity": 1223,
           "price": 38,
           "size": "m",
           "sku": "B4C1M-UD6Z-M"
@@ -3301,7 +3300,7 @@
         {
           "id": 39797865185482,
           "inStock": true,
-          "inventoryQuantity": 467,
+          "inventoryQuantity": 466,
           "price": 38,
           "size": "l",
           "sku": "B4C1M-UD6Z-L"
@@ -3494,7 +3493,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8471,
+        "userScore": 8445,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -3515,7 +3514,7 @@
         {
           "id": 39799175774410,
           "inStock": true,
-          "inventoryQuantity": 739,
+          "inventoryQuantity": 736,
           "price": 44,
           "size": "s",
           "sku": "B5B2S-UD6Z-S"
@@ -3523,7 +3522,7 @@
         {
           "id": 39799176233162,
           "inStock": true,
-          "inventoryQuantity": 715,
+          "inventoryQuantity": 711,
           "price": 44,
           "size": "m",
           "sku": "B5B2S-UD6Z-M"
@@ -3736,7 +3735,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8305,
+        "userScore": 8278,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -3749,7 +3748,7 @@
         {
           "id": 39799654154442,
           "inStock": true,
-          "inventoryQuantity": 162,
+          "inventoryQuantity": 160,
           "price": 40,
           "size": "xs",
           "sku": "B4C2W-PCKZ-XS"
@@ -3757,7 +3756,7 @@
         {
           "id": 39799654383818,
           "inStock": true,
-          "inventoryQuantity": 508,
+          "inventoryQuantity": 505,
           "price": 40,
           "size": "s",
           "sku": "B4C2W-PCKZ-S"
@@ -3765,7 +3764,7 @@
         {
           "id": 39799626137802,
           "inStock": true,
-          "inventoryQuantity": 530,
+          "inventoryQuantity": 526,
           "price": 40,
           "size": "m",
           "sku": "B4C2W-PCKZ-M"
@@ -3966,7 +3965,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7976,
+        "userScore": 7977,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -3987,7 +3986,7 @@
         {
           "id": 39799637737674,
           "inStock": true,
-          "inventoryQuantity": 234,
+          "inventoryQuantity": 231,
           "price": 50,
           "size": "s",
           "sku": "B4B8J-PCKZ-S"
@@ -3995,7 +3994,7 @@
         {
           "id": 39799646355658,
           "inStock": true,
-          "inventoryQuantity": 268,
+          "inventoryQuantity": 266,
           "price": 50,
           "size": "m",
           "sku": "B4B8J-PCKZ-M"
@@ -4003,7 +4002,7 @@
         {
           "id": 39799700127946,
           "inStock": true,
-          "inventoryQuantity": 143,
+          "inventoryQuantity": 140,
           "price": 50,
           "size": "l",
           "sku": "B4B8J-PCKZ-L"
@@ -4011,7 +4010,7 @@
         {
           "id": 39799660937418,
           "inStock": true,
-          "inventoryQuantity": 51,
+          "inventoryQuantity": 50,
           "price": 50,
           "size": "xl",
           "sku": "B4B8J-PCKZ-XL"
@@ -4201,7 +4200,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7846,
+        "userScore": 7848,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -4222,7 +4221,7 @@
         {
           "id": 39799623057610,
           "inStock": true,
-          "inventoryQuantity": 164,
+          "inventoryQuantity": 163,
           "price": 40,
           "size": "s",
           "sku": "B4C2W-NBZG-S"
@@ -4230,7 +4229,7 @@
         {
           "id": 39799631511754,
           "inStock": true,
-          "inventoryQuantity": 164,
+          "inventoryQuantity": 163,
           "price": 40,
           "size": "m",
           "sku": "B4C2W-NBZG-M"
@@ -4433,7 +4432,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7682,
+        "userScore": 7684,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -4446,7 +4445,7 @@
         {
           "id": 39799008362698,
           "inStock": true,
-          "inventoryQuantity": 34,
+          "inventoryQuantity": 32,
           "price": 50,
           "size": "xs",
           "sku": "B4B8J-UD6Z-XS"
@@ -4454,7 +4453,7 @@
         {
           "id": 39798888890570,
           "inStock": true,
-          "inventoryQuantity": 89,
+          "inventoryQuantity": 85,
           "price": 50,
           "size": "s",
           "sku": "B4B8J-UD6Z-S"
@@ -4462,7 +4461,7 @@
         {
           "id": 39799036543178,
           "inStock": true,
-          "inventoryQuantity": 138,
+          "inventoryQuantity": 134,
           "price": 50,
           "size": "m",
           "sku": "B4B8J-UD6Z-M"
@@ -4697,7 +4696,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7681,
+        "userScore": 7683,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -4718,7 +4717,7 @@
         {
           "id": 39799602184394,
           "inStock": true,
-          "inventoryQuantity": 256,
+          "inventoryQuantity": 253,
           "price": 38,
           "size": "s",
           "sku": "B4C4P-PCKZ-S"
@@ -4726,7 +4725,7 @@
         {
           "id": 39799605002442,
           "inStock": true,
-          "inventoryQuantity": 255,
+          "inventoryQuantity": 254,
           "price": 38,
           "size": "m",
           "sku": "B4C4P-PCKZ-M"
@@ -4734,7 +4733,7 @@
         {
           "id": 39799599661258,
           "inStock": true,
-          "inventoryQuantity": 187,
+          "inventoryQuantity": 186,
           "price": 38,
           "size": "l",
           "sku": "B4C4P-PCKZ-L"
@@ -4925,7 +4924,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7656,
+        "userScore": 7657,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -4938,7 +4937,7 @@
         {
           "id": 39798838657226,
           "inStock": true,
-          "inventoryQuantity": 38,
+          "inventoryQuantity": 37,
           "price": 50,
           "size": "xs",
           "sku": "B4B8J-NBZG-XS"
@@ -4954,7 +4953,7 @@
         {
           "id": 39798832005322,
           "inStock": true,
-          "inventoryQuantity": 149,
+          "inventoryQuantity": 147,
           "price": 50,
           "size": "m",
           "sku": "B4B8J-NBZG-M"
@@ -5174,7 +5173,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7655,
+        "userScore": 7656,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -5203,7 +5202,7 @@
         {
           "id": 39799671750858,
           "inStock": true,
-          "inventoryQuantity": 168,
+          "inventoryQuantity": 167,
           "price": 38,
           "size": "m",
           "sku": "B4C4P-NBZG-M"
@@ -5402,7 +5401,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7547,
+        "userScore": 7549,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -5415,7 +5414,7 @@
         {
           "id": 39798959603914,
           "inStock": true,
-          "inventoryQuantity": 57,
+          "inventoryQuantity": 58,
           "price": 38,
           "size": "xs",
           "sku": "B4C4P-UD6Z-XS"
@@ -5423,7 +5422,7 @@
         {
           "id": 39798950166730,
           "inStock": true,
-          "inventoryQuantity": 123,
+          "inventoryQuantity": 121,
           "price": 38,
           "size": "s",
           "sku": "B4C4P-UD6Z-S"
@@ -5431,7 +5430,7 @@
         {
           "id": 39799050961098,
           "inStock": true,
-          "inventoryQuantity": 158,
+          "inventoryQuantity": 157,
           "price": 38,
           "size": "m",
           "sku": "B4C4P-UD6Z-M"
@@ -5447,7 +5446,7 @@
         {
           "id": 39799118135498,
           "inStock": true,
-          "inventoryQuantity": 59,
+          "inventoryQuantity": 58,
           "price": 38,
           "size": "xl",
           "sku": "B4C4P-UD6Z-XL"
@@ -5644,7 +5643,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7386,
+        "userScore": 7440,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -5657,7 +5656,7 @@
         {
           "id": 39799708942538,
           "inStock": true,
-          "inventoryQuantity": 24,
+          "inventoryQuantity": 21,
           "price": 40,
           "size": "xs",
           "sku": "B4C2W-UD6Z-XS"
@@ -5665,7 +5664,7 @@
         {
           "id": 39799719624906,
           "inStock": true,
-          "inventoryQuantity": 75,
+          "inventoryQuantity": 72,
           "price": 40,
           "size": "s",
           "sku": "B4C2W-UD6Z-S"
@@ -5673,7 +5672,7 @@
         {
           "id": 39799679516874,
           "inStock": true,
-          "inventoryQuantity": 128,
+          "inventoryQuantity": 124,
           "price": 40,
           "size": "m",
           "sku": "B4C2W-UD6Z-M"
@@ -5681,7 +5680,7 @@
         {
           "id": 39799701110986,
           "inStock": true,
-          "inventoryQuantity": 75,
+          "inventoryQuantity": 72,
           "price": 40,
           "size": "l",
           "sku": "B4C2W-UD6Z-L"
@@ -5689,7 +5688,7 @@
         {
           "id": 39799720247498,
           "inStock": true,
-          "inventoryQuantity": 27,
+          "inventoryQuantity": 28,
           "price": 40,
           "size": "xl",
           "sku": "B4C2W-UD6Z-XL"
@@ -5878,7 +5877,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7359,
+        "userScore": 7360,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -5891,7 +5890,7 @@
         {
           "id": 39797665726666,
           "inStock": true,
-          "inventoryQuantity": 5,
+          "inventoryQuantity": 2,
           "price": 36,
           "size": "xs",
           "sku": "A4C5D-WCMY-XS"
@@ -5899,7 +5898,7 @@
         {
           "id": 39797632073930,
           "inStock": true,
-          "inventoryQuantity": 40,
+          "inventoryQuantity": 37,
           "price": 36,
           "size": "s",
           "sku": "A4C5D-WCMY-S"
@@ -5907,7 +5906,7 @@
         {
           "id": 39797632893130,
           "inStock": true,
-          "inventoryQuantity": 371,
+          "inventoryQuantity": 361,
           "price": 36,
           "size": "m",
           "sku": "A4C5D-WCMY-M"
@@ -5915,7 +5914,7 @@
         {
           "id": 39797609267402,
           "inStock": true,
-          "inventoryQuantity": 401,
+          "inventoryQuantity": 390,
           "price": 36,
           "size": "l",
           "sku": "A4C5D-WCMY-L"
@@ -5923,7 +5922,7 @@
         {
           "id": 39797661434058,
           "inStock": true,
-          "inventoryQuantity": 114,
+          "inventoryQuantity": 113,
           "price": 36,
           "size": "xl",
           "sku": "A4C5D-WCMY-XL"
@@ -5931,7 +5930,7 @@
         {
           "id": 39797627781322,
           "inStock": true,
-          "inventoryQuantity": 26,
+          "inventoryQuantity": 25,
           "price": 36,
           "size": "xxl",
           "sku": "A4C5D-WCMY-XXL"
@@ -6125,7 +6124,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7520,
+        "userScore": 7519,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -6138,7 +6137,7 @@
         {
           "id": 39797715075274,
           "inStock": true,
-          "inventoryQuantity": 54,
+          "inventoryQuantity": 53,
           "price": 48,
           "size": "xs",
           "sku": "A5B2U-UCTM-XS"
@@ -6146,7 +6145,7 @@
         {
           "id": 39797646885066,
           "inStock": true,
-          "inventoryQuantity": 184,
+          "inventoryQuantity": 175,
           "price": 48,
           "size": "s",
           "sku": "A5B2U-UCTM-S"
@@ -6154,7 +6153,7 @@
         {
           "id": 39797643739338,
           "inStock": true,
-          "inventoryQuantity": 421,
+          "inventoryQuantity": 416,
           "price": 48,
           "size": "m",
           "sku": "A5B2U-UCTM-M"
@@ -6162,7 +6161,7 @@
         {
           "id": 39797545697482,
           "inStock": true,
-          "inventoryQuantity": 166,
+          "inventoryQuantity": 164,
           "price": 48,
           "size": "l",
           "sku": "A5B2U-UCTM-L"
@@ -6186,7 +6185,7 @@
         {
           "id": 39797602353354,
           "inStock": true,
-          "inventoryQuantity": 5,
+          "inventoryQuantity": 4,
           "price": 48,
           "size": "3xl",
           "sku": "A5B2U-UCTM-3XL"
@@ -6373,7 +6372,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7519,
+        "userScore": 7518,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -6402,7 +6401,7 @@
         {
           "id": 39797914435786,
           "inStock": true,
-          "inventoryQuantity": 225,
+          "inventoryQuantity": 224,
           "price": 30,
           "size": "m",
           "sku": "A5B3E-UCTM-M"
@@ -6410,7 +6409,7 @@
         {
           "id": 39797968666826,
           "inStock": true,
-          "inventoryQuantity": 105,
+          "inventoryQuantity": 102,
           "price": 30,
           "size": "l",
           "sku": "A5B3E-UCTM-L"
@@ -6418,7 +6417,7 @@
         {
           "id": 39797903392970,
           "inStock": true,
-          "inventoryQuantity": 35,
+          "inventoryQuantity": 34,
           "price": 30,
           "size": "xl",
           "sku": "A5B3E-UCTM-XL"
@@ -6434,7 +6433,7 @@
         {
           "id": 39797937176778,
           "inStock": true,
-          "inventoryQuantity": 18,
+          "inventoryQuantity": 17,
           "price": 30,
           "size": "3xl",
           "sku": "A5B3E-UCTM-3XL"
@@ -6618,7 +6617,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7413,
+        "userScore": 7415,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -6639,7 +6638,7 @@
         {
           "id": 39797910765770,
           "inStock": true,
-          "inventoryQuantity": 125,
+          "inventoryQuantity": 122,
           "price": 48,
           "size": "s",
           "sku": "A5B2U-NBZX-S"
@@ -6655,7 +6654,7 @@
         {
           "id": 39798042329290,
           "inStock": true,
-          "inventoryQuantity": 105,
+          "inventoryQuantity": 101,
           "price": 48,
           "size": "l",
           "sku": "A5B2U-NBZX-L"
@@ -6663,7 +6662,7 @@
         {
           "id": 39798043902154,
           "inStock": true,
-          "inventoryQuantity": 20,
+          "inventoryQuantity": 19,
           "price": 48,
           "size": "xl",
           "sku": "A5B2U-NBZX-XL"
@@ -6671,7 +6670,7 @@
         {
           "id": 39797986689226,
           "inStock": true,
-          "inventoryQuantity": 2,
+          "inventoryQuantity": 3,
           "price": 48,
           "size": "xxl",
           "sku": "A5B2U-NBZX-XXL"
@@ -6679,7 +6678,7 @@
         {
           "id": 39797998715082,
           "inStock": true,
-          "inventoryQuantity": 8,
+          "inventoryQuantity": 7,
           "price": 48,
           "size": "3xl",
           "sku": "A5B2U-NBZX-3XL"
@@ -6878,7 +6877,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7385,
+        "userScore": 7388,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -6891,7 +6890,7 @@
         {
           "id": 39797574074570,
           "inStock": true,
-          "inventoryQuantity": 38,
+          "inventoryQuantity": 17,
           "price": 30,
           "size": "xs",
           "sku": "A5B3E-UCTN-XS"
@@ -6899,7 +6898,7 @@
         {
           "id": 39797576204490,
           "inStock": true,
-          "inventoryQuantity": 141,
+          "inventoryQuantity": 130,
           "price": 30,
           "size": "s",
           "sku": "A5B3E-UCTN-S"
@@ -6907,7 +6906,7 @@
         {
           "id": 39797583511754,
           "inStock": true,
-          "inventoryQuantity": 262,
+          "inventoryQuantity": 257,
           "price": 30,
           "size": "m",
           "sku": "A5B3E-UCTN-M"
@@ -6915,7 +6914,7 @@
         {
           "id": 39797570666698,
           "inStock": true,
-          "inventoryQuantity": 150,
+          "inventoryQuantity": 143,
           "price": 30,
           "size": "l",
           "sku": "A5B3E-UCTN-L"
@@ -6923,7 +6922,7 @@
         {
           "id": 39797724086474,
           "inStock": true,
-          "inventoryQuantity": 33,
+          "inventoryQuantity": 28,
           "price": 30,
           "size": "xl",
           "sku": "A5B3E-UCTN-XL"
@@ -6939,7 +6938,7 @@
         {
           "id": 39797601042634,
           "inStock": true,
-          "inventoryQuantity": 11,
+          "inventoryQuantity": 10,
           "price": 30,
           "size": "3xl",
           "sku": "A5B3E-UCTN-3XL"
@@ -7136,7 +7135,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7384,
+        "userScore": 7387,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -7149,7 +7148,7 @@
         {
           "id": 39797613134026,
           "inStock": true,
-          "inventoryQuantity": 8,
+          "inventoryQuantity": 9,
           "price": 36,
           "size": "xs",
           "sku": "A4C5D-NBZX-XS"
@@ -7165,7 +7164,7 @@
         {
           "id": 39797512437962,
           "inStock": true,
-          "inventoryQuantity": 158,
+          "inventoryQuantity": 155,
           "price": 36,
           "size": "m",
           "sku": "A4C5D-NBZX-M"
@@ -7173,7 +7172,7 @@
         {
           "id": 39797520236746,
           "inStock": true,
-          "inventoryQuantity": 187,
+          "inventoryQuantity": 185,
           "price": 36,
           "size": "l",
           "sku": "A4C5D-NBZX-L"
@@ -7181,7 +7180,7 @@
         {
           "id": 39797519876298,
           "inStock": true,
-          "inventoryQuantity": 54,
+          "inventoryQuantity": 53,
           "price": 36,
           "size": "xl",
           "sku": "A4C5D-NBZX-XL"
@@ -7197,7 +7196,7 @@
         {
           "id": 39797669920970,
           "inStock": true,
-          "inventoryQuantity": 7,
+          "inventoryQuantity": 6,
           "price": 36,
           "size": "3xl",
           "sku": "A4C5D-NBZX-3XL"
@@ -7380,7 +7379,256 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7304,
+        "userScore": 7333,
+        "geoDistance": 0,
+        "geoPrecision": 1,
+        "nbExactWords": 0,
+        "words": 0,
+        "filters": 1030
+      }
+    },
+    {
+      "availableSizes": [
+        {
+          "id": 39797884027082,
+          "inStock": true,
+          "inventoryQuantity": 16,
+          "price": 30,
+          "size": "xs",
+          "sku": "A5B3E-WCMY-XS"
+        },
+        {
+          "id": 39797965062346,
+          "inStock": true,
+          "inventoryQuantity": 128,
+          "price": 30,
+          "size": "s",
+          "sku": "A5B3E-WCMY-S"
+        },
+        {
+          "id": 39797879931082,
+          "inStock": true,
+          "inventoryQuantity": 172,
+          "price": 30,
+          "size": "m",
+          "sku": "A5B3E-WCMY-M"
+        },
+        {
+          "id": 39798029025482,
+          "inStock": true,
+          "inventoryQuantity": 81,
+          "price": 30,
+          "size": "l",
+          "sku": "A5B3E-WCMY-L"
+        },
+        {
+          "id": 39797961687242,
+          "inStock": true,
+          "inventoryQuantity": 32,
+          "price": 30,
+          "size": "xl",
+          "sku": "A5B3E-WCMY-XL"
+        },
+        {
+          "id": 39798044098762,
+          "inStock": true,
+          "inventoryQuantity": 5,
+          "price": 30,
+          "size": "xxl",
+          "sku": "A5B3E-WCMY-XXL"
+        },
+        {
+          "id": 39798034727114,
+          "inStock": true,
+          "inventoryQuantity": 15,
+          "price": 30,
+          "size": "3xl",
+          "sku": "A5B3E-WCMY-3XL"
+        }
+      ],
+      "canonicalColour": "white",
+      "collections": [
+        "28/05/26",
+        "akeneo_updated_at:1781624446",
+        "all-products",
+        "back-to-school",
+        "bodybuilding",
+        "build-your-wishlist",
+        "collegiate",
+        "coming-soon",
+        "coming-soon:2026-05-28t19:00:00+01:00",
+        "conditioning",
+        "functional-fitness",
+        "graphic-collection",
+        "graphics",
+        "gslc-26",
+        "hiit",
+        "intl-28/05/26",
+        "lifting-club",
+        "lower-bucket",
+        "modernwisdom",
+        "most-loved",
+        "must-have",
+        "nam-28/05/26",
+        "neutral-gym-sets",
+        "new-releases",
+        "outlet",
+        "over-40-off",
+        "over-50-off",
+        "over-60-off",
+        "over-70-off",
+        "percentageinstockv2",
+        "sale-t-shirts-tops",
+        "seasonal-colors",
+        "seasonal-essentials",
+        "sleeveless",
+        "spanish-translated",
+        "ss26",
+        "summer-sale-26",
+        "t-shirts-tops",
+        "tanks",
+        "top-rated",
+        "vests",
+        "white-tops"
+      ],
+      "colour": "Soft White",
+      "compareAtPrice": null,
+      "discountPercentage": null,
+      "featuredMedia": {
+        "admin_graphql_api_id": "gid://shopify/ProductImage/28996151378122",
+        "alt": null,
+        "created_at": "2026-04-23T12:00:07-07:00",
+        "height": 2018,
+        "id": 28996151378122,
+        "position": 1,
+        "product_id": 6806701801674,
+        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0303.jpg?v=1776970808",
+        "updated_at": "2026-05-19T09:23:00-07:00",
+        "variant_ids": [],
+        "width": 1692
+      },
+      "fit": "regular",
+      "gender": [
+        "m"
+      ],
+      "handle": "gymshark-collegiate-tech-tank-sleeveless-tops-white-ss26",
+      "id": 6806701801674,
+      "inStock": true,
+      "labels": [
+        "new"
+      ],
+      "media": [
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151378122",
+          "alt": null,
+          "created_at": "2026-04-23T12:00:07-07:00",
+          "height": 2018,
+          "id": 28996151378122,
+          "position": 1,
+          "product_id": 6806701801674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0303.jpg?v=1776970808",
+          "updated_at": "2026-05-19T09:23:00-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151181514",
+          "alt": null,
+          "created_at": "2026-04-23T12:00:06-07:00",
+          "height": 2018,
+          "id": 28996151181514,
+          "position": 2,
+          "product_id": 6806701801674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0314.jpg?v=1776970808",
+          "updated_at": "2026-05-19T09:23:00-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003418566858",
+          "alt": null,
+          "created_at": "2026-05-19T09:15:32-07:00",
+          "height": 1350,
+          "id": 29003418566858,
+          "position": 3,
+          "product_id": 6806701801674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26406684.jpg?v=1779207353",
+          "updated_at": "2026-05-19T09:23:00-07:00",
+          "variant_ids": [],
+          "width": 1080
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151312586",
+          "alt": null,
+          "created_at": "2026-04-23T12:00:07-07:00",
+          "height": 2018,
+          "id": 28996151312586,
+          "position": 4,
+          "product_id": 6806701801674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0305.jpg?v=1776970808",
+          "updated_at": "2026-05-19T09:23:00-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151476426",
+          "alt": null,
+          "created_at": "2026-04-23T12:00:07-07:00",
+          "height": 2018,
+          "id": 28996151476426,
+          "position": 5,
+          "product_id": 6806701801674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0321.jpg?v=1776970808",
+          "updated_at": "2026-05-19T09:23:00-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151410890",
+          "alt": null,
+          "created_at": "2026-04-23T12:00:07-07:00",
+          "height": 2018,
+          "id": 28996151410890,
+          "position": 6,
+          "product_id": 6806701801674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0317.jpg?v=1776970808",
+          "updated_at": "2026-05-19T09:23:00-07:00",
+          "variant_ids": [],
+          "width": 1692
+        }
+      ],
+      "price": 30,
+      "sizeInStock": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl",
+        "3xl"
+      ],
+      "features": [
+        "lightweight"
+      ],
+      "activities": [
+        "conditioning"
+      ],
+      "tier": 2,
+      "sku": "A5B3E",
+      "title": "Collegiate Tech Tank",
+      "type": "Mens>Apparel>Sleeveless Tops>tanks",
+      "promotionalMessaging": null,
+      "garmentRise": null,
+      "garmentLength": "regular",
+      "rating": {
+        "range": 5
+      },
+      "objectID": "6806701801674",
+      "_rankingInfo": {
+        "nbTypos": 0,
+        "firstMatchedWord": 0,
+        "proximityDistance": 0,
+        "userScore": 7306,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -7409,7 +7657,7 @@
         {
           "id": 39797848473802,
           "inStock": true,
-          "inventoryQuantity": 171,
+          "inventoryQuantity": 156,
           "price": 36,
           "size": "m",
           "sku": "A4C5D-UCTN-M"
@@ -7417,7 +7665,7 @@
         {
           "id": 39797619491018,
           "inStock": true,
-          "inventoryQuantity": 278,
+          "inventoryQuantity": 273,
           "price": 36,
           "size": "l",
           "sku": "A4C5D-UCTN-L"
@@ -7425,7 +7673,7 @@
         {
           "id": 39797710029002,
           "inStock": true,
-          "inventoryQuantity": 78,
+          "inventoryQuantity": 75,
           "price": 36,
           "size": "xl",
           "sku": "A4C5D-UCTN-XL"
@@ -7433,7 +7681,7 @@
         {
           "id": 39797573779658,
           "inStock": true,
-          "inventoryQuantity": 4,
+          "inventoryQuantity": 3,
           "price": 36,
           "size": "xxl",
           "sku": "A4C5D-UCTN-XXL"
@@ -7622,256 +7870,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7296,
-        "geoDistance": 0,
-        "geoPrecision": 1,
-        "nbExactWords": 0,
-        "words": 0,
-        "filters": 1030
-      }
-    },
-    {
-      "availableSizes": [
-        {
-          "id": 39797884027082,
-          "inStock": true,
-          "inventoryQuantity": 33,
-          "price": 30,
-          "size": "xs",
-          "sku": "A5B3E-WCMY-XS"
-        },
-        {
-          "id": 39797965062346,
-          "inStock": true,
-          "inventoryQuantity": 133,
-          "price": 30,
-          "size": "s",
-          "sku": "A5B3E-WCMY-S"
-        },
-        {
-          "id": 39797879931082,
-          "inStock": true,
-          "inventoryQuantity": 177,
-          "price": 30,
-          "size": "m",
-          "sku": "A5B3E-WCMY-M"
-        },
-        {
-          "id": 39798029025482,
-          "inStock": true,
-          "inventoryQuantity": 84,
-          "price": 30,
-          "size": "l",
-          "sku": "A5B3E-WCMY-L"
-        },
-        {
-          "id": 39797961687242,
-          "inStock": true,
-          "inventoryQuantity": 33,
-          "price": 30,
-          "size": "xl",
-          "sku": "A5B3E-WCMY-XL"
-        },
-        {
-          "id": 39798044098762,
-          "inStock": true,
-          "inventoryQuantity": 5,
-          "price": 30,
-          "size": "xxl",
-          "sku": "A5B3E-WCMY-XXL"
-        },
-        {
-          "id": 39798034727114,
-          "inStock": true,
-          "inventoryQuantity": 16,
-          "price": 30,
-          "size": "3xl",
-          "sku": "A5B3E-WCMY-3XL"
-        }
-      ],
-      "canonicalColour": "white",
-      "collections": [
-        "28/05/26",
-        "akeneo_updated_at:1781624446",
-        "all-products",
-        "back-to-school",
-        "bodybuilding",
-        "build-your-wishlist",
-        "collegiate",
-        "coming-soon",
-        "coming-soon:2026-05-28t19:00:00+01:00",
-        "conditioning",
-        "functional-fitness",
-        "graphic-collection",
-        "graphics",
-        "gslc-26",
-        "hiit",
-        "intl-28/05/26",
-        "lifting-club",
-        "lower-bucket",
-        "modernwisdom",
-        "most-loved",
-        "must-have",
-        "nam-28/05/26",
-        "neutral-gym-sets",
-        "new-releases",
-        "outlet",
-        "over-40-off",
-        "over-50-off",
-        "over-60-off",
-        "over-70-off",
-        "percentageinstockv2",
-        "sale-t-shirts-tops",
-        "seasonal-colors",
-        "seasonal-essentials",
-        "sleeveless",
-        "spanish-translated",
-        "ss26",
-        "summer-sale-26",
-        "t-shirts-tops",
-        "tanks",
-        "top-rated",
-        "vests",
-        "white-tops"
-      ],
-      "colour": "Soft White",
-      "compareAtPrice": null,
-      "discountPercentage": null,
-      "featuredMedia": {
-        "admin_graphql_api_id": "gid://shopify/ProductImage/28996151378122",
-        "alt": null,
-        "created_at": "2026-04-23T12:00:07-07:00",
-        "height": 2018,
-        "id": 28996151378122,
-        "position": 1,
-        "product_id": 6806701801674,
-        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0303.jpg?v=1776970808",
-        "updated_at": "2026-05-19T09:23:00-07:00",
-        "variant_ids": [],
-        "width": 1692
-      },
-      "fit": "regular",
-      "gender": [
-        "m"
-      ],
-      "handle": "gymshark-collegiate-tech-tank-sleeveless-tops-white-ss26",
-      "id": 6806701801674,
-      "inStock": true,
-      "labels": [
-        "new"
-      ],
-      "media": [
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151378122",
-          "alt": null,
-          "created_at": "2026-04-23T12:00:07-07:00",
-          "height": 2018,
-          "id": 28996151378122,
-          "position": 1,
-          "product_id": 6806701801674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0303.jpg?v=1776970808",
-          "updated_at": "2026-05-19T09:23:00-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151181514",
-          "alt": null,
-          "created_at": "2026-04-23T12:00:06-07:00",
-          "height": 2018,
-          "id": 28996151181514,
-          "position": 2,
-          "product_id": 6806701801674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0314.jpg?v=1776970808",
-          "updated_at": "2026-05-19T09:23:00-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003418566858",
-          "alt": null,
-          "created_at": "2026-05-19T09:15:32-07:00",
-          "height": 1350,
-          "id": 29003418566858,
-          "position": 3,
-          "product_id": 6806701801674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26406684.jpg?v=1779207353",
-          "updated_at": "2026-05-19T09:23:00-07:00",
-          "variant_ids": [],
-          "width": 1080
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151312586",
-          "alt": null,
-          "created_at": "2026-04-23T12:00:07-07:00",
-          "height": 2018,
-          "id": 28996151312586,
-          "position": 4,
-          "product_id": 6806701801674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0305.jpg?v=1776970808",
-          "updated_at": "2026-05-19T09:23:00-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151476426",
-          "alt": null,
-          "created_at": "2026-04-23T12:00:07-07:00",
-          "height": 2018,
-          "id": 28996151476426,
-          "position": 5,
-          "product_id": 6806701801674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0321.jpg?v=1776970808",
-          "updated_at": "2026-05-19T09:23:00-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28996151410890",
-          "alt": null,
-          "created_at": "2026-04-23T12:00:07-07:00",
-          "height": 2018,
-          "id": 28996151410890,
-          "position": 6,
-          "product_id": 6806701801674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechTankGSSoftWhiteA5B3E_WCMY_0317.jpg?v=1776970808",
-          "updated_at": "2026-05-19T09:23:00-07:00",
-          "variant_ids": [],
-          "width": 1692
-        }
-      ],
-      "price": 30,
-      "sizeInStock": [
-        "xs",
-        "s",
-        "m",
-        "l",
-        "xl",
-        "xxl",
-        "3xl"
-      ],
-      "features": [
-        "lightweight"
-      ],
-      "activities": [
-        "conditioning"
-      ],
-      "tier": 2,
-      "sku": "A5B3E",
-      "title": "Collegiate Tech Tank",
-      "type": "Mens>Apparel>Sleeveless Tops>tanks",
-      "promotionalMessaging": null,
-      "garmentRise": null,
-      "garmentLength": "regular",
-      "rating": {
-        "range": 5
-      },
-      "objectID": "6806701801674",
-      "_rankingInfo": {
-        "nbTypos": 0,
-        "firstMatchedWord": 0,
-        "proximityDistance": 0,
-        "userScore": 7278,
+        "userScore": 7269,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -7900,7 +7899,7 @@
         {
           "id": 39797913354442,
           "inStock": true,
-          "inventoryQuantity": 1158,
+          "inventoryQuantity": 1155,
           "price": 38,
           "size": "s",
           "sku": "B5C8Z-BDT0-S"
@@ -7908,7 +7907,7 @@
         {
           "id": 39797901721802,
           "inStock": true,
-          "inventoryQuantity": 1117,
+          "inventoryQuantity": 1110,
           "price": 38,
           "size": "m",
           "sku": "B5C8Z-BDT0-M"
@@ -8141,7 +8140,7 @@
         {
           "id": 39797859123402,
           "inStock": true,
-          "inventoryQuantity": 845,
+          "inventoryQuantity": 843,
           "price": 44,
           "size": "s",
           "sku": "B6B3V-BDT0-S"
@@ -8149,7 +8148,7 @@
         {
           "id": 39797880029386,
           "inStock": true,
-          "inventoryQuantity": 819,
+          "inventoryQuantity": 817,
           "price": 44,
           "size": "m",
           "sku": "B6B3V-BDT0-M"
@@ -8157,7 +8156,7 @@
         {
           "id": 39797989703882,
           "inStock": true,
-          "inventoryQuantity": 314,
+          "inventoryQuantity": 312,
           "price": 44,
           "size": "l",
           "sku": "B6B3V-BDT0-L"
@@ -8165,7 +8164,7 @@
         {
           "id": 39798031614154,
           "inStock": true,
-          "inventoryQuantity": 85,
+          "inventoryQuantity": 83,
           "price": 44,
           "size": "xl",
           "sku": "B6B3V-BDT0-XL"
@@ -8344,7 +8343,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7888,
+        "userScore": 7890,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -8365,7 +8364,7 @@
         {
           "id": 39797714059466,
           "inStock": true,
-          "inventoryQuantity": 161,
+          "inventoryQuantity": 160,
           "price": 42,
           "size": "xs",
           "sku": "B6B8T-BDT0-XS"
@@ -8373,7 +8372,7 @@
         {
           "id": 39797647212746,
           "inStock": true,
-          "inventoryQuantity": 573,
+          "inventoryQuantity": 572,
           "price": 42,
           "size": "s",
           "sku": "B6B8T-BDT0-S"
@@ -8381,7 +8380,7 @@
         {
           "id": 39797683323082,
           "inStock": true,
-          "inventoryQuantity": 490,
+          "inventoryQuantity": 488,
           "price": 42,
           "size": "m",
           "sku": "B6B8T-BDT0-M"
@@ -8389,7 +8388,7 @@
         {
           "id": 39797519089866,
           "inStock": true,
-          "inventoryQuantity": 202,
+          "inventoryQuantity": 201,
           "price": 42,
           "size": "l",
           "sku": "B6B8T-BDT0-L"
@@ -8405,7 +8404,7 @@
         {
           "id": 39797633679562,
           "inStock": true,
-          "inventoryQuantity": 8,
+          "inventoryQuantity": 7,
           "price": 42,
           "size": "xxl",
           "sku": "B6B8T-BDT0-XXL"
@@ -8581,7 +8580,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7887,
+        "userScore": 7867,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -8610,7 +8609,7 @@
         {
           "id": 39797840052426,
           "inStock": true,
-          "inventoryQuantity": 535,
+          "inventoryQuantity": 534,
           "price": 38,
           "size": "s",
           "sku": "B5C8Z-KDM4-S"
@@ -8618,7 +8617,7 @@
         {
           "id": 39797941665994,
           "inStock": true,
-          "inventoryQuantity": 593,
+          "inventoryQuantity": 591,
           "price": 38,
           "size": "m",
           "sku": "B5C8Z-KDM4-M"
@@ -8821,7 +8820,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7754,
+        "userScore": 7756,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -8842,7 +8841,7 @@
         {
           "id": 39797563490506,
           "inStock": true,
-          "inventoryQuantity": 143,
+          "inventoryQuantity": 142,
           "price": 56,
           "size": "xs",
           "sku": "B6B1X-BDT0-XS"
@@ -8850,7 +8849,7 @@
         {
           "id": 39797653536970,
           "inStock": true,
-          "inventoryQuantity": 563,
+          "inventoryQuantity": 561,
           "price": 56,
           "size": "s",
           "sku": "B6B1X-BDT0-S"
@@ -8858,7 +8857,7 @@
         {
           "id": 39797654094026,
           "inStock": true,
-          "inventoryQuantity": 545,
+          "inventoryQuantity": 541,
           "price": 56,
           "size": "m",
           "sku": "B6B1X-BDT0-M"
@@ -8866,7 +8865,7 @@
         {
           "id": 39797552611530,
           "inStock": true,
-          "inventoryQuantity": 237,
+          "inventoryQuantity": 234,
           "price": 56,
           "size": "l",
           "sku": "B6B1X-BDT0-L"
@@ -8874,7 +8873,7 @@
         {
           "id": 39797708423370,
           "inStock": true,
-          "inventoryQuantity": 74,
+          "inventoryQuantity": 73,
           "price": 56,
           "size": "xl",
           "sku": "B6B1X-BDT0-XL"
@@ -9057,7 +9056,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7752,
+        "userScore": 7734,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -9086,7 +9085,7 @@
         {
           "id": 39797628666058,
           "inStock": true,
-          "inventoryQuantity": 339,
+          "inventoryQuantity": 338,
           "price": 44,
           "size": "s",
           "sku": "B6B3V-KDM4-S"
@@ -9094,7 +9093,7 @@
         {
           "id": 39797590261962,
           "inStock": true,
-          "inventoryQuantity": 295,
+          "inventoryQuantity": 291,
           "price": 44,
           "size": "m",
           "sku": "B6B3V-KDM4-M"
@@ -9102,7 +9101,7 @@
         {
           "id": 39797572829386,
           "inStock": true,
-          "inventoryQuantity": 104,
+          "inventoryQuantity": 103,
           "price": 44,
           "size": "l",
           "sku": "B6B3V-KDM4-L"
@@ -9286,7 +9285,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7456,
+        "userScore": 7458,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -9307,7 +9306,7 @@
         {
           "id": 39797649375434,
           "inStock": true,
-          "inventoryQuantity": 69,
+          "inventoryQuantity": 71,
           "price": 42,
           "size": "xs",
           "sku": "B6B8T-KDM4-XS"
@@ -9323,7 +9322,7 @@
         {
           "id": 39797652422858,
           "inStock": true,
-          "inventoryQuantity": 181,
+          "inventoryQuantity": 178,
           "price": 42,
           "size": "m",
           "sku": "B6B8T-KDM4-M"
@@ -9331,7 +9330,7 @@
         {
           "id": 39797562015946,
           "inStock": true,
-          "inventoryQuantity": 77,
+          "inventoryQuantity": 75,
           "price": 42,
           "size": "l",
           "sku": "B6B8T-KDM4-L"
@@ -9535,7 +9534,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7407,
+        "userScore": 7383,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -9564,7 +9563,7 @@
         {
           "id": 39797818982602,
           "inStock": true,
-          "inventoryQuantity": 217,
+          "inventoryQuantity": 215,
           "price": 38,
           "size": "s",
           "sku": "B5C8Z-RCKY-S"
@@ -9572,7 +9571,7 @@
         {
           "id": 39798049079498,
           "inStock": true,
-          "inventoryQuantity": 233,
+          "inventoryQuantity": 228,
           "price": 38,
           "size": "m",
           "sku": "B5C8Z-RCKY-M"
@@ -9580,7 +9579,7 @@
         {
           "id": 39798044164298,
           "inStock": true,
-          "inventoryQuantity": 98,
+          "inventoryQuantity": 97,
           "price": 38,
           "size": "l",
           "sku": "B5C8Z-RCKY-L"
@@ -9776,7 +9775,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7352,
+        "userScore": 7353,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -9805,7 +9804,7 @@
         {
           "id": 39797950873802,
           "inStock": true,
-          "inventoryQuantity": 190,
+          "inventoryQuantity": 188,
           "price": 56,
           "size": "s",
           "sku": "B6B1X-KDM4-S"
@@ -9813,7 +9812,7 @@
         {
           "id": 39798033678538,
           "inStock": true,
-          "inventoryQuantity": 187,
+          "inventoryQuantity": 182,
           "price": 56,
           "size": "m",
           "sku": "B6B1X-KDM4-M"
@@ -9821,7 +9820,7 @@
         {
           "id": 39797994684618,
           "inStock": true,
-          "inventoryQuantity": 86,
+          "inventoryQuantity": 85,
           "price": 56,
           "size": "l",
           "sku": "B6B1X-KDM4-L"
@@ -10042,7 +10041,7 @@
         {
           "id": 39797831434442,
           "inStock": true,
-          "inventoryQuantity": 218,
+          "inventoryQuantity": 217,
           "price": 42,
           "size": "s",
           "sku": "B6B8T-RCKY-S"
@@ -10050,7 +10049,7 @@
         {
           "id": 39797858468042,
           "inStock": true,
-          "inventoryQuantity": 164,
+          "inventoryQuantity": 159,
           "price": 42,
           "size": "m",
           "sku": "B6B8T-RCKY-M"
@@ -10058,7 +10057,7 @@
         {
           "id": 39797714485450,
           "inStock": true,
-          "inventoryQuantity": 80,
+          "inventoryQuantity": 79,
           "price": 42,
           "size": "l",
           "sku": "B6B8T-RCKY-L"
@@ -10261,7 +10260,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7299,
+        "userScore": 7301,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -10290,7 +10289,7 @@
         {
           "id": 39797560115402,
           "inStock": true,
-          "inventoryQuantity": 173,
+          "inventoryQuantity": 171,
           "price": 56,
           "size": "s",
           "sku": "B6B1X-RCKY-S"
@@ -10298,7 +10297,7 @@
         {
           "id": 39797723365578,
           "inStock": true,
-          "inventoryQuantity": 154,
+          "inventoryQuantity": 149,
           "price": 56,
           "size": "m",
           "sku": "B6B1X-RCKY-M"
@@ -10306,7 +10305,7 @@
         {
           "id": 39797529182410,
           "inStock": true,
-          "inventoryQuantity": 91,
+          "inventoryQuantity": 87,
           "price": 56,
           "size": "l",
           "sku": "B6B1X-RCKY-L"
@@ -10498,7 +10497,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7272,
+        "userScore": 7274,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -10519,7 +10518,7 @@
         {
           "id": 39797561426122,
           "inStock": true,
-          "inventoryQuantity": 43,
+          "inventoryQuantity": 44,
           "price": 44,
           "size": "xs",
           "sku": "B6B3V-RCKY-XS"
@@ -10527,7 +10526,7 @@
         {
           "id": 39797599273162,
           "inStock": true,
-          "inventoryQuantity": 119,
+          "inventoryQuantity": 115,
           "price": 44,
           "size": "s",
           "sku": "B6B3V-RCKY-S"
@@ -10535,7 +10534,7 @@
         {
           "id": 39797635809482,
           "inStock": true,
-          "inventoryQuantity": 98,
+          "inventoryQuantity": 90,
           "price": 44,
           "size": "m",
           "sku": "B6B3V-RCKY-M"
@@ -10543,7 +10542,7 @@
         {
           "id": 39797601173706,
           "inStock": true,
-          "inventoryQuantity": 53,
+          "inventoryQuantity": 50,
           "price": 44,
           "size": "l",
           "sku": "B6B3V-RCKY-L"
@@ -10728,7 +10727,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7172,
+        "userScore": 7173,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -10741,7 +10740,7 @@
         {
           "id": 39797930787018,
           "inStock": true,
-          "inventoryQuantity": 85,
+          "inventoryQuantity": 84,
           "price": 30,
           "size": "xs",
           "sku": "A4C8U-WCMY-XS"
@@ -10749,7 +10748,7 @@
         {
           "id": 39798013821130,
           "inStock": true,
-          "inventoryQuantity": 319,
+          "inventoryQuantity": 318,
           "price": 30,
           "size": "s",
           "sku": "A4C8U-WCMY-S"
@@ -10757,7 +10756,7 @@
         {
           "id": 39798001500362,
           "inStock": true,
-          "inventoryQuantity": 400,
+          "inventoryQuantity": 396,
           "price": 30,
           "size": "m",
           "sku": "A4C8U-WCMY-M"
@@ -10773,7 +10772,7 @@
         {
           "id": 39798018900170,
           "inStock": true,
-          "inventoryQuantity": 93,
+          "inventoryQuantity": 89,
           "price": 30,
           "size": "xl",
           "sku": "A4C8U-WCMY-XL"
@@ -10781,7 +10780,7 @@
         {
           "id": 39797999927498,
           "inStock": true,
-          "inventoryQuantity": 18,
+          "inventoryQuantity": 17,
           "price": 30,
           "size": "xxl",
           "sku": "A4C8U-WCMY-XXL"
@@ -10988,7 +10987,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7623,
+        "userScore": 7626,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -11017,7 +11016,7 @@
         {
           "id": 39797681684682,
           "inStock": true,
-          "inventoryQuantity": 414,
+          "inventoryQuantity": 412,
           "price": 30,
           "size": "m",
           "sku": "A4C8U-BB2J-M"
@@ -11025,7 +11024,7 @@
         {
           "id": 39797620605130,
           "inStock": true,
-          "inventoryQuantity": 118,
+          "inventoryQuantity": 110,
           "price": 30,
           "size": "l",
           "sku": "A4C8U-BB2J-L"
@@ -11033,7 +11032,7 @@
         {
           "id": 39797624733898,
           "inStock": true,
-          "inventoryQuantity": 47,
+          "inventoryQuantity": 45,
           "price": 30,
           "size": "xl",
           "sku": "A4C8U-BB2J-XL"
@@ -11234,7 +11233,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7535,
+        "userScore": 7534,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -11263,7 +11262,7 @@
         {
           "id": 39797566374090,
           "inStock": true,
-          "inventoryQuantity": 207,
+          "inventoryQuantity": 202,
           "price": 40,
           "size": "m",
           "sku": "A4C8C-BB2J-M"
@@ -11271,7 +11270,7 @@
         {
           "id": 39797833203914,
           "inStock": true,
-          "inventoryQuantity": 257,
+          "inventoryQuantity": 255,
           "price": 40,
           "size": "l",
           "sku": "A4C8C-BB2J-L"
@@ -11279,7 +11278,7 @@
         {
           "id": 39797562638538,
           "inStock": true,
-          "inventoryQuantity": 134,
+          "inventoryQuantity": 132,
           "price": 40,
           "size": "xl",
           "sku": "A4C8C-BB2J-XL"
@@ -11287,7 +11286,7 @@
         {
           "id": 39797590130890,
           "inStock": true,
-          "inventoryQuantity": 20,
+          "inventoryQuantity": 19,
           "price": 40,
           "size": "xxl",
           "sku": "A4C8C-BB2J-XXL"
@@ -11481,7 +11480,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7522,
+        "userScore": 7521,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -11510,7 +11509,7 @@
         {
           "id": 39797986066634,
           "inStock": true,
-          "inventoryQuantity": 83,
+          "inventoryQuantity": 82,
           "price": 40,
           "size": "m",
           "sku": "A4C8C-UD6Z-M"
@@ -11534,7 +11533,7 @@
         {
           "id": 39797877539018,
           "inStock": true,
-          "inventoryQuantity": 6,
+          "inventoryQuantity": 4,
           "price": 40,
           "size": "xxl",
           "sku": "A4C8C-UD6Z-XXL"
@@ -11725,7 +11724,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7254,
+        "userScore": 7253,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -11738,7 +11737,7 @@
         {
           "id": 39797607661770,
           "inStock": true,
-          "inventoryQuantity": 6,
+          "inventoryQuantity": 5,
           "price": 40,
           "size": "xs",
           "sku": "A4C8C-GBCN-XS"
@@ -11754,7 +11753,7 @@
         {
           "id": 39797584068810,
           "inStock": true,
-          "inventoryQuantity": 107,
+          "inventoryQuantity": 108,
           "price": 40,
           "size": "m",
           "sku": "A4C8C-GBCN-M"
@@ -11970,7 +11969,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7226,
+        "userScore": 7227,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -11999,7 +11998,7 @@
         {
           "id": 39797568438474,
           "inStock": true,
-          "inventoryQuantity": 190,
+          "inventoryQuantity": 188,
           "price": 40,
           "size": "m",
           "sku": "A4C8D-BB2J-M"
@@ -12007,7 +12006,7 @@
         {
           "id": 39797850341578,
           "inStock": true,
-          "inventoryQuantity": 244,
+          "inventoryQuantity": 247,
           "price": 40,
           "size": "l",
           "sku": "A4C8D-BB2J-L"
@@ -12015,7 +12014,7 @@
         {
           "id": 39797708488906,
           "inStock": true,
-          "inventoryQuantity": 146,
+          "inventoryQuantity": 145,
           "price": 40,
           "size": "xl",
           "sku": "A4C8D-BB2J-XL"
@@ -12023,7 +12022,7 @@
         {
           "id": 39797707735242,
           "inStock": true,
-          "inventoryQuantity": 38,
+          "inventoryQuantity": 37,
           "price": 40,
           "size": "xxl",
           "sku": "A4C8D-BB2J-XXL"
@@ -12211,7 +12210,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7679,
+        "userScore": 7681,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -12240,7 +12239,7 @@
         {
           "id": 39797620867274,
           "inStock": true,
-          "inventoryQuantity": 128,
+          "inventoryQuantity": 127,
           "price": 40,
           "size": "m",
           "sku": "A4C8D-GBCN-M"
@@ -12450,7 +12449,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7518,
+        "userScore": 7517,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -12479,7 +12478,7 @@
         {
           "id": 39799668768970,
           "inStock": true,
-          "inventoryQuantity": 479,
+          "inventoryQuantity": 478,
           "price": 70,
           "size": "s",
           "sku": "B6B9G-RCGK-S"
@@ -12905,7 +12904,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8186,
+        "userScore": 8185,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -12934,7 +12933,7 @@
         {
           "id": 39799780311242,
           "inStock": true,
-          "inventoryQuantity": 194,
+          "inventoryQuantity": 193,
           "price": 70,
           "size": "s",
           "sku": "B6B9H-RCGK-S"
@@ -12942,7 +12941,7 @@
         {
           "id": 39799779164362,
           "inStock": true,
-          "inventoryQuantity": 229,
+          "inventoryQuantity": 228,
           "price": 70,
           "size": "m",
           "sku": "B6B9H-RCGK-M"
@@ -13134,7 +13133,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7697,
+        "userScore": 7698,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -13171,7 +13170,7 @@
         {
           "id": 39799782047946,
           "inStock": true,
-          "inventoryQuantity": 189,
+          "inventoryQuantity": 188,
           "price": 70,
           "size": "m",
           "sku": "B6B9H-GD1C-M"
@@ -13179,7 +13178,7 @@
         {
           "id": 39799781032138,
           "inStock": true,
-          "inventoryQuantity": 91,
+          "inventoryQuantity": 90,
           "price": 70,
           "size": "l",
           "sku": "B6B9H-GD1C-L"
@@ -13361,7 +13360,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7696,
+        "userScore": 7697,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -13431,7 +13430,7 @@
       "canonicalColour": "purple",
       "collections": [
         "28/05/26",
-        "akeneo_updated_at:1781182531",
+        "akeneo_updated_at:1781720061",
         "all-products",
         "build-your-wishlist",
         "energise",
@@ -13574,7 +13573,7 @@
       "sku": "B3B2Q",
       "title": "Energise Seamless Sports Bra",
       "type": "Womens>Apparel>Sports Bras>v_neck",
-      "promotionalMessaging": "made to move",
+      "promotionalMessaging": null,
       "garmentRise": null,
       "garmentLength": "regular",
       "lowestPrice": 56,
@@ -13588,7 +13587,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8676,
+        "userScore": 8675,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -13617,7 +13616,7 @@
         {
           "id": 39797633515722,
           "inStock": true,
-          "inventoryQuantity": 947,
+          "inventoryQuantity": 946,
           "price": 56,
           "size": "s",
           "sku": "B3B2Q-RB6Z-S"
@@ -13633,7 +13632,7 @@
         {
           "id": 39797585281226,
           "inStock": true,
-          "inventoryQuantity": 389,
+          "inventoryQuantity": 388,
           "price": 56,
           "size": "l",
           "sku": "B3B2Q-RB6Z-L"
@@ -13658,7 +13657,7 @@
       "canonicalColour": "red",
       "collections": [
         "28/05/26",
-        "akeneo_updated_at:1781182531",
+        "akeneo_updated_at:1781720061",
         "all-products",
         "build-your-wishlist",
         "energise",
@@ -13804,7 +13803,7 @@
       "sku": "B3B2Q",
       "title": "Energise Seamless Sports Bra",
       "type": "Womens>Apparel>Sports Bras>v_neck",
-      "promotionalMessaging": "made to move",
+      "promotionalMessaging": null,
       "garmentRise": null,
       "garmentLength": "regular",
       "lowestPrice": 56,
@@ -13818,7 +13817,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8486,
+        "userScore": 8487,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -13839,7 +13838,7 @@
         {
           "id": 39797722808522,
           "inStock": true,
-          "inventoryQuantity": 246,
+          "inventoryQuantity": 245,
           "price": 56,
           "size": "xs",
           "sku": "B3B2Q-PCK0-XS"
@@ -13888,7 +13887,7 @@
       "canonicalColour": "purple",
       "collections": [
         "28/05/26",
-        "akeneo_updated_at:1781182531",
+        "akeneo_updated_at:1781720061",
         "all-products",
         "build-your-wishlist",
         "energise",
@@ -14043,7 +14042,7 @@
       "sku": "B3B2Q",
       "title": "Energise Seamless Sports Bra",
       "type": "Womens>Apparel>Sports Bras>v_neck",
-      "promotionalMessaging": "made to move",
+      "promotionalMessaging": null,
       "garmentRise": null,
       "garmentLength": "regular",
       "lowestPrice": 56,
@@ -14057,7 +14056,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8460,
+        "userScore": 8462,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -14127,7 +14126,7 @@
       "canonicalColour": "red",
       "collections": [
         "28/05/26",
-        "akeneo_updated_at:1781182502",
+        "akeneo_updated_at:1781720059",
         "all-products",
         "bodybuilding",
         "build-your-wishlist",
@@ -14295,7 +14294,7 @@
       "sku": "B2C7N",
       "title": "Energise Seamless Leggings",
       "type": "Womens>Apparel>Leggings>full_length",
-      "promotionalMessaging": "made to move",
+      "promotionalMessaging": null,
       "garmentRise": "high",
       "garmentLength": "regular",
       "rating": {
@@ -14308,7 +14307,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8428,
+        "userScore": 8432,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -14337,7 +14336,7 @@
         {
           "id": 39798024470730,
           "inStock": true,
-          "inventoryQuantity": 785,
+          "inventoryQuantity": 784,
           "price": 56,
           "size": "s",
           "sku": "B3B6G-PCKZ-S"
@@ -14345,7 +14344,7 @@
         {
           "id": 39797924856010,
           "inStock": true,
-          "inventoryQuantity": 822,
+          "inventoryQuantity": 820,
           "price": 56,
           "size": "m",
           "sku": "B3B6G-PCKZ-M"
@@ -14552,7 +14551,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8403,
+        "userScore": 8404,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -14565,7 +14564,7 @@
         {
           "id": 39797828911306,
           "inStock": true,
-          "inventoryQuantity": 18,
+          "inventoryQuantity": 16,
           "price": 40,
           "size": "xs",
           "sku": "A4C9C-WFPT-XS"
@@ -14581,7 +14580,7 @@
         {
           "id": 39798027223242,
           "inStock": true,
-          "inventoryQuantity": 110,
+          "inventoryQuantity": 108,
           "price": 40,
           "size": "m",
           "sku": "A4C9C-WFPT-M"
@@ -14589,7 +14588,7 @@
         {
           "id": 39798026043594,
           "inStock": true,
-          "inventoryQuantity": 101,
+          "inventoryQuantity": 100,
           "price": 40,
           "size": "l",
           "sku": "A4C9C-WFPT-L"
@@ -14597,7 +14596,7 @@
         {
           "id": 39797923643594,
           "inStock": true,
-          "inventoryQuantity": 21,
+          "inventoryQuantity": 19,
           "price": 40,
           "size": "xl",
           "sku": "A4C9C-WFPT-XL"
@@ -14798,7 +14797,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7215,
+        "userScore": 7217,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -15251,7 +15250,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7815,
+        "userScore": 7816,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -15280,7 +15279,7 @@
         {
           "id": 39797997600970,
           "inStock": true,
-          "inventoryQuantity": 303,
+          "inventoryQuantity": 299,
           "price": 24,
           "size": "s",
           "sku": "B6B5U-RB6Y-S"
@@ -15288,7 +15287,7 @@
         {
           "id": 39797831958730,
           "inStock": true,
-          "inventoryQuantity": 327,
+          "inventoryQuantity": 325,
           "price": 24,
           "size": "m",
           "sku": "B6B5U-RB6Y-M"
@@ -15304,7 +15303,7 @@
         {
           "id": 39798047015114,
           "inStock": true,
-          "inventoryQuantity": 83,
+          "inventoryQuantity": 84,
           "price": 24,
           "size": "xl",
           "sku": "B6B5U-RB6Y-XL"
@@ -15312,7 +15311,7 @@
         {
           "id": 39797845491914,
           "inStock": true,
-          "inventoryQuantity": 37,
+          "inventoryQuantity": 36,
           "price": 24,
           "size": "xxl",
           "sku": "B6B5U-RB6Y-XXL"
@@ -15321,7 +15320,7 @@
       "canonicalColour": "red",
       "collections": [
         "28/05/26",
-        "akeneo_updated_at:1781182720",
+        "akeneo_updated_at:1781720941",
         "all-products",
         "build-your-wishlist",
         "cotton",
@@ -15465,7 +15464,7 @@
       "sku": "B6B5U",
       "title": "Strength and Fitness Crest Graphic T-Shirt",
       "type": "Womens>Apparel>SS Tops>crew_neck",
-      "promotionalMessaging": "100% cotton",
+      "promotionalMessaging": null,
       "garmentRise": null,
       "garmentLength": "regular",
       "lowestPrice": 24,
@@ -15506,7 +15505,7 @@
         {
           "id": 39797967421642,
           "inStock": true,
-          "inventoryQuantity": 229,
+          "inventoryQuantity": 227,
           "price": 24,
           "size": "s",
           "sku": "B6B5U-WB57-S"
@@ -15514,7 +15513,7 @@
         {
           "id": 39797927739594,
           "inStock": true,
-          "inventoryQuantity": 277,
+          "inventoryQuantity": 276,
           "price": 24,
           "size": "m",
           "sku": "B6B5U-WB57-M"
@@ -15547,7 +15546,7 @@
       "canonicalColour": "white",
       "collections": [
         "28/05/26",
-        "akeneo_updated_at:1781182720",
+        "akeneo_updated_at:1781720941",
         "all-products",
         "build-your-wishlist",
         "cotton",
@@ -15690,7 +15689,7 @@
       "sku": "B6B5U",
       "title": "Strength and Fitness Crest Graphic T-Shirt",
       "type": "Womens>Apparel>SS Tops>crew_neck",
-      "promotionalMessaging": "100% cotton",
+      "promotionalMessaging": null,
       "garmentRise": null,
       "garmentLength": "regular",
       "lowestPrice": 24,
@@ -15723,7 +15722,7 @@
         {
           "id": 39799719264458,
           "inStock": true,
-          "inventoryQuantity": 2572,
+          "inventoryQuantity": 2567,
           "price": 34,
           "size": "xs",
           "sku": "B6B3R-PCKZ-XS"
@@ -15731,7 +15730,7 @@
         {
           "id": 39799719166154,
           "inStock": true,
-          "inventoryQuantity": 8623,
+          "inventoryQuantity": 8620,
           "price": 34,
           "size": "s",
           "sku": "B6B3R-PCKZ-S"
@@ -15739,7 +15738,7 @@
         {
           "id": 39799711465674,
           "inStock": true,
-          "inventoryQuantity": 9224,
+          "inventoryQuantity": 9207,
           "price": 34,
           "size": "m",
           "sku": "B6B3R-PCKZ-M"
@@ -15747,7 +15746,7 @@
         {
           "id": 39799694983370,
           "inStock": true,
-          "inventoryQuantity": 3523,
+          "inventoryQuantity": 3516,
           "price": 34,
           "size": "l",
           "sku": "B6B3R-PCKZ-L"
@@ -15935,7 +15934,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8871,
+        "userScore": 8872,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -15956,7 +15955,7 @@
         {
           "id": 39799783096522,
           "inStock": true,
-          "inventoryQuantity": 969,
+          "inventoryQuantity": 965,
           "price": 34,
           "size": "xs",
           "sku": "B6B3R-KDFX-XS"
@@ -15964,7 +15963,7 @@
         {
           "id": 39799781621962,
           "inStock": true,
-          "inventoryQuantity": 3440,
+          "inventoryQuantity": 3438,
           "price": 34,
           "size": "s",
           "sku": "B6B3R-KDFX-S"
@@ -15972,7 +15971,7 @@
         {
           "id": 39799781392586,
           "inStock": true,
-          "inventoryQuantity": 3434,
+          "inventoryQuantity": 3405,
           "price": 34,
           "size": "m",
           "sku": "B6B3R-KDFX-M"
@@ -15980,7 +15979,7 @@
         {
           "id": 39799782473930,
           "inStock": true,
-          "inventoryQuantity": 1341,
+          "inventoryQuantity": 1337,
           "price": 34,
           "size": "l",
           "sku": "B6B3R-KDFX-L"
@@ -16170,7 +16169,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8842,
+        "userScore": 8815,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -16459,7 +16458,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8498,
+        "userScore": 8472,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -16514,7 +16513,7 @@
         {
           "id": 39796973600970,
           "inStock": true,
-          "inventoryQuantity": 16,
+          "inventoryQuantity": 18,
           "price": 62,
           "size": "xs",
           "sku": "A4C9M-UCTN-XS"
@@ -16522,7 +16521,7 @@
         {
           "id": 39796942962890,
           "inStock": true,
-          "inventoryQuantity": 61,
+          "inventoryQuantity": 62,
           "price": 62,
           "size": "s",
           "sku": "A4C9M-UCTN-S"
@@ -16538,7 +16537,7 @@
         {
           "id": 39796960428234,
           "inStock": true,
-          "inventoryQuantity": 266,
+          "inventoryQuantity": 272,
           "price": 62,
           "size": "l",
           "sku": "A4C9M-UCTN-L"
@@ -16546,7 +16545,7 @@
         {
           "id": 39796966228170,
           "inStock": true,
-          "inventoryQuantity": 189,
+          "inventoryQuantity": 188,
           "price": 62,
           "size": "xl",
           "sku": "A4C9M-UCTN-XL"
@@ -16745,7 +16744,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8356,
+        "userScore": 8358,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -16766,7 +16765,7 @@
         {
           "id": 39797699182794,
           "inStock": true,
-          "inventoryQuantity": 412,
+          "inventoryQuantity": 409,
           "price": 40,
           "size": "xs",
           "sku": "B5C9T-BC9J-XS"
@@ -16774,7 +16773,7 @@
         {
           "id": 39797690204362,
           "inStock": true,
-          "inventoryQuantity": 1693,
+          "inventoryQuantity": 1688,
           "price": 40,
           "size": "s",
           "sku": "B5C9T-BC9J-S"
@@ -16782,7 +16781,7 @@
         {
           "id": 39797620736202,
           "inStock": true,
-          "inventoryQuantity": 1772,
+          "inventoryQuantity": 1771,
           "price": 40,
           "size": "m",
           "sku": "B5C9T-BC9J-M"
@@ -16790,7 +16789,7 @@
         {
           "id": 39797667758282,
           "inStock": true,
-          "inventoryQuantity": 569,
+          "inventoryQuantity": 564,
           "price": 40,
           "size": "l",
           "sku": "B5C9T-BC9J-L"
@@ -16798,7 +16797,7 @@
         {
           "id": 39797711470794,
           "inStock": true,
-          "inventoryQuantity": 101,
+          "inventoryQuantity": 100,
           "price": 40,
           "size": "xl",
           "sku": "B5C9T-BC9J-XL"
@@ -16806,7 +16805,7 @@
         {
           "id": 39797813543114,
           "inStock": true,
-          "inventoryQuantity": 34,
+          "inventoryQuantity": 33,
           "price": 40,
           "size": "xxl",
           "sku": "B5C9T-BC9J-XXL"
@@ -17025,7 +17024,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8024,
+        "userScore": 7995,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -17046,7 +17045,7 @@
         {
           "id": 39798016999626,
           "inStock": true,
-          "inventoryQuantity": 292,
+          "inventoryQuantity": 288,
           "price": 64,
           "size": "xs",
           "sku": "B6B2Q-BC9J-XS"
@@ -17054,7 +17053,7 @@
         {
           "id": 39798013034698,
           "inStock": true,
-          "inventoryQuantity": 1388,
+          "inventoryQuantity": 1378,
           "price": 64,
           "size": "s",
           "sku": "B6B2Q-BC9J-S"
@@ -17062,7 +17061,7 @@
         {
           "id": 39797951693002,
           "inStock": true,
-          "inventoryQuantity": 1591,
+          "inventoryQuantity": 1583,
           "price": 64,
           "size": "m",
           "sku": "B6B2Q-BC9J-M"
@@ -17070,7 +17069,7 @@
         {
           "id": 39797886615754,
           "inStock": true,
-          "inventoryQuantity": 648,
+          "inventoryQuantity": 639,
           "price": 64,
           "size": "l",
           "sku": "B6B2Q-BC9J-L"
@@ -17086,7 +17085,7 @@
         {
           "id": 39797999829194,
           "inStock": true,
-          "inventoryQuantity": 107,
+          "inventoryQuantity": 103,
           "price": 64,
           "size": "xxl",
           "sku": "B6B2Q-BC9J-XXL"
@@ -17310,16 +17309,16 @@
       "garmentLength": "regular",
       "lowestPrice": 60,
       "rating": {
-        "average": 3,
+        "average": 2.75,
         "range": 5,
-        "count": 3
+        "count": 4
       },
       "objectID": "6806675521738",
       "_rankingInfo": {
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7966,
+        "userScore": 7969,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -17613,7 +17612,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7847,
+        "userScore": 7849,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -17642,7 +17641,7 @@
         {
           "id": 39799802200266,
           "inStock": true,
-          "inventoryQuantity": 586,
+          "inventoryQuantity": 584,
           "price": 54,
           "size": "s",
           "sku": "B6C3H-PCKZ-S"
@@ -17650,7 +17649,7 @@
         {
           "id": 39799802069194,
           "inStock": true,
-          "inventoryQuantity": 679,
+          "inventoryQuantity": 677,
           "price": 54,
           "size": "m",
           "sku": "B6C3H-PCKZ-M"
@@ -17674,7 +17673,7 @@
         {
           "id": 39799802527946,
           "inStock": true,
-          "inventoryQuantity": 54,
+          "inventoryQuantity": 55,
           "price": 54,
           "size": "xxl",
           "sku": "B6C3H-PCKZ-XXL"
@@ -17867,7 +17866,7 @@
         {
           "id": 39797820096714,
           "inStock": true,
-          "inventoryQuantity": 215,
+          "inventoryQuantity": 213,
           "price": 50,
           "size": "xs",
           "sku": "B6B3J-BC9J-XS"
@@ -17875,7 +17874,7 @@
         {
           "id": 39797830090954,
           "inStock": true,
-          "inventoryQuantity": 759,
+          "inventoryQuantity": 756,
           "price": 50,
           "size": "s",
           "sku": "B6B3J-BC9J-S"
@@ -17883,7 +17882,7 @@
         {
           "id": 39797890580682,
           "inStock": true,
-          "inventoryQuantity": 832,
+          "inventoryQuantity": 824,
           "price": 50,
           "size": "m",
           "sku": "B6B3J-BC9J-M"
@@ -17899,7 +17898,7 @@
         {
           "id": 39797879144650,
           "inStock": true,
-          "inventoryQuantity": 79,
+          "inventoryQuantity": 77,
           "price": 50,
           "size": "xl",
           "sku": "B6B3J-BC9J-XL"
@@ -18117,7 +18116,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7753,
+        "userScore": 7755,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -18138,7 +18137,7 @@
         {
           "id": 39797917483210,
           "inStock": true,
-          "inventoryQuantity": 206,
+          "inventoryQuantity": 203,
           "price": 40,
           "size": "xs",
           "sku": "B5C9T-KDGN-XS"
@@ -18146,7 +18145,7 @@
         {
           "id": 39798000845002,
           "inStock": true,
-          "inventoryQuantity": 805,
+          "inventoryQuantity": 792,
           "price": 40,
           "size": "s",
           "sku": "B5C9T-KDGN-S"
@@ -18154,7 +18153,7 @@
         {
           "id": 39797930295498,
           "inStock": true,
-          "inventoryQuantity": 878,
+          "inventoryQuantity": 870,
           "price": 40,
           "size": "m",
           "sku": "B5C9T-KDGN-M"
@@ -18162,7 +18161,7 @@
         {
           "id": 39797987082442,
           "inStock": true,
-          "inventoryQuantity": 201,
+          "inventoryQuantity": 194,
           "price": 40,
           "size": "l",
           "sku": "B5C9T-KDGN-L"
@@ -18170,7 +18169,7 @@
         {
           "id": 39797912797386,
           "inStock": true,
-          "inventoryQuantity": 24,
+          "inventoryQuantity": 21,
           "price": 40,
           "size": "xl",
           "sku": "B5C9T-KDGN-XL"
@@ -18396,7 +18395,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7689,
+        "userScore": 7691,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -18425,7 +18424,7 @@
         {
           "id": 39797826027722,
           "inStock": true,
-          "inventoryQuantity": 429,
+          "inventoryQuantity": 426,
           "price": 28,
           "size": "m",
           "sku": "A5A3B-UD6Z-M"
@@ -18433,7 +18432,7 @@
         {
           "id": 39797904605386,
           "inStock": true,
-          "inventoryQuantity": 299,
+          "inventoryQuantity": 296,
           "price": 28,
           "size": "l",
           "sku": "A5A3B-UD6Z-L"
@@ -18649,7 +18648,297 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7678,
+        "userScore": 7680,
+        "geoDistance": 0,
+        "geoPrecision": 1,
+        "nbExactWords": 0,
+        "words": 0,
+        "filters": 1002
+      }
+    },
+    {
+      "availableColours": [
+        {
+          "sku": "A4C9M-BB2J",
+          "handle": "gymshark-collegiate-tech-hoodie-pullovers",
+          "canonicalColour": "black",
+          "colourName": "GS Black",
+          "featuredImage": {
+            "alt": "",
+            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSBlackA4C9M_BB2J_0510_V2.jpg?v=1770113807"
+          }
+        },
+        {
+          "sku": "A4C9M-GB7N",
+          "handle": "gymshark-collegiate-tech-hoodie-pullovers-grey-ss26",
+          "canonicalColour": "grey",
+          "colourName": " Onyx Grey",
+          "featuredImage": {
+            "alt": "",
+            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSOnyxGreyA4C9M_GB7N_0567_V2.jpg?v=1770114786"
+          }
+        },
+        {
+          "sku": "A4C9M-RCF3",
+          "handle": "gymshark-collegiate-tech-hoodie-pullovers-red-ss26",
+          "canonicalColour": "red",
+          "colourName": "GS Impact Burgundy",
+          "featuredImage": {
+            "alt": "",
+            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0582_V2.jpg?v=1770114709"
+          }
+        },
+        {
+          "sku": "A4C9M-UCTN",
+          "handle": "gymshark-collegiate-tech-hoodie-pullovers-blue-ss26",
+          "canonicalColour": "blue",
+          "colourName": "Heavy Blue",
+          "featuredImage": {
+            "alt": "",
+            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSHeavyBlueA4C9M_UCTN_0543_V2.jpg?v=1771420178"
+          }
+        }
+      ],
+      "availableSizes": [
+        {
+          "id": 39796971339978,
+          "inStock": true,
+          "inventoryQuantity": 7,
+          "price": 32,
+          "size": "xs",
+          "sku": "A4C9M-RCF3-XS"
+        },
+        {
+          "id": 39796993622218,
+          "inStock": true,
+          "inventoryQuantity": 48,
+          "price": 35,
+          "size": "s",
+          "sku": "A4C9M-RCF3-S"
+        },
+        {
+          "id": 39796969504970,
+          "inStock": true,
+          "inventoryQuantity": 145,
+          "price": 32,
+          "size": "m",
+          "sku": "A4C9M-RCF3-M"
+        },
+        {
+          "id": 39796965572810,
+          "inStock": true,
+          "inventoryQuantity": 214,
+          "price": 32,
+          "size": "l",
+          "sku": "A4C9M-RCF3-L"
+        },
+        {
+          "id": 39796949549258,
+          "inStock": true,
+          "inventoryQuantity": 121,
+          "price": 32,
+          "size": "xl",
+          "sku": "A4C9M-RCF3-XL"
+        },
+        {
+          "id": 39796956397770,
+          "inStock": true,
+          "inventoryQuantity": 26,
+          "price": 32,
+          "size": "xxl",
+          "sku": "A4C9M-RCF3-XXL"
+        },
+        {
+          "id": 39796983627978,
+          "inStock": true,
+          "inventoryQuantity": 10,
+          "price": 32,
+          "size": "3xl",
+          "sku": "A4C9M-RCF3-3XL"
+        }
+      ],
+      "canonicalColour": "red",
+      "collections": [
+        "26/02/26",
+        "airport-outfits",
+        "akeneo_updated_at:1781604864",
+        "all-products",
+        "back-to-school",
+        "build-your-wishlist",
+        "collegiate",
+        "collegiate-burgundy",
+        "conditioning",
+        "graphic-hoodies",
+        "heavyweight-hoodies",
+        "hoodies",
+        "hoodies-jackets",
+        "hoodies-sale",
+        "intl-26/02/26",
+        "loungewear",
+        "lower-bucket",
+        "matching-sets",
+        "most-loved",
+        "must-have",
+        "nam-26/02/26",
+        "new-releases",
+        "outlet",
+        "over-40-off",
+        "over-50-off",
+        "over-60-off",
+        "over-70-off",
+        "oversized-hoodies",
+        "percentageinstockv2",
+        "pullovers",
+        "pump-cover",
+        "rest-day",
+        "spanish-translated",
+        "ss26",
+        "summer-sale-26",
+        "top-rated",
+        "tracksuits",
+        "travel-outfits",
+        "valentines-day",
+        "winback-codes"
+      ],
+      "colour": "GS Impact Burgundy",
+      "compareAtPrice": null,
+      "discountPercentage": null,
+      "featuredMedia": {
+        "admin_graphql_api_id": "gid://shopify/ProductImage/28995491823818",
+        "alt": null,
+        "created_at": "2026-02-03T02:31:46-08:00",
+        "height": 2018,
+        "id": 28995491823818,
+        "position": 1,
+        "product_id": 6806564864202,
+        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0582_V2.jpg?v=1770114709",
+        "updated_at": "2026-02-03T02:31:49-08:00",
+        "variant_ids": [],
+        "width": 1692
+      },
+      "fit": "oversized fit",
+      "gender": [
+        "m"
+      ],
+      "handle": "gymshark-collegiate-tech-hoodie-pullovers-red-ss26",
+      "id": 6806564864202,
+      "inStock": true,
+      "labels": [
+        "new"
+      ],
+      "media": [
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491823818",
+          "alt": null,
+          "created_at": "2026-02-03T02:31:46-08:00",
+          "height": 2018,
+          "id": 28995491823818,
+          "position": 1,
+          "product_id": 6806564864202,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0582_V2.jpg?v=1770114709",
+          "updated_at": "2026-02-03T02:31:49-08:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491528906",
+          "alt": null,
+          "created_at": "2026-02-03T02:31:45-08:00",
+          "height": 2018,
+          "id": 28995491528906,
+          "position": 2,
+          "product_id": 6806564864202,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0595_V2.jpg?v=1770114709",
+          "updated_at": "2026-02-03T02:31:49-08:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491725514",
+          "alt": null,
+          "created_at": "2026-02-03T02:31:46-08:00",
+          "height": 2018,
+          "id": 28995491725514,
+          "position": 3,
+          "product_id": 6806564864202,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0586_V2.jpg?v=1770114709",
+          "updated_at": "2026-02-03T02:31:49-08:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491692746",
+          "alt": null,
+          "created_at": "2026-02-03T02:31:46-08:00",
+          "height": 2018,
+          "id": 28995491692746,
+          "position": 4,
+          "product_id": 6806564864202,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0600_V2.jpg?v=1770114709",
+          "updated_at": "2026-02-03T02:31:49-08:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28995492020426",
+          "alt": null,
+          "created_at": "2026-02-03T02:31:46-08:00",
+          "height": 2018,
+          "id": 28995492020426,
+          "position": 5,
+          "product_id": 6806564864202,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0588_V2.jpg?v=1770114709",
+          "updated_at": "2026-02-03T02:31:49-08:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491791050",
+          "alt": null,
+          "created_at": "2026-02-03T02:31:46-08:00",
+          "height": 2018,
+          "id": 28995491791050,
+          "position": 6,
+          "product_id": 6806564864202,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0598_V2.jpg?v=1770114709",
+          "updated_at": "2026-02-03T02:31:49-08:00",
+          "variant_ids": [],
+          "width": 1692
+        }
+      ],
+      "price": 32,
+      "sizeInStock": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl",
+        "3xl"
+      ],
+      "features": null,
+      "activities": [
+        "conditioning"
+      ],
+      "tier": 2,
+      "sku": "A4C9M",
+      "title": "Collegiate Tech Hoodie",
+      "type": "Mens>Apparel>Pullovers>hoodie",
+      "promotionalMessaging": null,
+      "garmentRise": null,
+      "garmentLength": "regular",
+      "lowestPrice": 32,
+      "rating": {
+        "average": 5,
+        "range": 5,
+        "count": 3
+      },
+      "objectID": "6806564864202",
+      "_rankingInfo": {
+        "nbTypos": 0,
+        "firstMatchedWord": 0,
+        "proximityDistance": 0,
+        "userScore": 7655,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -18670,7 +18959,7 @@
         {
           "id": 39797909487818,
           "inStock": true,
-          "inventoryQuantity": 210,
+          "inventoryQuantity": 209,
           "price": 40,
           "size": "xs",
           "sku": "B5C9T-PCLF-XS"
@@ -18678,7 +18967,7 @@
         {
           "id": 39797923021002,
           "inStock": true,
-          "inventoryQuantity": 712,
+          "inventoryQuantity": 700,
           "price": 40,
           "size": "s",
           "sku": "B5C9T-PCLF-S"
@@ -18686,7 +18975,7 @@
         {
           "id": 39798008774858,
           "inStock": true,
-          "inventoryQuantity": 650,
+          "inventoryQuantity": 638,
           "price": 40,
           "size": "m",
           "sku": "B5C9T-PCLF-M"
@@ -18694,7 +18983,7 @@
         {
           "id": 39797905686730,
           "inStock": true,
-          "inventoryQuantity": 153,
+          "inventoryQuantity": 149,
           "price": 40,
           "size": "l",
           "sku": "B5C9T-PCLF-L"
@@ -18702,7 +18991,7 @@
         {
           "id": 39797898707146,
           "inStock": true,
-          "inventoryQuantity": 5,
+          "inventoryQuantity": 3,
           "price": 40,
           "size": "xl",
           "sku": "B5C9T-PCLF-XL"
@@ -18710,7 +18999,7 @@
         {
           "id": 39797938356426,
           "inStock": true,
-          "inventoryQuantity": 11,
+          "inventoryQuantity": 9,
           "price": 40,
           "size": "xxl",
           "sku": "B5C9T-PCLF-XXL"
@@ -18939,297 +19228,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7673,
-        "geoDistance": 0,
-        "geoPrecision": 1,
-        "nbExactWords": 0,
-        "words": 0,
-        "filters": 1002
-      }
-    },
-    {
-      "availableColours": [
-        {
-          "sku": "A4C9M-BB2J",
-          "handle": "gymshark-collegiate-tech-hoodie-pullovers",
-          "canonicalColour": "black",
-          "colourName": "GS Black",
-          "featuredImage": {
-            "alt": "",
-            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSBlackA4C9M_BB2J_0510_V2.jpg?v=1770113807"
-          }
-        },
-        {
-          "sku": "A4C9M-GB7N",
-          "handle": "gymshark-collegiate-tech-hoodie-pullovers-grey-ss26",
-          "canonicalColour": "grey",
-          "colourName": " Onyx Grey",
-          "featuredImage": {
-            "alt": "",
-            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSOnyxGreyA4C9M_GB7N_0567_V2.jpg?v=1770114786"
-          }
-        },
-        {
-          "sku": "A4C9M-RCF3",
-          "handle": "gymshark-collegiate-tech-hoodie-pullovers-red-ss26",
-          "canonicalColour": "red",
-          "colourName": "GS Impact Burgundy",
-          "featuredImage": {
-            "alt": "",
-            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0582_V2.jpg?v=1770114709"
-          }
-        },
-        {
-          "sku": "A4C9M-UCTN",
-          "handle": "gymshark-collegiate-tech-hoodie-pullovers-blue-ss26",
-          "canonicalColour": "blue",
-          "colourName": "Heavy Blue",
-          "featuredImage": {
-            "alt": "",
-            "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSHeavyBlueA4C9M_UCTN_0543_V2.jpg?v=1771420178"
-          }
-        }
-      ],
-      "availableSizes": [
-        {
-          "id": 39796971339978,
-          "inStock": true,
-          "inventoryQuantity": 7,
-          "price": 32,
-          "size": "xs",
-          "sku": "A4C9M-RCF3-XS"
-        },
-        {
-          "id": 39796993622218,
-          "inStock": true,
-          "inventoryQuantity": 48,
-          "price": 35,
-          "size": "s",
-          "sku": "A4C9M-RCF3-S"
-        },
-        {
-          "id": 39796969504970,
-          "inStock": true,
-          "inventoryQuantity": 144,
-          "price": 32,
-          "size": "m",
-          "sku": "A4C9M-RCF3-M"
-        },
-        {
-          "id": 39796965572810,
-          "inStock": true,
-          "inventoryQuantity": 214,
-          "price": 32,
-          "size": "l",
-          "sku": "A4C9M-RCF3-L"
-        },
-        {
-          "id": 39796949549258,
-          "inStock": true,
-          "inventoryQuantity": 121,
-          "price": 32,
-          "size": "xl",
-          "sku": "A4C9M-RCF3-XL"
-        },
-        {
-          "id": 39796956397770,
-          "inStock": true,
-          "inventoryQuantity": 26,
-          "price": 32,
-          "size": "xxl",
-          "sku": "A4C9M-RCF3-XXL"
-        },
-        {
-          "id": 39796983627978,
-          "inStock": true,
-          "inventoryQuantity": 10,
-          "price": 32,
-          "size": "3xl",
-          "sku": "A4C9M-RCF3-3XL"
-        }
-      ],
-      "canonicalColour": "red",
-      "collections": [
-        "26/02/26",
-        "airport-outfits",
-        "akeneo_updated_at:1781604864",
-        "all-products",
-        "back-to-school",
-        "build-your-wishlist",
-        "collegiate",
-        "collegiate-burgundy",
-        "conditioning",
-        "graphic-hoodies",
-        "heavyweight-hoodies",
-        "hoodies",
-        "hoodies-jackets",
-        "hoodies-sale",
-        "intl-26/02/26",
-        "loungewear",
-        "lower-bucket",
-        "matching-sets",
-        "most-loved",
-        "must-have",
-        "nam-26/02/26",
-        "new-releases",
-        "outlet",
-        "over-40-off",
-        "over-50-off",
-        "over-60-off",
-        "over-70-off",
-        "oversized-hoodies",
-        "percentageinstockv2",
-        "pullovers",
-        "pump-cover",
-        "rest-day",
-        "spanish-translated",
-        "ss26",
-        "summer-sale-26",
-        "top-rated",
-        "tracksuits",
-        "travel-outfits",
-        "valentines-day",
-        "winback-codes"
-      ],
-      "colour": "GS Impact Burgundy",
-      "compareAtPrice": null,
-      "discountPercentage": null,
-      "featuredMedia": {
-        "admin_graphql_api_id": "gid://shopify/ProductImage/28995491823818",
-        "alt": null,
-        "created_at": "2026-02-03T02:31:46-08:00",
-        "height": 2018,
-        "id": 28995491823818,
-        "position": 1,
-        "product_id": 6806564864202,
-        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0582_V2.jpg?v=1770114709",
-        "updated_at": "2026-02-03T02:31:49-08:00",
-        "variant_ids": [],
-        "width": 1692
-      },
-      "fit": "oversized fit",
-      "gender": [
-        "m"
-      ],
-      "handle": "gymshark-collegiate-tech-hoodie-pullovers-red-ss26",
-      "id": 6806564864202,
-      "inStock": true,
-      "labels": [
-        "new"
-      ],
-      "media": [
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491823818",
-          "alt": null,
-          "created_at": "2026-02-03T02:31:46-08:00",
-          "height": 2018,
-          "id": 28995491823818,
-          "position": 1,
-          "product_id": 6806564864202,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0582_V2.jpg?v=1770114709",
-          "updated_at": "2026-02-03T02:31:49-08:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491528906",
-          "alt": null,
-          "created_at": "2026-02-03T02:31:45-08:00",
-          "height": 2018,
-          "id": 28995491528906,
-          "position": 2,
-          "product_id": 6806564864202,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0595_V2.jpg?v=1770114709",
-          "updated_at": "2026-02-03T02:31:49-08:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491725514",
-          "alt": null,
-          "created_at": "2026-02-03T02:31:46-08:00",
-          "height": 2018,
-          "id": 28995491725514,
-          "position": 3,
-          "product_id": 6806564864202,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0586_V2.jpg?v=1770114709",
-          "updated_at": "2026-02-03T02:31:49-08:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491692746",
-          "alt": null,
-          "created_at": "2026-02-03T02:31:46-08:00",
-          "height": 2018,
-          "id": 28995491692746,
-          "position": 4,
-          "product_id": 6806564864202,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0600_V2.jpg?v=1770114709",
-          "updated_at": "2026-02-03T02:31:49-08:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28995492020426",
-          "alt": null,
-          "created_at": "2026-02-03T02:31:46-08:00",
-          "height": 2018,
-          "id": 28995492020426,
-          "position": 5,
-          "product_id": 6806564864202,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0588_V2.jpg?v=1770114709",
-          "updated_at": "2026-02-03T02:31:49-08:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/28995491791050",
-          "alt": null,
-          "created_at": "2026-02-03T02:31:46-08:00",
-          "height": 2018,
-          "id": 28995491791050,
-          "position": 6,
-          "product_id": 6806564864202,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ConditioningCollegeTechPolyHoodieGSImpactBurgundyA4C9M_RCF3_0598_V2.jpg?v=1770114709",
-          "updated_at": "2026-02-03T02:31:49-08:00",
-          "variant_ids": [],
-          "width": 1692
-        }
-      ],
-      "price": 32,
-      "sizeInStock": [
-        "xs",
-        "s",
-        "m",
-        "l",
-        "xl",
-        "xxl",
-        "3xl"
-      ],
-      "features": null,
-      "activities": [
-        "conditioning"
-      ],
-      "tier": 2,
-      "sku": "A4C9M",
-      "title": "Collegiate Tech Hoodie",
-      "type": "Mens>Apparel>Pullovers>hoodie",
-      "promotionalMessaging": null,
-      "garmentRise": null,
-      "garmentLength": "regular",
-      "lowestPrice": 32,
-      "rating": {
-        "average": 5,
-        "range": 5,
-        "count": 3
-      },
-      "objectID": "6806564864202",
-      "_rankingInfo": {
-        "nbTypos": 0,
-        "firstMatchedWord": 0,
-        "proximityDistance": 0,
-        "userScore": 7654,
+        "userScore": 7648,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -19250,7 +19249,7 @@
         {
           "id": 39797985509578,
           "inStock": true,
-          "inventoryQuantity": 103,
+          "inventoryQuantity": 102,
           "price": 64,
           "size": "xs",
           "sku": "B6B2Q-KDGN-XS"
@@ -19258,7 +19257,7 @@
         {
           "id": 39797925970122,
           "inStock": true,
-          "inventoryQuantity": 489,
+          "inventoryQuantity": 468,
           "price": 64,
           "size": "s",
           "sku": "B6B2Q-KDGN-S"
@@ -19266,7 +19265,7 @@
         {
           "id": 39798034563274,
           "inStock": true,
-          "inventoryQuantity": 578,
+          "inventoryQuantity": 564,
           "price": 64,
           "size": "m",
           "sku": "B6B2Q-KDGN-M"
@@ -19274,7 +19273,7 @@
         {
           "id": 39797981479114,
           "inStock": true,
-          "inventoryQuantity": 194,
+          "inventoryQuantity": 184,
           "price": 64,
           "size": "l",
           "sku": "B6B2Q-KDGN-L"
@@ -19282,7 +19281,7 @@
         {
           "id": 39798010609866,
           "inStock": true,
-          "inventoryQuantity": 116,
+          "inventoryQuantity": 109,
           "price": 64,
           "size": "xl",
           "sku": "B6B2Q-KDGN-XL"
@@ -19290,7 +19289,7 @@
         {
           "id": 39797965652170,
           "inStock": true,
-          "inventoryQuantity": 16,
+          "inventoryQuantity": 12,
           "price": 64,
           "size": "xxl",
           "sku": "B6B2Q-KDGN-XXL"
@@ -19524,272 +19523,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7621,
-        "geoDistance": 0,
-        "geoPrecision": 1,
-        "nbExactWords": 0,
-        "words": 0,
-        "filters": 1002
-      }
-    },
-    {
-      "availableSizes": [
-        {
-          "id": 39798005104842,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 48,
-          "size": "xxs",
-          "sku": "B6B1E-BC9J-XXS"
-        },
-        {
-          "id": 39797882585290,
-          "inStock": true,
-          "inventoryQuantity": 139,
-          "price": 48,
-          "size": "xs",
-          "sku": "B6B1E-BC9J-XS"
-        },
-        {
-          "id": 39798048129226,
-          "inStock": true,
-          "inventoryQuantity": 577,
-          "price": 48,
-          "size": "s",
-          "sku": "B6B1E-BC9J-S"
-        },
-        {
-          "id": 39797891137738,
-          "inStock": true,
-          "inventoryQuantity": 516,
-          "price": 48,
-          "size": "m",
-          "sku": "B6B1E-BC9J-M"
-        },
-        {
-          "id": 39797892939978,
-          "inStock": true,
-          "inventoryQuantity": 152,
-          "price": 48,
-          "size": "l",
-          "sku": "B6B1E-BC9J-L"
-        },
-        {
-          "id": 39798032302282,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 48,
-          "size": "xl",
-          "sku": "B6B1E-BC9J-XL"
-        },
-        {
-          "id": 39797892612298,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 48,
-          "size": "xxl",
-          "sku": "B6B1E-BC9J-XXL"
-        }
-      ],
-      "canonicalColour": "black",
-      "collections": [
-        "08/06/26",
-        "akeneo_updated_at:1781182688",
-        "all-products",
-        "black-gym-sets",
-        "black-staples",
-        "black-tops",
-        "bratz",
-        "bratz-black-wash",
-        "build-your-wishlist",
-        "collabs",
-        "coming-soon",
-        "coming-soon:2026-06-08t19:00:00+01:00",
-        "exclude-from-staff-discount",
-        "gymshark_title",
-        "intl-08/06/26",
-        "lower-bucket",
-        "most-loved",
-        "must-have",
-        "nam-08/06/26",
-        "new-releases",
-        "outlet",
-        "over-40-off",
-        "over-50-off",
-        "over-60-off",
-        "over-70-off",
-        "percentageinstockv2",
-        "sale-t-shirts-tops",
-        "short-sleeve",
-        "spanish-translated",
-        "ss26",
-        "summer-sale-26",
-        "t-shirts-tops",
-        "top-rated",
-        "trending"
-      ],
-      "colour": "Black/Wash",
-      "compareAtPrice": null,
-      "discountPercentage": null,
-      "featuredMedia": {
-        "admin_graphql_api_id": "gid://shopify/ProductImage/29003355324618",
-        "alt": null,
-        "created_at": "2026-05-15T01:30:08-07:00",
-        "height": 2018,
-        "id": 29003355324618,
-        "position": 1,
-        "product_id": 6806685483210,
-        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6156_V2.jpg?v=1778833810",
-        "updated_at": "2026-05-28T01:35:52-07:00",
-        "variant_ids": [],
-        "width": 1692
-      },
-      "fit": null,
-      "gender": [
-        "f"
-      ],
-      "handle": "gymshark-x-bratz-crop-top-ss-tops-black-ss26",
-      "id": 6806685483210,
-      "inStock": true,
-      "labels": [
-        "new"
-      ],
-      "media": [
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355324618",
-          "alt": null,
-          "created_at": "2026-05-15T01:30:08-07:00",
-          "height": 2018,
-          "id": 29003355324618,
-          "position": 1,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6156_V2.jpg?v=1778833810",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355848906",
-          "alt": null,
-          "created_at": "2026-05-15T01:30:09-07:00",
-          "height": 2018,
-          "id": 29003355848906,
-          "position": 2,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6158_V2.jpg?v=1778833835",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003455037642",
-          "alt": null,
-          "created_at": "2026-05-26T03:39:06-07:00",
-          "height": 2018,
-          "id": 29003455037642,
-          "position": 3,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26406117.jpg?v=1779791947",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355881674",
-          "alt": null,
-          "created_at": "2026-05-15T01:30:09-07:00",
-          "height": 2018,
-          "id": 29003355881674,
-          "position": 4,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6157_V2.jpg?v=1778833810",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355488458",
-          "alt": null,
-          "created_at": "2026-05-15T01:30:08-07:00",
-          "height": 2018,
-          "id": 29003355488458,
-          "position": 5,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6161_V2_7063d8fb-845e-479e-8a9f-9618707f2502.jpg?v=1778833810",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355947210",
-          "alt": null,
-          "created_at": "2026-05-15T01:30:09-07:00",
-          "height": 2018,
-          "id": 29003355947210,
-          "position": 6,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6159_V2.jpg?v=1778833828",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003356111050",
-          "alt": null,
-          "created_at": "2026-05-15T01:30:39-07:00",
-          "height": 2018,
-          "id": 29003356111050,
-          "position": 7,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6160_V2.jpg?v=1778833841",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355979978",
-          "alt": null,
-          "created_at": "2026-05-15T01:30:27-07:00",
-          "height": 2018,
-          "id": 29003355979978,
-          "position": 8,
-          "product_id": 6806685483210,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6197_V2.jpg?v=1778833837",
-          "updated_at": "2026-05-28T01:35:52-07:00",
-          "variant_ids": [],
-          "width": 1692
-        }
-      ],
-      "price": 48,
-      "sizeInStock": [
-        "xs",
-        "s",
-        "m",
-        "l"
-      ],
-      "features": null,
-      "activities": [
-        "lifting"
-      ],
-      "tier": 2,
-      "sku": "B6B1E",
-      "title": "Gymshark x Bratz Crop Top",
-      "type": "Womens>Apparel>SS Tops>short_sleeve",
-      "promotionalMessaging": null,
-      "garmentRise": null,
-      "garmentLength": "midi",
-      "lowestPrice": 34,
-      "rating": {
-        "average": 3.6667,
-        "range": 5,
-        "count": 3
-      },
-      "objectID": "6806685483210",
-      "_rankingInfo": {
-        "nbTypos": 0,
-        "firstMatchedWord": 0,
-        "proximityDistance": 0,
-        "userScore": 7609,
+        "userScore": 7624,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -19810,7 +19544,7 @@
         {
           "id": 39797970403530,
           "inStock": true,
-          "inventoryQuantity": 87,
+          "inventoryQuantity": 83,
           "price": 64,
           "size": "xs",
           "sku": "B6B2Q-PCLF-XS"
@@ -19818,7 +19552,7 @@
         {
           "id": 39797954412746,
           "inStock": true,
-          "inventoryQuantity": 446,
+          "inventoryQuantity": 430,
           "price": 64,
           "size": "s",
           "sku": "B6B2Q-PCLF-S"
@@ -19826,7 +19560,7 @@
         {
           "id": 39797899329738,
           "inStock": true,
-          "inventoryQuantity": 560,
+          "inventoryQuantity": 535,
           "price": 64,
           "size": "m",
           "sku": "B6B2Q-PCLF-M"
@@ -19834,7 +19568,7 @@
         {
           "id": 39797877145802,
           "inStock": true,
-          "inventoryQuantity": 261,
+          "inventoryQuantity": 251,
           "price": 64,
           "size": "l",
           "sku": "B6B2Q-PCLF-L"
@@ -19842,7 +19576,7 @@
         {
           "id": 39797833990346,
           "inStock": true,
-          "inventoryQuantity": 80,
+          "inventoryQuantity": 79,
           "price": 64,
           "size": "xl",
           "sku": "B6B2Q-PCLF-XL"
@@ -19850,7 +19584,7 @@
         {
           "id": 39798007333066,
           "inStock": true,
-          "inventoryQuantity": 12,
+          "inventoryQuantity": 9,
           "price": 64,
           "size": "xxl",
           "sku": "B6B2Q-PCLF-XXL"
@@ -20072,9 +19806,9 @@
       "garmentRise": "high",
       "garmentLength": "regular",
       "rating": {
-        "average": 3,
+        "average": 2.75,
         "range": 5,
-        "count": 3
+        "count": 4
       },
       "lowestPrice": 60,
       "objectID": "6806676635850",
@@ -20103,7 +19837,7 @@
         {
           "id": 39797517156554,
           "inStock": true,
-          "inventoryQuantity": 90,
+          "inventoryQuantity": 87,
           "price": 64,
           "size": "xs",
           "sku": "B6B2Q-PCK0-XS"
@@ -20111,7 +19845,7 @@
         {
           "id": 39797646524618,
           "inStock": true,
-          "inventoryQuantity": 373,
+          "inventoryQuantity": 354,
           "price": 64,
           "size": "s",
           "sku": "B6B2Q-PCK0-S"
@@ -20119,7 +19853,7 @@
         {
           "id": 39797666808010,
           "inStock": true,
-          "inventoryQuantity": 555,
+          "inventoryQuantity": 540,
           "price": 64,
           "size": "m",
           "sku": "B6B2Q-PCK0-M"
@@ -20127,7 +19861,7 @@
         {
           "id": 39797519155402,
           "inStock": true,
-          "inventoryQuantity": 261,
+          "inventoryQuantity": 255,
           "price": 64,
           "size": "l",
           "sku": "B6B2Q-PCK0-L"
@@ -20135,7 +19869,7 @@
         {
           "id": 39797604843722,
           "inStock": true,
-          "inventoryQuantity": 98,
+          "inventoryQuantity": 95,
           "price": 64,
           "size": "xl",
           "sku": "B6B2Q-PCK0-XL"
@@ -20143,7 +19877,7 @@
         {
           "id": 39797691056330,
           "inStock": true,
-          "inventoryQuantity": 27,
+          "inventoryQuantity": 24,
           "price": 64,
           "size": "xxl",
           "sku": "B6B2Q-PCK0-XXL"
@@ -20360,6 +20094,271 @@
     {
       "availableSizes": [
         {
+          "id": 39798005104842,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 48,
+          "size": "xxs",
+          "sku": "B6B1E-BC9J-XXS"
+        },
+        {
+          "id": 39797882585290,
+          "inStock": true,
+          "inventoryQuantity": 139,
+          "price": 48,
+          "size": "xs",
+          "sku": "B6B1E-BC9J-XS"
+        },
+        {
+          "id": 39798048129226,
+          "inStock": true,
+          "inventoryQuantity": 574,
+          "price": 48,
+          "size": "s",
+          "sku": "B6B1E-BC9J-S"
+        },
+        {
+          "id": 39797891137738,
+          "inStock": true,
+          "inventoryQuantity": 512,
+          "price": 48,
+          "size": "m",
+          "sku": "B6B1E-BC9J-M"
+        },
+        {
+          "id": 39797892939978,
+          "inStock": true,
+          "inventoryQuantity": 146,
+          "price": 48,
+          "size": "l",
+          "sku": "B6B1E-BC9J-L"
+        },
+        {
+          "id": 39798032302282,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 48,
+          "size": "xl",
+          "sku": "B6B1E-BC9J-XL"
+        },
+        {
+          "id": 39797892612298,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 48,
+          "size": "xxl",
+          "sku": "B6B1E-BC9J-XXL"
+        }
+      ],
+      "canonicalColour": "black",
+      "collections": [
+        "08/06/26",
+        "akeneo_updated_at:1781182688",
+        "all-products",
+        "black-gym-sets",
+        "black-staples",
+        "black-tops",
+        "bratz",
+        "bratz-black-wash",
+        "build-your-wishlist",
+        "collabs",
+        "coming-soon",
+        "coming-soon:2026-06-08t19:00:00+01:00",
+        "exclude-from-staff-discount",
+        "gymshark_title",
+        "intl-08/06/26",
+        "lower-bucket",
+        "most-loved",
+        "must-have",
+        "nam-08/06/26",
+        "new-releases",
+        "outlet",
+        "over-40-off",
+        "over-50-off",
+        "over-60-off",
+        "over-70-off",
+        "percentageinstockv2",
+        "sale-t-shirts-tops",
+        "short-sleeve",
+        "spanish-translated",
+        "ss26",
+        "summer-sale-26",
+        "t-shirts-tops",
+        "top-rated",
+        "trending"
+      ],
+      "colour": "Black/Wash",
+      "compareAtPrice": null,
+      "discountPercentage": null,
+      "featuredMedia": {
+        "admin_graphql_api_id": "gid://shopify/ProductImage/29003355324618",
+        "alt": null,
+        "created_at": "2026-05-15T01:30:08-07:00",
+        "height": 2018,
+        "id": 29003355324618,
+        "position": 1,
+        "product_id": 6806685483210,
+        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6156_V2.jpg?v=1778833810",
+        "updated_at": "2026-05-28T01:35:52-07:00",
+        "variant_ids": [],
+        "width": 1692
+      },
+      "fit": null,
+      "gender": [
+        "f"
+      ],
+      "handle": "gymshark-x-bratz-crop-top-ss-tops-black-ss26",
+      "id": 6806685483210,
+      "inStock": true,
+      "labels": [
+        "new"
+      ],
+      "media": [
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355324618",
+          "alt": null,
+          "created_at": "2026-05-15T01:30:08-07:00",
+          "height": 2018,
+          "id": 29003355324618,
+          "position": 1,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6156_V2.jpg?v=1778833810",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355848906",
+          "alt": null,
+          "created_at": "2026-05-15T01:30:09-07:00",
+          "height": 2018,
+          "id": 29003355848906,
+          "position": 2,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6158_V2.jpg?v=1778833835",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003455037642",
+          "alt": null,
+          "created_at": "2026-05-26T03:39:06-07:00",
+          "height": 2018,
+          "id": 29003455037642,
+          "position": 3,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26406117.jpg?v=1779791947",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355881674",
+          "alt": null,
+          "created_at": "2026-05-15T01:30:09-07:00",
+          "height": 2018,
+          "id": 29003355881674,
+          "position": 4,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6157_V2.jpg?v=1778833810",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355488458",
+          "alt": null,
+          "created_at": "2026-05-15T01:30:08-07:00",
+          "height": 2018,
+          "id": 29003355488458,
+          "position": 5,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6161_V2_7063d8fb-845e-479e-8a9f-9618707f2502.jpg?v=1778833810",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355947210",
+          "alt": null,
+          "created_at": "2026-05-15T01:30:09-07:00",
+          "height": 2018,
+          "id": 29003355947210,
+          "position": 6,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6159_V2.jpg?v=1778833828",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003356111050",
+          "alt": null,
+          "created_at": "2026-05-15T01:30:39-07:00",
+          "height": 2018,
+          "id": 29003356111050,
+          "position": 7,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6160_V2.jpg?v=1778833841",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003355979978",
+          "alt": null,
+          "created_at": "2026-05-15T01:30:27-07:00",
+          "height": 2018,
+          "id": 29003355979978,
+          "position": 8,
+          "product_id": 6806685483210,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzCropTopGSBlackWASHB6B1E_BC9J_6197_V2.jpg?v=1778833837",
+          "updated_at": "2026-05-28T01:35:52-07:00",
+          "variant_ids": [],
+          "width": 1692
+        }
+      ],
+      "price": 48,
+      "sizeInStock": [
+        "xs",
+        "s",
+        "m",
+        "l"
+      ],
+      "features": null,
+      "activities": [
+        "lifting"
+      ],
+      "tier": 2,
+      "sku": "B6B1E",
+      "title": "Gymshark x Bratz Crop Top",
+      "type": "Womens>Apparel>SS Tops>short_sleeve",
+      "promotionalMessaging": null,
+      "garmentRise": null,
+      "garmentLength": "midi",
+      "lowestPrice": 34,
+      "rating": {
+        "average": 3.6667,
+        "range": 5,
+        "count": 3
+      },
+      "objectID": "6806685483210",
+      "_rankingInfo": {
+        "nbTypos": 0,
+        "firstMatchedWord": 0,
+        "proximityDistance": 0,
+        "userScore": 7585,
+        "geoDistance": 0,
+        "geoPrecision": 1,
+        "nbExactWords": 0,
+        "words": 0,
+        "filters": 1002
+      }
+    },
+    {
+      "availableSizes": [
+        {
           "id": 39797874950346,
           "inStock": false,
           "inventoryQuantity": 0,
@@ -20378,7 +20377,7 @@
         {
           "id": 39797949857994,
           "inStock": true,
-          "inventoryQuantity": 428,
+          "inventoryQuantity": 418,
           "price": 50,
           "size": "s",
           "sku": "B6B3J-KDGN-S"
@@ -20386,7 +20385,7 @@
         {
           "id": 39797939929290,
           "inStock": true,
-          "inventoryQuantity": 564,
+          "inventoryQuantity": 559,
           "price": 50,
           "size": "m",
           "sku": "B6B3J-KDGN-M"
@@ -20394,7 +20393,7 @@
         {
           "id": 39797963227338,
           "inStock": true,
-          "inventoryQuantity": 203,
+          "inventoryQuantity": 200,
           "price": 50,
           "size": "l",
           "sku": "B6B3J-KDGN-L"
@@ -20410,7 +20409,7 @@
         {
           "id": 39797890220234,
           "inStock": true,
-          "inventoryQuantity": 15,
+          "inventoryQuantity": 6,
           "price": 50,
           "size": "xxl",
           "sku": "B6B3J-KDGN-XXL"
@@ -20632,7 +20631,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7569,
+        "userScore": 7542,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -20653,7 +20652,7 @@
         {
           "id": 39797664973002,
           "inStock": true,
-          "inventoryQuantity": 148,
+          "inventoryQuantity": 145,
           "price": 50,
           "size": "xs",
           "sku": "B6B3J-PCLF-XS"
@@ -20661,7 +20660,7 @@
         {
           "id": 39797695185098,
           "inStock": true,
-          "inventoryQuantity": 404,
+          "inventoryQuantity": 397,
           "price": 50,
           "size": "s",
           "sku": "B6B3J-PCLF-S"
@@ -20669,7 +20668,7 @@
         {
           "id": 39797594259658,
           "inStock": true,
-          "inventoryQuantity": 449,
+          "inventoryQuantity": 441,
           "price": 50,
           "size": "m",
           "sku": "B6B3J-PCLF-M"
@@ -20677,7 +20676,7 @@
         {
           "id": 39797651308746,
           "inStock": true,
-          "inventoryQuantity": 177,
+          "inventoryQuantity": 174,
           "price": 50,
           "size": "l",
           "sku": "B6B3J-PCLF-L"
@@ -20693,7 +20692,7 @@
         {
           "id": 39797656977610,
           "inStock": true,
-          "inventoryQuantity": 39,
+          "inventoryQuantity": 37,
           "price": 50,
           "size": "xxl",
           "sku": "B6B3J-PCLF-XXL"
@@ -20912,7 +20911,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7542,
+        "userScore": 7514,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -20941,7 +20940,7 @@
         {
           "id": 39799801512138,
           "inStock": true,
-          "inventoryQuantity": 246,
+          "inventoryQuantity": 245,
           "price": 54,
           "size": "s",
           "sku": "B6C3H-KDFX-S"
@@ -20949,7 +20948,7 @@
         {
           "id": 39799801381066,
           "inStock": true,
-          "inventoryQuantity": 299,
+          "inventoryQuantity": 300,
           "price": 54,
           "size": "m",
           "sku": "B6C3H-KDFX-M"
@@ -21148,7 +21147,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7434,
+        "userScore": 7436,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -21177,7 +21176,7 @@
         {
           "id": 39799800824010,
           "inStock": true,
-          "inventoryQuantity": 94,
+          "inventoryQuantity": 93,
           "price": 54,
           "size": "s",
           "sku": "B6C3I-PCKZ-S"
@@ -21185,7 +21184,7 @@
         {
           "id": 39799162142922,
           "inStock": true,
-          "inventoryQuantity": 98,
+          "inventoryQuantity": 96,
           "price": 54,
           "size": "m",
           "sku": "B6C3I-PCKZ-M"
@@ -21193,7 +21192,7 @@
         {
           "id": 39799800758474,
           "inStock": true,
-          "inventoryQuantity": 53,
+          "inventoryQuantity": 52,
           "price": 54,
           "size": "l",
           "sku": "B6C3I-PCKZ-L"
@@ -21368,7 +21367,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7122,
+        "userScore": 7123,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -21397,7 +21396,7 @@
         {
           "id": 39797978267850,
           "inStock": true,
-          "inventoryQuantity": 103,
+          "inventoryQuantity": 104,
           "price": 48,
           "size": "s",
           "sku": "B6B1E-PCK0-S"
@@ -21413,7 +21412,7 @@
         {
           "id": 39797990195402,
           "inStock": true,
-          "inventoryQuantity": 26,
+          "inventoryQuantity": 24,
           "price": 48,
           "size": "l",
           "sku": "B6B1E-PCK0-L"
@@ -21630,7 +21629,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7089,
+        "userScore": 7092,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -21659,7 +21658,7 @@
         {
           "id": 39798016245962,
           "inStock": true,
-          "inventoryQuantity": 147,
+          "inventoryQuantity": 144,
           "price": 48,
           "size": "s",
           "sku": "B6B1E-PCLF-S"
@@ -21667,15 +21666,15 @@
         {
           "id": 39797910110410,
           "inStock": true,
-          "inventoryQuantity": 81,
+          "inventoryQuantity": 74,
           "price": 48,
           "size": "m",
           "sku": "B6B1E-PCLF-M"
         },
         {
           "id": 39798046851274,
-          "inStock": false,
-          "inventoryQuantity": 0,
+          "inStock": true,
+          "inventoryQuantity": 1,
           "price": 48,
           "size": "l",
           "sku": "B6B1E-PCLF-L"
@@ -21867,7 +21866,8 @@
       "sizeInStock": [
         "xs",
         "s",
-        "m"
+        "m",
+        "l"
       ],
       "features": null,
       "activities": [
@@ -21891,7 +21891,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7086,
+        "userScore": 7091,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -21920,7 +21920,7 @@
         {
           "id": 39799615357130,
           "inStock": true,
-          "inventoryQuantity": 43,
+          "inventoryQuantity": 40,
           "price": 54,
           "size": "s",
           "sku": "B6C3I-KDFX-S"
@@ -21936,7 +21936,7 @@
         {
           "id": 39799621550282,
           "inStock": true,
-          "inventoryQuantity": 28,
+          "inventoryQuantity": 27,
           "price": 54,
           "size": "l",
           "sku": "B6C3I-KDFX-L"
@@ -21944,7 +21944,7 @@
         {
           "id": 39799611916490,
           "inStock": true,
-          "inventoryQuantity": 8,
+          "inventoryQuantity": 7,
           "price": 54,
           "size": "xl",
           "sku": "B6C3I-KDFX-XL"
@@ -21952,7 +21952,7 @@
         {
           "id": 39799611752650,
           "inStock": true,
-          "inventoryQuantity": 5,
+          "inventoryQuantity": 6,
           "price": 54,
           "size": "xxl",
           "sku": "B6C3I-KDFX-XXL"
@@ -22134,7 +22134,7 @@
         {
           "id": 39797538422986,
           "inStock": true,
-          "inventoryQuantity": 16,
+          "inventoryQuantity": 13,
           "price": 50,
           "size": "xs",
           "sku": "B6B3J-OBXB-XS"
@@ -22150,7 +22150,7 @@
         {
           "id": 39797543174346,
           "inStock": true,
-          "inventoryQuantity": 39,
+          "inventoryQuantity": 33,
           "price": 50,
           "size": "m",
           "sku": "B6B3J-OBXB-M"
@@ -22174,7 +22174,7 @@
         {
           "id": 39797696528586,
           "inStock": true,
-          "inventoryQuantity": 13,
+          "inventoryQuantity": 12,
           "price": 50,
           "size": "xxl",
           "sku": "B6B3J-OBXB-XXL"
@@ -22392,7 +22392,7 @@
         {
           "id": 39797653110986,
           "inStock": true,
-          "inventoryQuantity": 6064,
+          "inventoryQuantity": 6063,
           "price": 20,
           "size": "default title",
           "sku": "I1B7J-KDG0-OS"
@@ -22542,7 +22542,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8746,
+        "userScore": 8747,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -22563,7 +22563,7 @@
         {
           "id": 39797641216202,
           "inStock": true,
-          "inventoryQuantity": 1076,
+          "inventoryQuantity": 1075,
           "price": 14,
           "size": "m",
           "sku": "I2C7E-WCMY-M"
@@ -22863,7 +22863,7 @@
         {
           "id": 39798016147658,
           "inStock": true,
-          "inventoryQuantity": 1510,
+          "inventoryQuantity": 1506,
           "price": 34,
           "size": "default title",
           "sku": "I2A5Q-UD6Z-OS"
@@ -23003,16 +23003,16 @@
       "garmentLength": null,
       "lowestPrice": 34,
       "rating": {
-        "average": 3.7534,
+        "average": 3.7474,
         "range": 5,
-        "count": 292
+        "count": 293
       },
       "objectID": "6806674505930",
       "_rankingInfo": {
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8470,
+        "userScore": 8473,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -23196,7 +23196,7 @@
         {
           "id": 39797720449226,
           "inStock": true,
-          "inventoryQuantity": 1873,
+          "inventoryQuantity": 1871,
           "price": 62,
           "size": "default title",
           "sku": "I1A8A-GCQS-OS"
@@ -23385,7 +23385,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8357,
+        "userScore": 8359,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -23398,7 +23398,7 @@
         {
           "id": 39797887140042,
           "inStock": true,
-          "inventoryQuantity": 2046,
+          "inventoryQuantity": 2045,
           "price": 34,
           "size": "default title",
           "sku": "I1C6Q-WFPS-OS"
@@ -23559,7 +23559,7 @@
         {
           "id": 39798011297994,
           "inStock": true,
-          "inventoryQuantity": 1805,
+          "inventoryQuantity": 1802,
           "price": 20,
           "size": "default title",
           "sku": "I1B6L-KDFX-OS"
@@ -23570,7 +23570,7 @@
         "28/05/26",
         "acc-lower-bucket",
         "accessories",
-        "akeneo_updated_at:1781182790",
+        "akeneo_updated_at:1781719826",
         "all-products",
         "bottles",
         "build-your-wishlist",
@@ -23898,7 +23898,7 @@
         {
           "id": 39797589213386,
           "inStock": true,
-          "inventoryQuantity": 1077,
+          "inventoryQuantity": 1076,
           "price": 30,
           "size": "default title",
           "sku": "I1C5R-UCTN-OS"
@@ -24073,7 +24073,7 @@
         {
           "id": 39797576564938,
           "inStock": true,
-          "inventoryQuantity": 938,
+          "inventoryQuantity": 936,
           "price": 36,
           "size": "default title",
           "sku": "I2C3V-WCHW-OS"
@@ -24235,7 +24235,7 @@
         {
           "id": 39797882159306,
           "inStock": true,
-          "inventoryQuantity": 643,
+          "inventoryQuantity": 644,
           "price": 20,
           "size": "s",
           "sku": "I3A4G-KDHJ-S"
@@ -24243,7 +24243,7 @@
         {
           "id": 39797952807114,
           "inStock": true,
-          "inventoryQuantity": 972,
+          "inventoryQuantity": 967,
           "price": 20,
           "size": "m",
           "sku": "I3A4G-KDHJ-M"
@@ -24251,7 +24251,7 @@
         {
           "id": 39797840347338,
           "inStock": true,
-          "inventoryQuantity": 628,
+          "inventoryQuantity": 627,
           "price": 20,
           "size": "l",
           "sku": "I3A4G-KDHJ-L"
@@ -24390,7 +24390,7 @@
         {
           "id": 39797615755466,
           "inStock": true,
-          "inventoryQuantity": 1672,
+          "inventoryQuantity": 1666,
           "price": 34,
           "size": "default title",
           "sku": "I2A5Q-KDFW-OS"
@@ -24528,16 +24528,16 @@
       "garmentRise": null,
       "garmentLength": null,
       "rating": {
-        "average": 3.7534,
+        "average": 3.7474,
         "range": 5,
-        "count": 292
+        "count": 293
       },
       "objectID": "6806630695114",
       "_rankingInfo": {
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8058,
+        "userScore": 8031,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -24677,7 +24677,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8003,
+        "userScore": 8005,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -24690,7 +24690,7 @@
         {
           "id": 39797700264138,
           "inStock": true,
-          "inventoryQuantity": 744,
+          "inventoryQuantity": 742,
           "price": 36,
           "size": "default title",
           "sku": "I2C3V-UD6Z-OS"
@@ -24830,14 +24830,16 @@
       "garmentRise": null,
       "garmentLength": null,
       "rating": {
-        "range": 5
+        "average": 5,
+        "range": 5,
+        "count": 1
       },
       "objectID": "6806631841994",
       "_rankingInfo": {
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 8002,
+        "userScore": 8004,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -24850,7 +24852,7 @@
         {
           "id": 39795348504778,
           "inStock": true,
-          "inventoryQuantity": 1503,
+          "inventoryQuantity": 1518,
           "price": 30,
           "size": "default title",
           "sku": "I1C5R-BB2J-OS"
@@ -25016,7 +25018,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7948,
+        "userScore": 7930,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -25029,7 +25031,7 @@
         {
           "id": 39797908308170,
           "inStock": true,
-          "inventoryQuantity": 853,
+          "inventoryQuantity": 852,
           "price": 20,
           "size": "default title",
           "sku": "I2C6Z-UD6Z-OS"
@@ -25152,7 +25154,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7900,
+        "userScore": 7904,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -25165,7 +25167,7 @@
         {
           "id": 39797908963530,
           "inStock": true,
-          "inventoryQuantity": 1296,
+          "inventoryQuantity": 1287,
           "price": 20,
           "size": "default title",
           "sku": "I2C6Z-BB2J-OS"
@@ -25288,7 +25290,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7874,
+        "userScore": 7876,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -25301,7 +25303,7 @@
         {
           "id": 39797902672074,
           "inStock": true,
-          "inventoryQuantity": 826,
+          "inventoryQuantity": 825,
           "price": 28,
           "size": "default title",
           "sku": "I2C6J-WCHW-OS"
@@ -25459,7 +25461,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7845,
+        "userScore": 7847,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -25607,7 +25609,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7792,
+        "userScore": 7794,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -25620,7 +25622,7 @@
         {
           "id": 39797719957706,
           "inStock": true,
-          "inventoryQuantity": 652,
+          "inventoryQuantity": 651,
           "price": 28,
           "size": "default title",
           "sku": "I2C6J-UD6Z-OS"
@@ -25779,7 +25781,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7738,
+        "userScore": 7739,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -25792,7 +25794,7 @@
         {
           "id": 39797588820170,
           "inStock": true,
-          "inventoryQuantity": 774,
+          "inventoryQuantity": 773,
           "price": 26,
           "size": "default title",
           "sku": "I1A6R-RBQW-OS"
@@ -25943,7 +25945,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7603,
+        "userScore": 7604,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -25956,7 +25958,7 @@
         {
           "id": 39797947728074,
           "inStock": true,
-          "inventoryQuantity": 450,
+          "inventoryQuantity": 449,
           "price": 30,
           "size": "default title",
           "sku": "I1B7G-WB57-OS"
@@ -26100,7 +26102,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7545,
+        "userScore": 7546,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -26247,7 +26249,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7465,
+        "userScore": 7466,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -26260,7 +26262,7 @@
         {
           "id": 39797821046986,
           "inStock": true,
-          "inventoryQuantity": 786,
+          "inventoryQuantity": 775,
           "price": 34,
           "size": "default title",
           "sku": "I2C3S-BB2J-OS"
@@ -26449,7 +26451,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7464,
+        "userScore": 7465,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -26620,7 +26622,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7463,
+        "userScore": 7464,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -26633,7 +26635,7 @@
         {
           "id": 39797944811722,
           "inStock": true,
-          "inventoryQuantity": 419,
+          "inventoryQuantity": 415,
           "price": 30,
           "size": "default title",
           "sku": "I1B7G-KDFX-OS"
@@ -26779,7 +26781,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7412,
+        "userScore": 7414,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -26792,7 +26794,7 @@
         {
           "id": 39797589508298,
           "inStock": true,
-          "inventoryQuantity": 508,
+          "inventoryQuantity": 504,
           "price": 34,
           "size": "default title",
           "sku": "I2C3S-KDFW-OS"
@@ -26965,7 +26967,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 7277,
+        "userScore": 7280,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -26978,7 +26980,7 @@
         {
           "id": 39797026193610,
           "inStock": true,
-          "inventoryQuantity": 70,
+          "inventoryQuantity": 62,
           "price": 6,
           "size": "default title",
           "sku": "I2C5J-BC20-OS"
@@ -27107,12 +27109,253 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 6923,
+        "userScore": 6925,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
         "words": 0,
         "filters": 902
+      }
+    },
+    {
+      "availableSizes": [
+        {
+          "id": 39797891629258,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "xs",
+          "sku": "A4C9C-WFPS-XS"
+        },
+        {
+          "id": 39797948842186,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "s",
+          "sku": "A4C9C-WFPS-S"
+        },
+        {
+          "id": 39797934883018,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "m",
+          "sku": "A4C9C-WFPS-M"
+        },
+        {
+          "id": 39797907095754,
+          "inStock": true,
+          "inventoryQuantity": 2,
+          "price": 40,
+          "size": "l",
+          "sku": "A4C9C-WFPS-L"
+        },
+        {
+          "id": 39797897593034,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "xl",
+          "sku": "A4C9C-WFPS-XL"
+        },
+        {
+          "id": 39797961752778,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "xxl",
+          "sku": "A4C9C-WFPS-XXL"
+        },
+        {
+          "id": 39797933801674,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "3xl",
+          "sku": "A4C9C-WFPS-3XL"
+        }
+      ],
+      "canonicalColour": "white",
+      "collections": [
+        "28/05/26",
+        "airport-outfits",
+        "akeneo_updated_at:1781624446",
+        "all-products",
+        "back-to-school",
+        "bodybuilding",
+        "build-your-wishlist",
+        "collegiate",
+        "coming-soon",
+        "coming-soon:2026-05-28t19:00:00+01:00",
+        "graphic-collection",
+        "graphics",
+        "gslc-26",
+        "heavyweight-t-shirts",
+        "intl-28/05/26",
+        "lifting-club",
+        "long-sleeve",
+        "lower-bucket",
+        "modernwisdom",
+        "most-loved",
+        "must-have",
+        "nam-28/05/26",
+        "neutral-gym-sets",
+        "new-releases",
+        "outlet",
+        "over-40-off",
+        "over-50-off",
+        "over-60-off",
+        "over-70-off",
+        "percentageinstockv2",
+        "rest-day",
+        "retro-sportswear",
+        "sale-t-shirts-tops",
+        "spanish-translated",
+        "ss26",
+        "summer-sale-26",
+        "t-shirts-tops",
+        "top-rated",
+        "travel-outfits",
+        "white-tops"
+      ],
+      "colour": "Tinted White/Heavy Blue",
+      "compareAtPrice": null,
+      "discountPercentage": null,
+      "featuredMedia": {
+        "admin_graphql_api_id": "gid://shopify/ProductImage/29003528798410",
+        "alt": null,
+        "created_at": "2026-06-15T08:56:40-07:00",
+        "height": 2018,
+        "id": 29003528798410,
+        "position": 1,
+        "product_id": 6806694691018,
+        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0047.jpg?v=1781539029",
+        "updated_at": "2026-06-15T09:09:19-07:00",
+        "variant_ids": [],
+        "width": 1692
+      },
+      "fit": "oversized fit",
+      "gender": [
+        "m"
+      ],
+      "handle": "gymshark-retro-collegiate-3-4-sleeve-t-shirt-ls-tops-white-ss26-a4c9c-wfps",
+      "id": 6806694691018,
+      "inStock": true,
+      "labels": [
+        "new"
+      ],
+      "media": [
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528798410",
+          "alt": null,
+          "created_at": "2026-06-15T08:56:40-07:00",
+          "height": 2018,
+          "id": 29003528798410,
+          "position": 1,
+          "product_id": 6806694691018,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0047.jpg?v=1781539029",
+          "updated_at": "2026-06-15T09:09:19-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528634570",
+          "alt": null,
+          "created_at": "2026-06-15T08:56:40-07:00",
+          "height": 2018,
+          "id": 29003528634570,
+          "position": 2,
+          "product_id": 6806694691018,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0061.jpg?v=1781539002",
+          "updated_at": "2026-06-15T09:09:19-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003529683146",
+          "alt": null,
+          "created_at": "2026-06-15T09:04:32-07:00",
+          "height": 1350,
+          "id": 29003529683146,
+          "position": 3,
+          "product_id": 6806694691018,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26620600.jpg?v=1781539473",
+          "updated_at": "2026-06-15T09:09:19-07:00",
+          "variant_ids": [],
+          "width": 1080
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528601802",
+          "alt": null,
+          "created_at": "2026-06-15T08:56:40-07:00",
+          "height": 2018,
+          "id": 29003528601802,
+          "position": 4,
+          "product_id": 6806694691018,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0069_94923147-df02-4932-a734-7028de45b827.jpg?v=1781539001",
+          "updated_at": "2026-06-15T09:09:19-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528437962",
+          "alt": null,
+          "created_at": "2026-06-15T08:56:40-07:00",
+          "height": 2018,
+          "id": 29003528437962,
+          "position": 5,
+          "product_id": 6806694691018,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0054.jpg?v=1781539035",
+          "updated_at": "2026-06-15T09:09:19-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528765642",
+          "alt": null,
+          "created_at": "2026-06-15T08:56:40-07:00",
+          "height": 2018,
+          "id": 29003528765642,
+          "position": 6,
+          "product_id": 6806694691018,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0056.jpg?v=1781539036",
+          "updated_at": "2026-06-15T09:09:19-07:00",
+          "variant_ids": [],
+          "width": 1692
+        }
+      ],
+      "price": 40,
+      "sizeInStock": [
+        "l"
+      ],
+      "features": null,
+      "activities": [
+        "rest day"
+      ],
+      "tier": 2,
+      "sku": "A4C9C",
+      "title": "Retro Collegiate 3/4 Sleeve T-Shirt",
+      "type": "Mens>Apparel>LS Tops>t_shirt",
+      "promotionalMessaging": null,
+      "garmentRise": null,
+      "garmentLength": "regular",
+      "rating": {
+        "average": 5,
+        "range": 5,
+        "count": 1
+      },
+      "objectID": "6806694691018",
+      "_rankingInfo": {
+        "nbTypos": 0,
+        "firstMatchedWord": 0,
+        "proximityDistance": 0,
+        "userScore": 6823,
+        "geoDistance": 0,
+        "geoPrecision": 1,
+        "nbExactWords": 0,
+        "words": 0,
+        "filters": 618
       }
     },
     {
@@ -27128,7 +27371,7 @@
         {
           "id": 39797861155018,
           "inStock": true,
-          "inventoryQuantity": 5,
+          "inventoryQuantity": 4,
           "price": 48,
           "size": "xs",
           "sku": "B6B1E-KDGN-XS"
@@ -27382,267 +27625,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 6809,
-        "geoDistance": 0,
-        "geoPrecision": 1,
-        "nbExactWords": 0,
-        "words": 0,
-        "filters": 602
-      }
-    },
-    {
-      "availableSizes": [
-        {
-          "id": 39797580792010,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "xxs",
-          "sku": "B5C9T-OBXB-XXS"
-        },
-        {
-          "id": 39797629845706,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "xs",
-          "sku": "B5C9T-OBXB-XS"
-        },
-        {
-          "id": 39797594980554,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "s",
-          "sku": "B5C9T-OBXB-S"
-        },
-        {
-          "id": 39797596717258,
-          "inStock": true,
-          "inventoryQuantity": 1,
-          "price": 40,
-          "size": "m",
-          "sku": "B5C9T-OBXB-M"
-        },
-        {
-          "id": 39797689090250,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "l",
-          "sku": "B5C9T-OBXB-L"
-        },
-        {
-          "id": 39797692072138,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "xl",
-          "sku": "B5C9T-OBXB-XL"
-        },
-        {
-          "id": 39797614510282,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "xxl",
-          "sku": "B5C9T-OBXB-XXL"
-        }
-      ],
-      "canonicalColour": "orange",
-      "collections": [
-        "08/06/26",
-        "adjustable-straps",
-        "akeneo_updated_at:1781182659",
-        "all-products",
-        "bratz",
-        "bratz-dayglow-peach",
-        "build-your-wishlist",
-        "collabs",
-        "coming-soon",
-        "coming-soon:2026-06-08t19:00:00+01:00",
-        "exclude-from-staff-discount",
-        "gymshark_title",
-        "intl-08/06/26",
-        "low-support-sports-bras",
-        "lower-bucket",
-        "most-loved",
-        "must-have",
-        "nam-08/06/26",
-        "new-releases",
-        "outlet",
-        "over-40-off",
-        "over-50-off",
-        "over-60-off",
-        "over-70-off",
-        "percentageinstockv2",
-        "sale-sports-bra",
-        "seasonal-colors",
-        "shaping-sports-bras",
-        "spanish-translated",
-        "sports-bras",
-        "ss26",
-        "summer-sale-26",
-        "top-rated",
-        "trending"
-      ],
-      "colour": "Dayglow Peach",
-      "compareAtPrice": null,
-      "discountPercentage": null,
-      "featuredMedia": {
-        "admin_graphql_api_id": "gid://shopify/ProductImage/29003371053258",
-        "alt": null,
-        "created_at": "2026-05-15T01:56:01-07:00",
-        "height": 2018,
-        "id": 29003371053258,
-        "position": 1,
-        "product_id": 6806656745674,
-        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6111_V2.jpg?v=1778835362",
-        "updated_at": "2026-05-28T01:38:26-07:00",
-        "variant_ids": [],
-        "width": 1692
-      },
-      "fit": "light support",
-      "gender": [
-        "f"
-      ],
-      "handle": "gymshark-x-bratz-light-support-sports-bra-sports-bras-orange-ss26",
-      "id": 6806656745674,
-      "inStock": true,
-      "labels": [
-        "new"
-      ],
-      "media": [
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003371053258",
-          "alt": null,
-          "created_at": "2026-05-15T01:56:01-07:00",
-          "height": 2018,
-          "id": 29003371053258,
-          "position": 1,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6111_V2.jpg?v=1778835362",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370627274",
-          "alt": null,
-          "created_at": "2026-05-15T01:55:40-07:00",
-          "height": 2018,
-          "id": 29003370627274,
-          "position": 2,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6113_V2.jpg?v=1778835362",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003455856842",
-          "alt": null,
-          "created_at": "2026-05-26T03:42:04-07:00",
-          "height": 2018,
-          "id": 29003455856842,
-          "position": 3,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26405224.jpg?v=1779792134",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370889418",
-          "alt": null,
-          "created_at": "2026-05-15T01:56:00-07:00",
-          "height": 2018,
-          "id": 29003370889418,
-          "position": 4,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6112_V2.jpg?v=1778835369",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370856650",
-          "alt": null,
-          "created_at": "2026-05-15T01:56:00-07:00",
-          "height": 2018,
-          "id": 29003370856650,
-          "position": 5,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6116_V2.jpg?v=1778835362",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370528970",
-          "alt": null,
-          "created_at": "2026-05-15T01:55:39-07:00",
-          "height": 2018,
-          "id": 29003370528970,
-          "position": 6,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6114_V2.jpg?v=1778835367",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003371086026",
-          "alt": null,
-          "created_at": "2026-05-15T01:56:07-07:00",
-          "height": 2018,
-          "id": 29003371086026,
-          "position": 7,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6115_V2.jpg?v=1778835368",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370463434",
-          "alt": null,
-          "created_at": "2026-05-15T01:55:39-07:00",
-          "height": 2018,
-          "id": 29003370463434,
-          "position": 8,
-          "product_id": 6806656745674,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6219_V2.jpg?v=1778835369",
-          "updated_at": "2026-05-28T01:38:26-07:00",
-          "variant_ids": [],
-          "width": 1692
-        }
-      ],
-      "price": 40,
-      "sizeInStock": [
-        "m"
-      ],
-      "features": null,
-      "activities": [
-        "lifting"
-      ],
-      "tier": 2,
-      "sku": "B5C9T",
-      "title": "Gymshark x Bratz Light Support Sports Bra",
-      "type": "Womens>Apparel>Sports Bras>scoop_neck",
-      "promotionalMessaging": null,
-      "garmentRise": null,
-      "garmentLength": null,
-      "lowestPrice": 28,
-      "rating": {
-        "range": 5
-      },
-      "objectID": "6806656745674",
-      "_rankingInfo": {
-        "nbTypos": 0,
-        "firstMatchedWord": 0,
-        "proximityDistance": 0,
-        "userScore": 6774,
+        "userScore": 6813,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -28553,7 +28536,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 5727,
+        "userScore": 5787,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -29093,7 +29076,7 @@
         "28/05/26",
         "airport-outfits",
         "akeneo_updated_at:1775650703",
-        "akeneo_updated_at:1781624446",
+        "akeneo_updated_at:1781719770",
         "all-products",
         "back-to-school",
         "black-staples",
@@ -29266,7 +29249,7 @@
       "sku": "A4C5G",
       "title": "Retro Collegiate T-Shirt",
       "type": "Mens>Apparel>SS Tops>t_shirt",
-      "promotionalMessaging": "heavyweight",
+      "promotionalMessaging": null,
       "garmentRise": null,
       "garmentLength": "regular",
       "rating": {
@@ -29279,246 +29262,7 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 5887,
-        "geoDistance": 0,
-        "geoPrecision": 1,
-        "nbExactWords": 0,
-        "words": 0,
-        "filters": 1018
-      }
-    },
-    {
-      "availableSizes": [
-        {
-          "id": 39797891629258,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "xs",
-          "sku": "A4C9C-WFPS-XS"
-        },
-        {
-          "id": 39797948842186,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "s",
-          "sku": "A4C9C-WFPS-S"
-        },
-        {
-          "id": 39797934883018,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "m",
-          "sku": "A4C9C-WFPS-M"
-        },
-        {
-          "id": 39797907095754,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "l",
-          "sku": "A4C9C-WFPS-L"
-        },
-        {
-          "id": 39797897593034,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "xl",
-          "sku": "A4C9C-WFPS-XL"
-        },
-        {
-          "id": 39797961752778,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "xxl",
-          "sku": "A4C9C-WFPS-XXL"
-        },
-        {
-          "id": 39797933801674,
-          "inStock": false,
-          "inventoryQuantity": 0,
-          "price": 40,
-          "size": "3xl",
-          "sku": "A4C9C-WFPS-3XL"
-        }
-      ],
-      "canonicalColour": "white",
-      "collections": [
-        "28/05/26",
-        "airport-outfits",
-        "akeneo_updated_at:1781624446",
-        "all-products",
-        "back-to-school",
-        "bodybuilding",
-        "build-your-wishlist",
-        "collegiate",
-        "coming-soon",
-        "coming-soon:2026-05-28t19:00:00+01:00",
-        "graphic-collection",
-        "graphics",
-        "gslc-26",
-        "heavyweight-t-shirts",
-        "intl-28/05/26",
-        "lifting-club",
-        "long-sleeve",
-        "lower-bucket",
-        "modernwisdom",
-        "most-loved",
-        "must-have",
-        "nam-28/05/26",
-        "neutral-gym-sets",
-        "new-releases",
-        "outlet",
-        "over-40-off",
-        "over-50-off",
-        "over-60-off",
-        "over-70-off",
-        "percentageinstockv2",
-        "rest-day",
-        "retro-sportswear",
-        "sale-t-shirts-tops",
-        "spanish-translated",
-        "ss26",
-        "summer-sale-26",
-        "t-shirts-tops",
-        "top-rated",
-        "travel-outfits",
-        "white-tops"
-      ],
-      "colour": "Tinted White/Heavy Blue",
-      "compareAtPrice": null,
-      "discountPercentage": null,
-      "featuredMedia": {
-        "admin_graphql_api_id": "gid://shopify/ProductImage/29003528798410",
-        "alt": null,
-        "created_at": "2026-06-15T08:56:40-07:00",
-        "height": 2018,
-        "id": 29003528798410,
-        "position": 1,
-        "product_id": 6806694691018,
-        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0047.jpg?v=1781539029",
-        "updated_at": "2026-06-15T09:09:19-07:00",
-        "variant_ids": [],
-        "width": 1692
-      },
-      "fit": "oversized fit",
-      "gender": [
-        "m"
-      ],
-      "handle": "gymshark-retro-collegiate-3-4-sleeve-t-shirt-ls-tops-white-ss26-a4c9c-wfps",
-      "id": 6806694691018,
-      "inStock": false,
-      "labels": [
-        "new"
-      ],
-      "media": [
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528798410",
-          "alt": null,
-          "created_at": "2026-06-15T08:56:40-07:00",
-          "height": 2018,
-          "id": 29003528798410,
-          "position": 1,
-          "product_id": 6806694691018,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0047.jpg?v=1781539029",
-          "updated_at": "2026-06-15T09:09:19-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528634570",
-          "alt": null,
-          "created_at": "2026-06-15T08:56:40-07:00",
-          "height": 2018,
-          "id": 29003528634570,
-          "position": 2,
-          "product_id": 6806694691018,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0061.jpg?v=1781539002",
-          "updated_at": "2026-06-15T09:09:19-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003529683146",
-          "alt": null,
-          "created_at": "2026-06-15T09:04:32-07:00",
-          "height": 1350,
-          "id": 29003529683146,
-          "position": 3,
-          "product_id": 6806694691018,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26620600.jpg?v=1781539473",
-          "updated_at": "2026-06-15T09:09:19-07:00",
-          "variant_ids": [],
-          "width": 1080
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528601802",
-          "alt": null,
-          "created_at": "2026-06-15T08:56:40-07:00",
-          "height": 2018,
-          "id": 29003528601802,
-          "position": 4,
-          "product_id": 6806694691018,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0069_94923147-df02-4932-a734-7028de45b827.jpg?v=1781539001",
-          "updated_at": "2026-06-15T09:09:19-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528437962",
-          "alt": null,
-          "created_at": "2026-06-15T08:56:40-07:00",
-          "height": 2018,
-          "id": 29003528437962,
-          "position": 5,
-          "product_id": 6806694691018,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0054.jpg?v=1781539035",
-          "updated_at": "2026-06-15T09:09:19-07:00",
-          "variant_ids": [],
-          "width": 1692
-        },
-        {
-          "admin_graphql_api_id": "gid://shopify/ProductImage/29003528765642",
-          "alt": null,
-          "created_at": "2026-06-15T08:56:40-07:00",
-          "height": 2018,
-          "id": 29003528765642,
-          "position": 6,
-          "product_id": 6806694691018,
-          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/RaglanBaseball34SleeveGSTintedWhiteGSHeavyBlueA4C9C_WFPS_0056.jpg?v=1781539036",
-          "updated_at": "2026-06-15T09:09:19-07:00",
-          "variant_ids": [],
-          "width": 1692
-        }
-      ],
-      "price": 40,
-      "sizeInStock": [],
-      "features": null,
-      "activities": [
-        "rest day"
-      ],
-      "tier": 2,
-      "sku": "A4C9C",
-      "title": "Retro Collegiate 3/4 Sleeve T-Shirt",
-      "type": "Mens>Apparel>LS Tops>t_shirt",
-      "promotionalMessaging": null,
-      "garmentRise": null,
-      "garmentLength": "regular",
-      "rating": {
-        "average": 5,
-        "range": 5,
-        "count": 1
-      },
-      "objectID": "6806694691018",
-      "_rankingInfo": {
-        "nbTypos": 0,
-        "firstMatchedWord": 0,
-        "proximityDistance": 0,
-        "userScore": 5805,
+        "userScore": 5909,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
@@ -29589,7 +29333,7 @@
       "collections": [
         "28/05/26",
         "airport-outfits",
-        "akeneo_updated_at:1781624446",
+        "akeneo_updated_at:1781719770",
         "all-products",
         "back-to-school",
         "bodybuilding",
@@ -29760,7 +29504,7 @@
       "sku": "A4C5G",
       "title": "Retro Collegiate T-Shirt",
       "type": "Mens>Apparel>SS Tops>t_shirt",
-      "promotionalMessaging": "heavyweight",
+      "promotionalMessaging": null,
       "garmentRise": null,
       "garmentLength": "regular",
       "rating": {
@@ -29773,12 +29517,270 @@
         "nbTypos": 0,
         "firstMatchedWord": 0,
         "proximityDistance": 0,
-        "userScore": 5684,
+        "userScore": 5704,
         "geoDistance": 0,
         "geoPrecision": 1,
         "nbExactWords": 0,
         "words": 0,
         "filters": 1018
+      }
+    },
+    {
+      "availableSizes": [
+        {
+          "id": 39797580792010,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "xxs",
+          "sku": "B5C9T-OBXB-XXS"
+        },
+        {
+          "id": 39797629845706,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "xs",
+          "sku": "B5C9T-OBXB-XS"
+        },
+        {
+          "id": 39797594980554,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "s",
+          "sku": "B5C9T-OBXB-S"
+        },
+        {
+          "id": 39797596717258,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "m",
+          "sku": "B5C9T-OBXB-M"
+        },
+        {
+          "id": 39797689090250,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "l",
+          "sku": "B5C9T-OBXB-L"
+        },
+        {
+          "id": 39797692072138,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "xl",
+          "sku": "B5C9T-OBXB-XL"
+        },
+        {
+          "id": 39797614510282,
+          "inStock": false,
+          "inventoryQuantity": 0,
+          "price": 40,
+          "size": "xxl",
+          "sku": "B5C9T-OBXB-XXL"
+        }
+      ],
+      "canonicalColour": "orange",
+      "collections": [
+        "08/06/26",
+        "adjustable-straps",
+        "akeneo_updated_at:1781182659",
+        "all-products",
+        "bratz",
+        "bratz-dayglow-peach",
+        "build-your-wishlist",
+        "collabs",
+        "coming-soon",
+        "coming-soon:2026-06-08t19:00:00+01:00",
+        "exclude-from-staff-discount",
+        "gymshark_title",
+        "intl-08/06/26",
+        "low-support-sports-bras",
+        "lower-bucket",
+        "most-loved",
+        "must-have",
+        "nam-08/06/26",
+        "new-releases",
+        "outlet",
+        "over-40-off",
+        "over-50-off",
+        "over-60-off",
+        "over-70-off",
+        "percentageinstockv2",
+        "sale-sports-bra",
+        "seasonal-colors",
+        "shaping-sports-bras",
+        "spanish-translated",
+        "sports-bras",
+        "ss26",
+        "summer-sale-26",
+        "top-rated",
+        "trending"
+      ],
+      "colour": "Dayglow Peach",
+      "compareAtPrice": null,
+      "discountPercentage": null,
+      "featuredMedia": {
+        "admin_graphql_api_id": "gid://shopify/ProductImage/29003371053258",
+        "alt": null,
+        "created_at": "2026-05-15T01:56:01-07:00",
+        "height": 2018,
+        "id": 29003371053258,
+        "position": 1,
+        "product_id": 6806656745674,
+        "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6111_V2.jpg?v=1778835362",
+        "updated_at": "2026-05-28T01:38:26-07:00",
+        "variant_ids": [],
+        "width": 1692
+      },
+      "fit": "light support",
+      "gender": [
+        "f"
+      ],
+      "handle": "gymshark-x-bratz-light-support-sports-bra-sports-bras-orange-ss26",
+      "id": 6806656745674,
+      "inStock": false,
+      "labels": [
+        "new"
+      ],
+      "media": [
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003371053258",
+          "alt": null,
+          "created_at": "2026-05-15T01:56:01-07:00",
+          "height": 2018,
+          "id": 29003371053258,
+          "position": 1,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6111_V2.jpg?v=1778835362",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370627274",
+          "alt": null,
+          "created_at": "2026-05-15T01:55:40-07:00",
+          "height": 2018,
+          "id": 29003370627274,
+          "position": 2,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6113_V2.jpg?v=1778835362",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003455856842",
+          "alt": null,
+          "created_at": "2026-05-26T03:42:04-07:00",
+          "height": 2018,
+          "id": 29003455856842,
+          "position": 3,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/26405224.jpg?v=1779792134",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370889418",
+          "alt": null,
+          "created_at": "2026-05-15T01:56:00-07:00",
+          "height": 2018,
+          "id": 29003370889418,
+          "position": 4,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6112_V2.jpg?v=1778835369",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370856650",
+          "alt": null,
+          "created_at": "2026-05-15T01:56:00-07:00",
+          "height": 2018,
+          "id": 29003370856650,
+          "position": 5,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6116_V2.jpg?v=1778835362",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370528970",
+          "alt": null,
+          "created_at": "2026-05-15T01:55:39-07:00",
+          "height": 2018,
+          "id": 29003370528970,
+          "position": 6,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6114_V2.jpg?v=1778835367",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003371086026",
+          "alt": null,
+          "created_at": "2026-05-15T01:56:07-07:00",
+          "height": 2018,
+          "id": 29003371086026,
+          "position": 7,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6115_V2.jpg?v=1778835368",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        },
+        {
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29003370463434",
+          "alt": null,
+          "created_at": "2026-05-15T01:55:39-07:00",
+          "height": 2018,
+          "id": 29003370463434,
+          "position": 8,
+          "product_id": 6806656745674,
+          "src": "https://cdn.shopify.com/s/files/1/0156/6146/files/GSxBratzSportsBrasLightGSDayglowPeachB5C9T_OBXB_6219_V2.jpg?v=1778835369",
+          "updated_at": "2026-05-28T01:38:26-07:00",
+          "variant_ids": [],
+          "width": 1692
+        }
+      ],
+      "price": 40,
+      "sizeInStock": [],
+      "features": null,
+      "activities": [
+        "lifting"
+      ],
+      "tier": 2,
+      "sku": "B5C9T",
+      "title": "Gymshark x Bratz Light Support Sports Bra",
+      "type": "Womens>Apparel>Sports Bras>scoop_neck",
+      "promotionalMessaging": null,
+      "garmentRise": null,
+      "garmentLength": null,
+      "lowestPrice": 28,
+      "rating": {
+        "range": 5
+      },
+      "objectID": "6806656745674",
+      "_rankingInfo": {
+        "nbTypos": 0,
+        "firstMatchedWord": 0,
+        "proximityDistance": 0,
+        "userScore": 5705,
+        "geoDistance": 0,
+        "geoPrecision": 1,
+        "nbExactWords": 0,
+        "words": 0,
+        "filters": 1002
       }
     },
     {
