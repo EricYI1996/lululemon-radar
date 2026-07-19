@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T05:12:07.584365+00:00",
+  "fetchedAt": "2026-07-19T05:20:17.137619+00:00",
   "source": "https://dfyne.com/products.json?limit=50",
   "count": 50,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The lightweight fabric with contour zones highlights muscle definition, and the longline silhouette flatters your natural shape so you can look and feel your strongest.</p>",
       "published_at": "2026-07-11T14:57:34+01:00",
       "created_at": "2026-02-27T10:57:33+00:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Pearl Pink",
       "product_type": "Tops",
       "tags": [
@@ -20,6 +20,7 @@
         "New Releases",
         "Pearl Pink",
         "Pink",
+        "restock recent",
         "SAPG::Impact Short Sleeve Top::Pearl Pink",
         "T-Shirts & Tops",
         "Tops",
@@ -44,7 +45,7 @@
           "position": 1,
           "product_id": 8081718214749,
           "created_at": "2026-02-27T10:57:33+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44227164831837,
@@ -63,7 +64,7 @@
           "position": 2,
           "product_id": 8081718214749,
           "created_at": "2026-02-27T10:57:33+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44227164864605,
@@ -82,7 +83,7 @@
           "position": 3,
           "product_id": 8081718214749,
           "created_at": "2026-02-27T10:57:33+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44227164897373,
@@ -101,7 +102,7 @@
           "position": 4,
           "product_id": 8081718214749,
           "created_at": "2026-02-27T10:57:33+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44227164930141,
@@ -120,7 +121,7 @@
           "position": 5,
           "product_id": 8081718214749,
           "created_at": "2026-02-27T10:57:33+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -190,7 +191,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p>\n<p>Built for your toughest sessions, IMPACT combines firm sculpting fabric with a flexible scrunch and contouring to lift and define your glutes. The shorts stay in place without digging into your thighs, and the mid to low waistband and contour zones support your natural shape so you can look and feel your strongest.</p>",
       "published_at": "2026-07-02T16:24:48+01:00",
       "created_at": "2024-02-13T12:27:46+00:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Ice Blue ",
       "product_type": "Shorts",
       "tags": [
@@ -224,7 +225,7 @@
           "position": 1,
           "product_id": 7276800507997,
           "created_at": "2024-02-13T12:27:46+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 41574923501661,
@@ -243,7 +244,7 @@
           "position": 2,
           "product_id": 7276800507997,
           "created_at": "2024-02-13T12:27:46+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 41574923534429,
@@ -262,7 +263,7 @@
           "position": 3,
           "product_id": 7276800507997,
           "created_at": "2024-02-13T12:27:46+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 41574923567197,
@@ -281,7 +282,7 @@
           "position": 4,
           "product_id": 7276800507997,
           "created_at": "2024-02-13T12:27:46+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 41574923599965,
@@ -300,7 +301,7 @@
           "position": 5,
           "product_id": 7276800507997,
           "created_at": "2024-02-13T12:27:46+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -370,7 +371,7 @@
       "body_html": "<p>Origin Collection</p>",
       "published_at": "2026-07-02T11:32:45+01:00",
       "created_at": "2026-05-12T13:01:58+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Accessories",
       "tags": [
@@ -402,7 +403,7 @@
           "position": 1,
           "product_id": 8133835194461,
           "created_at": "2026-05-12T13:01:58+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -468,7 +469,7 @@
       "body_html": "<p><strong>Enhance your workout.</strong></p>\n<p>The ultimate addition to your everyday gym fits. The lightweight and spacious design has room for all your gym day essentials.</p>",
       "published_at": "2026-06-30T12:25:53+01:00",
       "created_at": "2026-06-25T16:31:09+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Bags",
       "tags": [
@@ -506,7 +507,7 @@
           "position": 1,
           "product_id": 8162871443549,
           "created_at": "2026-06-25T16:31:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -572,7 +573,7 @@
       "body_html": "<p>Level up with CHARGE Quarter zip. Designed to highlight your arm day gains, without restricting movement. Whether your workout is for strength or speed our Half Zip is the perfect throw on for every session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-24T14:54:49+01:00",
       "created_at": "2026-06-01T11:58:54+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -609,7 +610,7 @@
           "position": 1,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T11:58:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488422326365,
@@ -628,7 +629,7 @@
           "position": 2,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T12:14:32+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411971677,
@@ -647,7 +648,7 @@
           "position": 3,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T11:58:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488422359133,
@@ -666,7 +667,7 @@
           "position": 4,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T12:14:32+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488412004445,
@@ -685,7 +686,7 @@
           "position": 5,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T11:58:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488422391901,
@@ -704,7 +705,7 @@
           "position": 6,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T12:14:32+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488412037213,
@@ -723,7 +724,7 @@
           "position": 7,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T11:58:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488422424669,
@@ -742,7 +743,7 @@
           "position": 8,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T12:14:32+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488412069981,
@@ -761,7 +762,7 @@
           "position": 9,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T11:58:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488422457437,
@@ -780,7 +781,7 @@
           "position": 10,
           "product_id": 8144810442845,
           "created_at": "2026-06-01T12:14:32+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -858,7 +859,7 @@
       "body_html": "<p>Level up with CHARGE Tank. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Tank is the perfect top for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-24T14:54:49+01:00",
       "created_at": "2026-06-01T11:58:53+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tanks",
       "tags": [
@@ -892,7 +893,7 @@
           "position": 1,
           "product_id": 8144810410077,
           "created_at": "2026-06-01T11:58:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411807837,
@@ -911,7 +912,7 @@
           "position": 2,
           "product_id": 8144810410077,
           "created_at": "2026-06-01T11:58:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411840605,
@@ -930,7 +931,7 @@
           "position": 3,
           "product_id": 8144810410077,
           "created_at": "2026-06-01T11:58:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411873373,
@@ -949,7 +950,7 @@
           "position": 4,
           "product_id": 8144810410077,
           "created_at": "2026-06-01T11:58:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411906141,
@@ -968,7 +969,7 @@
           "position": 5,
           "product_id": 8144810410077,
           "created_at": "2026-06-01T11:58:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -1038,7 +1039,7 @@
       "body_html": "<p>Level up with CHARGE Active Top. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Active Top is the perfect go-to for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-24T14:54:49+01:00",
       "created_at": "2026-06-01T11:58:52+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -1072,7 +1073,7 @@
           "position": 1,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T11:58:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488420950109,
@@ -1091,7 +1092,7 @@
           "position": 2,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T12:12:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411643997,
@@ -1110,7 +1111,7 @@
           "position": 3,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T11:58:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488420982877,
@@ -1129,7 +1130,7 @@
           "position": 4,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T12:12:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411676765,
@@ -1148,7 +1149,7 @@
           "position": 5,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T11:58:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488421015645,
@@ -1167,7 +1168,7 @@
           "position": 6,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T12:12:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411709533,
@@ -1186,7 +1187,7 @@
           "position": 7,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T11:58:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488421048413,
@@ -1205,7 +1206,7 @@
           "position": 8,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T12:12:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488411742301,
@@ -1224,7 +1225,7 @@
           "position": 9,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T11:58:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44488421081181,
@@ -1243,7 +1244,7 @@
           "position": 10,
           "product_id": 8144810377309,
           "created_at": "2026-06-01T12:12:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -1321,7 +1322,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a halter neck design, paired with a double back strap, which provides support while being able to move freely.</p>",
       "published_at": "2026-06-18T15:59:22+01:00",
       "created_at": "2026-06-02T15:13:42+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sports Bras",
       "tags": [
@@ -1355,7 +1356,7 @@
           "position": 1,
           "product_id": 8146006835293,
           "created_at": "2026-06-02T15:13:42+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666311773,
@@ -1374,7 +1375,7 @@
           "position": 2,
           "product_id": 8146006835293,
           "created_at": "2026-06-02T15:13:42+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666344541,
@@ -1393,7 +1394,7 @@
           "position": 3,
           "product_id": 8146006835293,
           "created_at": "2026-06-02T15:13:42+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666377309,
@@ -1412,7 +1413,7 @@
           "position": 4,
           "product_id": 8146006835293,
           "created_at": "2026-06-02T15:13:42+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666410077,
@@ -1431,7 +1432,7 @@
           "position": 5,
           "product_id": 8146006835293,
           "created_at": "2026-06-02T15:13:42+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666442845,
@@ -1450,7 +1451,7 @@
           "position": 6,
           "product_id": 8146006835293,
           "created_at": "2026-06-02T15:13:42+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -1521,7 +1522,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a halter neck design, paired with a double back strap, which provides support while being able to move freely.</p>",
       "published_at": "2026-06-18T15:59:21+01:00",
       "created_at": "2026-06-02T15:13:46+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Hazelnut",
       "product_type": "Sports Bras",
       "tags": [
@@ -1555,7 +1556,7 @@
           "position": 1,
           "product_id": 8146006966365,
           "created_at": "2026-06-02T15:13:46+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666934365,
@@ -1574,7 +1575,7 @@
           "position": 2,
           "product_id": 8146006966365,
           "created_at": "2026-06-02T15:13:46+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666967133,
@@ -1593,7 +1594,7 @@
           "position": 3,
           "product_id": 8146006966365,
           "created_at": "2026-06-02T15:13:46+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666999901,
@@ -1612,7 +1613,7 @@
           "position": 4,
           "product_id": 8146006966365,
           "created_at": "2026-06-02T15:13:46+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667032669,
@@ -1624,14 +1625,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "47.50",
           "grams": 75,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8146006966365,
           "created_at": "2026-06-02T15:13:46+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667065437,
@@ -1650,7 +1651,7 @@
           "position": 6,
           "product_id": 8146006966365,
           "created_at": "2026-06-02T15:13:46+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -1721,7 +1722,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a halter neck design, paired with a double back strap, which provides support while being able to move freely.</p>",
       "published_at": "2026-06-18T15:59:20+01:00",
       "created_at": "2026-06-02T15:13:44+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cherry",
       "product_type": "Sports Bras",
       "tags": [
@@ -1755,7 +1756,7 @@
           "position": 1,
           "product_id": 8146006933597,
           "created_at": "2026-06-02T15:13:45+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666737757,
@@ -1774,7 +1775,7 @@
           "position": 2,
           "product_id": 8146006933597,
           "created_at": "2026-06-02T15:13:45+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666770525,
@@ -1793,7 +1794,7 @@
           "position": 3,
           "product_id": 8146006933597,
           "created_at": "2026-06-02T15:13:45+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666803293,
@@ -1812,7 +1813,7 @@
           "position": 4,
           "product_id": 8146006933597,
           "created_at": "2026-06-02T15:13:45+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666836061,
@@ -1831,7 +1832,7 @@
           "position": 5,
           "product_id": 8146006933597,
           "created_at": "2026-06-02T15:13:45+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666868829,
@@ -1850,7 +1851,7 @@
           "position": 6,
           "product_id": 8146006933597,
           "created_at": "2026-06-02T15:13:45+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -1921,7 +1922,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a halter neck design, paired with a double back strap, which provides support while being able to move freely.</p>",
       "published_at": "2026-06-18T15:59:19+01:00",
       "created_at": "2026-06-02T15:13:43+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Blueberry",
       "product_type": "Sports Bras",
       "tags": [
@@ -1955,7 +1956,7 @@
           "position": 1,
           "product_id": 8146006900829,
           "created_at": "2026-06-02T15:13:43+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666541149,
@@ -1974,7 +1975,7 @@
           "position": 2,
           "product_id": 8146006900829,
           "created_at": "2026-06-02T15:13:43+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666573917,
@@ -1993,7 +1994,7 @@
           "position": 3,
           "product_id": 8146006900829,
           "created_at": "2026-06-02T15:13:43+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666606685,
@@ -2012,7 +2013,7 @@
           "position": 4,
           "product_id": 8146006900829,
           "created_at": "2026-06-02T15:13:43+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666639453,
@@ -2024,14 +2025,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "47.50",
           "grams": 75,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8146006900829,
           "created_at": "2026-06-02T15:13:43+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490666672221,
@@ -2050,7 +2051,7 @@
           "position": 6,
           "product_id": 8146006900829,
           "created_at": "2026-06-02T15:13:43+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -2121,7 +2122,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The high neck design, paired with a double back strap, provides support and comfort for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:18+01:00",
       "created_at": "2026-06-02T15:13:48+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -2155,7 +2156,7 @@
           "position": 1,
           "product_id": 8146007031901,
           "created_at": "2026-06-02T15:13:48+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667327581,
@@ -2174,7 +2175,7 @@
           "position": 2,
           "product_id": 8146007031901,
           "created_at": "2026-06-02T15:13:48+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667360349,
@@ -2193,7 +2194,7 @@
           "position": 3,
           "product_id": 8146007031901,
           "created_at": "2026-06-02T15:13:48+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667393117,
@@ -2212,7 +2213,7 @@
           "position": 4,
           "product_id": 8146007031901,
           "created_at": "2026-06-02T15:13:48+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667425885,
@@ -2224,14 +2225,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "57.50",
           "grams": 115,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8146007031901,
           "created_at": "2026-06-02T15:13:48+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667458653,
@@ -2250,7 +2251,7 @@
           "position": 6,
           "product_id": 8146007031901,
           "created_at": "2026-06-02T15:13:48+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -2321,7 +2322,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The high neck design, paired with a double back strap, provides support and comfort for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:17+01:00",
       "created_at": "2026-06-02T15:13:50+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cherry",
       "product_type": "Tops",
       "tags": [
@@ -2356,7 +2357,7 @@
           "position": 1,
           "product_id": 8146007097437,
           "created_at": "2026-06-02T15:13:50+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667720797,
@@ -2375,7 +2376,7 @@
           "position": 2,
           "product_id": 8146007097437,
           "created_at": "2026-06-02T15:13:50+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667753565,
@@ -2394,7 +2395,7 @@
           "position": 3,
           "product_id": 8146007097437,
           "created_at": "2026-06-02T15:13:50+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667786333,
@@ -2413,7 +2414,7 @@
           "position": 4,
           "product_id": 8146007097437,
           "created_at": "2026-06-02T15:13:50+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667819101,
@@ -2432,7 +2433,7 @@
           "position": 5,
           "product_id": 8146007097437,
           "created_at": "2026-06-02T15:13:50+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667851869,
@@ -2451,7 +2452,7 @@
           "position": 6,
           "product_id": 8146007097437,
           "created_at": "2026-06-02T15:13:50+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -2522,7 +2523,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a halter neck design, paired with a double back strap, which provides support while being able to move freely.</p>",
       "published_at": "2026-06-18T15:59:16+01:00",
       "created_at": "2026-06-02T15:13:47+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Vanilla",
       "product_type": "Sports Bras",
       "tags": [
@@ -2556,7 +2557,7 @@
           "position": 1,
           "product_id": 8146006999133,
           "created_at": "2026-06-02T15:13:47+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667130973,
@@ -2568,14 +2569,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "47.50",
           "grams": 75,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8146006999133,
           "created_at": "2026-06-02T15:13:47+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667163741,
@@ -2594,7 +2595,7 @@
           "position": 3,
           "product_id": 8146006999133,
           "created_at": "2026-06-02T15:13:47+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667196509,
@@ -2613,7 +2614,7 @@
           "position": 4,
           "product_id": 8146006999133,
           "created_at": "2026-06-02T15:13:47+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667229277,
@@ -2632,7 +2633,7 @@
           "position": 5,
           "product_id": 8146006999133,
           "created_at": "2026-06-02T15:13:47+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667262045,
@@ -2651,7 +2652,7 @@
           "position": 6,
           "product_id": 8146006999133,
           "created_at": "2026-06-02T15:13:47+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -2722,7 +2723,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The high neck design, paired with a double back strap, provides support and comfort for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:15+01:00",
       "created_at": "2026-06-02T15:13:49+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Blueberry",
       "product_type": "Tops",
       "tags": [
@@ -2757,7 +2758,7 @@
           "position": 1,
           "product_id": 8146007064669,
           "created_at": "2026-06-02T15:13:49+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667524189,
@@ -2776,7 +2777,7 @@
           "position": 2,
           "product_id": 8146007064669,
           "created_at": "2026-06-02T15:13:49+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667556957,
@@ -2795,7 +2796,7 @@
           "position": 3,
           "product_id": 8146007064669,
           "created_at": "2026-06-02T15:13:49+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667589725,
@@ -2814,7 +2815,7 @@
           "position": 4,
           "product_id": 8146007064669,
           "created_at": "2026-06-02T15:13:49+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667622493,
@@ -2833,7 +2834,7 @@
           "position": 5,
           "product_id": 8146007064669,
           "created_at": "2026-06-02T15:13:49+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667655261,
@@ -2852,7 +2853,7 @@
           "position": 6,
           "product_id": 8146007064669,
           "created_at": "2026-06-02T15:13:49+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -2923,7 +2924,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The full-length zip and long sleeves make this the perfect layering piece for everyday fits.</p>",
       "published_at": "2026-06-18T15:59:14+01:00",
       "created_at": "2026-06-02T15:13:55+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Blueberry",
       "product_type": "Zippy",
       "tags": [
@@ -2958,7 +2959,7 @@
           "position": 1,
           "product_id": 8146007261277,
           "created_at": "2026-06-02T15:13:55+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668539997,
@@ -2977,7 +2978,7 @@
           "position": 2,
           "product_id": 8146007261277,
           "created_at": "2026-06-02T15:13:55+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668572765,
@@ -2996,7 +2997,7 @@
           "position": 3,
           "product_id": 8146007261277,
           "created_at": "2026-06-02T15:13:55+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668605533,
@@ -3015,7 +3016,7 @@
           "position": 4,
           "product_id": 8146007261277,
           "created_at": "2026-06-02T15:13:55+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668638301,
@@ -3034,7 +3035,7 @@
           "position": 5,
           "product_id": 8146007261277,
           "created_at": "2026-06-02T15:13:55+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668671069,
@@ -3053,7 +3054,7 @@
           "position": 6,
           "product_id": 8146007261277,
           "created_at": "2026-06-02T15:13:55+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -3124,7 +3125,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The high neck design, paired with a double back strap, provides support and comfort for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:14+01:00",
       "created_at": "2026-06-02T15:13:53+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Vanilla",
       "product_type": "Tops",
       "tags": [
@@ -3159,7 +3160,7 @@
           "position": 1,
           "product_id": 8146007195741,
           "created_at": "2026-06-02T15:13:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668146781,
@@ -3178,7 +3179,7 @@
           "position": 2,
           "product_id": 8146007195741,
           "created_at": "2026-06-02T15:13:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668179549,
@@ -3197,7 +3198,7 @@
           "position": 3,
           "product_id": 8146007195741,
           "created_at": "2026-06-02T15:13:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668212317,
@@ -3216,7 +3217,7 @@
           "position": 4,
           "product_id": 8146007195741,
           "created_at": "2026-06-02T15:13:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668245085,
@@ -3235,7 +3236,7 @@
           "position": 5,
           "product_id": 8146007195741,
           "created_at": "2026-06-02T15:13:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668277853,
@@ -3254,7 +3255,7 @@
           "position": 6,
           "product_id": 8146007195741,
           "created_at": "2026-06-02T15:13:53+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -3325,7 +3326,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The full-length zip and long sleeves make this the perfect layering piece for everyday fits.</p>",
       "published_at": "2026-06-18T15:59:13+01:00",
       "created_at": "2026-06-02T15:13:54+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Zippy",
       "tags": [
@@ -3360,7 +3361,7 @@
           "position": 1,
           "product_id": 8146007228509,
           "created_at": "2026-06-02T15:13:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668343389,
@@ -3372,14 +3373,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "72.50",
           "grams": 195,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8146007228509,
           "created_at": "2026-06-02T15:13:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668376157,
@@ -3398,7 +3399,7 @@
           "position": 3,
           "product_id": 8146007228509,
           "created_at": "2026-06-02T15:13:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668408925,
@@ -3417,7 +3418,7 @@
           "position": 4,
           "product_id": 8146007228509,
           "created_at": "2026-06-02T15:13:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668441693,
@@ -3436,7 +3437,7 @@
           "position": 5,
           "product_id": 8146007228509,
           "created_at": "2026-06-02T15:13:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668474461,
@@ -3455,7 +3456,7 @@
           "position": 6,
           "product_id": 8146007228509,
           "created_at": "2026-06-02T15:13:54+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -3526,7 +3527,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The high neck design, paired with a double back strap, provides support and comfort for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:13+01:00",
       "created_at": "2026-06-02T15:13:51+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Hazelnut",
       "product_type": "Tops",
       "tags": [
@@ -3561,7 +3562,7 @@
           "position": 1,
           "product_id": 8146007162973,
           "created_at": "2026-06-02T15:13:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667950173,
@@ -3580,7 +3581,7 @@
           "position": 2,
           "product_id": 8146007162973,
           "created_at": "2026-06-02T15:13:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490667982941,
@@ -3599,7 +3600,7 @@
           "position": 3,
           "product_id": 8146007162973,
           "created_at": "2026-06-02T15:13:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668015709,
@@ -3618,7 +3619,7 @@
           "position": 4,
           "product_id": 8146007162973,
           "created_at": "2026-06-02T15:13:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668048477,
@@ -3637,7 +3638,7 @@
           "position": 5,
           "product_id": 8146007162973,
           "created_at": "2026-06-02T15:13:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668081245,
@@ -3656,7 +3657,7 @@
           "position": 6,
           "product_id": 8146007162973,
           "created_at": "2026-06-02T15:13:52+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -3727,7 +3728,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The full-length zip and long sleeves make this the perfect layering piece for everyday fits.</p>",
       "published_at": "2026-06-18T15:59:12+01:00",
       "created_at": "2026-06-02T15:13:58+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Vanilla",
       "product_type": "Zippy",
       "tags": [
@@ -3762,7 +3763,7 @@
           "position": 1,
           "product_id": 8146007359581,
           "created_at": "2026-06-02T15:13:59+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669129821,
@@ -3781,7 +3782,7 @@
           "position": 2,
           "product_id": 8146007359581,
           "created_at": "2026-06-02T15:13:59+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669162589,
@@ -3800,7 +3801,7 @@
           "position": 3,
           "product_id": 8146007359581,
           "created_at": "2026-06-02T15:13:59+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669195357,
@@ -3819,7 +3820,7 @@
           "position": 4,
           "product_id": 8146007359581,
           "created_at": "2026-06-02T15:13:59+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669228125,
@@ -3838,7 +3839,7 @@
           "position": 5,
           "product_id": 8146007359581,
           "created_at": "2026-06-02T15:13:59+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669260893,
@@ -3857,7 +3858,7 @@
           "position": 6,
           "product_id": 8146007359581,
           "created_at": "2026-06-02T15:13:59+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -3928,7 +3929,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The full-length zip and long sleeves make this the perfect layering piece for everyday fits.</p>",
       "published_at": "2026-06-18T15:59:12+01:00",
       "created_at": "2026-06-02T15:13:57+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Hazelnut",
       "product_type": "Zippy",
       "tags": [
@@ -3963,7 +3964,7 @@
           "position": 1,
           "product_id": 8146007326813,
           "created_at": "2026-06-02T15:13:57+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668933213,
@@ -3982,7 +3983,7 @@
           "position": 2,
           "product_id": 8146007326813,
           "created_at": "2026-06-02T15:13:57+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668965981,
@@ -4001,7 +4002,7 @@
           "position": 3,
           "product_id": 8146007326813,
           "created_at": "2026-06-02T15:13:57+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668998749,
@@ -4020,7 +4021,7 @@
           "position": 4,
           "product_id": 8146007326813,
           "created_at": "2026-06-02T15:13:57+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669031517,
@@ -4039,7 +4040,7 @@
           "position": 5,
           "product_id": 8146007326813,
           "created_at": "2026-06-02T15:13:57+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669064285,
@@ -4058,7 +4059,7 @@
           "position": 6,
           "product_id": 8146007326813,
           "created_at": "2026-06-02T15:13:57+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -4129,7 +4130,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the straight waistband creates an effortless silhouette for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:11+01:00",
       "created_at": "2026-06-02T15:14:00+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -4165,7 +4166,7 @@
           "position": 1,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669326429,
@@ -4184,7 +4185,7 @@
           "position": 2,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669359197,
@@ -4203,7 +4204,7 @@
           "position": 3,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669391965,
@@ -4222,7 +4223,7 @@
           "position": 4,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669424733,
@@ -4234,14 +4235,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "82.50",
           "grams": 240,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669457501,
@@ -4260,7 +4261,7 @@
           "position": 6,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669490269,
@@ -4279,7 +4280,7 @@
           "position": 7,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669523037,
@@ -4298,7 +4299,7 @@
           "position": 8,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669555805,
@@ -4310,14 +4311,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "82.50",
           "grams": 240,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669588573,
@@ -4329,14 +4330,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "82.50",
           "grams": 240,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669621341,
@@ -4355,7 +4356,7 @@
           "position": 11,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669654109,
@@ -4374,7 +4375,7 @@
           "position": 12,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669686877,
@@ -4393,7 +4394,7 @@
           "position": 13,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669719645,
@@ -4412,7 +4413,7 @@
           "position": 14,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669752413,
@@ -4431,7 +4432,7 @@
           "position": 15,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669785181,
@@ -4450,7 +4451,7 @@
           "position": 16,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669817949,
@@ -4469,7 +4470,7 @@
           "position": 17,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669850717,
@@ -4488,7 +4489,7 @@
           "position": 18,
           "product_id": 8146007392349,
           "created_at": "2026-06-02T15:14:00+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -4568,7 +4569,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a flexible fabric with a contouring fit, making you feel snatched while being able to move freely. The full-length zip and long sleeves make this the perfect layering piece for everyday fits.</p>",
       "published_at": "2026-06-18T15:59:11+01:00",
       "created_at": "2026-06-02T15:13:56+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cherry",
       "product_type": "Zippy",
       "tags": [
@@ -4603,7 +4604,7 @@
           "position": 1,
           "product_id": 8146007294045,
           "created_at": "2026-06-02T15:13:56+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668736605,
@@ -4622,7 +4623,7 @@
           "position": 2,
           "product_id": 8146007294045,
           "created_at": "2026-06-02T15:13:56+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668769373,
@@ -4641,7 +4642,7 @@
           "position": 3,
           "product_id": 8146007294045,
           "created_at": "2026-06-02T15:13:56+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668802141,
@@ -4660,7 +4661,7 @@
           "position": 4,
           "product_id": 8146007294045,
           "created_at": "2026-06-02T15:13:56+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668834909,
@@ -4679,7 +4680,7 @@
           "position": 5,
           "product_id": 8146007294045,
           "created_at": "2026-06-02T15:13:56+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490668867677,
@@ -4698,7 +4699,7 @@
           "position": 6,
           "product_id": 8146007294045,
           "created_at": "2026-06-02T15:13:56+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -4769,7 +4770,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the straight waistband creates an effortless silhouette for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:10+01:00",
       "created_at": "2026-06-02T15:14:06+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Vanilla",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -4805,7 +4806,7 @@
           "position": 1,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671685725,
@@ -4824,7 +4825,7 @@
           "position": 2,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671718493,
@@ -4843,7 +4844,7 @@
           "position": 3,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671751261,
@@ -4862,7 +4863,7 @@
           "position": 4,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671784029,
@@ -4881,7 +4882,7 @@
           "position": 5,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671816797,
@@ -4900,7 +4901,7 @@
           "position": 6,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671849565,
@@ -4919,7 +4920,7 @@
           "position": 7,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671882333,
@@ -4938,7 +4939,7 @@
           "position": 8,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671915101,
@@ -4957,7 +4958,7 @@
           "position": 9,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671947869,
@@ -4976,7 +4977,7 @@
           "position": 10,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671980637,
@@ -4995,7 +4996,7 @@
           "position": 11,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672013405,
@@ -5014,7 +5015,7 @@
           "position": 12,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672046173,
@@ -5033,7 +5034,7 @@
           "position": 13,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672078941,
@@ -5052,7 +5053,7 @@
           "position": 14,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672111709,
@@ -5071,7 +5072,7 @@
           "position": 15,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672144477,
@@ -5090,7 +5091,7 @@
           "position": 16,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672177245,
@@ -5109,7 +5110,7 @@
           "position": 17,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672210013,
@@ -5128,7 +5129,7 @@
           "position": 18,
           "product_id": 8146007523421,
           "created_at": "2026-06-02T15:14:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -5208,7 +5209,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the straight waistband creates an effortless silhouette for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:09+01:00",
       "created_at": "2026-06-02T15:14:04+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Hazelnut",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -5243,7 +5244,7 @@
           "position": 1,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671095901,
@@ -5262,7 +5263,7 @@
           "position": 2,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671128669,
@@ -5274,14 +5275,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "82.50",
           "grams": 240,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671161437,
@@ -5300,7 +5301,7 @@
           "position": 4,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671194205,
@@ -5319,7 +5320,7 @@
           "position": 5,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671226973,
@@ -5338,7 +5339,7 @@
           "position": 6,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671259741,
@@ -5357,7 +5358,7 @@
           "position": 7,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671292509,
@@ -5376,7 +5377,7 @@
           "position": 8,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671325277,
@@ -5395,7 +5396,7 @@
           "position": 9,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671358045,
@@ -5414,7 +5415,7 @@
           "position": 10,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671390813,
@@ -5433,7 +5434,7 @@
           "position": 11,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671423581,
@@ -5452,7 +5453,7 @@
           "position": 12,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671456349,
@@ -5471,7 +5472,7 @@
           "position": 13,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671489117,
@@ -5490,7 +5491,7 @@
           "position": 14,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671521885,
@@ -5509,7 +5510,7 @@
           "position": 15,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671554653,
@@ -5528,7 +5529,7 @@
           "position": 16,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671587421,
@@ -5547,7 +5548,7 @@
           "position": 17,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671620189,
@@ -5566,7 +5567,7 @@
           "position": 18,
           "product_id": 8146007490653,
           "created_at": "2026-06-02T15:14:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -5646,7 +5647,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the straight waistband creates an effortless silhouette for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:09+01:00",
       "created_at": "2026-06-02T15:14:01+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Blueberry",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -5682,7 +5683,7 @@
           "position": 1,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669916253,
@@ -5701,7 +5702,7 @@
           "position": 2,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669949021,
@@ -5720,7 +5721,7 @@
           "position": 3,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490669981789,
@@ -5739,7 +5740,7 @@
           "position": 4,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670014557,
@@ -5758,7 +5759,7 @@
           "position": 5,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670047325,
@@ -5777,7 +5778,7 @@
           "position": 6,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670080093,
@@ -5796,7 +5797,7 @@
           "position": 7,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670112861,
@@ -5815,7 +5816,7 @@
           "position": 8,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670145629,
@@ -5834,7 +5835,7 @@
           "position": 9,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670178397,
@@ -5853,7 +5854,7 @@
           "position": 10,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670211165,
@@ -5872,7 +5873,7 @@
           "position": 11,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670243933,
@@ -5891,7 +5892,7 @@
           "position": 12,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670276701,
@@ -5903,14 +5904,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "82.50",
           "grams": 240,
           "compare_at_price": null,
           "position": 13,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670309469,
@@ -5929,7 +5930,7 @@
           "position": 14,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670342237,
@@ -5948,7 +5949,7 @@
           "position": 15,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670375005,
@@ -5967,7 +5968,7 @@
           "position": 16,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670407773,
@@ -5986,7 +5987,7 @@
           "position": 17,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670440541,
@@ -6005,7 +6006,7 @@
           "position": 18,
           "product_id": 8146007425117,
           "created_at": "2026-06-02T15:14:02+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -6085,7 +6086,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the straight waistband creates an effortless silhouette for everyday fits. </p>",
       "published_at": "2026-06-18T15:59:08+01:00",
       "created_at": "2026-06-02T15:14:03+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cherry",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -6121,7 +6122,7 @@
           "position": 1,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670506077,
@@ -6140,7 +6141,7 @@
           "position": 2,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670538845,
@@ -6159,7 +6160,7 @@
           "position": 3,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670571613,
@@ -6178,7 +6179,7 @@
           "position": 4,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670604381,
@@ -6197,7 +6198,7 @@
           "position": 5,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670637149,
@@ -6216,7 +6217,7 @@
           "position": 6,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670669917,
@@ -6235,7 +6236,7 @@
           "position": 7,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670702685,
@@ -6254,7 +6255,7 @@
           "position": 8,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670735453,
@@ -6273,7 +6274,7 @@
           "position": 9,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670768221,
@@ -6285,14 +6286,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "82.50",
           "grams": 240,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670800989,
@@ -6311,7 +6312,7 @@
           "position": 11,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670833757,
@@ -6330,7 +6331,7 @@
           "position": 12,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670866525,
@@ -6349,7 +6350,7 @@
           "position": 13,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670899293,
@@ -6361,14 +6362,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "82.50",
           "grams": 240,
           "compare_at_price": null,
           "position": 14,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670932061,
@@ -6387,7 +6388,7 @@
           "position": 15,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670964829,
@@ -6406,7 +6407,7 @@
           "position": 16,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490670997597,
@@ -6425,7 +6426,7 @@
           "position": 17,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490671030365,
@@ -6444,7 +6445,7 @@
           "position": 18,
           "product_id": 8146007457885,
           "created_at": "2026-06-02T15:14:03+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -6524,7 +6525,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the fold-over waistband makes it the perfect pant for everyday fits</p>",
       "published_at": "2026-06-18T15:59:07+01:00",
       "created_at": "2026-06-02T15:14:12+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Hazelnut",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -6560,7 +6561,7 @@
           "position": 1,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674045021,
@@ -6579,7 +6580,7 @@
           "position": 2,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674077789,
@@ -6598,7 +6599,7 @@
           "position": 3,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674110557,
@@ -6617,7 +6618,7 @@
           "position": 4,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674143325,
@@ -6636,7 +6637,7 @@
           "position": 5,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674176093,
@@ -6655,7 +6656,7 @@
           "position": 6,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674208861,
@@ -6674,7 +6675,7 @@
           "position": 7,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674241629,
@@ -6693,7 +6694,7 @@
           "position": 8,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674274397,
@@ -6712,7 +6713,7 @@
           "position": 9,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674307165,
@@ -6731,7 +6732,7 @@
           "position": 10,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674339933,
@@ -6750,7 +6751,7 @@
           "position": 11,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674372701,
@@ -6769,7 +6770,7 @@
           "position": 12,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674405469,
@@ -6788,7 +6789,7 @@
           "position": 13,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674438237,
@@ -6807,7 +6808,7 @@
           "position": 14,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674471005,
@@ -6826,7 +6827,7 @@
           "position": 15,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674503773,
@@ -6845,7 +6846,7 @@
           "position": 16,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674536541,
@@ -6864,7 +6865,7 @@
           "position": 17,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674569309,
@@ -6883,7 +6884,7 @@
           "position": 18,
           "product_id": 8146007654493,
           "created_at": "2026-06-02T15:14:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -6963,7 +6964,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the fold-over waistband makes it the perfect pant for everyday fits</p>",
       "published_at": "2026-06-18T15:59:07+01:00",
       "created_at": "2026-06-02T15:14:10+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cherry",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -6999,7 +7000,7 @@
           "position": 1,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673455197,
@@ -7018,7 +7019,7 @@
           "position": 2,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673487965,
@@ -7037,7 +7038,7 @@
           "position": 3,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673520733,
@@ -7056,7 +7057,7 @@
           "position": 4,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673553501,
@@ -7075,7 +7076,7 @@
           "position": 5,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673586269,
@@ -7094,7 +7095,7 @@
           "position": 6,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673619037,
@@ -7113,7 +7114,7 @@
           "position": 7,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673651805,
@@ -7132,7 +7133,7 @@
           "position": 8,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673684573,
@@ -7151,7 +7152,7 @@
           "position": 9,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673717341,
@@ -7170,7 +7171,7 @@
           "position": 10,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673750109,
@@ -7189,7 +7190,7 @@
           "position": 11,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673782877,
@@ -7208,7 +7209,7 @@
           "position": 12,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673815645,
@@ -7227,7 +7228,7 @@
           "position": 13,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673848413,
@@ -7246,7 +7247,7 @@
           "position": 14,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673881181,
@@ -7265,7 +7266,7 @@
           "position": 15,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673913949,
@@ -7284,7 +7285,7 @@
           "position": 16,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673946717,
@@ -7303,7 +7304,7 @@
           "position": 17,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673979485,
@@ -7322,7 +7323,7 @@
           "position": 18,
           "product_id": 8146007621725,
           "created_at": "2026-06-02T15:14:10+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -7402,7 +7403,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the fold-over waistband makes it the perfect pant for everyday fits</p>",
       "published_at": "2026-06-18T15:59:06+01:00",
       "created_at": "2026-06-02T15:14:09+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Blueberry",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -7438,7 +7439,7 @@
           "position": 1,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672865373,
@@ -7457,7 +7458,7 @@
           "position": 2,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672898141,
@@ -7476,7 +7477,7 @@
           "position": 3,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672930909,
@@ -7495,7 +7496,7 @@
           "position": 4,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672963677,
@@ -7514,7 +7515,7 @@
           "position": 5,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672996445,
@@ -7533,7 +7534,7 @@
           "position": 6,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673029213,
@@ -7552,7 +7553,7 @@
           "position": 7,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673061981,
@@ -7571,7 +7572,7 @@
           "position": 8,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673094749,
@@ -7590,7 +7591,7 @@
           "position": 9,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673127517,
@@ -7609,7 +7610,7 @@
           "position": 10,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673160285,
@@ -7628,7 +7629,7 @@
           "position": 11,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673193053,
@@ -7647,7 +7648,7 @@
           "position": 12,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673225821,
@@ -7666,7 +7667,7 @@
           "position": 13,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673258589,
@@ -7685,7 +7686,7 @@
           "position": 14,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673291357,
@@ -7704,7 +7705,7 @@
           "position": 15,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673324125,
@@ -7723,7 +7724,7 @@
           "position": 16,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673356893,
@@ -7742,7 +7743,7 @@
           "position": 17,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490673389661,
@@ -7761,7 +7762,7 @@
           "position": 18,
           "product_id": 8146007588957,
           "created_at": "2026-06-02T15:14:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -7841,7 +7842,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the fold-over waistband makes it the perfect pant for everyday fits</p>",
       "published_at": "2026-06-18T15:59:06+01:00",
       "created_at": "2026-06-02T15:14:07+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -7877,7 +7878,7 @@
           "position": 1,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672275549,
@@ -7896,7 +7897,7 @@
           "position": 2,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672308317,
@@ -7915,7 +7916,7 @@
           "position": 3,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672341085,
@@ -7934,7 +7935,7 @@
           "position": 4,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672373853,
@@ -7953,7 +7954,7 @@
           "position": 5,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672406621,
@@ -7972,7 +7973,7 @@
           "position": 6,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672439389,
@@ -7991,7 +7992,7 @@
           "position": 7,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672472157,
@@ -8010,7 +8011,7 @@
           "position": 8,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672504925,
@@ -8029,7 +8030,7 @@
           "position": 9,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672537693,
@@ -8048,7 +8049,7 @@
           "position": 10,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672570461,
@@ -8067,7 +8068,7 @@
           "position": 11,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672603229,
@@ -8086,7 +8087,7 @@
           "position": 12,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672635997,
@@ -8105,7 +8106,7 @@
           "position": 13,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672668765,
@@ -8124,7 +8125,7 @@
           "position": 14,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672701533,
@@ -8143,7 +8144,7 @@
           "position": 15,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672734301,
@@ -8162,7 +8163,7 @@
           "position": 16,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672767069,
@@ -8181,7 +8182,7 @@
           "position": 17,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490672799837,
@@ -8200,7 +8201,7 @@
           "position": 18,
           "product_id": 8146007556189,
           "created_at": "2026-06-02T15:14:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -8280,7 +8281,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. <meta charset=\"utf-8\">The Puffer Tote Bag is the ultimate addition to your everyday gym fits. The lightweight and spacious design has room for all your gym day essentials.</p>",
       "published_at": "2026-06-18T15:59:05+01:00",
       "created_at": "2026-06-15T15:59:19+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Vanilla",
       "product_type": "Bags",
       "tags": [
@@ -8316,7 +8317,7 @@
           "position": 1,
           "product_id": 8155315142749,
           "created_at": "2026-06-15T15:59:20+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -8382,7 +8383,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. The Sav edit combines a wide leg design with a flexible fabric that allows you to move freely, while the fold-over waistband makes it the perfect pant for everyday fits</p>",
       "published_at": "2026-06-18T15:59:05+01:00",
       "created_at": "2026-06-02T15:14:13+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Vanilla",
       "product_type": "Wide Leg Pants",
       "tags": [
@@ -8418,7 +8419,7 @@
           "position": 1,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674634845,
@@ -8437,7 +8438,7 @@
           "position": 2,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674667613,
@@ -8456,7 +8457,7 @@
           "position": 3,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674700381,
@@ -8475,7 +8476,7 @@
           "position": 4,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674733149,
@@ -8494,7 +8495,7 @@
           "position": 5,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674765917,
@@ -8513,7 +8514,7 @@
           "position": 6,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674798685,
@@ -8532,7 +8533,7 @@
           "position": 7,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674831453,
@@ -8551,7 +8552,7 @@
           "position": 8,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674864221,
@@ -8570,7 +8571,7 @@
           "position": 9,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674896989,
@@ -8589,7 +8590,7 @@
           "position": 10,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674929757,
@@ -8608,7 +8609,7 @@
           "position": 11,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674962525,
@@ -8627,7 +8628,7 @@
           "position": 12,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490674995293,
@@ -8646,7 +8647,7 @@
           "position": 13,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490675028061,
@@ -8665,7 +8666,7 @@
           "position": 14,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490675060829,
@@ -8684,7 +8685,7 @@
           "position": 15,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490675093597,
@@ -8703,7 +8704,7 @@
           "position": 16,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490675126365,
@@ -8722,7 +8723,7 @@
           "position": 17,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44490675159133,
@@ -8741,7 +8742,7 @@
           "position": 18,
           "product_id": 8146007687261,
           "created_at": "2026-06-02T15:14:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -8821,7 +8822,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. <meta charset=\"utf-8\">The Puffer Tote Bag is the ultimate addition to your everyday gym fits. The lightweight and spacious design has room for all your gym day essentials.</p>",
       "published_at": "2026-06-18T15:59:04+01:00",
       "created_at": "2026-06-15T15:59:22+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Bags",
       "tags": [
@@ -8857,7 +8858,7 @@
           "position": 1,
           "product_id": 8155315208285,
           "created_at": "2026-06-15T15:59:22+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -8923,7 +8924,7 @@
       "body_html": "<p><strong>The edit that does it all.</strong></p>\n<p>Designed for your active lifestyle. <meta charset=\"utf-8\">The Puffer Tote Bag is the ultimate addition to your everyday gym fits. The lightweight and spacious design has room for all your gym day essentials.</p>",
       "published_at": "2026-06-18T15:59:03+01:00",
       "created_at": "2026-06-15T15:59:21+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cherry",
       "product_type": "Bags",
       "tags": [
@@ -8959,7 +8960,7 @@
           "position": 1,
           "product_id": 8155315175517,
           "created_at": "2026-06-15T15:59:21+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9025,7 +9026,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-06-12T09:42:32+01:00",
       "created_at": "2026-06-12T09:41:07+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Electric Blue",
       "product_type": "Accessories",
       "tags": [
@@ -9060,7 +9061,7 @@
           "position": 1,
           "product_id": 8152511938653,
           "created_at": "2026-06-12T09:41:08+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9104,7 +9105,7 @@
       "body_html": "<p>Stay hydrated in style with our new Tumbler! Crafted from double-walled stainless steel, this tumbler keeps your drinks at the perfect temperature, whether hot or cold. The matte design features an embossed DFYNE logo for a minimalist finish.</p>",
       "published_at": "2026-06-11T17:00:40+01:00",
       "created_at": "2024-05-29T14:09:55+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black",
       "product_type": "Bottles",
       "tags": [
@@ -9139,7 +9140,7 @@
           "position": 1,
           "product_id": 7551498584157,
           "created_at": "2024-05-29T14:09:55+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9205,7 +9206,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-06-08T12:29:03+01:00",
       "created_at": "2026-04-28T11:23:12+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Midnight Black/Graphite",
       "product_type": "Accessories",
       "tags": [
@@ -9241,7 +9242,7 @@
           "position": 1,
           "product_id": 8124605104221,
           "created_at": "2026-04-28T11:23:12+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9285,7 +9286,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-06-08T12:29:03+01:00",
       "created_at": "2026-04-28T11:23:11+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Blossom/Light Rose Pink",
       "product_type": "Accessories",
       "tags": [
@@ -9320,7 +9321,7 @@
           "position": 1,
           "product_id": 8124605038685,
           "created_at": "2026-04-28T11:23:11+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9364,7 +9365,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. The longline silhouette flatters your shape without restricting movement, offering weightless comfort. DEFY is created with lightweight, high-stretch and buttery-soft fabric, making it ideal for intense training days.</p>",
       "published_at": "2026-06-03T16:53:10+01:00",
       "created_at": "2025-12-05T09:33:54+00:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Optic White",
       "product_type": "Tops",
       "tags": [
@@ -9398,7 +9399,7 @@
           "position": 1,
           "product_id": 8027819704413,
           "created_at": "2025-12-05T09:33:54+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43871370444893,
@@ -9417,7 +9418,7 @@
           "position": 2,
           "product_id": 8027819704413,
           "created_at": "2025-12-05T09:33:54+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43871370477661,
@@ -9436,7 +9437,7 @@
           "position": 3,
           "product_id": 8027819704413,
           "created_at": "2025-12-05T09:33:54+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43871370510429,
@@ -9455,7 +9456,7 @@
           "position": 4,
           "product_id": 8027819704413,
           "created_at": "2025-12-05T09:33:54+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43871370543197,
@@ -9474,7 +9475,7 @@
           "position": 5,
           "product_id": 8027819704413,
           "created_at": "2025-12-05T09:33:54+00:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9544,7 +9545,7 @@
       "body_html": "<p>Ready for reps and relaxing.</p><p>REVIVE fits into your active lifestyle. Designed with a super soft, high-stretch fabric, this lightweight top will keep you comfortable all day.</p>",
       "published_at": "2026-06-03T16:53:10+01:00",
       "created_at": "2025-09-03T14:32:33+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Optic White",
       "product_type": "Tops",
       "tags": [
@@ -9578,7 +9579,7 @@
           "position": 1,
           "product_id": 7963026784349,
           "created_at": "2025-09-03T14:32:33+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626331078749,
@@ -9597,7 +9598,7 @@
           "position": 2,
           "product_id": 7963026784349,
           "created_at": "2025-09-03T14:32:33+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626331111517,
@@ -9616,7 +9617,7 @@
           "position": 3,
           "product_id": 7963026784349,
           "created_at": "2025-09-03T14:32:33+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626331144285,
@@ -9635,7 +9636,7 @@
           "position": 4,
           "product_id": 7963026784349,
           "created_at": "2025-09-03T14:32:33+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626331177053,
@@ -9654,7 +9655,7 @@
           "position": 5,
           "product_id": 7963026784349,
           "created_at": "2025-09-03T14:32:33+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9724,7 +9725,7 @@
       "body_html": "<p>Ready for reps and relaxing.</p><p>REVIVE fits into your active lifestyle. Designed with a super soft, high-stretch fabric, this lightweight top will keep you comfortable all day.</p>",
       "published_at": "2026-06-03T16:53:10+01:00",
       "created_at": "2025-09-03T14:32:29+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Optic White",
       "product_type": "Tops",
       "tags": [
@@ -9758,7 +9759,7 @@
           "position": 1,
           "product_id": 7963026653277,
           "created_at": "2025-09-03T14:32:29+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626330423389,
@@ -9777,7 +9778,7 @@
           "position": 2,
           "product_id": 7963026653277,
           "created_at": "2025-09-03T14:32:29+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626330456157,
@@ -9796,7 +9797,7 @@
           "position": 3,
           "product_id": 7963026653277,
           "created_at": "2025-09-03T14:32:29+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626330488925,
@@ -9815,7 +9816,7 @@
           "position": 4,
           "product_id": 7963026653277,
           "created_at": "2025-09-03T14:32:29+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 43626330521693,
@@ -9834,7 +9835,7 @@
           "position": 5,
           "product_id": 7963026653277,
           "created_at": "2025-09-03T14:32:29+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -9904,7 +9905,7 @@
       "body_html": "<p>Level up with CHARGE Quarter zip. Designed to highlight your arm day gains, without restricting movement. Whether your workout is for strength or speed our Half Zip is the perfect throw on for every session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:09+01:00",
       "created_at": "2026-04-29T12:43:06+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cedar",
       "product_type": "Tops",
       "tags": [
@@ -9941,7 +9942,7 @@
           "position": 1,
           "product_id": 8126358618205,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534223453,
@@ -9960,7 +9961,7 @@
           "position": 2,
           "product_id": 8126358618205,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534256221,
@@ -9979,7 +9980,7 @@
           "position": 3,
           "product_id": 8126358618205,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534288989,
@@ -9998,7 +9999,7 @@
           "position": 4,
           "product_id": 8126358618205,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534321757,
@@ -10017,7 +10018,7 @@
           "position": 5,
           "product_id": 8126358618205,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -10087,7 +10088,7 @@
       "body_html": "<p>Level up with CHARGE Quarter zip. Designed to highlight your arm day gains, without restricting movement. Whether your workout is for strength or speed our Half Zip is the perfect throw on for every session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:09+01:00",
       "created_at": "2026-04-29T12:43:05+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Burgundy",
       "product_type": "Tops",
       "tags": [
@@ -10124,7 +10125,7 @@
           "position": 1,
           "product_id": 8126358585437,
           "created_at": "2026-04-29T12:43:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534059613,
@@ -10143,7 +10144,7 @@
           "position": 2,
           "product_id": 8126358585437,
           "created_at": "2026-04-29T12:43:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534092381,
@@ -10162,7 +10163,7 @@
           "position": 3,
           "product_id": 8126358585437,
           "created_at": "2026-04-29T12:43:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534125149,
@@ -10181,7 +10182,7 @@
           "position": 4,
           "product_id": 8126358585437,
           "created_at": "2026-04-29T12:43:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534157917,
@@ -10200,7 +10201,7 @@
           "position": 5,
           "product_id": 8126358585437,
           "created_at": "2026-04-29T12:43:05+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -10270,7 +10271,7 @@
       "body_html": "<p>Level up with CHARGE Quarter zip. Designed to highlight your arm day gains, without restricting movement. Whether your workout is for strength or speed our Half Zip is the perfect throw on for every session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:09+01:00",
       "created_at": "2026-04-29T12:43:04+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Stone",
       "product_type": "Tops",
       "tags": [
@@ -10307,7 +10308,7 @@
           "position": 1,
           "product_id": 8126358552669,
           "created_at": "2026-04-29T12:43:04+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407533895773,
@@ -10326,7 +10327,7 @@
           "position": 2,
           "product_id": 8126358552669,
           "created_at": "2026-04-29T12:43:04+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407533928541,
@@ -10345,7 +10346,7 @@
           "position": 3,
           "product_id": 8126358552669,
           "created_at": "2026-04-29T12:43:04+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407533961309,
@@ -10364,7 +10365,7 @@
           "position": 4,
           "product_id": 8126358552669,
           "created_at": "2026-04-29T12:43:04+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407533994077,
@@ -10383,7 +10384,7 @@
           "position": 5,
           "product_id": 8126358552669,
           "created_at": "2026-04-29T12:43:04+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -10453,7 +10454,7 @@
       "body_html": "<p>Level up with CHARGE Tank. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Tank is the perfect top for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:08+01:00",
       "created_at": "2026-04-29T12:43:09+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Stone",
       "product_type": "Tanks",
       "tags": [
@@ -10487,7 +10488,7 @@
           "position": 1,
           "product_id": 8126358749277,
           "created_at": "2026-04-29T12:43:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534911581,
@@ -10506,7 +10507,7 @@
           "position": 2,
           "product_id": 8126358749277,
           "created_at": "2026-04-29T12:43:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534944349,
@@ -10525,7 +10526,7 @@
           "position": 3,
           "product_id": 8126358749277,
           "created_at": "2026-04-29T12:43:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534977117,
@@ -10544,7 +10545,7 @@
           "position": 4,
           "product_id": 8126358749277,
           "created_at": "2026-04-29T12:43:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407535009885,
@@ -10563,7 +10564,7 @@
           "position": 5,
           "product_id": 8126358749277,
           "created_at": "2026-04-29T12:43:09+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -10622,7 +10623,7 @@
       "body_html": "<p>Level up with CHARGE Active Top. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Active Top is the perfect go-to for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:07+01:00",
       "created_at": "2026-04-29T12:43:07+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Burgundy",
       "product_type": "Tops",
       "tags": [
@@ -10657,7 +10658,7 @@
           "position": 1,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534583901,
@@ -10676,7 +10677,7 @@
           "position": 2,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534616669,
@@ -10695,7 +10696,7 @@
           "position": 3,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534649437,
@@ -10714,7 +10715,7 @@
           "position": 4,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534682205,
@@ -10733,7 +10734,7 @@
           "position": 5,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -10803,7 +10804,7 @@
       "body_html": "<p>Level up with CHARGE Active Top. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Active Top is the perfect go-to for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:06+01:00",
       "created_at": "2026-04-29T12:43:08+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Cedar",
       "product_type": "Tops",
       "tags": [
@@ -10838,7 +10839,7 @@
           "position": 1,
           "product_id": 8126358716509,
           "created_at": "2026-04-29T12:43:08+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534747741,
@@ -10857,7 +10858,7 @@
           "position": 2,
           "product_id": 8126358716509,
           "created_at": "2026-04-29T12:43:08+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534780509,
@@ -10876,7 +10877,7 @@
           "position": 3,
           "product_id": 8126358716509,
           "created_at": "2026-04-29T12:43:08+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534813277,
@@ -10895,7 +10896,7 @@
           "position": 4,
           "product_id": 8126358716509,
           "created_at": "2026-04-29T12:43:08+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534846045,
@@ -10914,7 +10915,7 @@
           "position": 5,
           "product_id": 8126358716509,
           "created_at": "2026-04-29T12:43:08+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -10984,7 +10985,7 @@
       "body_html": "<p>Level up with CHARGE Active Top. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Active Top is the perfect go-to for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:06+01:00",
       "created_at": "2026-04-29T12:43:06+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Stone",
       "product_type": "Tops",
       "tags": [
@@ -11019,7 +11020,7 @@
           "position": 1,
           "product_id": 8126358650973,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534420061,
@@ -11038,7 +11039,7 @@
           "position": 2,
           "product_id": 8126358650973,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534452829,
@@ -11057,7 +11058,7 @@
           "position": 3,
           "product_id": 8126358650973,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534485597,
@@ -11069,14 +11070,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "42.50",
           "grams": 149,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8126358650973,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407534518365,
@@ -11095,7 +11096,7 @@
           "position": 5,
           "product_id": 8126358650973,
           "created_at": "2026-04-29T12:43:06+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
@@ -11165,7 +11166,7 @@
       "body_html": "<p>Level up with charge CHARGE 4” Shorts. Designed to highlight that quad day pump, without restricting your movement. Whether your workout is for strength or speed our 4” Shorts are the perfect go-to for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-06-02T15:59:05+01:00",
       "created_at": "2026-04-29T12:43:13+01:00",
-      "updated_at": "2026-07-17T06:12:07+01:00",
+      "updated_at": "2026-07-19T06:20:17+01:00",
       "vendor": "Burgundy",
       "product_type": "Shorts",
       "tags": [
@@ -11198,7 +11199,7 @@
           "position": 1,
           "product_id": 8126358880349,
           "created_at": "2026-04-29T12:43:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407535632477,
@@ -11217,7 +11218,7 @@
           "position": 2,
           "product_id": 8126358880349,
           "created_at": "2026-04-29T12:43:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407535665245,
@@ -11236,7 +11237,7 @@
           "position": 3,
           "product_id": 8126358880349,
           "created_at": "2026-04-29T12:43:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407535698013,
@@ -11255,7 +11256,7 @@
           "position": 4,
           "product_id": 8126358880349,
           "created_at": "2026-04-29T12:43:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         },
         {
           "id": 44407535730781,
@@ -11274,7 +11275,7 @@
           "position": 5,
           "product_id": 8126358880349,
           "created_at": "2026-04-29T12:43:13+01:00",
-          "updated_at": "2026-07-17T06:12:07+01:00"
+          "updated_at": "2026-07-19T06:20:17+01:00"
         }
       ],
       "images": [
