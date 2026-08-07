@@ -9,8 +9,10 @@ Lululemon 美区上新爬取脚本（curl_cffi · TLS 指纹伪装 + __NEXT_DATA
   因为 Akamai 会对 TLS/JA3 指纹做识别。
 
 方案：
-  使用 `curl_cffi`，它能复刻真实浏览器的 TLS 指纹（impersonate）。实测多指纹
-  轮换（chrome116 优先，遇 400 自动换下一指纹）可稳定拿到 HTTP 200。
+  优先使用 `curl_cffi` 复刻真实浏览器 TLS 指纹（impersonate）直连抓取；若被
+  Akamai 升级规则拦截，则自动回退到 Playwright 启动真实 Chromium 页面，等待
+  `__NEXT_DATA__` 注入后读取 HTML。这样既保留轻量路径，也为指纹策略变化提供
+  浏览器级兜底。
 
 数据位置（关键）：
   商品列表并非通过独立的客户端 API 加载，而是被服务端直接渲染进页面内嵌的
@@ -63,8 +65,52 @@ HEADERS = {
 }
 
 
+def fetch_html_via_playwright(url):
+    """浏览器级兜底：用真实 Chromium 绕过更严格的 Akamai 策略。"""
+    try:
+        from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+        from playwright.sync_api import sync_playwright
+    except Exception as e:
+        print(f"      [playwright] 不可用: {type(e).__name__}", flush=True)
+        return ""
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                locale="en-US",
+                viewport={"width": 1440, "height": 1200},
+                user_agent=(
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/126.0.0.0 Safari/537.36"
+                ),
+            )
+            page = context.new_page()
+            page.set_extra_http_headers({
+                "Accept-Language": "en-US,en;q=0.9",
+                "Upgrade-Insecure-Requests": "1",
+            })
+            page.goto(url, wait_until="domcontentloaded", timeout=45000)
+            try:
+                page.wait_for_selector("script#__NEXT_DATA__", timeout=15000)
+            except PlaywrightTimeoutError:
+                pass
+            page.wait_for_timeout(2500)
+            html = page.content() or ""
+            browser.close()
+            if html and "Access Denied" not in html and "__NEXT_DATA__" in html:
+                print(f"      [playwright] OK ({len(html)} bytes)", flush=True)
+                return html
+            print(f"      [playwright] 页面无有效内容 size={len(html)}", flush=True)
+            return html
+    except Exception as e:
+        print(f"      [playwright] 请求异常: {type(e).__name__}: {e}", flush=True)
+        return ""
+
+
 def fetch_html(url, attempts=12):
-    """多 TLS 指纹轮换重试。Akamai 会间歇性返回 400，遇到即换指纹+退避重试。"""
+    """多 TLS 指纹轮换重试；若全部失败则回退 Playwright。"""
     last = ""
     last_status = None
     for i in range(attempts):
@@ -83,8 +129,9 @@ def fetch_html(url, attempts=12):
         print(f"      [{imp}] HTTP {r.status_code} size={len(html)} -> 重试", flush=True)
         last = html
         time.sleep(1.3)
-    print(f"      [fail] last_status={last_status}", flush=True)
-    return last
+    print(f"      [curl_cffi fail] last_status={last_status}，尝试 Playwright", flush=True)
+    pw_html = fetch_html_via_playwright(url)
+    return pw_html or last
 
 
 def extract_next_data(html):
