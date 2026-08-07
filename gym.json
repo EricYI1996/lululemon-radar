@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T09:28:54.598368+00:00",
+  "fetchedAt": "2026-08-07T09:37:26.388724+00:00",
   "source": "https://www.gymshark.com/collections/new-releases",
   "count": 180,
   "products": [
@@ -9391,7 +9391,7 @@
         {
           "id": 39795310362826,
           "inStock": true,
-          "inventoryQuantity": 502,
+          "inventoryQuantity": 501,
           "price": 30,
           "size": "l",
           "sku": "B5B5F-BB2J-L"
@@ -17107,7 +17107,7 @@
         {
           "id": 39799426285770,
           "inStock": true,
-          "inventoryQuantity": 363,
+          "inventoryQuantity": 362,
           "price": 36,
           "size": "m",
           "sku": "A4B9W-UFK4-M"
@@ -17279,7 +17279,7 @@
         {
           "id": 39799381524682,
           "inStock": true,
-          "inventoryQuantity": 135,
+          "inventoryQuantity": 134,
           "price": 28,
           "size": "s",
           "sku": "A4B4A-NDLF-S"
@@ -21104,7 +21104,7 @@
         {
           "id": 39799459676362,
           "inStock": true,
-          "inventoryQuantity": 13,
+          "inventoryQuantity": 12,
           "price": 28,
           "size": "xs",
           "sku": "A4B4A-UFK4-XS"
@@ -23377,7 +23377,7 @@
         {
           "id": 39798067167434,
           "inStock": true,
-          "inventoryQuantity": 50,
+          "inventoryQuantity": 49,
           "price": 64,
           "size": "xs",
           "sku": "B7B2N-PCK2-XS"
