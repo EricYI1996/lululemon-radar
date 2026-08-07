@@ -1,0 +1,122 @@
+name: Fetch New Arrivals (all brands)
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-lululemon
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install "curl_cffi>=0.7.0" "playwright>=1.46,<2"
+
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run Lululemon scraper
+        run: python scripts/fetch_lululemon.py
+        continue-on-error: true
+
+      - name: Run all-brands scraper (alo/adan/dfyne/tala/blakely/gym)
+        if: ${{ always() }}
+        run: python scripts/fetch_all_brands.py
+        continue-on-error: true
+      - name: Commit & push if changed
+        if: always()
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          files="lululemon-new.json alo.json adan.json dfyne.json tala.json blakely.json gym.json"
+          tmp_dir="/tmp/new-arrivals-json"
+          rm -rf "$tmp_dir"
+          mkdir -p "$tmp_dir"
+
+          # 第一步：把 scraper 产出的 JSON 保存到临时目录
+          for f in $files; do
+            if [ -f "$f" ]; then
+              cp "$f" "$tmp_dir/$f"
+              echo "saved: $f"
+            else
+              echo "skip missing: $f"
+            fi
+          done
+
+          # 第二步：清理工作区（让 checkout 不被未提交文件阻塞）
+          git checkout -- .
+          git clean -fd
+
+          # 第三步：同步到远端最新 main
+          git fetch origin main
+          git checkout -B main origin/main
+
+          # 第四步：把本次 JSON 覆盖回来
+          for f in $files; do
+            if [ -f "$tmp_dir/$f" ]; then
+              cp "$tmp_dir/$f" "$f"
+              git add "$f"
+              echo "added: $f"
+            fi
+          done
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update new-arrivals JSON ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
+          # 第五步：push，失败则 retry 一次
+          if git push origin main; then
+            echo "Push succeeded."
+            exit 0
+          fi
+
+          echo "Push rejected, retrying..."
+          rm -rf "$tmp_dir"
+          mkdir -p "$tmp_dir"
+
+          for f in $files; do
+            [ -f "$f" ] && cp "$f" "$tmp_dir/$f"
+          done
+
+          git fetch origin main
+          git reset --hard origin/main
+          git clean -fd
+
+          for f in $files; do
+            if [ -f "$tmp_dir/$f" ]; then
+              cp "$tmp_dir/$f" "$f"
+              git add "$f"
+            fi
+          done
+
+          if git diff --staged --quiet; then
+            echo "No changes after retry."
+            exit 0
+          fi
+
+          git commit -m "chore: update new-arrivals JSON ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push origin main
