@@ -14,18 +14,19 @@
   （impersonate），多指纹轮换 + 退避重试，绕过各站点的反爬/指纹识别。
 
 抓取对象：
-  1) Shopify 品牌（直接读取 /products.json?limit=50，原样保存 products 数组）：
-       alo   -> https://www.aloyoga.com/products.json?limit=50
-       adan  -> https://adanola.com/products.json?limit=50
-       dfyne -> https://dfyne.com/products.json?limit=50
-       tala  -> https://www.wearetala.com/products.json?limit=50
+  1) Shopify 品牌（直接读取 products.json / collection products.json，原样保存 products 数组）：
+       alo      -> https://www.aloyoga.com/products.json?limit=50
+       adan     -> https://adanola.com/products.json?limit=50
+       dfyne    -> https://dfyne.com/products.json?limit=50
+       tala     -> https://www.wearetala.com/products.json?limit=50
+       blakely  -> https://blakelyclothing.com/collections/womens-activewear/products.json?limit=250
   2) Gymshark（gym）：抓取 new-releases 第 1~3 页，解析页面内嵌
        <script id="__NEXT_DATA__"> 的 JSON，读取
        props.pageProps.ssrQuery.hits（Algolia hit 数组），跨页按
        objectID/id/handle/title 去重，原样保存 hit 对象。
 
-输出（仓库根目录，5 个文件）：
-  alo.json / adan.json / dfyne.json / tala.json / gym.json
+输出（仓库根目录，6 个文件）：
+  alo.json / adan.json / dfyne.json / tala.json / blakely.json / gym.json
   统一形如：
     {
       "fetchedAt": "<iso8601 UTC>",
@@ -52,12 +53,13 @@ from curl_cffi import requests as creq
 # 与 fetch_lululemon.py 保持一致：实测可绕过指纹识别的浏览器指纹，按优先级轮换
 IMPERSONATE_ORDER = ["chrome116", "chrome120", "chrome124", "chrome110", "chrome107"]
 
-# Shopify 品牌：key -> 域名（用于拼接 products.json 地址）
+# Shopify 品牌：key -> 配置（域名 / products.json 路径 / limit）
 SHOPIFY_BRANDS = {
-    "alo": "www.aloyoga.com",
-    "adan": "adanola.com",
-    "dfyne": "dfyne.com",
-    "tala": "www.wearetala.com",
+    "alo": {"domain": "www.aloyoga.com", "path": "/products.json", "limit": 50},
+    "adan": {"domain": "adanola.com", "path": "/products.json", "limit": 50},
+    "dfyne": {"domain": "dfyne.com", "path": "/products.json", "limit": 50},
+    "tala": {"domain": "www.wearetala.com", "path": "/products.json", "limit": 50},
+    "blakely": {"domain": "blakelyclothing.com", "path": "/collections/womens-activewear/products.json", "limit": 250},
 }
 
 # Gymshark new-releases 页面
@@ -126,8 +128,11 @@ def write_output(key, source, products):
     print(f"[done] {key}: wrote {len(products)} items -> {out_file}", flush=True)
 
 
-def fetch_shopify(key, domain):
-    url = f"https://{domain}/products.json?limit=50"
+def fetch_shopify(key, conf):
+    domain = conf["domain"]
+    path = conf.get("path", "/products.json")
+    limit = conf.get("limit", 50)
+    url = f"https://{domain}{path}?limit={limit}"
     print(f"[fetch] {key} (shopify): {url}", flush=True)
     text = fetch_text(url, JSON_HEADERS, expect_json=True)
     if not text:
@@ -186,9 +191,9 @@ def fetch_gymshark(key):
 def main():
     results = {}
 
-    for key, domain in SHOPIFY_BRANDS.items():
+    for key, conf in SHOPIFY_BRANDS.items():
         try:
-            n = fetch_shopify(key, domain)
+            n = fetch_shopify(key, conf)
             results[key] = (True, n)
         except Exception as e:
             print(f"[error] {key} 抓取失败: {type(e).__name__}: {e}", flush=True)
