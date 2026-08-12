@@ -42,6 +42,10 @@ jobs:
         run: python scripts/fetch_all_brands.py
         continue-on-error: true
 
+      - name: Run SHEIN scraper (ARALINA/MUSERA/GLOWMODE/MFVIM)
+        if: ${{ always() }}
+        run: python scripts/fetch_shein.py
+        continue-on-error: true
       - name: Commit & push if changed
         if: always()
         run: |
@@ -50,11 +54,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          files="lululemon-new.json alo.json adan.json dfyne.json tala.json blakely.json gym.json"
+          files="lululemon-new.json alo.json adan.json dfyne.json tala.json blakely.json gym.json shein.json"
           tmp_dir="/tmp/new-arrivals-json"
           rm -rf "$tmp_dir"
           mkdir -p "$tmp_dir"
 
+          # 第一步：把 scraper 产出的 JSON 保存到临时目录
           for f in $files; do
             if [ -f "$f" ]; then
               cp "$f" "$tmp_dir/$f"
@@ -64,12 +69,15 @@ jobs:
             fi
           done
 
+          # 第二步：清理工作区（让 checkout 不被未提交文件阻塞）
           git checkout -- .
           git clean -fd
 
+          # 第三步：同步到远端最新 main
           git fetch origin main
           git checkout -B main origin/main
 
+          # 第四步：把本次 JSON 覆盖回来
           for f in $files; do
             if [ -f "$tmp_dir/$f" ]; then
               cp "$tmp_dir/$f" "$f"
@@ -85,6 +93,7 @@ jobs:
 
           git commit -m "chore: update new-arrivals JSON ($(date -u +'%Y-%m-%d %H:%M UTC'))"
 
+          # 第五步：push，失败则 retry 一次
           if git push origin main; then
             echo "Push succeeded."
             exit 0
