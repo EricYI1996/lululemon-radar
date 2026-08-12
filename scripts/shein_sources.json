@@ -1,0 +1,24 @@
+{
+  "stores": [
+    {
+      "brand": "ARALINA",
+      "storeCode": "2854758870",
+      "url": "https://us.shein.com/store/home?store_code=2854758870&tab=home"
+    },
+    {
+      "brand": "MUSERA",
+      "storeCode": "1057946717",
+      "url": "https://us.shein.com/store/home?store_code=1057946717&tab=home"
+    },
+    {
+      "brand": "GLOWMODE",
+      "storeCode": "8169683495",
+      "url": "https://us.shein.com/store/home?store_code=8169683495&tab=home"
+    },
+    {
+      "brand": "MFVIM",
+      "storeCode": "2473891268",
+      "url": "https://us.shein.com/store/home?store_code=2473891268&tab=home"
+    }
+  ]
+}
