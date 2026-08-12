@@ -1,0 +1,66 @@
+{
+  "fetchedAt": "2026-08-12T09:53:53Z",
+  "source": "SHEIN store pages",
+  "count": 0,
+  "products": [],
+  "stores": [
+    {
+      "brand": "ARALINA",
+      "storeCode": "2854758870",
+      "url": "https://us.shein.com/store/home?store_code=2854758870&tab=home",
+      "ok": false,
+      "count": 0,
+      "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://us.shein.com/store/home?store_code=2854758870&tab=home\nCall log:\n  - navigating to \"https://us.shein.com/store/home?store_code=2854758870&tab=home\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "brand": "MUSERA",
+      "storeCode": "1057946717",
+      "url": "https://us.shein.com/store/home?store_code=1057946717&tab=home",
+      "ok": false,
+      "count": 0,
+      "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://us.shein.com/store/home?store_code=1057946717&tab=home\nCall log:\n  - navigating to \"https://us.shein.com/store/home?store_code=1057946717&tab=home\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "brand": "GLOWMODE",
+      "storeCode": "8169683495",
+      "url": "https://us.shein.com/store/home?store_code=8169683495&tab=home",
+      "ok": false,
+      "count": 0,
+      "error": "risk_challenge"
+    },
+    {
+      "brand": "MFVIM",
+      "storeCode": "2473891268",
+      "url": "https://us.shein.com/store/home?store_code=2473891268&tab=home",
+      "ok": false,
+      "count": 0,
+      "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://us.shein.com/store/home?store_code=2473891268&tab=home\nCall log:\n  - navigating to \"https://us.shein.com/store/home?store_code=2473891268&tab=home\", waiting until \"domcontentloaded\"\n"
+    }
+  ],
+  "errors": [
+    {
+      "brand": "ARALINA",
+      "storeCode": "2854758870",
+      "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://us.shein.com/store/home?store_code=2854758870&tab=home\nCall log:\n  - navigating to \"https://us.shein.com/store/home?store_code=2854758870&tab=home\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "brand": "MUSERA",
+      "storeCode": "1057946717",
+      "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://us.shein.com/store/home?store_code=1057946717&tab=home\nCall log:\n  - navigating to \"https://us.shein.com/store/home?store_code=1057946717&tab=home\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "brand": "GLOWMODE",
+      "storeCode": "8169683495",
+      "url": "https://us.shein.com/store/home?store_code=8169683495&tab=home",
+      "ok": false,
+      "count": 0,
+      "error": "risk_challenge"
+    },
+    {
+      "brand": "MFVIM",
+      "storeCode": "2473891268",
+      "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://us.shein.com/store/home?store_code=2473891268&tab=home\nCall log:\n  - navigating to \"https://us.shein.com/store/home?store_code=2473891268&tab=home\", waiting until \"domcontentloaded\"\n"
+    }
+  ],
+  "note": "第一版为 Playwright DOM 抓取；若命中 SHEIN risk challenge，将保留错误信息并返回空列表。"
+}
