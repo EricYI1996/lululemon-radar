@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T13:12:34.075534+00:00",
+  "fetchedAt": "2026-08-12T13:34:44.602968+00:00",
   "source": "https://www.gymshark.com/collections/new-releases",
   "count": 180,
   "products": [
@@ -909,7 +909,7 @@
         {
           "id": 39797617262794,
           "inStock": true,
-          "inventoryQuantity": 131,
+          "inventoryQuantity": 130,
           "price": 48,
           "size": "s",
           "sku": "A1B5B-RB12-S"
@@ -2894,7 +2894,7 @@
         {
           "id": 39797089337546,
           "inStock": true,
-          "inventoryQuantity": 102,
+          "inventoryQuantity": 101,
           "price": 36,
           "size": "m",
           "sku": "A5A2D-NDJ6-M"
@@ -5068,7 +5068,7 @@
         {
           "id": 39798531162314,
           "inStock": true,
-          "inventoryQuantity": 2349,
+          "inventoryQuantity": 2348,
           "price": 48,
           "size": "l",
           "sku": "A5C4L-BB2J-L"
@@ -5076,7 +5076,7 @@
         {
           "id": 39798532604106,
           "inStock": true,
-          "inventoryQuantity": 749,
+          "inventoryQuantity": 747,
           "price": 48,
           "size": "xl",
           "sku": "A5C4L-BB2J-XL"
@@ -5238,7 +5238,7 @@
         {
           "id": 39788954878154,
           "inStock": true,
-          "inventoryQuantity": 20721,
+          "inventoryQuantity": 20720,
           "price": 38,
           "size": "s",
           "sku": "B7A3L-BB2J-S"
@@ -5254,7 +5254,7 @@
         {
           "id": 39788954812618,
           "inStock": true,
-          "inventoryQuantity": 3669,
+          "inventoryQuantity": 3668,
           "price": 38,
           "size": "l",
           "sku": "B7A3L-BB2J-L"
@@ -6583,7 +6583,7 @@
         {
           "id": 39798539747530,
           "inStock": true,
-          "inventoryQuantity": 5613,
+          "inventoryQuantity": 5612,
           "price": 38,
           "size": "m",
           "sku": "A5C9L-BB2J-M"
@@ -6770,7 +6770,7 @@
         {
           "id": 39798530343114,
           "inStock": true,
-          "inventoryQuantity": 1225,
+          "inventoryQuantity": 1224,
           "price": 48,
           "size": "l",
           "sku": "A5C4L-GB7H-L"
@@ -6943,7 +6943,7 @@
         {
           "id": 39795241844938,
           "inStock": true,
-          "inventoryQuantity": 2845,
+          "inventoryQuantity": 2844,
           "price": 38,
           "size": "m",
           "sku": "B4B8H-BB2J-M"
@@ -6967,7 +6967,7 @@
         {
           "id": 39795239878858,
           "inStock": true,
-          "inventoryQuantity": 8,
+          "inventoryQuantity": 7,
           "price": 38,
           "size": "xxl",
           "sku": "B4B8H-BB2J-XXL"
@@ -6987,6 +6987,7 @@
         "akeneo_updated_at:1771589232",
         "akeneo_updated_at:1771697405",
         "akeneo_updated_at:1772323872",
+        "akeneo_updated_at:1786539220",
         "all-products",
         "athleisure",
         "aw25",
@@ -8286,7 +8287,7 @@
         {
           "id": 39795307643082,
           "inStock": true,
-          "inventoryQuantity": 1787,
+          "inventoryQuantity": 1786,
           "price": 30,
           "size": "m",
           "sku": "B5B5F-BB2J-M"
@@ -8322,6 +8323,7 @@
         "30/7/26-everyday-seamless",
         "31/07/25",
         "akeneo_updated_at:1753945271",
+        "akeneo_updated_at:1786539275",
         "all-products",
         "athleisure",
         "aw25",
@@ -10606,7 +10608,7 @@
         {
           "id": 39794828837066,
           "inStock": true,
-          "inventoryQuantity": 110,
+          "inventoryQuantity": 108,
           "price": 26,
           "size": "l",
           "sku": "B4C1V-BB2J-L"
@@ -10903,7 +10905,7 @@
         {
           "id": 39797734113482,
           "inStock": true,
-          "inventoryQuantity": 152,
+          "inventoryQuantity": 151,
           "price": 44,
           "size": "xl",
           "sku": "B6B8Q-KDFW-XL"
@@ -10920,6 +10922,7 @@
       "canonicalColour": "pink",
       "collections": [
         "22/07/26",
+        "akeneo_updated_at:1786539376",
         "all-products",
         "bodybuilding",
         "build-your-wishlist",
@@ -15228,7 +15231,7 @@
         {
           "id": 39799657332938,
           "inStock": true,
-          "inventoryQuantity": 112,
+          "inventoryQuantity": 111,
           "price": 50,
           "size": "xs",
           "sku": "B7B4S-UCTN-XS"
@@ -17177,7 +17180,7 @@
         {
           "id": 39799409869002,
           "inStock": true,
-          "inventoryQuantity": 495,
+          "inventoryQuantity": 494,
           "price": 40,
           "size": "m",
           "sku": "A4B7V-GD9M-M"
@@ -17354,7 +17357,7 @@
         {
           "id": 39799601791178,
           "inStock": true,
-          "inventoryQuantity": 244,
+          "inventoryQuantity": 243,
           "price": 28,
           "size": "xs",
           "sku": "B3B9F-KDNB-XS"
@@ -17529,7 +17532,7 @@
         {
           "id": 39798062579914,
           "inStock": true,
-          "inventoryQuantity": 46,
+          "inventoryQuantity": 45,
           "price": 64,
           "size": "s",
           "sku": "B7B2N-OBZC-S"
@@ -17928,7 +17931,7 @@
         {
           "id": 39797335785674,
           "inStock": true,
-          "inventoryQuantity": 873,
+          "inventoryQuantity": 872,
           "price": 34,
           "size": "l",
           "sku": "A5C2X-BBBB-L"
@@ -19501,7 +19504,7 @@
         {
           "id": 39798070771914,
           "inStock": true,
-          "inventoryQuantity": 98,
+          "inventoryQuantity": 97,
           "price": 44,
           "size": "xs",
           "sku": "B7C2L-UD6Z-XS"
@@ -19552,6 +19555,7 @@
         "22/07/26",
         "adjustable-straps",
         "akeneo_updated_at:1784570678",
+        "akeneo_updated_at:1786539461",
         "all-products",
         "blue-gym-sets",
         "blue-sports-bra",
@@ -20603,7 +20607,7 @@
         {
           "id": 39799469211850,
           "inStock": true,
-          "inventoryQuantity": 370,
+          "inventoryQuantity": 369,
           "price": 26,
           "size": "l",
           "sku": "A4C5A-NDJ1-L"
@@ -20638,6 +20642,7 @@
         "04-08-best-sellers",
         "22/07/2026",
         "airport-outfits",
+        "akeneo_updated_at:1786538836",
         "all-products",
         "back-to-school",
         "build-your-wishlist",
@@ -20768,7 +20773,7 @@
         {
           "id": 39797105361098,
           "inStock": true,
-          "inventoryQuantity": 106,
+          "inventoryQuantity": 105,
           "price": 42,
           "size": "m",
           "sku": "A5B9P-UCTN-M"
@@ -20810,6 +20815,7 @@
       "collections": [
         "04-08-best-sellers",
         "30/07/26",
+        "akeneo_updated_at:1786538907",
         "all-products",
         "back-to-school",
         "bodybuilding",
@@ -21501,7 +21507,7 @@
         {
           "id": 39794828280010,
           "inStock": true,
-          "inventoryQuantity": 44,
+          "inventoryQuantity": 43,
           "price": 26,
           "size": "l",
           "sku": "B4C1V-WCMY-L"
@@ -21926,7 +21932,7 @@
         {
           "id": 39799485169866,
           "inStock": true,
-          "inventoryQuantity": 121,
+          "inventoryQuantity": 120,
           "price": 36,
           "size": "s",
           "sku": "A4B9W-GFCD-S"
@@ -21978,6 +21984,7 @@
         "22/07/2026",
         "airport-outfits",
         "akeneo_updated_at:1784660705",
+        "akeneo_updated_at:1786538825",
         "all-products",
         "back-to-school",
         "bodybuilding",
@@ -22678,7 +22685,7 @@
         {
           "id": 39799950573770,
           "inStock": true,
-          "inventoryQuantity": 317,
+          "inventoryQuantity": 316,
           "price": 42,
           "size": "m",
           "sku": "B7B6Y-YBZ5-M"
@@ -22840,7 +22847,7 @@
         {
           "id": 39799856070858,
           "inStock": true,
-          "inventoryQuantity": 153,
+          "inventoryQuantity": 152,
           "price": 42,
           "size": "s",
           "sku": "B6B6W-UCTN-S"
@@ -23014,7 +23021,7 @@
         {
           "id": 39797143699658,
           "inStock": true,
-          "inventoryQuantity": 25,
+          "inventoryQuantity": 24,
           "price": 40,
           "size": "xs",
           "sku": "B6C4Z-BDGS-XS"
@@ -26083,7 +26090,7 @@
         {
           "id": 39799945003210,
           "inStock": true,
-          "inventoryQuantity": 82,
+          "inventoryQuantity": 81,
           "price": 46,
           "size": "xs",
           "sku": "B6C8D-YBZ5-XS"
@@ -27829,7 +27836,7 @@
         {
           "id": 39797327265994,
           "inStock": true,
-          "inventoryQuantity": 267,
+          "inventoryQuantity": 266,
           "price": 28,
           "size": "m",
           "sku": "B6C7B-BDGS-M"
@@ -27862,6 +27869,7 @@
       "canonicalColour": "black",
       "collections": [
         "30/07/26",
+        "akeneo_updated_at:1786539399",
         "all-products",
         "athleisure",
         "black-gym-sets",
@@ -28664,7 +28672,7 @@
         {
           "id": 39797138161866,
           "inStock": true,
-          "inventoryQuantity": 254,
+          "inventoryQuantity": 253,
           "price": 28,
           "size": "m",
           "sku": "B6C6K-UCTN-M"
@@ -30084,7 +30092,7 @@
         {
           "id": 39799515316426,
           "inStock": true,
-          "inventoryQuantity": 76,
+          "inventoryQuantity": 75,
           "price": 26,
           "size": "m",
           "sku": "A4C5A-UFHB-M"
@@ -30092,7 +30100,7 @@
         {
           "id": 39799524491466,
           "inStock": true,
-          "inventoryQuantity": 82,
+          "inventoryQuantity": 81,
           "price": 26,
           "size": "l",
           "sku": "A4C5A-UFHB-L"
@@ -30614,7 +30622,7 @@
         {
           "id": 39798992306378,
           "inStock": true,
-          "inventoryQuantity": 11,
+          "inventoryQuantity": 10,
           "price": 32,
           "size": "xxl",
           "sku": "A4C2J-BC9J-XXL"
@@ -30632,6 +30640,7 @@
       "collections": [
         "22/07/2026",
         "airport-outfits",
+        "akeneo_updated_at:1786538827",
         "all-products",
         "back-to-school",
         "black-staples",
@@ -32593,7 +32602,7 @@
         {
           "id": 39797363867850,
           "inStock": true,
-          "inventoryQuantity": 23,
+          "inventoryQuantity": 22,
           "price": 28,
           "size": "l",
           "sku": "B6C6K-NDJ1-L"
@@ -32620,6 +32629,7 @@
         "30/07/26",
         "akeneo_updated_at:1770638800",
         "akeneo_updated_at:1770638845",
+        "akeneo_updated_at:1786539394",
         "all-products",
         "brown-gym-sets",
         "build-your-wishlist",

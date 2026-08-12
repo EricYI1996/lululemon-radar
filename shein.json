@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T13:13:31Z",
+  "fetchedAt": "2026-08-12T13:37:01Z",
   "source": "SHEIN store pages",
   "count": 0,
   "products": [],
@@ -71,5 +71,5 @@
       "error": "risk_challenge"
     }
   ],
-  "note": "第一版为 Playwright DOM 抓取；若命中 SHEIN risk challenge，将保留错误信息并返回空列表。"
+  "note": "第二版为 Playwright DOM 抓取 + 暖场访问 + 桌面/移动双入口重试；若命中 SHEIN risk challenge，将保留错误信息并返回空列表。"
 }
