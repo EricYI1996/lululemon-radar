@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-SHEIN 品牌店铺上新抓取脚本（第一版尝试）
+SHEIN 品牌店铺上新抓取脚本（第二版反爬优化）
 ===============================================================
 目标：
 - 监控配置里的 SHEIN 品牌店铺页（store_code）
@@ -17,6 +17,7 @@ SHEIN 品牌店铺上新抓取脚本（第一版尝试）
 from __future__ import annotations
 
 import json
+import random
 import re
 import sys
 import time
@@ -27,6 +28,17 @@ from urllib.parse import urljoin, urlparse
 ROOT = Path(__file__).resolve().parents[1]
 OUT_FILE = ROOT / "shein.json"
 SOURCES_FILE = Path(__file__).resolve().with_name("shein_sources.json")
+
+DESKTOP_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/126.0.0.0 Safari/537.36"
+)
+MOBILE_UA = (
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) "
+    "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 "
+    "Mobile/15E148 Safari/604.1"
+)
 
 
 def now_iso() -> str:
@@ -47,6 +59,50 @@ def parse_price(text: str):
 def slug_from_url(url: str) -> str:
     path = urlparse(url).path or ""
     return path.rstrip("/").split("/")[-1]
+
+
+def store_attempt_urls(store: dict) -> list[str]:
+    store_code = store["storeCode"]
+    urls = []
+    for base in (store.get("url"), f"https://us.shein.com/store/home?store_code={store_code}&tab=home"):
+        if base and base not in urls:
+            urls.append(base)
+    # 移动端页面有时比桌面端更少触发资源超时；作为第二入口。
+    urls.append(f"https://m.shein.com/us/store/home?store_code={store_code}&tab=home")
+    return urls
+
+
+def add_stealth_init(context):
+    context.add_init_script("""
+      Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+      Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+      Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+      window.chrome = window.chrome || { runtime: {} };
+    """)
+
+
+def safe_goto(page, url: str, timeout: int = 45000) -> str:
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=timeout)
+        return "ok"
+    except Exception as e:
+        # 很多 SHEIN 页面会卡在 domcontentloaded，但部分 DOM 已经可读；不要直接放弃。
+        return f"goto_warning:{type(e).__name__}: {str(e).splitlines()[0][:180]}"
+
+
+def warmup(page):
+    # 先访问首页建立基础 cookie / localStorage，降低直接打店铺页的挑战概率。
+    for url in ("https://us.shein.com/", "https://us.shein.com/RecommendSelection/Sports-Outdoors-sc-017185553.html"):
+        status = safe_goto(page, url, timeout=25000)
+        page.wait_for_timeout(1200 + random.randint(0, 800))
+        if not status.startswith("goto_warning"):
+            break
+
+
+def human_scroll(page, rounds: int = 7):
+    for _ in range(rounds):
+        page.mouse.wheel(0, random.randint(900, 2200))
+        page.wait_for_timeout(random.randint(900, 1800))
 
 
 def extract_products(page, brand_name: str, store_code: str):
@@ -110,63 +166,81 @@ def detect_block(page) -> str:
 def scrape_store(playwright, store: dict):
     brand = store["brand"]
     store_code = store["storeCode"]
-    url = store["url"]
-    result = {"brand": brand, "storeCode": store_code, "url": url, "ok": False, "count": 0}
+    result = {"brand": brand, "storeCode": store_code, "url": store.get("url"), "ok": False, "count": 0}
 
-    browser = playwright.chromium.launch(headless=True)
-    context = browser.new_context(
-        locale="en-US",
-        viewport={"width": 1440, "height": 1800},
-        user_agent=(
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/126.0.0.0 Safari/537.36"
-        ),
+    browser = playwright.chromium.launch(
+        headless=True,
+        args=[
+            "--disable-blink-features=AutomationControlled",
+            "--disable-dev-shm-usage",
+            "--no-sandbox",
+            "--disable-setuid-sandbox",
+            "--lang=en-US,en",
+        ],
     )
-    page = context.new_page()
-    page.set_extra_http_headers({"Accept-Language": "en-US,en;q=0.9"})
 
+    last_error = ""
     try:
-        print(f"[shein] open store {brand} ({store_code})", flush=True)
-        page.goto(url, wait_until="domcontentloaded", timeout=60000)
-        page.wait_for_timeout(3500)
+        for attempt_idx, target_url in enumerate(store_attempt_urls(store), start=1):
+            is_mobile = "m.shein.com" in target_url
+            context = browser.new_context(
+                locale="en-US",
+                timezone_id="America/Los_Angeles",
+                viewport={"width": 390, "height": 1600} if is_mobile else {"width": 1440, "height": 1800},
+                user_agent=MOBILE_UA if is_mobile else DESKTOP_UA,
+                device_scale_factor=3 if is_mobile else 1,
+                is_mobile=is_mobile,
+                has_touch=is_mobile,
+            )
+            add_stealth_init(context)
+            context.set_extra_http_headers({
+                "Accept-Language": "en-US,en;q=0.9",
+                "Upgrade-Insecure-Requests": "1",
+                "Sec-Fetch-Site": "same-origin",
+                "Sec-Fetch-Mode": "navigate",
+                "Sec-Fetch-Dest": "document",
+            })
+            page = context.new_page()
 
-        # 下拉几次，尽量把首屏后的商品卡片刷出来
-        for _ in range(5):
-            page.mouse.wheel(0, 2400)
-            page.wait_for_timeout(1800)
+            try:
+                print(f"[shein] open store {brand} ({store_code}) attempt={attempt_idx} mobile={is_mobile}", flush=True)
+                warmup(page)
+                status = safe_goto(page, target_url, timeout=45000)
+                page.wait_for_timeout(2500 + random.randint(0, 1200))
+                human_scroll(page, rounds=8)
 
-        block = detect_block(page)
-        if block:
-            result["error"] = block
-            print(f"  -> blocked: {block}", flush=True)
-            return result, []
+                block = detect_block(page)
+                products = [] if block else extract_products(page, brand, store_code)
+                if products:
+                    cleaned = []
+                    seen = set()
+                    for p in products:
+                        p["title"] = clean_text(p.get("title") or "") or slug_from_url(p["url"]).replace("-", " ")
+                        p["image"] = urljoin(page.url, p.get("image") or "") if p.get("image") else ""
+                        p["slug"] = slug_from_url(p["url"])
+                        key = p["url"]
+                        if key in seen:
+                            continue
+                        seen.add(key)
+                        cleaned.append(p)
+                    result.update({"ok": True, "count": len(cleaned), "url": target_url, "attempt": attempt_idx, "navigation": status})
+                    print(f"  -> ok: {len(cleaned)} items", flush=True)
+                    return result, cleaned
 
-        products = extract_products(page, brand, store_code)
-        if not products:
-            result["error"] = "no_product_cards_found"
-            print("  -> no product cards found", flush=True)
-            return result, []
+                body_hint = ""
+                try:
+                    body_hint = clean_text(page.locator("body").inner_text(timeout=3000)[:300])
+                except Exception:
+                    pass
+                last_error = block or (status if status != "ok" else "no_product_cards_found")
+                print(f"  -> attempt failed: {last_error}; hint={body_hint[:120]}", flush=True)
+            finally:
+                context.close()
 
-        # 补充 slug，去重，清洗空标题
-        cleaned = []
-        seen = set()
-        for p in products:
-            p["title"] = clean_text(p.get("title") or "") or slug_from_url(p["url"]).replace("-", " ")
-            p["image"] = urljoin(page.url, p.get("image") or "") if p.get("image") else ""
-            p["slug"] = slug_from_url(p["url"])
-            key = p["url"]
-            if key in seen:
-                continue
-            seen.add(key)
-            cleaned.append(p)
-
-        result["ok"] = True
-        result["count"] = len(cleaned)
-        print(f"  -> ok: {len(cleaned)} items", flush=True)
-        return result, cleaned
+        result["error"] = last_error or "all_attempts_failed"
+        print(f"  -> failed: {result['error']}", flush=True)
+        return result, []
     finally:
-        context.close()
         browser.close()
 
 
@@ -219,7 +293,7 @@ def main():
         "products": all_products,
         "stores": summaries,
         "errors": errors,
-        "note": "第一版为 Playwright DOM 抓取；若命中 SHEIN risk challenge，将保留错误信息并返回空列表。",
+        "note": "第二版为 Playwright DOM 抓取 + 暖场访问 + 桌面/移动双入口重试；若命中 SHEIN risk challenge，将保留错误信息并返回空列表。",
     }
     OUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[shein] wrote {len(all_products)} items -> {OUT_FILE}", flush=True)
