@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T04:05:48.360822+00:00",
+  "fetchedAt": "2026-08-12T13:12:24.781328+00:00",
   "source": "https://dfyne.com/products.json?limit=50",
   "count": 50,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:33+01:00",
       "created_at": "2026-07-24T14:41:33+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ink",
       "product_type": "Bags",
       "tags": [
@@ -49,7 +49,7 @@
           "position": 1,
           "product_id": 8188399157341,
           "created_at": "2026-07-24T14:41:33+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -115,7 +115,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:33+01:00",
       "created_at": "2026-07-24T14:41:32+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Espresso",
       "product_type": "Bags",
       "tags": [
@@ -154,7 +154,7 @@
           "position": 1,
           "product_id": 8188399124573,
           "created_at": "2026-07-24T14:41:32+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -220,7 +220,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:33+01:00",
       "created_at": "2026-07-24T14:41:31+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "Bags",
       "tags": [
@@ -259,7 +259,7 @@
           "position": 1,
           "product_id": 8188399091805,
           "created_at": "2026-07-24T14:41:31+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -325,7 +325,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:36+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Bags",
       "tags": [
@@ -359,7 +359,7 @@
           "position": 1,
           "product_id": 8188399288413,
           "created_at": "2026-07-24T14:41:36+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -403,7 +403,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:35+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ink",
       "product_type": "Bags",
       "tags": [
@@ -437,7 +437,7 @@
           "position": 1,
           "product_id": 8188399255645,
           "created_at": "2026-07-24T14:41:35+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -481,7 +481,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:34+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Espresso",
       "product_type": "Bags",
       "tags": [
@@ -515,7 +515,7 @@
           "position": 1,
           "product_id": 8188399222877,
           "created_at": "2026-07-24T14:41:35+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -559,7 +559,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:34+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Bags",
       "tags": [
@@ -595,7 +595,7 @@
           "position": 1,
           "product_id": 8188399190109,
           "created_at": "2026-07-24T14:41:34+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -661,7 +661,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-08-04T15:56:28+01:00",
       "created_at": "2026-07-17T09:48:03+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Grey Marl",
       "product_type": "Socks",
       "tags": [
@@ -698,7 +698,7 @@
           "position": 1,
           "product_id": 8182852714589,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44722435326045,
@@ -717,7 +717,7 @@
           "position": 2,
           "product_id": 8182852714589,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44722435358813,
@@ -736,7 +736,7 @@
           "position": 3,
           "product_id": 8182852714589,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -782,7 +782,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-08-04T15:56:28+01:00",
       "created_at": "2026-07-17T09:48:03+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Grey Marl",
       "product_type": "Socks",
       "tags": [
@@ -819,7 +819,7 @@
           "position": 1,
           "product_id": 8182852681821,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44722435227741,
@@ -838,7 +838,7 @@
           "position": 2,
           "product_id": 8182852681821,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44722435260509,
@@ -857,7 +857,7 @@
           "position": 3,
           "product_id": 8182852681821,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -903,7 +903,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:09+01:00",
       "created_at": "2025-10-07T11:57:00+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Slate Grey",
       "product_type": "Shorts",
       "tags": [
@@ -936,7 +936,7 @@
           "position": 1,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660143709,
@@ -955,7 +955,7 @@
           "position": 2,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660176477,
@@ -974,7 +974,7 @@
           "position": 3,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660209245,
@@ -993,7 +993,7 @@
           "position": 4,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660242013,
@@ -1012,7 +1012,7 @@
           "position": 5,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -1082,7 +1082,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:08+01:00",
       "created_at": "2025-10-07T11:57:05+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Slate Grey",
       "product_type": "Sweatshirts",
       "tags": [
@@ -1094,7 +1094,6 @@
         "Menswear",
         "New Releases",
         "Recharge",
-        "restock recent",
         "SAPG::Recharge Washed Sweatshirt::Slate Grey",
         "Slate Grey",
         "Sweatshirts",
@@ -1118,7 +1117,7 @@
           "position": 1,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660635229,
@@ -1137,7 +1136,7 @@
           "position": 2,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660667997,
@@ -1156,7 +1155,7 @@
           "position": 3,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660700765,
@@ -1175,7 +1174,7 @@
           "position": 4,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660733533,
@@ -1194,7 +1193,7 @@
           "position": 5,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -1264,7 +1263,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:08+01:00",
       "created_at": "2025-10-07T11:57:02+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "Shorts",
       "tags": [
@@ -1297,7 +1296,7 @@
           "position": 1,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660307549,
@@ -1316,7 +1315,7 @@
           "position": 2,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660340317,
@@ -1335,7 +1334,7 @@
           "position": 3,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660373085,
@@ -1354,7 +1353,7 @@
           "position": 4,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660405853,
@@ -1373,7 +1372,7 @@
           "position": 5,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -1443,7 +1442,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:07+01:00",
       "created_at": "2025-10-07T11:57:06+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sweatshirts",
       "tags": [
@@ -1456,7 +1455,6 @@
         "Midnight Black",
         "New Releases",
         "Recharge",
-        "restock recent",
         "SAPG::Recharge Washed Sweatshirt::Midnight Black",
         "Sweatshirts",
         "tracksuit"
@@ -1479,7 +1477,7 @@
           "position": 1,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660799069,
@@ -1498,7 +1496,7 @@
           "position": 2,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660831837,
@@ -1517,7 +1515,7 @@
           "position": 3,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660864605,
@@ -1536,7 +1534,7 @@
           "position": 4,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693660897373,
@@ -1555,7 +1553,7 @@
           "position": 5,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -1625,7 +1623,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:06+01:00",
       "created_at": "2025-10-07T11:57:10+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Slate Grey",
       "product_type": "Joggers",
       "tags": [
@@ -1638,7 +1636,6 @@
         "Menswear",
         "New Releases",
         "Recharge",
-        "restock recent",
         "SAPG::Recharge Washed Jogger::Slate Grey",
         "Slate Grey",
         "tracksuit"
@@ -1661,7 +1658,7 @@
           "position": 1,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661159517,
@@ -1680,7 +1677,7 @@
           "position": 2,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661192285,
@@ -1699,7 +1696,7 @@
           "position": 3,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661225053,
@@ -1718,7 +1715,7 @@
           "position": 4,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661257821,
@@ -1737,7 +1734,7 @@
           "position": 5,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -1807,7 +1804,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:05+01:00",
       "created_at": "2026-05-26T10:03:03+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "Hoodies",
       "tags": [
@@ -1841,7 +1838,7 @@
           "position": 1,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723672669,
@@ -1860,7 +1857,7 @@
           "position": 2,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723705437,
@@ -1879,7 +1876,7 @@
           "position": 3,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723738205,
@@ -1898,7 +1895,7 @@
           "position": 4,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723770973,
@@ -1917,7 +1914,7 @@
           "position": 5,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -1987,7 +1984,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:05+01:00",
       "created_at": "2025-10-07T11:57:10+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "Joggers",
       "tags": [
@@ -2001,7 +1998,6 @@
         "Midnight Black",
         "New Releases",
         "Recharge",
-        "restock recent",
         "SAPG::Recharge Washed Jogger::Midnight Black",
         "tracksuit"
       ],
@@ -2023,7 +2019,7 @@
           "position": 1,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661323357,
@@ -2042,7 +2038,7 @@
           "position": 2,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661356125,
@@ -2061,7 +2057,7 @@
           "position": 3,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661388893,
@@ -2080,7 +2076,7 @@
           "position": 4,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43693661421661,
@@ -2099,7 +2095,7 @@
           "position": 5,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -2158,7 +2154,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:03+01:00",
       "created_at": "2026-05-26T10:03:04+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Slate Grey",
       "product_type": "Hoodies",
       "tags": [
@@ -2170,7 +2166,6 @@
         "Menswear",
         "New Releases",
         "Recharge",
-        "restock recent",
         "SAPG::Recharge Washed Zip Hoodie::Slate Grey",
         "Slate Grey",
         "tracksuit"
@@ -2193,7 +2188,7 @@
           "position": 1,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723869277,
@@ -2212,7 +2207,7 @@
           "position": 2,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723902045,
@@ -2231,7 +2226,7 @@
           "position": 3,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723934813,
@@ -2250,7 +2245,7 @@
           "position": 4,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44477723967581,
@@ -2269,7 +2264,7 @@
           "position": 5,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -2339,7 +2334,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:34+01:00",
       "created_at": "2024-02-13T12:27:50+00:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Palm Green",
       "product_type": "Shorts",
       "tags": [
@@ -2367,14 +2362,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 115,
           "compare_at_price": null,
           "position": 1,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41574924288093,
@@ -2393,7 +2388,7 @@
           "position": 2,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41574924320861,
@@ -2412,7 +2407,7 @@
           "position": 3,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41574924353629,
@@ -2431,7 +2426,7 @@
           "position": 4,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41574924386397,
@@ -2450,7 +2445,7 @@
           "position": 5,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -2520,7 +2515,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:33+01:00",
       "created_at": "2024-08-05T14:04:40+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Coral",
       "product_type": "Shorts",
       "tags": [
@@ -2555,7 +2550,7 @@
           "position": 1,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 42543094136925,
@@ -2574,7 +2569,7 @@
           "position": 2,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 42543094169693,
@@ -2593,7 +2588,7 @@
           "position": 3,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 42543094202461,
@@ -2612,7 +2607,7 @@
           "position": 4,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 42543094235229,
@@ -2631,7 +2626,7 @@
           "position": 5,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -2701,7 +2696,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:32+01:00",
       "created_at": "2025-06-03T10:19:04+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ultra Violet",
       "product_type": "Shorts",
       "tags": [
@@ -2736,7 +2731,7 @@
           "position": 1,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43439655583837,
@@ -2755,7 +2750,7 @@
           "position": 2,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43439655616605,
@@ -2774,7 +2769,7 @@
           "position": 3,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43439655649373,
@@ -2793,7 +2788,7 @@
           "position": 4,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 43439655682141,
@@ -2812,7 +2807,7 @@
           "position": 5,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -2882,7 +2877,7 @@
       "body_html": "<p>Impact  Collection</p>",
       "published_at": "2026-07-30T16:00:31+01:00",
       "created_at": "2023-06-05T16:18:04+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Peach Sorbet",
       "product_type": "Shorts",
       "tags": [
@@ -2917,7 +2912,7 @@
           "position": 1,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41055907020893,
@@ -2936,7 +2931,7 @@
           "position": 2,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41055907053661,
@@ -2948,14 +2943,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 139,
           "compare_at_price": null,
           "position": 3,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41055907086429,
@@ -2967,14 +2962,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 152,
           "compare_at_price": null,
           "position": 4,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41055907119197,
@@ -2993,7 +2988,7 @@
           "position": 5,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -3063,7 +3058,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:30+01:00",
       "created_at": "2026-07-10T14:48:59+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Coral",
       "product_type": "Sports Bras",
       "tags": [
@@ -3097,7 +3092,7 @@
           "position": 1,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548737629,
@@ -3116,7 +3111,7 @@
           "position": 2,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548770397,
@@ -3135,7 +3130,7 @@
           "position": 3,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548803165,
@@ -3154,7 +3149,7 @@
           "position": 4,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548835933,
@@ -3166,14 +3161,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -3243,7 +3238,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:30+01:00",
       "created_at": "2026-07-10T14:48:58+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Butter",
       "product_type": "Sports Bras",
       "tags": [
@@ -3270,14 +3265,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548573789,
@@ -3289,14 +3284,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548606557,
@@ -3308,14 +3303,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548639325,
@@ -3334,7 +3329,7 @@
           "position": 4,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548672093,
@@ -3353,7 +3348,7 @@
           "position": 5,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -3423,7 +3418,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:29+01:00",
       "created_at": "2026-07-10T14:49:00+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ultra Violet",
       "product_type": "Sports Bras",
       "tags": [
@@ -3457,7 +3452,7 @@
           "position": 1,
           "product_id": 8173308641373,
           "created_at": "2026-07-10T14:49:00+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548934237,
@@ -3476,7 +3471,7 @@
           "position": 2,
           "product_id": 8173308641373,
           "created_at": "2026-07-10T14:49:00+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548967005,
@@ -3495,7 +3490,7 @@
           "position": 3,
           "product_id": 8173308641373,
           "created_at": "2026-07-10T14:49:00+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587548999773,
@@ -3514,7 +3509,7 @@
           "position": 4,
           "product_id": 8173308641373,
           "created_at": "2026-07-10T14:49:00+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549032541,
@@ -3533,7 +3528,7 @@
           "position": 5,
           "product_id": 8173308641373,
           "created_at": "2026-07-10T14:49:00+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -3603,7 +3598,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions, IMPACT combines firm sculpting fabric with a flexible scrunch and contouring to lift and define your glutes. The shorts stay in place without digging into your thighs, and the mid to low waistband and contour zones support your natural shape so you can look and feel your strongest.</p>",
       "published_at": "2026-07-30T16:00:28+01:00",
       "created_at": "2026-02-27T10:57:26+00:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Butter",
       "product_type": "Shorts",
       "tags": [
@@ -3637,7 +3632,7 @@
           "position": 1,
           "product_id": 8081717952605,
           "created_at": "2026-02-27T10:57:26+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44227163488349,
@@ -3656,7 +3651,7 @@
           "position": 2,
           "product_id": 8081717952605,
           "created_at": "2026-02-27T10:57:26+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44227163521117,
@@ -3675,7 +3670,7 @@
           "position": 3,
           "product_id": 8081717952605,
           "created_at": "2026-02-27T10:57:26+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44227163553885,
@@ -3694,7 +3689,7 @@
           "position": 4,
           "product_id": 8081717952605,
           "created_at": "2026-02-27T10:57:26+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44227163586653,
@@ -3713,7 +3708,7 @@
           "position": 5,
           "product_id": 8081717952605,
           "created_at": "2026-02-27T10:57:26+00:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -3783,7 +3778,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:27+01:00",
       "created_at": "2026-07-10T14:49:00+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Peach Sorbet",
       "product_type": "Sports Bras",
       "tags": [
@@ -3817,7 +3812,7 @@
           "position": 1,
           "product_id": 8173308674141,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549098077,
@@ -3836,7 +3831,7 @@
           "position": 2,
           "product_id": 8173308674141,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549130845,
@@ -3848,14 +3843,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173308674141,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549163613,
@@ -3874,7 +3869,7 @@
           "position": 4,
           "product_id": 8173308674141,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549196381,
@@ -3893,7 +3888,7 @@
           "position": 5,
           "product_id": 8173308674141,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -3963,7 +3958,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:26+01:00",
       "created_at": "2026-07-10T14:49:03+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ivory",
       "product_type": "Sports Bras",
       "tags": [
@@ -3990,14 +3985,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173308772445,
           "created_at": "2026-07-10T14:49:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549589597,
@@ -4009,14 +4004,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173308772445,
           "created_at": "2026-07-10T14:49:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549622365,
@@ -4028,14 +4023,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173308772445,
           "created_at": "2026-07-10T14:49:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549655133,
@@ -4047,14 +4042,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173308772445,
           "created_at": "2026-07-10T14:49:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549687901,
@@ -4073,7 +4068,7 @@
           "position": 5,
           "product_id": 8173308772445,
           "created_at": "2026-07-10T14:49:03+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -4143,7 +4138,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:25+01:00",
       "created_at": "2026-07-10T14:49:01+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Palm Green",
       "product_type": "Sports Bras",
       "tags": [
@@ -4170,14 +4165,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173308706909,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549261917,
@@ -4196,7 +4191,7 @@
           "position": 2,
           "product_id": 8173308706909,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549294685,
@@ -4215,7 +4210,7 @@
           "position": 3,
           "product_id": 8173308706909,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549327453,
@@ -4234,7 +4229,7 @@
           "position": 4,
           "product_id": 8173308706909,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549360221,
@@ -4253,7 +4248,7 @@
           "position": 5,
           "product_id": 8173308706909,
           "created_at": "2026-07-10T14:49:01+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -4312,7 +4307,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:24+01:00",
       "created_at": "2026-07-10T14:49:05+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Winter Berry",
       "product_type": "Sports Bras",
       "tags": [
@@ -4346,7 +4341,7 @@
           "position": 1,
           "product_id": 8173308870749,
           "created_at": "2026-07-10T14:49:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550081117,
@@ -4365,7 +4360,7 @@
           "position": 2,
           "product_id": 8173308870749,
           "created_at": "2026-07-10T14:49:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550113885,
@@ -4384,7 +4379,7 @@
           "position": 3,
           "product_id": 8173308870749,
           "created_at": "2026-07-10T14:49:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550146653,
@@ -4403,7 +4398,7 @@
           "position": 4,
           "product_id": 8173308870749,
           "created_at": "2026-07-10T14:49:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550179421,
@@ -4422,7 +4417,7 @@
           "position": 5,
           "product_id": 8173308870749,
           "created_at": "2026-07-10T14:49:05+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -4492,7 +4487,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:24+01:00",
       "created_at": "2026-07-10T14:49:02+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sports Bras",
       "tags": [
@@ -4519,14 +4514,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173308739677,
           "created_at": "2026-07-10T14:49:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549425757,
@@ -4545,7 +4540,7 @@
           "position": 2,
           "product_id": 8173308739677,
           "created_at": "2026-07-10T14:49:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549458525,
@@ -4557,14 +4552,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173308739677,
           "created_at": "2026-07-10T14:49:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549491293,
@@ -4576,14 +4571,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173308739677,
           "created_at": "2026-07-10T14:49:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549524061,
@@ -4595,14 +4590,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8173308739677,
           "created_at": "2026-07-10T14:49:02+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -4672,7 +4667,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:23+01:00",
       "created_at": "2026-07-10T14:49:04+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Electric Blue",
       "product_type": "Sports Bras",
       "tags": [
@@ -4699,14 +4694,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173308837981,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549917277,
@@ -4718,14 +4713,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173308837981,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549950045,
@@ -4737,14 +4732,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173308837981,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549982813,
@@ -4756,14 +4751,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173308837981,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550015581,
@@ -4782,7 +4777,7 @@
           "position": 5,
           "product_id": 8173308837981,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -4852,7 +4847,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:22+01:00",
       "created_at": "2026-07-10T14:49:06+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Butter",
       "product_type": "Tops",
       "tags": [
@@ -4887,7 +4882,7 @@
           "position": 1,
           "product_id": 8173308903517,
           "created_at": "2026-07-10T14:49:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550244957,
@@ -4906,7 +4901,7 @@
           "position": 2,
           "product_id": 8173308903517,
           "created_at": "2026-07-10T14:49:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550277725,
@@ -4925,7 +4920,7 @@
           "position": 3,
           "product_id": 8173308903517,
           "created_at": "2026-07-10T14:49:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550310493,
@@ -4944,7 +4939,7 @@
           "position": 4,
           "product_id": 8173308903517,
           "created_at": "2026-07-10T14:49:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550343261,
@@ -4963,7 +4958,7 @@
           "position": 5,
           "product_id": 8173308903517,
           "created_at": "2026-07-10T14:49:06+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -5033,7 +5028,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:21+01:00",
       "created_at": "2026-07-10T14:49:03+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Sports Bras",
       "tags": [
@@ -5060,14 +5055,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173308805213,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549753437,
@@ -5079,14 +5074,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173308805213,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549786205,
@@ -5098,14 +5093,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 65,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173308805213,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549818973,
@@ -5124,7 +5119,7 @@
           "position": 4,
           "product_id": 8173308805213,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587549851741,
@@ -5143,7 +5138,7 @@
           "position": 5,
           "product_id": 8173308805213,
           "created_at": "2026-07-10T14:49:04+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -5213,7 +5208,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:20+01:00",
       "created_at": "2026-07-10T14:49:08+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ultra Violet",
       "product_type": "Tops",
       "tags": [
@@ -5248,7 +5243,7 @@
           "position": 1,
           "product_id": 8173308969053,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550572637,
@@ -5267,7 +5262,7 @@
           "position": 2,
           "product_id": 8173308969053,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550605405,
@@ -5286,7 +5281,7 @@
           "position": 3,
           "product_id": 8173308969053,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550638173,
@@ -5305,7 +5300,7 @@
           "position": 4,
           "product_id": 8173308969053,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550670941,
@@ -5324,7 +5319,7 @@
           "position": 5,
           "product_id": 8173308969053,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -5383,7 +5378,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:19+01:00",
       "created_at": "2026-07-10T14:49:08+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Peach Sorbet",
       "product_type": "Tops",
       "tags": [
@@ -5418,7 +5413,7 @@
           "position": 1,
           "product_id": 8173309001821,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550736477,
@@ -5437,7 +5432,7 @@
           "position": 2,
           "product_id": 8173309001821,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550769245,
@@ -5456,7 +5451,7 @@
           "position": 3,
           "product_id": 8173309001821,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550802013,
@@ -5475,7 +5470,7 @@
           "position": 4,
           "product_id": 8173309001821,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550834781,
@@ -5494,7 +5489,7 @@
           "position": 5,
           "product_id": 8173309001821,
           "created_at": "2026-07-10T14:49:08+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -5564,7 +5559,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:18+01:00",
       "created_at": "2026-07-10T14:49:07+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Coral",
       "product_type": "Tops",
       "tags": [
@@ -5599,7 +5594,7 @@
           "position": 1,
           "product_id": 8173308936285,
           "created_at": "2026-07-10T14:49:07+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550408797,
@@ -5611,14 +5606,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173308936285,
           "created_at": "2026-07-10T14:49:07+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550441565,
@@ -5630,14 +5625,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173308936285,
           "created_at": "2026-07-10T14:49:07+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550474333,
@@ -5649,14 +5644,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173308936285,
           "created_at": "2026-07-10T14:49:07+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550507101,
@@ -5675,7 +5670,7 @@
           "position": 5,
           "product_id": 8173308936285,
           "created_at": "2026-07-10T14:49:07+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -5745,7 +5740,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:17+01:00",
       "created_at": "2026-07-10T14:49:09+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Palm Green",
       "product_type": "Tops",
       "tags": [
@@ -5780,7 +5775,7 @@
           "position": 1,
           "product_id": 8173309034589,
           "created_at": "2026-07-10T14:49:09+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550900317,
@@ -5799,7 +5794,7 @@
           "position": 2,
           "product_id": 8173309034589,
           "created_at": "2026-07-10T14:49:09+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550933085,
@@ -5818,7 +5813,7 @@
           "position": 3,
           "product_id": 8173309034589,
           "created_at": "2026-07-10T14:49:09+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550965853,
@@ -5837,7 +5832,7 @@
           "position": 4,
           "product_id": 8173309034589,
           "created_at": "2026-07-10T14:49:09+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587550998621,
@@ -5856,7 +5851,7 @@
           "position": 5,
           "product_id": 8173309034589,
           "created_at": "2026-07-10T14:49:09+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -5926,7 +5921,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:16+01:00",
       "created_at": "2026-07-10T14:49:10+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -5954,14 +5949,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173309067357,
           "created_at": "2026-07-10T14:49:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551064157,
@@ -5973,14 +5968,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173309067357,
           "created_at": "2026-07-10T14:49:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551096925,
@@ -5992,14 +5987,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173309067357,
           "created_at": "2026-07-10T14:49:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551129693,
@@ -6011,14 +6006,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173309067357,
           "created_at": "2026-07-10T14:49:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551162461,
@@ -6030,14 +6025,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8173309067357,
           "created_at": "2026-07-10T14:49:10+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -6107,7 +6102,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:15+01:00",
       "created_at": "2026-07-10T14:49:11+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ivory",
       "product_type": "Tops",
       "tags": [
@@ -6135,14 +6130,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173309100125,
           "created_at": "2026-07-10T14:49:11+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551227997,
@@ -6154,14 +6149,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173309100125,
           "created_at": "2026-07-10T14:49:11+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551260765,
@@ -6173,14 +6168,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173309100125,
           "created_at": "2026-07-10T14:49:11+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551293533,
@@ -6192,14 +6187,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173309100125,
           "created_at": "2026-07-10T14:49:11+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551326301,
@@ -6218,7 +6213,7 @@
           "position": 5,
           "product_id": 8173309100125,
           "created_at": "2026-07-10T14:49:11+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -6288,7 +6283,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:14+01:00",
       "created_at": "2026-07-10T14:49:12+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Tops",
       "tags": [
@@ -6316,14 +6311,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173309132893,
           "created_at": "2026-07-10T14:49:12+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551391837,
@@ -6335,14 +6330,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173309132893,
           "created_at": "2026-07-10T14:49:12+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551424605,
@@ -6354,14 +6349,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173309132893,
           "created_at": "2026-07-10T14:49:12+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551457373,
@@ -6373,14 +6368,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173309132893,
           "created_at": "2026-07-10T14:49:12+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551490141,
@@ -6399,7 +6394,7 @@
           "position": 5,
           "product_id": 8173309132893,
           "created_at": "2026-07-10T14:49:12+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -6469,7 +6464,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:13+01:00",
       "created_at": "2026-07-10T14:49:13+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Electric Blue",
       "product_type": "Tops",
       "tags": [
@@ -6497,14 +6492,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8173309165661,
           "created_at": "2026-07-10T14:49:13+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551555677,
@@ -6516,14 +6511,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8173309165661,
           "created_at": "2026-07-10T14:49:13+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551588445,
@@ -6535,14 +6530,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173309165661,
           "created_at": "2026-07-10T14:49:13+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551621213,
@@ -6554,14 +6549,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173309165661,
           "created_at": "2026-07-10T14:49:13+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551653981,
@@ -6580,7 +6575,7 @@
           "position": 5,
           "product_id": 8173309165661,
           "created_at": "2026-07-10T14:49:13+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -6639,7 +6634,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:12+01:00",
       "created_at": "2026-07-10T14:49:14+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Butter",
       "product_type": "One Piece",
       "tags": [
@@ -6673,7 +6668,7 @@
           "position": 1,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551883357,
@@ -6692,7 +6687,7 @@
           "position": 2,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551916125,
@@ -6704,14 +6699,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551948893,
@@ -6730,7 +6725,7 @@
           "position": 4,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551981661,
@@ -6749,7 +6744,7 @@
           "position": 5,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552014429,
@@ -6768,7 +6763,7 @@
           "position": 6,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552047197,
@@ -6787,7 +6782,7 @@
           "position": 7,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552079965,
@@ -6806,7 +6801,7 @@
           "position": 8,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552112733,
@@ -6818,14 +6813,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552145501,
@@ -6844,7 +6839,7 @@
           "position": 10,
           "product_id": 8173309231197,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -6922,7 +6917,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:11+01:00",
       "created_at": "2026-07-10T14:49:15+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Coral",
       "product_type": "One Piece",
       "tags": [
@@ -6956,7 +6951,7 @@
           "position": 1,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552211037,
@@ -6975,7 +6970,7 @@
           "position": 2,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552243805,
@@ -6994,7 +6989,7 @@
           "position": 3,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552276573,
@@ -7013,7 +7008,7 @@
           "position": 4,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552309341,
@@ -7032,7 +7027,7 @@
           "position": 5,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552342109,
@@ -7051,7 +7046,7 @@
           "position": 6,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552374877,
@@ -7070,7 +7065,7 @@
           "position": 7,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552407645,
@@ -7089,7 +7084,7 @@
           "position": 8,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552440413,
@@ -7108,7 +7103,7 @@
           "position": 9,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552473181,
@@ -7127,7 +7122,7 @@
           "position": 10,
           "product_id": 8173309263965,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -7205,7 +7200,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:10+01:00",
       "created_at": "2026-07-10T14:49:16+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ultra Violet",
       "product_type": "One Piece",
       "tags": [
@@ -7239,7 +7234,7 @@
           "position": 1,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552538717,
@@ -7258,7 +7253,7 @@
           "position": 2,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552571485,
@@ -7277,7 +7272,7 @@
           "position": 3,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552604253,
@@ -7296,7 +7291,7 @@
           "position": 4,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552637021,
@@ -7315,7 +7310,7 @@
           "position": 5,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552669789,
@@ -7334,7 +7329,7 @@
           "position": 6,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552702557,
@@ -7353,7 +7348,7 @@
           "position": 7,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552735325,
@@ -7372,7 +7367,7 @@
           "position": 8,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552768093,
@@ -7391,7 +7386,7 @@
           "position": 9,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552800861,
@@ -7410,7 +7405,7 @@
           "position": 10,
           "product_id": 8173309296733,
           "created_at": "2026-07-10T14:49:16+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -7488,7 +7483,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:09+01:00",
       "created_at": "2026-07-10T14:49:13+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Winter Berry",
       "product_type": "Tops",
       "tags": [
@@ -7523,7 +7518,7 @@
           "position": 1,
           "product_id": 8173309198429,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551719517,
@@ -7542,7 +7537,7 @@
           "position": 2,
           "product_id": 8173309198429,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551752285,
@@ -7554,14 +7549,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8173309198429,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551785053,
@@ -7573,14 +7568,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173309198429,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587551817821,
@@ -7592,14 +7587,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 150,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8173309198429,
           "created_at": "2026-07-10T14:49:14+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -7669,7 +7664,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:08+01:00",
       "created_at": "2026-07-10T14:49:19+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Midnight Black",
       "product_type": "One Piece",
       "tags": [
@@ -7703,7 +7698,7 @@
           "position": 1,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553620061,
@@ -7722,7 +7717,7 @@
           "position": 2,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553652829,
@@ -7741,7 +7736,7 @@
           "position": 3,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553685597,
@@ -7760,7 +7755,7 @@
           "position": 4,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553718365,
@@ -7772,14 +7767,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553751133,
@@ -7798,7 +7793,7 @@
           "position": 6,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553783901,
@@ -7817,7 +7812,7 @@
           "position": 7,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553816669,
@@ -7836,7 +7831,7 @@
           "position": 8,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553849437,
@@ -7848,14 +7843,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553882205,
@@ -7867,14 +7862,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8173309460573,
           "created_at": "2026-07-10T14:49:19+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -7952,7 +7947,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:07+01:00",
       "created_at": "2026-07-10T14:49:20+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Ivory",
       "product_type": "One Piece",
       "tags": [
@@ -7986,7 +7981,7 @@
           "position": 1,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553980509,
@@ -8005,7 +8000,7 @@
           "position": 2,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554013277,
@@ -8024,7 +8019,7 @@
           "position": 3,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554046045,
@@ -8043,7 +8038,7 @@
           "position": 4,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554078813,
@@ -8062,7 +8057,7 @@
           "position": 5,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554111581,
@@ -8074,14 +8069,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554144349,
@@ -8100,7 +8095,7 @@
           "position": 7,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554177117,
@@ -8119,7 +8114,7 @@
           "position": 8,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554209885,
@@ -8131,14 +8126,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587554242653,
@@ -8157,7 +8152,7 @@
           "position": 10,
           "product_id": 8173309493341,
           "created_at": "2026-07-10T14:49:20+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -8235,7 +8230,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:06+01:00",
       "created_at": "2026-07-10T14:49:18+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Palm Green",
       "product_type": "One Piece",
       "tags": [
@@ -8269,7 +8264,7 @@
           "position": 1,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553226845,
@@ -8288,7 +8283,7 @@
           "position": 2,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553259613,
@@ -8307,7 +8302,7 @@
           "position": 3,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553292381,
@@ -8319,14 +8314,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553325149,
@@ -8345,7 +8340,7 @@
           "position": 5,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553357917,
@@ -8364,7 +8359,7 @@
           "position": 6,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553390685,
@@ -8376,14 +8371,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553423453,
@@ -8402,7 +8397,7 @@
           "position": 8,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553456221,
@@ -8414,14 +8409,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553488989,
@@ -8433,14 +8428,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "85.00",
           "grams": 220,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8173309395037,
           "created_at": "2026-07-10T14:49:18+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -8518,7 +8513,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:05+01:00",
       "created_at": "2026-07-10T14:49:17+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Peach Sorbet",
       "product_type": "One Piece",
       "tags": [
@@ -8552,7 +8547,7 @@
           "position": 1,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552866397,
@@ -8571,7 +8566,7 @@
           "position": 2,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552899165,
@@ -8590,7 +8585,7 @@
           "position": 3,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552931933,
@@ -8609,7 +8604,7 @@
           "position": 4,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552964701,
@@ -8628,7 +8623,7 @@
           "position": 5,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587552997469,
@@ -8647,7 +8642,7 @@
           "position": 6,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553030237,
@@ -8666,7 +8661,7 @@
           "position": 7,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553063005,
@@ -8685,7 +8680,7 @@
           "position": 8,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553095773,
@@ -8704,7 +8699,7 @@
           "position": 9,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 44587553128541,
@@ -8723,7 +8718,7 @@
           "position": 10,
           "product_id": 8173309329501,
           "created_at": "2026-07-10T14:49:17+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
@@ -8801,7 +8796,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions, IMPACT combines firm sculpting fabric with a flexible scrunch and contouring to lift and define your glutes. The shorts stay in place without digging into your thighs, and the mid to low waistband and contour zones support your natural shape so you can look and feel your strongest.</p>",
       "published_at": "2026-07-29T15:33:08+01:00",
       "created_at": "2023-09-25T16:54:38+01:00",
-      "updated_at": "2026-08-12T05:05:48+01:00",
+      "updated_at": "2026-08-12T14:12:24+01:00",
       "vendor": "Pistachio",
       "product_type": "Shorts",
       "tags": [
@@ -8833,7 +8828,7 @@
           "position": 1,
           "product_id": 7149312475229,
           "created_at": "2023-09-25T16:54:38+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41181733748829,
@@ -8852,7 +8847,7 @@
           "position": 2,
           "product_id": 7149312475229,
           "created_at": "2023-09-25T16:54:38+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41181733781597,
@@ -8871,7 +8866,7 @@
           "position": 3,
           "product_id": 7149312475229,
           "created_at": "2023-09-25T16:54:38+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41181733814365,
@@ -8890,7 +8885,7 @@
           "position": 4,
           "product_id": 7149312475229,
           "created_at": "2023-09-25T16:54:38+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         },
         {
           "id": 41181733847133,
@@ -8909,7 +8904,7 @@
           "position": 5,
           "product_id": 7149312475229,
           "created_at": "2023-09-25T16:54:38+01:00",
-          "updated_at": "2026-08-12T05:05:48+01:00"
+          "updated_at": "2026-08-12T14:12:24+01:00"
         }
       ],
       "images": [
