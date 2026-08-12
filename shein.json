@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T13:37:01Z",
+  "fetchedAt": "2026-08-12T14:51:51Z",
   "source": "SHEIN store pages",
   "count": 0,
   "products": [],
@@ -10,6 +10,16 @@
       "url": "https://us.shein.com/store/home?store_code=2854758870&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     },
     {
@@ -18,6 +28,16 @@
       "url": "https://us.shein.com/store/home?store_code=1057946717&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     },
     {
@@ -26,6 +46,16 @@
       "url": "https://us.shein.com/store/home?store_code=8169683495&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     },
     {
@@ -34,6 +64,16 @@
       "url": "https://us.shein.com/store/home?store_code=2473891268&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     }
   ],
@@ -44,6 +84,16 @@
       "url": "https://us.shein.com/store/home?store_code=2854758870&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     },
     {
@@ -52,6 +102,16 @@
       "url": "https://us.shein.com/store/home?store_code=1057946717&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     },
     {
@@ -60,6 +120,16 @@
       "url": "https://us.shein.com/store/home?store_code=8169683495&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     },
     {
@@ -68,8 +138,18 @@
       "url": "https://us.shein.com/store/home?store_code=2473891268&tab=home",
       "ok": false,
       "count": 0,
+      "api": {
+        "ok": false,
+        "error": "api_failed",
+        "apiErrors": [
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
+          "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
+        ]
+      },
       "error": "risk_challenge"
     }
   ],
-  "note": "第二版为 Playwright DOM 抓取 + 暖场访问 + 桌面/移动双入口重试；若命中 SHEIN risk challenge，将保留错误信息并返回空列表。"
+  "note": "第三版为 SHEIN 接口优先 + Playwright DOM 兜底；若接口 403 或命中 risk challenge，将保留错误信息并返回空列表。"
 }
