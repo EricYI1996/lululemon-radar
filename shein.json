@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T04:12:18Z",
+  "fetchedAt": "2026-08-14T04:08:50Z",
   "source": "SHEIN store pages",
   "count": 0,
   "products": [],
@@ -34,7 +34,7 @@
         "apiErrors": [
           "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
           "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
         ]
       },
@@ -108,7 +108,7 @@
         "apiErrors": [
           "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
           "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
+          "GET https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 403 len=2"
         ]
       },
