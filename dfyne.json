@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T02:54:33.393742+00:00",
+  "fetchedAt": "2026-08-21T03:00:45.746420+00:00",
   "source": "https://dfyne.com/products.json?limit=50",
   "count": 50,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:22+01:00",
       "created_at": "2026-07-20T14:59:05+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sports Bras",
       "tags": [
@@ -20,7 +20,6 @@
         "JMR::Defy Scoop Back Bra",
         "Midnight Black",
         "New Releases",
-        "restock recent",
         "SAPG::Defy Scoop Back Bra::Midnight Black",
         "Seamless",
         "Sports Bras",
@@ -45,7 +44,7 @@
           "position": 1,
           "product_id": 8184396972125,
           "created_at": "2026-07-20T14:59:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748418941021,
@@ -64,7 +63,7 @@
           "position": 2,
           "product_id": 8184396972125,
           "created_at": "2026-07-20T14:59:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748418973789,
@@ -83,7 +82,7 @@
           "position": 3,
           "product_id": 8184396972125,
           "created_at": "2026-07-20T14:59:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419006557,
@@ -102,7 +101,7 @@
           "position": 4,
           "product_id": 8184396972125,
           "created_at": "2026-07-20T14:59:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419039325,
@@ -121,7 +120,7 @@
           "position": 5,
           "product_id": 8184396972125,
           "created_at": "2026-07-20T14:59:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -191,7 +190,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:21+01:00",
       "created_at": "2026-07-20T14:59:08+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Chestnut",
       "product_type": "Sports Bras",
       "tags": [
@@ -201,7 +200,6 @@
         "Defy",
         "JMR::Defy Scoop Back Bra",
         "New Releases",
-        "restock recent",
         "SAPG::Defy Scoop Back Bra::Chestnut",
         "Seamless",
         "Sports Bras",
@@ -226,7 +224,7 @@
           "position": 1,
           "product_id": 8184397103197,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419596381,
@@ -245,7 +243,7 @@
           "position": 2,
           "product_id": 8184397103197,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419629149,
@@ -264,7 +262,7 @@
           "position": 3,
           "product_id": 8184397103197,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419661917,
@@ -283,7 +281,7 @@
           "position": 4,
           "product_id": 8184397103197,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419694685,
@@ -302,7 +300,7 @@
           "position": 5,
           "product_id": 8184397103197,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -372,7 +370,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:21+01:00",
       "created_at": "2026-07-20T14:59:08+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Raspberry",
       "product_type": "Sports Bras",
       "tags": [
@@ -383,7 +381,6 @@
         "Pink",
         "Raspberry",
         "Red",
-        "restock recent",
         "SAPG::Defy Scoop Back Bra::Raspberry",
         "Seamless",
         "Sports Bras",
@@ -408,7 +405,7 @@
           "position": 1,
           "product_id": 8184397070429,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419432541,
@@ -427,7 +424,7 @@
           "position": 2,
           "product_id": 8184397070429,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419465309,
@@ -446,7 +443,7 @@
           "position": 3,
           "product_id": 8184397070429,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419498077,
@@ -465,7 +462,7 @@
           "position": 4,
           "product_id": 8184397070429,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419530845,
@@ -484,7 +481,7 @@
           "position": 5,
           "product_id": 8184397070429,
           "created_at": "2026-07-20T14:59:08+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -554,7 +551,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:20+01:00",
       "created_at": "2026-07-20T14:59:06+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Optic White",
       "product_type": "Sports Bras",
       "tags": [
@@ -563,7 +560,6 @@
         "JMR::Defy Scoop Back Bra",
         "New Releases",
         "Optic White",
-        "restock recent",
         "SAPG::Defy Scoop Back Bra::Optic White",
         "Seamless",
         "Sports Bras",
@@ -589,7 +585,7 @@
           "position": 1,
           "product_id": 8184397004893,
           "created_at": "2026-07-20T14:59:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419104861,
@@ -608,7 +604,7 @@
           "position": 2,
           "product_id": 8184397004893,
           "created_at": "2026-07-20T14:59:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419137629,
@@ -627,7 +623,7 @@
           "position": 3,
           "product_id": 8184397004893,
           "created_at": "2026-07-20T14:59:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419170397,
@@ -646,7 +642,7 @@
           "position": 4,
           "product_id": 8184397004893,
           "created_at": "2026-07-20T14:59:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419203165,
@@ -665,7 +661,7 @@
           "position": 5,
           "product_id": 8184397004893,
           "created_at": "2026-07-20T14:59:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -735,7 +731,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:19+01:00",
       "created_at": "2026-07-20T14:59:07+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Steel",
       "product_type": "Sports Bras",
       "tags": [
@@ -743,7 +739,6 @@
         "Defy",
         "JMR::Defy Scoop Back Bra",
         "New Releases",
-        "restock recent",
         "SAPG::Defy Scoop Back Bra::Steel",
         "Seamless",
         "Sports Bras",
@@ -769,7 +764,7 @@
           "position": 1,
           "product_id": 8184397037661,
           "created_at": "2026-07-20T14:59:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419268701,
@@ -788,7 +783,7 @@
           "position": 2,
           "product_id": 8184397037661,
           "created_at": "2026-07-20T14:59:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419301469,
@@ -807,7 +802,7 @@
           "position": 3,
           "product_id": 8184397037661,
           "created_at": "2026-07-20T14:59:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419334237,
@@ -826,7 +821,7 @@
           "position": 4,
           "product_id": 8184397037661,
           "created_at": "2026-07-20T14:59:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419367005,
@@ -845,7 +840,7 @@
           "position": 5,
           "product_id": 8184397037661,
           "created_at": "2026-07-20T14:59:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -915,7 +910,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:18+01:00",
       "created_at": "2026-07-20T14:59:09+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Pomegranate",
       "product_type": "Sports Bras",
       "tags": [
@@ -925,7 +920,6 @@
         "New Releases",
         "Pink",
         "Pomegranate",
-        "restock recent",
         "SAPG::Defy Scoop Back Bra::Pomegranate",
         "Seamless",
         "Sports Bras",
@@ -950,7 +944,7 @@
           "position": 1,
           "product_id": 8184397135965,
           "created_at": "2026-07-20T14:59:09+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419760221,
@@ -969,7 +963,7 @@
           "position": 2,
           "product_id": 8184397135965,
           "created_at": "2026-07-20T14:59:09+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419792989,
@@ -988,7 +982,7 @@
           "position": 3,
           "product_id": 8184397135965,
           "created_at": "2026-07-20T14:59:09+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419825757,
@@ -1007,7 +1001,7 @@
           "position": 4,
           "product_id": 8184397135965,
           "created_at": "2026-07-20T14:59:09+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419858525,
@@ -1026,7 +1020,7 @@
           "position": 5,
           "product_id": 8184397135965,
           "created_at": "2026-07-20T14:59:09+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -1096,7 +1090,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:17+01:00",
       "created_at": "2026-07-20T14:59:11+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -1108,7 +1102,6 @@
         "Long Sleeve Crop Top",
         "Midnight Black",
         "New Releases",
-        "restock recent",
         "SAPG::Defy Twist Front Top::Midnight Black",
         "Seamless",
         "T-Shirts & Tops",
@@ -1134,7 +1127,7 @@
           "position": 1,
           "product_id": 8184397234269,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420251741,
@@ -1153,7 +1146,7 @@
           "position": 2,
           "product_id": 8184397234269,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420284509,
@@ -1172,7 +1165,7 @@
           "position": 3,
           "product_id": 8184397234269,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420317277,
@@ -1191,7 +1184,7 @@
           "position": 4,
           "product_id": 8184397234269,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420350045,
@@ -1210,7 +1203,7 @@
           "position": 5,
           "product_id": 8184397234269,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -1280,7 +1273,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:16+01:00",
       "created_at": "2026-07-20T14:59:10+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Rose",
       "product_type": "Sports Bras",
       "tags": [
@@ -1289,7 +1282,6 @@
         "JMR::Defy Scoop Back Bra",
         "New Releases",
         "Pink",
-        "restock recent",
         "Rose",
         "SAPG::Defy Scoop Back Bra::Rose",
         "Seamless",
@@ -1315,7 +1307,7 @@
           "position": 1,
           "product_id": 8184397168733,
           "created_at": "2026-07-20T14:59:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419924061,
@@ -1334,7 +1326,7 @@
           "position": 2,
           "product_id": 8184397168733,
           "created_at": "2026-07-20T14:59:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419956829,
@@ -1353,7 +1345,7 @@
           "position": 3,
           "product_id": 8184397168733,
           "created_at": "2026-07-20T14:59:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748419989597,
@@ -1372,7 +1364,7 @@
           "position": 4,
           "product_id": 8184397168733,
           "created_at": "2026-07-20T14:59:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420022365,
@@ -1391,7 +1383,7 @@
           "position": 5,
           "product_id": 8184397168733,
           "created_at": "2026-07-20T14:59:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -1461,7 +1453,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:15+01:00",
       "created_at": "2026-07-20T14:59:10+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Sapphire",
       "product_type": "Sports Bras",
       "tags": [
@@ -1470,7 +1462,6 @@
         "Defy",
         "JMR::Defy Scoop Back Bra",
         "New Releases",
-        "restock recent",
         "SAPG::Defy Scoop Back Bra::Sapphire",
         "Sapphire",
         "Seamless",
@@ -1496,7 +1487,7 @@
           "position": 1,
           "product_id": 8184397201501,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420087901,
@@ -1515,7 +1506,7 @@
           "position": 2,
           "product_id": 8184397201501,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420120669,
@@ -1534,7 +1525,7 @@
           "position": 3,
           "product_id": 8184397201501,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420153437,
@@ -1553,7 +1544,7 @@
           "position": 4,
           "product_id": 8184397201501,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420186205,
@@ -1572,7 +1563,7 @@
           "position": 5,
           "product_id": 8184397201501,
           "created_at": "2026-07-20T14:59:11+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -1642,7 +1633,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:13+01:00",
       "created_at": "2026-07-20T14:59:14+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Sapphire",
       "product_type": "Tops",
       "tags": [
@@ -1653,7 +1644,6 @@
         "JMR::Defy Twist Front Top",
         "Long Sleeve Crop Top",
         "New Releases",
-        "restock recent",
         "SAPG::Defy Twist Front Top::Sapphire",
         "Sapphire",
         "Seamless",
@@ -1680,7 +1670,7 @@
           "position": 1,
           "product_id": 8184397365341,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420907101,
@@ -1699,7 +1689,7 @@
           "position": 2,
           "product_id": 8184397365341,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420939869,
@@ -1718,7 +1708,7 @@
           "position": 3,
           "product_id": 8184397365341,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420972637,
@@ -1737,7 +1727,7 @@
           "position": 4,
           "product_id": 8184397365341,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421005405,
@@ -1756,7 +1746,7 @@
           "position": 5,
           "product_id": 8184397365341,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -1826,7 +1816,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:12+01:00",
       "created_at": "2026-07-20T14:59:13+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Pomegranate",
       "product_type": "Tops",
       "tags": [
@@ -1838,7 +1828,6 @@
         "New Releases",
         "Pink",
         "Pomegranate",
-        "restock recent",
         "SAPG::Defy Twist Front Top::Pomegranate",
         "Seamless",
         "T-Shirts & Tops",
@@ -1864,7 +1853,7 @@
           "position": 1,
           "product_id": 8184397299805,
           "created_at": "2026-07-20T14:59:13+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420579421,
@@ -1883,7 +1872,7 @@
           "position": 2,
           "product_id": 8184397299805,
           "created_at": "2026-07-20T14:59:13+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420612189,
@@ -1902,7 +1891,7 @@
           "position": 3,
           "product_id": 8184397299805,
           "created_at": "2026-07-20T14:59:13+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420644957,
@@ -1921,7 +1910,7 @@
           "position": 4,
           "product_id": 8184397299805,
           "created_at": "2026-07-20T14:59:13+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420677725,
@@ -1940,7 +1929,7 @@
           "position": 5,
           "product_id": 8184397299805,
           "created_at": "2026-07-20T14:59:13+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -2010,7 +1999,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:11+01:00",
       "created_at": "2026-07-20T14:59:14+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Rose",
       "product_type": "Tops",
       "tags": [
@@ -2021,7 +2010,6 @@
         "Long Sleeve Crop Top",
         "New Releases",
         "Pink",
-        "restock recent",
         "Rose",
         "SAPG::Defy Twist Front Top::Rose",
         "Seamless",
@@ -2048,7 +2036,7 @@
           "position": 1,
           "product_id": 8184397332573,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420743261,
@@ -2067,7 +2055,7 @@
           "position": 2,
           "product_id": 8184397332573,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420776029,
@@ -2086,7 +2074,7 @@
           "position": 3,
           "product_id": 8184397332573,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420808797,
@@ -2105,7 +2093,7 @@
           "position": 4,
           "product_id": 8184397332573,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420841565,
@@ -2124,7 +2112,7 @@
           "position": 5,
           "product_id": 8184397332573,
           "created_at": "2026-07-20T14:59:14+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -2194,7 +2182,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:10+01:00",
       "created_at": "2026-07-20T14:59:12+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Optic White",
       "product_type": "Tops",
       "tags": [
@@ -2205,7 +2193,6 @@
         "Long Sleeve Crop Top",
         "New Releases",
         "Optic White",
-        "restock recent",
         "SAPG::Defy Twist Front Top::Optic White",
         "Seamless",
         "T-Shirts & Tops",
@@ -2225,14 +2212,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.00",
           "grams": 115,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8184397267037,
           "created_at": "2026-07-20T14:59:12+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420415581,
@@ -2244,14 +2231,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "49.00",
           "grams": 115,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8184397267037,
           "created_at": "2026-07-20T14:59:12+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420448349,
@@ -2270,7 +2257,7 @@
           "position": 3,
           "product_id": 8184397267037,
           "created_at": "2026-07-20T14:59:12+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420481117,
@@ -2289,7 +2276,7 @@
           "position": 4,
           "product_id": 8184397267037,
           "created_at": "2026-07-20T14:59:12+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748420513885,
@@ -2308,7 +2295,7 @@
           "position": 5,
           "product_id": 8184397267037,
           "created_at": "2026-07-20T14:59:12+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -2378,7 +2365,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:09+01:00",
       "created_at": "2026-07-20T14:59:16+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Rose",
       "product_type": "Shorts",
       "tags": [
@@ -2388,7 +2375,6 @@
         "JMR::Defy Shorts 4.5\"",
         "New Releases",
         "Pink",
-        "restock recent",
         "Rose",
         "SAPG::Defy Shorts | 4.5\"::Rose",
         "Seamless",
@@ -2414,7 +2400,7 @@
           "position": 1,
           "product_id": 8184397430877,
           "created_at": "2026-07-20T14:59:16+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421234781,
@@ -2433,7 +2419,7 @@
           "position": 2,
           "product_id": 8184397430877,
           "created_at": "2026-07-20T14:59:16+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421267549,
@@ -2452,7 +2438,7 @@
           "position": 3,
           "product_id": 8184397430877,
           "created_at": "2026-07-20T14:59:16+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421300317,
@@ -2471,7 +2457,7 @@
           "position": 4,
           "product_id": 8184397430877,
           "created_at": "2026-07-20T14:59:16+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421333085,
@@ -2490,7 +2476,7 @@
           "position": 5,
           "product_id": 8184397430877,
           "created_at": "2026-07-20T14:59:16+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -2560,7 +2546,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:08+01:00",
       "created_at": "2026-07-20T14:59:15+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Pomegranate",
       "product_type": "Shorts",
       "tags": [
@@ -2571,7 +2557,6 @@
         "New Releases",
         "Pink",
         "Pomegranate",
-        "restock recent",
         "SAPG::Defy Shorts | 4.5\"::Pomegranate",
         "Seamless",
         "Shorts",
@@ -2596,7 +2581,7 @@
           "position": 1,
           "product_id": 8184397398109,
           "created_at": "2026-07-20T14:59:15+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421070941,
@@ -2615,7 +2600,7 @@
           "position": 2,
           "product_id": 8184397398109,
           "created_at": "2026-07-20T14:59:15+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421103709,
@@ -2634,7 +2619,7 @@
           "position": 3,
           "product_id": 8184397398109,
           "created_at": "2026-07-20T14:59:15+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421136477,
@@ -2653,7 +2638,7 @@
           "position": 4,
           "product_id": 8184397398109,
           "created_at": "2026-07-20T14:59:15+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421169245,
@@ -2672,7 +2657,7 @@
           "position": 5,
           "product_id": 8184397398109,
           "created_at": "2026-07-20T14:59:15+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -2742,7 +2727,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:07+01:00",
       "created_at": "2026-07-20T14:59:17+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Pomegranate",
       "product_type": "Leggings",
       "tags": [
@@ -2755,7 +2740,6 @@
         "Pants & Leggings",
         "Pink",
         "Pomegranate",
-        "restock recent",
         "SAPG::Defy Legging::Pomegranate",
         "Seamless",
         "Womens",
@@ -2779,7 +2763,7 @@
           "position": 1,
           "product_id": 8184397496413,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421562461,
@@ -2798,7 +2782,7 @@
           "position": 2,
           "product_id": 8184397496413,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421595229,
@@ -2817,7 +2801,7 @@
           "position": 3,
           "product_id": 8184397496413,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421627997,
@@ -2836,7 +2820,7 @@
           "position": 4,
           "product_id": 8184397496413,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421660765,
@@ -2855,7 +2839,7 @@
           "position": 5,
           "product_id": 8184397496413,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -2925,7 +2909,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:07+01:00",
       "created_at": "2026-07-20T14:59:17+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Sapphire",
       "product_type": "Shorts",
       "tags": [
@@ -2935,7 +2919,6 @@
         "Defy",
         "JMR::Defy Shorts 4.5\"",
         "New Releases",
-        "restock recent",
         "SAPG::Defy Shorts | 4.5\"::Sapphire",
         "Sapphire",
         "Seamless",
@@ -2961,7 +2944,7 @@
           "position": 1,
           "product_id": 8184397463645,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421398621,
@@ -2980,7 +2963,7 @@
           "position": 2,
           "product_id": 8184397463645,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421431389,
@@ -2999,7 +2982,7 @@
           "position": 3,
           "product_id": 8184397463645,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421464157,
@@ -3018,7 +3001,7 @@
           "position": 4,
           "product_id": 8184397463645,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421496925,
@@ -3037,7 +3020,7 @@
           "position": 5,
           "product_id": 8184397463645,
           "created_at": "2026-07-20T14:59:17+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -3107,7 +3090,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:05+01:00",
       "created_at": "2026-07-20T14:59:20+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Steel",
       "product_type": "Flares",
       "tags": [
@@ -3119,7 +3102,6 @@
         "Leggings",
         "New Releases",
         "Pants & Leggings",
-        "restock recent",
         "SAPG::Defy Flares::Steel",
         "Steel",
         "Womens",
@@ -3143,7 +3125,7 @@
           "position": 1,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422381661,
@@ -3162,7 +3144,7 @@
           "position": 2,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422414429,
@@ -3181,7 +3163,7 @@
           "position": 3,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422447197,
@@ -3200,7 +3182,7 @@
           "position": 4,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422479965,
@@ -3219,7 +3201,7 @@
           "position": 5,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422512733,
@@ -3238,7 +3220,7 @@
           "position": 6,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422545501,
@@ -3257,7 +3239,7 @@
           "position": 7,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422578269,
@@ -3276,7 +3258,7 @@
           "position": 8,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422611037,
@@ -3295,7 +3277,7 @@
           "position": 9,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422643805,
@@ -3314,7 +3296,7 @@
           "position": 10,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422676573,
@@ -3333,7 +3315,7 @@
           "position": 11,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422709341,
@@ -3352,7 +3334,7 @@
           "position": 12,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422742109,
@@ -3371,7 +3353,7 @@
           "position": 13,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422774877,
@@ -3390,7 +3372,7 @@
           "position": 14,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422807645,
@@ -3409,7 +3391,7 @@
           "position": 15,
           "product_id": 8184397594717,
           "created_at": "2026-07-20T14:59:20+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -3488,7 +3470,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:05+01:00",
       "created_at": "2026-07-20T14:59:19+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Flares",
       "tags": [
@@ -3501,7 +3483,6 @@
         "Midnight Black",
         "New Releases",
         "Pants & Leggings",
-        "restock recent",
         "SAPG::Defy Flares::Midnight Black",
         "Womens",
         "Womenswear"
@@ -3524,7 +3505,7 @@
           "position": 1,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421890141,
@@ -3543,7 +3524,7 @@
           "position": 2,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421922909,
@@ -3562,7 +3543,7 @@
           "position": 3,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421955677,
@@ -3581,7 +3562,7 @@
           "position": 4,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421988445,
@@ -3600,7 +3581,7 @@
           "position": 5,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422021213,
@@ -3619,7 +3600,7 @@
           "position": 6,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422053981,
@@ -3638,7 +3619,7 @@
           "position": 7,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422086749,
@@ -3657,7 +3638,7 @@
           "position": 8,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422119517,
@@ -3676,7 +3657,7 @@
           "position": 9,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422152285,
@@ -3695,7 +3676,7 @@
           "position": 10,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422185053,
@@ -3714,7 +3695,7 @@
           "position": 11,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422217821,
@@ -3733,7 +3714,7 @@
           "position": 12,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422250589,
@@ -3752,7 +3733,7 @@
           "position": 13,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422283357,
@@ -3771,7 +3752,7 @@
           "position": 14,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422316125,
@@ -3790,7 +3771,7 @@
           "position": 15,
           "product_id": 8184397561949,
           "created_at": "2026-07-20T14:59:19+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -3869,7 +3850,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:04+01:00",
       "created_at": "2026-07-20T14:59:18+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Sapphire",
       "product_type": "Leggings",
       "tags": [
@@ -3881,7 +3862,6 @@
         "Leggings",
         "New Releases",
         "Pants & Leggings",
-        "restock recent",
         "SAPG::Defy Legging::Sapphire",
         "Sapphire",
         "Seamless",
@@ -3906,7 +3886,7 @@
           "position": 1,
           "product_id": 8184397529181,
           "created_at": "2026-07-20T14:59:18+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421726301,
@@ -3925,7 +3905,7 @@
           "position": 2,
           "product_id": 8184397529181,
           "created_at": "2026-07-20T14:59:18+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421759069,
@@ -3944,7 +3924,7 @@
           "position": 3,
           "product_id": 8184397529181,
           "created_at": "2026-07-20T14:59:18+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421791837,
@@ -3963,7 +3943,7 @@
           "position": 4,
           "product_id": 8184397529181,
           "created_at": "2026-07-20T14:59:18+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748421824605,
@@ -3982,7 +3962,7 @@
           "position": 5,
           "product_id": 8184397529181,
           "created_at": "2026-07-20T14:59:18+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -4052,7 +4032,7 @@
       "body_html": "<p>Defy  Collection</p>",
       "published_at": "2026-08-18T15:59:02+01:00",
       "created_at": "2026-07-20T14:59:21+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Chestnut",
       "product_type": "Flares",
       "tags": [
@@ -4065,7 +4045,6 @@
         "Leggings",
         "New Releases",
         "Pants & Leggings",
-        "restock recent",
         "SAPG::Defy Flares::Chestnut",
         "Womens",
         "Womenswear"
@@ -4088,7 +4067,7 @@
           "position": 1,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422873181,
@@ -4107,7 +4086,7 @@
           "position": 2,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422905949,
@@ -4126,7 +4105,7 @@
           "position": 3,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422938717,
@@ -4145,7 +4124,7 @@
           "position": 4,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748422971485,
@@ -4164,7 +4143,7 @@
           "position": 5,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423004253,
@@ -4183,7 +4162,7 @@
           "position": 6,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423037021,
@@ -4202,7 +4181,7 @@
           "position": 7,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423069789,
@@ -4221,7 +4200,7 @@
           "position": 8,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423102557,
@@ -4240,7 +4219,7 @@
           "position": 9,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423135325,
@@ -4259,7 +4238,7 @@
           "position": 10,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423168093,
@@ -4278,7 +4257,7 @@
           "position": 11,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423200861,
@@ -4297,7 +4276,7 @@
           "position": 12,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423233629,
@@ -4316,7 +4295,7 @@
           "position": 13,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423266397,
@@ -4335,7 +4314,7 @@
           "position": 14,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44748423299165,
@@ -4354,7 +4333,7 @@
           "position": 15,
           "product_id": 8184397627485,
           "created_at": "2026-07-20T14:59:21+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -4433,7 +4412,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-08-17T15:23:49+01:00",
       "created_at": "2025-10-07T11:57:07+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Stone",
       "product_type": "Joggers",
       "tags": [
@@ -4468,7 +4447,7 @@
           "position": 1,
           "product_id": 7984160899165,
           "created_at": "2025-10-07T11:57:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660962909,
@@ -4487,7 +4466,7 @@
           "position": 2,
           "product_id": 7984160899165,
           "created_at": "2025-10-07T11:57:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660995677,
@@ -4506,7 +4485,7 @@
           "position": 3,
           "product_id": 7984160899165,
           "created_at": "2025-10-07T11:57:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661028445,
@@ -4525,7 +4504,7 @@
           "position": 4,
           "product_id": 7984160899165,
           "created_at": "2025-10-07T11:57:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661061213,
@@ -4544,7 +4523,7 @@
           "position": 5,
           "product_id": 7984160899165,
           "created_at": "2025-10-07T11:57:07+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -4614,7 +4593,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-08-17T15:23:49+01:00",
       "created_at": "2025-10-07T11:57:03+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Stone",
       "product_type": "Sweatshirts",
       "tags": [
@@ -4649,7 +4628,7 @@
           "position": 1,
           "product_id": 7984160800861,
           "created_at": "2025-10-07T11:57:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660471389,
@@ -4668,7 +4647,7 @@
           "position": 2,
           "product_id": 7984160800861,
           "created_at": "2025-10-07T11:57:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660504157,
@@ -4687,7 +4666,7 @@
           "position": 3,
           "product_id": 7984160800861,
           "created_at": "2025-10-07T11:57:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660536925,
@@ -4706,7 +4685,7 @@
           "position": 4,
           "product_id": 7984160800861,
           "created_at": "2025-10-07T11:57:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660569693,
@@ -4725,7 +4704,7 @@
           "position": 5,
           "product_id": 7984160800861,
           "created_at": "2025-10-07T11:57:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -4795,7 +4774,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-08-17T15:23:49+01:00",
       "created_at": "2025-10-07T11:57:00+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Stone",
       "product_type": "Shorts",
       "tags": [
@@ -4828,7 +4807,7 @@
           "position": 1,
           "product_id": 7984160702557,
           "created_at": "2025-10-07T11:57:00+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693659979869,
@@ -4847,7 +4826,7 @@
           "position": 2,
           "product_id": 7984160702557,
           "created_at": "2025-10-07T11:57:00+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660012637,
@@ -4866,7 +4845,7 @@
           "position": 3,
           "product_id": 7984160702557,
           "created_at": "2025-10-07T11:57:00+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660045405,
@@ -4885,7 +4864,7 @@
           "position": 4,
           "product_id": 7984160702557,
           "created_at": "2025-10-07T11:57:00+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660078173,
@@ -4904,7 +4883,7 @@
           "position": 5,
           "product_id": 7984160702557,
           "created_at": "2025-10-07T11:57:00+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -4974,7 +4953,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-08-17T12:45:27+01:00",
       "created_at": "2026-08-11T09:04:57+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Grey Marl",
       "product_type": "Socks",
       "tags": [
@@ -5011,7 +4990,7 @@
           "position": 1,
           "product_id": 8200349941853,
           "created_at": "2026-08-11T09:04:57+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44891376091229,
@@ -5030,7 +5009,7 @@
           "position": 2,
           "product_id": 8200349941853,
           "created_at": "2026-08-11T09:04:57+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44891376123997,
@@ -5049,7 +5028,7 @@
           "position": 3,
           "product_id": 8200349941853,
           "created_at": "2026-08-11T09:04:57+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5095,7 +5074,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-08-17T12:45:27+01:00",
       "created_at": "2026-08-11T09:04:56+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Socks",
       "tags": [
@@ -5132,7 +5111,7 @@
           "position": 1,
           "product_id": 8200349909085,
           "created_at": "2026-08-11T09:04:56+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44891375992925,
@@ -5151,7 +5130,7 @@
           "position": 2,
           "product_id": 8200349909085,
           "created_at": "2026-08-11T09:04:56+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44891376025693,
@@ -5170,7 +5149,7 @@
           "position": 3,
           "product_id": 8200349909085,
           "created_at": "2026-08-11T09:04:56+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5216,7 +5195,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-08-17T12:45:27+01:00",
       "created_at": "2026-08-11T09:04:55+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Optic White",
       "product_type": "Socks",
       "tags": [
@@ -5253,7 +5232,7 @@
           "position": 1,
           "product_id": 8200349876317,
           "created_at": "2026-08-11T09:04:55+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44891375894621,
@@ -5272,7 +5251,7 @@
           "position": 2,
           "product_id": 8200349876317,
           "created_at": "2026-08-11T09:04:55+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44891375927389,
@@ -5291,7 +5270,7 @@
           "position": 3,
           "product_id": 8200349876317,
           "created_at": "2026-08-11T09:04:55+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5337,7 +5316,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:33+01:00",
       "created_at": "2026-07-24T14:41:33+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Ink",
       "product_type": "Bags",
       "tags": [
@@ -5376,7 +5355,7 @@
           "position": 1,
           "product_id": 8188399157341,
           "created_at": "2026-07-24T14:41:33+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5442,7 +5421,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:33+01:00",
       "created_at": "2026-07-24T14:41:32+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Espresso",
       "product_type": "Bags",
       "tags": [
@@ -5481,7 +5460,7 @@
           "position": 1,
           "product_id": 8188399124573,
           "created_at": "2026-07-24T14:41:32+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5547,7 +5526,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:33+01:00",
       "created_at": "2026-07-24T14:41:31+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Bags",
       "tags": [
@@ -5586,7 +5565,7 @@
           "position": 1,
           "product_id": 8188399091805,
           "created_at": "2026-07-24T14:41:31+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5652,7 +5631,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:36+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Bags",
       "tags": [
@@ -5686,7 +5665,7 @@
           "position": 1,
           "product_id": 8188399288413,
           "created_at": "2026-07-24T14:41:36+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5730,7 +5709,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:35+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Ink",
       "product_type": "Bags",
       "tags": [
@@ -5764,7 +5743,7 @@
           "position": 1,
           "product_id": 8188399255645,
           "created_at": "2026-07-24T14:41:35+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5808,7 +5787,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:34+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Espresso",
       "product_type": "Bags",
       "tags": [
@@ -5842,7 +5821,7 @@
           "position": 1,
           "product_id": 8188399222877,
           "created_at": "2026-07-24T14:41:35+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5886,7 +5865,7 @@
       "body_html": "<p>Signature Collection</p>",
       "published_at": "2026-08-10T16:05:31+01:00",
       "created_at": "2026-07-24T14:41:34+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Bags",
       "tags": [
@@ -5922,7 +5901,7 @@
           "position": 1,
           "product_id": 8188399190109,
           "created_at": "2026-07-24T14:41:34+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -5988,7 +5967,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-08-04T15:56:28+01:00",
       "created_at": "2026-07-17T09:48:03+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Grey Marl",
       "product_type": "Socks",
       "tags": [
@@ -6025,7 +6004,7 @@
           "position": 1,
           "product_id": 8182852714589,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44722435326045,
@@ -6044,7 +6023,7 @@
           "position": 2,
           "product_id": 8182852714589,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44722435358813,
@@ -6063,7 +6042,7 @@
           "position": 3,
           "product_id": 8182852714589,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -6109,7 +6088,7 @@
       "body_html": "<p>Accessories Collection</p>",
       "published_at": "2026-08-04T15:56:28+01:00",
       "created_at": "2026-07-17T09:48:03+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Grey Marl",
       "product_type": "Socks",
       "tags": [
@@ -6146,7 +6125,7 @@
           "position": 1,
           "product_id": 8182852681821,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44722435227741,
@@ -6165,7 +6144,7 @@
           "position": 2,
           "product_id": 8182852681821,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44722435260509,
@@ -6184,7 +6163,7 @@
           "position": 3,
           "product_id": 8182852681821,
           "created_at": "2026-07-17T09:48:03+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -6230,7 +6209,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:09+01:00",
       "created_at": "2025-10-07T11:57:00+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Slate Grey",
       "product_type": "Shorts",
       "tags": [
@@ -6263,7 +6242,7 @@
           "position": 1,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660143709,
@@ -6282,7 +6261,7 @@
           "position": 2,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660176477,
@@ -6301,7 +6280,7 @@
           "position": 3,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660209245,
@@ -6320,7 +6299,7 @@
           "position": 4,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660242013,
@@ -6339,7 +6318,7 @@
           "position": 5,
           "product_id": 7984160735325,
           "created_at": "2025-10-07T11:57:01+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -6409,7 +6388,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:08+01:00",
       "created_at": "2025-10-07T11:57:05+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Slate Grey",
       "product_type": "Sweatshirts",
       "tags": [
@@ -6444,7 +6423,7 @@
           "position": 1,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660635229,
@@ -6463,7 +6442,7 @@
           "position": 2,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660667997,
@@ -6482,7 +6461,7 @@
           "position": 3,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660700765,
@@ -6501,7 +6480,7 @@
           "position": 4,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660733533,
@@ -6520,7 +6499,7 @@
           "position": 5,
           "product_id": 7984160833629,
           "created_at": "2025-10-07T11:57:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -6590,7 +6569,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:08+01:00",
       "created_at": "2025-10-07T11:57:02+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Shorts",
       "tags": [
@@ -6623,7 +6602,7 @@
           "position": 1,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660307549,
@@ -6642,7 +6621,7 @@
           "position": 2,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660340317,
@@ -6661,7 +6640,7 @@
           "position": 3,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660373085,
@@ -6680,7 +6659,7 @@
           "position": 4,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660405853,
@@ -6699,7 +6678,7 @@
           "position": 5,
           "product_id": 7984160768093,
           "created_at": "2025-10-07T11:57:02+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -6769,7 +6748,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:07+01:00",
       "created_at": "2025-10-07T11:57:06+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sweatshirts",
       "tags": [
@@ -6804,7 +6783,7 @@
           "position": 1,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660799069,
@@ -6823,7 +6802,7 @@
           "position": 2,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660831837,
@@ -6842,7 +6821,7 @@
           "position": 3,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660864605,
@@ -6861,7 +6840,7 @@
           "position": 4,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693660897373,
@@ -6880,7 +6859,7 @@
           "position": 5,
           "product_id": 7984160866397,
           "created_at": "2025-10-07T11:57:06+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -6950,7 +6929,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:06+01:00",
       "created_at": "2025-10-07T11:57:10+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Slate Grey",
       "product_type": "Joggers",
       "tags": [
@@ -6985,7 +6964,7 @@
           "position": 1,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661159517,
@@ -7004,7 +6983,7 @@
           "position": 2,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661192285,
@@ -7023,7 +7002,7 @@
           "position": 3,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661225053,
@@ -7042,7 +7021,7 @@
           "position": 4,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661257821,
@@ -7061,7 +7040,7 @@
           "position": 5,
           "product_id": 7984160964701,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -7131,7 +7110,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:05+01:00",
       "created_at": "2026-05-26T10:03:03+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Hoodies",
       "tags": [
@@ -7165,7 +7144,7 @@
           "position": 1,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723672669,
@@ -7184,7 +7163,7 @@
           "position": 2,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723705437,
@@ -7203,7 +7182,7 @@
           "position": 3,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723738205,
@@ -7222,7 +7201,7 @@
           "position": 4,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723770973,
@@ -7241,7 +7220,7 @@
           "position": 5,
           "product_id": 8141540229213,
           "created_at": "2026-05-26T10:03:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -7311,7 +7290,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:05+01:00",
       "created_at": "2025-10-07T11:57:10+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Midnight Black",
       "product_type": "Joggers",
       "tags": [
@@ -7346,7 +7325,7 @@
           "position": 1,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661323357,
@@ -7365,7 +7344,7 @@
           "position": 2,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661356125,
@@ -7384,7 +7363,7 @@
           "position": 3,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661388893,
@@ -7403,7 +7382,7 @@
           "position": 4,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43693661421661,
@@ -7422,7 +7401,7 @@
           "position": 5,
           "product_id": 7984160997469,
           "created_at": "2025-10-07T11:57:10+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -7481,7 +7460,7 @@
       "body_html": "<p>Recharge Collection</p>",
       "published_at": "2026-07-31T15:59:03+01:00",
       "created_at": "2026-05-26T10:03:04+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Slate Grey",
       "product_type": "Hoodies",
       "tags": [
@@ -7515,7 +7494,7 @@
           "position": 1,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723869277,
@@ -7534,7 +7513,7 @@
           "position": 2,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723902045,
@@ -7553,7 +7532,7 @@
           "position": 3,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723934813,
@@ -7572,7 +7551,7 @@
           "position": 4,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44477723967581,
@@ -7591,7 +7570,7 @@
           "position": 5,
           "product_id": 8141540294749,
           "created_at": "2026-05-26T10:03:05+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -7661,7 +7640,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:34+01:00",
       "created_at": "2024-02-13T12:27:50+00:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Palm Green",
       "product_type": "Shorts",
       "tags": [
@@ -7695,7 +7674,7 @@
           "position": 1,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41574924288093,
@@ -7714,7 +7693,7 @@
           "position": 2,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41574924320861,
@@ -7733,7 +7712,7 @@
           "position": 3,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41574924353629,
@@ -7752,7 +7731,7 @@
           "position": 4,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41574924386397,
@@ -7771,7 +7750,7 @@
           "position": 5,
           "product_id": 7276800901213,
           "created_at": "2024-02-13T12:27:50+00:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -7841,7 +7820,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:33+01:00",
       "created_at": "2024-08-05T14:04:40+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Coral",
       "product_type": "Shorts",
       "tags": [
@@ -7875,7 +7854,7 @@
           "position": 1,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 42543094136925,
@@ -7894,7 +7873,7 @@
           "position": 2,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 42543094169693,
@@ -7913,7 +7892,7 @@
           "position": 3,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 42543094202461,
@@ -7932,7 +7911,7 @@
           "position": 4,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 42543094235229,
@@ -7951,7 +7930,7 @@
           "position": 5,
           "product_id": 7664546742365,
           "created_at": "2024-08-05T14:04:40+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -8021,7 +8000,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:32+01:00",
       "created_at": "2025-06-03T10:19:04+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Ultra Violet",
       "product_type": "Shorts",
       "tags": [
@@ -8055,7 +8034,7 @@
           "position": 1,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43439655583837,
@@ -8074,7 +8053,7 @@
           "position": 2,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43439655616605,
@@ -8093,7 +8072,7 @@
           "position": 3,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43439655649373,
@@ -8112,7 +8091,7 @@
           "position": 4,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 43439655682141,
@@ -8131,7 +8110,7 @@
           "position": 5,
           "product_id": 7916614975581,
           "created_at": "2025-06-03T10:19:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -8201,7 +8180,7 @@
       "body_html": "<p>Impact  Collection</p>",
       "published_at": "2026-07-30T16:00:31+01:00",
       "created_at": "2023-06-05T16:18:04+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Peach Sorbet",
       "product_type": "Shorts",
       "tags": [
@@ -8235,7 +8214,7 @@
           "position": 1,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41055907020893,
@@ -8254,7 +8233,7 @@
           "position": 2,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41055907053661,
@@ -8273,7 +8252,7 @@
           "position": 3,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41055907086429,
@@ -8292,7 +8271,7 @@
           "position": 4,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 41055907119197,
@@ -8311,7 +8290,7 @@
           "position": 5,
           "product_id": 7107508764765,
           "created_at": "2023-06-05T16:18:04+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -8381,7 +8360,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:30+01:00",
       "created_at": "2026-07-10T14:48:59+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Coral",
       "product_type": "Sports Bras",
       "tags": [
@@ -8414,7 +8393,7 @@
           "position": 1,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548737629,
@@ -8433,7 +8412,7 @@
           "position": 2,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548770397,
@@ -8452,7 +8431,7 @@
           "position": 3,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548803165,
@@ -8471,7 +8450,7 @@
           "position": 4,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548835933,
@@ -8490,7 +8469,7 @@
           "position": 5,
           "product_id": 8173308608605,
           "created_at": "2026-07-10T14:48:59+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
@@ -8560,7 +8539,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-07-30T16:00:30+01:00",
       "created_at": "2026-07-10T14:48:58+01:00",
-      "updated_at": "2026-08-20T03:54:33+01:00",
+      "updated_at": "2026-08-21T04:00:45+01:00",
       "vendor": "Butter",
       "product_type": "Sports Bras",
       "tags": [
@@ -8594,7 +8573,7 @@
           "position": 1,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548573789,
@@ -8613,7 +8592,7 @@
           "position": 2,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548606557,
@@ -8632,7 +8611,7 @@
           "position": 3,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548639325,
@@ -8651,7 +8630,7 @@
           "position": 4,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         },
         {
           "id": 44587548672093,
@@ -8670,7 +8649,7 @@
           "position": 5,
           "product_id": 8173308575837,
           "created_at": "2026-07-10T14:48:58+01:00",
-          "updated_at": "2026-08-20T03:54:33+01:00"
+          "updated_at": "2026-08-21T04:00:45+01:00"
         }
       ],
       "images": [
