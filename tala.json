@@ -1,16 +1,220 @@
 {
-  "fetchedAt": "2026-08-25T02:56:14.215664+00:00",
+  "fetchedAt": "2026-08-26T03:02:16.262436+00:00",
   "source": "https://www.wearetala.com/products.json?limit=50",
   "count": 50,
   "products": [
     {
+      "id": 16088897126780,
+      "title": "Oversized Cocoon Hoodie - Americano",
+      "handle": "oversized-cocoon-hoodie-americano",
+      "body_html": "<ul></ul>\n<p dir=\"ltr\"><span>Like our bestselling Cocoon just </span><span><em>bigger</em> </span></p>",
+      "published_at": "2026-08-25T10:31:02+01:00",
+      "created_at": "2026-08-21T11:23:59+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
+      "vendor": "TALA",
+      "product_type": "Hoodies",
+      "tags": [
+        "airport outfit",
+        "In Stock",
+        "loungewear",
+        "oversized sweatshirt",
+        "relaxed fit",
+        "size-large",
+        "size-medium",
+        "size-small",
+        "size-x-large",
+        "size-x-small",
+        "sizes-2xs-xs",
+        "sizes-L-XL",
+        "sustainable",
+        "Sweater",
+        "sweatshirt",
+        "Sweatshirts",
+        "Tala",
+        "Tracksuits",
+        "vt-size-l",
+        "vt-size-m",
+        "vt-size-s",
+        "vt-size-xl",
+        "vt-size-xs",
+        "YGroup_Oversized-cocoon-hoodie"
+      ],
+      "variants": [
+        {
+          "id": 57334260957564,
+          "title": "XS",
+          "option1": "XS",
+          "option2": null,
+          "option3": null,
+          "sku": "06-07852N03-XS",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "62.00",
+          "grams": 558,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 16088897126780,
+          "created_at": "2026-08-21T11:24:00+01:00",
+          "updated_at": "2026-08-26T04:02:16+01:00"
+        },
+        {
+          "id": 57334260990332,
+          "title": "S",
+          "option1": "S",
+          "option2": null,
+          "option3": null,
+          "sku": "06-07852N03-S",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "62.00",
+          "grams": 582,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 16088897126780,
+          "created_at": "2026-08-21T11:24:00+01:00",
+          "updated_at": "2026-08-26T04:02:16+01:00"
+        },
+        {
+          "id": 57334261023100,
+          "title": "M",
+          "option1": "M",
+          "option2": null,
+          "option3": null,
+          "sku": "06-07852N03-M",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "62.00",
+          "grams": 580,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 16088897126780,
+          "created_at": "2026-08-21T11:24:00+01:00",
+          "updated_at": "2026-08-26T04:02:16+01:00"
+        },
+        {
+          "id": 57334261055868,
+          "title": "L",
+          "option1": "L",
+          "option2": null,
+          "option3": null,
+          "sku": "06-07852N03-L",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "62.00",
+          "grams": 606,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 16088897126780,
+          "created_at": "2026-08-21T11:24:00+01:00",
+          "updated_at": "2026-08-26T04:02:16+01:00"
+        },
+        {
+          "id": 57334261088636,
+          "title": "XL",
+          "option1": "XL",
+          "option2": null,
+          "option3": null,
+          "sku": "06-07852N03-XL",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "62.00",
+          "grams": 646,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 16088897126780,
+          "created_at": "2026-08-21T11:24:00+01:00",
+          "updated_at": "2026-08-26T04:02:16+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84760300519804,
+          "created_at": "2026-08-21T11:24:40+01:00",
+          "position": 1,
+          "updated_at": "2026-08-21T11:24:43+01:00",
+          "product_id": 16088897126780,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_MWOVERSIZEDHOODIE_AMERICANO_1440.jpg?v=1787307883",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 84760300618108,
+          "created_at": "2026-08-21T11:24:40+01:00",
+          "position": 2,
+          "updated_at": "2026-08-21T11:24:43+01:00",
+          "product_id": 16088897126780,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_MWOVERSIZEDHOODIE_AMERICANO.jpg?v=1787307883",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 84760300487036,
+          "created_at": "2026-08-21T11:24:40+01:00",
+          "position": 3,
+          "updated_at": "2026-08-21T11:24:44+01:00",
+          "product_id": 16088897126780,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_MWOVERSIZEDHOODIE_AMERICANO_1422.jpg?v=1787307884",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 84760300552572,
+          "created_at": "2026-08-21T11:24:40+01:00",
+          "position": 4,
+          "updated_at": "2026-08-21T11:24:44+01:00",
+          "product_id": 16088897126780,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_MWOVERSIZEDHOODIE_AMERICANO_1462.jpg?v=1787307884",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 84760300585340,
+          "created_at": "2026-08-21T11:24:40+01:00",
+          "position": 5,
+          "updated_at": "2026-08-21T11:24:44+01:00",
+          "product_id": 16088897126780,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_MWOVERSIZEDHOODIE_AMERICANO_DETAIL.jpg?v=1787307884",
+          "width": 1000,
+          "height": 1500
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    {
       "id": 6630661718112,
       "title": "Storm Puffer Jacket - Black",
       "handle": "storm-multiway-puffer-jacket-black",
-      "body_html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">We‚Äôve made the OG you loved even better</span></p>",
+      "body_html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Back in stock soon...</span></p>",
       "published_at": "2026-08-24T12:42:09+01:00",
       "created_at": "2022-10-17T10:43:58+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Jackets",
       "tags": [
@@ -57,7 +261,7 @@
           "position": 1,
           "product_id": 6630661718112,
           "created_at": "2022-10-17T10:43:59+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57345618772348,
@@ -76,7 +280,7 @@
           "position": 2,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57345618805116,
@@ -95,7 +299,7 @@
           "position": 3,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57345618837884,
@@ -114,7 +318,7 @@
           "position": 4,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57345618870652,
@@ -133,7 +337,7 @@
           "position": 5,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -247,7 +451,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span style=\"font-weight: 400;\">Sculpting and comfortable with a <meta charset=\"utf-8\">discreet scrunch bum- you’ll never want to take them off</span></p>",
       "published_at": "2026-08-21T11:25:33+01:00",
       "created_at": "2025-01-02T12:24:21+00:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Seamless Leggings",
       "tags": [
@@ -308,7 +512,7 @@
           "position": 1,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 54859262427516,
@@ -327,7 +531,7 @@
           "position": 2,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 54859262460284,
@@ -346,7 +550,7 @@
           "position": 3,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 54859262493052,
@@ -365,7 +569,7 @@
           "position": 4,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 54859262525820,
@@ -384,7 +588,7 @@
           "position": 5,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -476,7 +680,7 @@
       "body_html": "<p dir=\"ltr\"><span>Two-coats-in-one. Now, that’s girl math for you</span></p>",
       "published_at": "2026-08-20T16:24:39+01:00",
       "created_at": "2025-09-19T12:18:47+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Outerwear",
       "tags": [
@@ -510,7 +714,7 @@
           "position": 1,
           "product_id": 15585940603260,
           "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55767702471036,
@@ -529,7 +733,7 @@
           "position": 2,
           "product_id": 15585940603260,
           "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55767702503804,
@@ -548,7 +752,7 @@
           "position": 3,
           "product_id": 15585940603260,
           "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55767702536572,
@@ -567,7 +771,7 @@
           "position": 4,
           "product_id": 15585940603260,
           "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55767702569340,
@@ -586,7 +790,7 @@
           "position": 5,
           "product_id": 15585940603260,
           "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -667,7 +871,7 @@
       "body_html": "<p dir=\"ltr\"><span>You LOVE our Multi-way Fold Waist Wide Leg Yoga Pants so, of course, we had to recreate her for summer in our Cycling Short style. Bodies change daily, and an adjustable waist means you control the comfort. Our Dayflex collection is crafted using 75% Recycled Nylon for durability and strength (saved from waste) and 25% Lycra for the perfect 4-way stretch.</span></p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Centre back embroidered TALA logo </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Leg shaping as per Dayflex Flare </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Multiway fold over waist - can be worn low waisted</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Inseam length - 11.5cm as per size Small</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Consciously created with sustainability in mind, made from</span><span style=\"font-weight: 400;\"> 75% recycled nylon and 25% LYCRA® SPORT</span></p>\n</li>\n</ul>\n<p> </p>\n<p><b>Responsibility:</b></p>\n<p><span style=\"font-weight: 400;\">This item is made from Recycled Nylon from pre-consumer waste (aka factory offcuts) certified by the Global Recycle Standard. </span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Average impact savings vs. virgin Nylon = Co2 emissions reduced by up to 76%.</span></li>\n<li><span style=\"font-weight: 400;\">Audited, Ethical Factories: Ethically Made in China. <span data-mce-fragment=\"1\">For more information visit </span><a href=\"https://www.wearetala.com/pages/tala-sustainability\" title=\"Sustainability\" target=\"_blank\">here</a></span></li>\n<li><span style=\"font-weight: 400;\">WRAP (Gold) certification for responsible production. </span></li>\n<li><span style=\"font-weight: 400;\">Sedex-SMETA audited for worker health and safety. </span></li>\n<li><span style=\"font-weight: 400;\">Oeko-Tex Standard 100 tested and certified for no harmful substances.</span></li>\n</ul>\n<p data-mce-fragment=\"1\"><br></p>\n<p><b>Treat me with care... </b></p>\n<p><span style=\"font-weight: 400;\">All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Turn inside out to wash</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wash dark colours separately</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Delicate machine wash at  30°C</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not bleach</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not tumble dry</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not iron</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not dry clean</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Can be steamed to remove creases</span></li>\n</ul>\n<ul data-mce-fragment=\"1\"></ul>\n<p data-mce-fragment=\"1\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Model info: </span></p>\n<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n<p><span style=\"font-weight: 400;\"><span data-sheets-root=\"1\" data-sheets-value='{\"1\":2,\"2\":\"Elissa // UK 8 // Tala size XS // 5’9\\n\"}' data-sheets-userformat='{\"2\":513,\"3\":{\"1\":0},\"12\":0}'>Elissa // UK 8 // Tala size XS // 5’9<br></span></span></p>\n<p><span style=\"font-weight: 400;\"></span><i style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Impact information based on secondary data. Correct at the time of publishing.</i><br></p>",
       "published_at": "2026-08-18T10:42:28+01:00",
       "created_at": "2024-08-06T17:12:44+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shorts",
       "tags": [
@@ -712,7 +916,7 @@
           "position": 1,
           "product_id": 7174727106656,
           "created_at": "2024-08-06T17:12:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153533149280,
@@ -731,7 +935,7 @@
           "position": 2,
           "product_id": 7174727106656,
           "created_at": "2024-08-06T17:12:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153533182048,
@@ -750,7 +954,7 @@
           "position": 3,
           "product_id": 7174727106656,
           "created_at": "2024-08-06T17:12:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153533214816,
@@ -769,7 +973,7 @@
           "position": 4,
           "product_id": 7174727106656,
           "created_at": "2024-08-06T17:12:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153533247584,
@@ -788,7 +992,7 @@
           "position": 5,
           "product_id": 7174727106656,
           "created_at": "2024-08-06T17:12:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -880,7 +1084,7 @@
       "body_html": "<p dir=\"ltr\"><span>You LOVE our Multi-way Fold Waist Wide Leg Yoga Pants so, of course, we had to recreate her for summer in our Cycling Short style. Bodies change daily, and an adjustable waist means you control the comfort. Our Dayflex collection is crafted using 75% Recycled Nylon for durability and strength (saved from waste) and 25% Lycra for the perfect 4-way stretch.</span></p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Centre back embroidered TALA logo </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Leg shaping as per Dayflex Flare </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Multiway fold over waist - can be worn low waisted</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Inseam length - 11.5cm as per size Small</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Consciously created with sustainability in mind, made from</span><span style=\"font-weight: 400;\"> 75% recycled nylon and 25% LYCRA® SPORT</span></p>\n</li>\n</ul>\n<p> </p>\n<p><b>Responsibility:</b></p>\n<p><span style=\"font-weight: 400;\">This item is made from Recycled Nylon from pre-consumer waste (aka factory offcuts) certified by the Global Recycle Standard. </span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Average impact savings vs. virgin Nylon = Co2 emissions reduced by up to 76%.</span></li>\n<li><span style=\"font-weight: 400;\">Audited, Ethical Factories: Ethically Made in China. <span data-mce-fragment=\"1\">For more information visit </span><a href=\"https://www.wearetala.com/pages/tala-sustainability\" title=\"Sustainability\" target=\"_blank\">here</a></span></li>\n<li><span style=\"font-weight: 400;\">WRAP (Gold) certification for responsible production. </span></li>\n<li><span style=\"font-weight: 400;\">Sedex-SMETA audited for worker health and safety. </span></li>\n<li><span style=\"font-weight: 400;\">Oeko-Tex Standard 100 tested and certified for no harmful substances.</span></li>\n</ul>\n<p data-mce-fragment=\"1\"><br></p>\n<p><b>Treat me with care... </b></p>\n<p><span style=\"font-weight: 400;\">All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Turn inside out to wash</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wash dark colours separately</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Delicate machine wash at  30°C</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not bleach</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not tumble dry</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not iron</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do not dry clean</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Can be steamed to remove creases</span></li>\n</ul>\n<ul data-mce-fragment=\"1\"></ul>\n<p data-mce-fragment=\"1\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Model info: </span></p>\n<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n<p><span style=\"font-weight: 400;\"><span data-sheets-root=\"1\" data-sheets-value='{\"1\":2,\"2\":\"Elissa // UK 8 // Tala size XS // 5’9\\n\"}' data-sheets-userformat='{\"2\":513,\"3\":{\"1\":0},\"12\":0}'>Elissa // UK 8 // Tala size XS // 5’9<br></span></span></p>\n<p><span style=\"font-weight: 400;\"></span><i style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Impact information based on secondary data. Correct at the time of publishing.</i><br></p>",
       "published_at": "2026-08-18T10:42:26+01:00",
       "created_at": "2024-08-06T17:08:22+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shorts",
       "tags": [
@@ -895,7 +1099,6 @@
         "MEDIUM",
         "shadow black",
         "shorts",
-        "size-large",
         "size-medium",
         "size-small",
         "size-x-large",
@@ -904,7 +1107,6 @@
         "sizes-L-XL",
         "SMALL",
         "training shorts",
-        "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
@@ -931,7 +1133,7 @@
           "position": 1,
           "product_id": 7174720880736,
           "created_at": "2024-08-06T17:08:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153523155040,
@@ -950,7 +1152,7 @@
           "position": 2,
           "product_id": 7174720880736,
           "created_at": "2024-08-06T17:08:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153523187808,
@@ -969,7 +1171,7 @@
           "position": 3,
           "product_id": 7174720880736,
           "created_at": "2024-08-06T17:08:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153523220576,
@@ -981,14 +1183,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "48.00",
           "grams": 138,
           "compare_at_price": null,
           "position": 4,
           "product_id": 7174720880736,
           "created_at": "2024-08-06T17:08:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41153523253344,
@@ -1007,7 +1209,7 @@
           "position": 5,
           "product_id": 7174720880736,
           "created_at": "2024-08-06T17:08:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -1088,7 +1290,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our bestseller is back but this time with the cutest contrast piping. Perfect for boat, beach and by the pool days. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ </span><span>Contrast binding </span></p>\n<p dir=\"ltr\"><span>/ Plunge V neckline </span></p>\n<p dir=\"ltr\"><span>/ Straight shaping waistband  </span></p>\n<p dir=\"ltr\"><span>/ Bust darts to add to shaping </span></p>\n<p dir=\"ltr\"><span>/ High leg </span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 70% polyamide (recycled), 30% elastane</span></p>\n<p><strong>Model Info:</strong></p>\n<p>Elissa / UK 8 / Tala size S / Height 5’8</p>",
       "published_at": "2026-08-18T09:59:18+01:00",
       "created_at": "2025-06-02T17:44:39+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Swimsuit",
       "tags": [
@@ -1135,7 +1337,7 @@
           "position": 1,
           "product_id": 15350970253692,
           "created_at": "2025-06-02T17:44:39+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394647703932,
@@ -1154,7 +1356,7 @@
           "position": 2,
           "product_id": 15350970253692,
           "created_at": "2025-06-02T17:44:39+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394647736700,
@@ -1173,7 +1375,7 @@
           "position": 3,
           "product_id": 15350970253692,
           "created_at": "2025-06-02T17:44:39+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394647769468,
@@ -1192,7 +1394,7 @@
           "position": 4,
           "product_id": 15350970253692,
           "created_at": "2025-06-02T17:44:39+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394647802236,
@@ -1211,7 +1413,7 @@
           "position": 5,
           "product_id": 15350970253692,
           "created_at": "2025-06-02T17:44:39+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -1303,7 +1505,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our iconic (&amp; ridiculously flattering) wrap waist now comes in swimwear. Happy sunbathing!</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ </span><span>Contrast binding wrap waist</span></p>\n<p dir=\"ltr\"><span>/ Sits on the waistline </span></p>\n<p dir=\"ltr\"><span>/ High leg </span></p>\n<p dir=\"ltr\"><span>/ Cheeky brazilian brief</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 70% polyamide (recycled), 30% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p><strong>Model Info:</strong></p>\n<p>Elissa / UK 8 / Tala size XS / Height 5’8</p>\n<!---->",
       "published_at": "2026-08-18T09:59:16+01:00",
       "created_at": "2025-06-02T17:37:27+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini Bottoms",
       "tags": [
@@ -1351,7 +1553,7 @@
           "position": 1,
           "product_id": 15350961045884,
           "created_at": "2025-06-02T17:37:27+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394631483772,
@@ -1370,7 +1572,7 @@
           "position": 2,
           "product_id": 15350961045884,
           "created_at": "2025-06-02T17:37:27+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394631516540,
@@ -1389,7 +1591,7 @@
           "position": 3,
           "product_id": 15350961045884,
           "created_at": "2025-06-02T17:37:27+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394631549308,
@@ -1408,7 +1610,7 @@
           "position": 4,
           "product_id": 15350961045884,
           "created_at": "2025-06-02T17:37:27+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394631582076,
@@ -1427,7 +1629,7 @@
           "position": 5,
           "product_id": 15350961045884,
           "created_at": "2025-06-02T17:37:27+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -1519,7 +1721,7 @@
       "body_html": "<p dir=\"ltr\"><span>A plunge bikini that supports </span><span>and</span><span> lifts the girls? Yep, we designed that. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ Contrast binding </span></p>\n<p dir=\"ltr\"><span>/ Clasp back fastening </span></p>\n<p dir=\"ltr\"><span>/ Plunge V neckline </span></p>\n<p dir=\"ltr\"><span>/ Straight underband </span></p>\n<p dir=\"ltr\"><span>/ Bust darts to add shaping </span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 70% polyamide (recycled), 30% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p><strong>Model Info:</strong></p>\n<p>Elissa / UK 8 / Tala size XS / Height 5’8</p>",
       "published_at": "2026-08-18T09:59:13+01:00",
       "created_at": "2025-06-02T16:35:59+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini Tops",
       "tags": [
@@ -1528,13 +1730,12 @@
         "bikini top",
         "Black",
         "col-filter-black",
-        "In Stock",
         "LARGE",
         "MEDIUM",
         "medium-medium",
         "multiway bikini top",
         "non sale",
-        "size-small",
+        "Out of Stock",
         "sizes-2xs-xs",
         "sizes-L-XL",
         "SMALL",
@@ -1545,7 +1746,6 @@
         "sustaina-sale-new",
         "sustainable",
         "swimwear",
-        "vt-size-s",
         "X-LARGE",
         "YGroup_contrast-plunge-bikini-top"
       ],
@@ -1567,7 +1767,7 @@
           "position": 1,
           "product_id": 15350885974396,
           "created_at": "2025-06-02T16:36:00+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394540192124,
@@ -1579,14 +1779,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "12.60",
           "grams": 0,
           "compare_at_price": "42.00",
           "position": 2,
           "product_id": 15350885974396,
           "created_at": "2025-06-02T16:36:00+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394540224892,
@@ -1605,7 +1805,7 @@
           "position": 3,
           "product_id": 15350885974396,
           "created_at": "2025-06-02T16:36:00+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394540257660,
@@ -1624,7 +1824,7 @@
           "position": 4,
           "product_id": 15350885974396,
           "created_at": "2025-06-02T16:36:00+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394540290428,
@@ -1643,7 +1843,7 @@
           "position": 5,
           "product_id": 15350885974396,
           "created_at": "2025-06-02T16:36:00+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -1735,7 +1935,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our bestselling swimsuit returns for summer in a brand-new sheen fabric. Match your coverage to your mood with our handy adjustable side ties. Designed with a flattering square neck, silhouette-enhancing ruching and a supportive built-in bra shelf. </span></p>\n<p><b><br></b></p>\n<p dir=\"ltr\"><span>/ Square neckline</span></p>\n<p dir=\"ltr\"><span>/ Adjustable shoulder straps </span></p>\n<p dir=\"ltr\"><span>/ Built-in bra with removable pads</span></p>\n<p dir=\"ltr\"><span>/ Ruched side ties for adjustable coverage</span></p>\n<p dir=\"ltr\"><span>/ Sheen fabric</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 73% Recycled Polyamide and 27% Elastane</span></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Valentina // Height 5’9// UK size 8 // TALA size S</span></p>\n<p> </p>",
       "published_at": "2026-08-18T09:59:11+01:00",
       "created_at": "2025-05-13T12:40:33+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Swimsuit",
       "tags": [
@@ -1743,19 +1943,17 @@
         "bikini",
         "Black",
         "col-filter-black",
-        "In Stock",
         "LARGE",
         "MEDIUM",
         "multiway swimsuit",
         "non sale",
-        "size-x-small",
+        "Out of Stock",
         "sizes-2xs-xs",
         "sizes-L-XL",
         "SMALL",
         "SUMMER",
         "sustainable",
         "swimming costume",
-        "vt-size-xs",
         "X-LARGE",
         "X-SMALL",
         "YGroup_ruched-adjustable-tie-side-shaping-swimsuit"
@@ -1771,14 +1969,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "20.70",
           "grams": 0,
           "compare_at_price": "69.00",
           "position": 1,
           "product_id": 15271432323452,
           "created_at": "2025-05-13T12:40:34+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55242805805436,
@@ -1797,7 +1995,7 @@
           "position": 2,
           "product_id": 15271432323452,
           "created_at": "2025-05-13T12:40:34+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55242805838204,
@@ -1816,7 +2014,7 @@
           "position": 3,
           "product_id": 15271432323452,
           "created_at": "2025-05-13T12:40:34+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55242805870972,
@@ -1835,7 +2033,7 @@
           "position": 4,
           "product_id": 15271432323452,
           "created_at": "2025-05-13T12:40:34+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55242805903740,
@@ -1854,7 +2052,7 @@
           "position": 5,
           "product_id": 15271432323452,
           "created_at": "2025-05-13T12:40:34+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -1946,7 +2144,7 @@
       "body_html": "<p dir=\"ltr\"><span>The most luxurious one-piece there ever was. This plunging neckline looks hot and supports the girls whether you’re laying out or diving in. Featuring luxe gold hardware and our radiant sheen fabric.</span></p>\n<p dir=\"ltr\"><span> </span></p>\n<p dir=\"ltr\"><span>/ High leg </span></p>\n<p dir=\"ltr\"><span>/ Cheeky brazilian style</span></p>\n<p dir=\"ltr\"><span>/ Halter self-tie straps for adjustable fit </span></p>\n<p dir=\"ltr\"><span>/ Removable pads</span></p>\n<p dir=\"ltr\"><span>/ Low scoop back</span></p>\n<p dir=\"ltr\"><span>/ Sheen fabric </span></p>\n<p dir=\"ltr\"><span>/ Luxe gold hardware</span></p>\n<p dir=\"ltr\"><span>/ Gold ‘TALA’ logo at the back</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 73% Recycled Polyamide and 27% Elastane</span></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Valentina // Height 5’9// UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>",
       "published_at": "2026-08-18T09:59:09+01:00",
       "created_at": "2025-05-12T13:09:00+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Swimsuit",
       "tags": [
@@ -1990,7 +2188,7 @@
           "position": 1,
           "product_id": 15269004935548,
           "created_at": "2025-05-12T13:09:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239312277884,
@@ -2009,7 +2207,7 @@
           "position": 2,
           "product_id": 15269004935548,
           "created_at": "2025-05-12T13:09:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239312310652,
@@ -2028,7 +2226,7 @@
           "position": 3,
           "product_id": 15269004935548,
           "created_at": "2025-05-12T13:09:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239312343420,
@@ -2047,7 +2245,7 @@
           "position": 4,
           "product_id": 15269004935548,
           "created_at": "2025-05-12T13:09:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239312376188,
@@ -2066,7 +2264,7 @@
           "position": 5,
           "product_id": 15269004935548,
           "created_at": "2025-05-12T13:09:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239312408956,
@@ -2085,7 +2283,7 @@
           "position": 6,
           "product_id": 15269004935548,
           "created_at": "2025-05-12T13:09:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239312441724,
@@ -2104,7 +2302,7 @@
           "position": 7,
           "product_id": 15269004935548,
           "created_at": "2025-05-12T13:09:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -2198,7 +2396,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our always-sells-out Hamptons Multiway Swimsuit makes a radiant comeback in our brand new sheen fabric and yes, she’s as versatile as ever. Wear her in endless ways - tie, twist and change straps for up to seven (super hot) styles. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ High leg</span></p>\n<p dir=\"ltr\"><span>/ Cheeky brazilian style</span></p>\n<p dir=\"ltr\"><span>/ Multiway strap design (wear her as a halter, one shoulder, deep-v and more)</span></p>\n<p dir=\"ltr\"><span>/ Open back design</span></p>\n<p dir=\"ltr\"><span>/ Tie waist detail</span></p>\n<p dir=\"ltr\"><span>/ Sheen fabric</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 73% Recycled Polyamide and 27% Elastane</span></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Valentina // Height 5’9// UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>",
       "published_at": "2026-08-18T09:59:07+01:00",
       "created_at": "2025-05-12T12:44:40+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Swimsuit",
       "tags": [
@@ -2238,7 +2436,7 @@
           "position": 1,
           "product_id": 15268962206076,
           "created_at": "2025-05-12T12:44:41+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239174291836,
@@ -2257,7 +2455,7 @@
           "position": 2,
           "product_id": 15268962206076,
           "created_at": "2025-05-12T12:44:41+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239174324604,
@@ -2276,7 +2474,7 @@
           "position": 3,
           "product_id": 15268962206076,
           "created_at": "2025-05-12T12:44:41+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239174357372,
@@ -2295,7 +2493,7 @@
           "position": 4,
           "product_id": 15268962206076,
           "created_at": "2025-05-12T12:44:41+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239174390140,
@@ -2314,7 +2512,7 @@
           "position": 5,
           "product_id": 15268962206076,
           "created_at": "2025-05-12T12:44:41+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -2406,7 +2604,7 @@
       "body_html": "<p dir=\"ltr\"><span>Legs for (sun)days thanks to </span><span>an ultra high cut</span><span>. Created with all-day glow in mind, our luxe sheen fabric and gold hardware reflect the sun wherever you go. Pair with the matching Halter Plunge Bikini Top. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ High leg </span></p>\n<p dir=\"ltr\"><span>/ Luxe gold hardware</span></p>\n<p dir=\"ltr\"><span>/ Cheeky brazilian style</span></p>\n<p dir=\"ltr\"><span>/ Sheen fabric</span></p>\n<p dir=\"ltr\"><span>/ Gold TALA branding on the back</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 73% Recycled Polyamide and 27% Elastane</span></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Valentina // Height 5’9// UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>\n<!---->",
       "published_at": "2026-08-18T09:59:05+01:00",
       "created_at": "2025-05-12T12:18:44+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini Bottoms",
       "tags": [
@@ -2420,7 +2618,6 @@
         "medium-medium",
         "multiway bikini top",
         "non sale",
-        "size-large",
         "size-medium",
         "size-small",
         "size-x-small",
@@ -2433,7 +2630,6 @@
         "sustaina-sale",
         "sustainable",
         "swimwear",
-        "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xs",
@@ -2458,7 +2654,7 @@
           "position": 1,
           "product_id": 15268918559100,
           "created_at": "2025-05-12T12:18:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239046103420,
@@ -2477,7 +2673,7 @@
           "position": 2,
           "product_id": 15268918559100,
           "created_at": "2025-05-12T12:18:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239046136188,
@@ -2496,7 +2692,7 @@
           "position": 3,
           "product_id": 15268918559100,
           "created_at": "2025-05-12T12:18:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239046168956,
@@ -2508,14 +2704,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "11.40",
           "grams": 0,
           "compare_at_price": "38.00",
           "position": 4,
           "product_id": 15268918559100,
           "created_at": "2025-05-12T12:18:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55239046201724,
@@ -2534,7 +2730,7 @@
           "position": 5,
           "product_id": 15268918559100,
           "created_at": "2025-05-12T12:18:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -2626,7 +2822,7 @@
       "body_html": "<p dir=\"ltr\"><span>You loved her so much last year, we had to bring her back. Remember our Cairo Multiway Bikini Top? The Celeste is her new younger sister who’s had a gorgeous fabric glow-up. She’s still the most versatile bikini top you will ever own, but this time she’s been created in a new super durable fabric that still feels soft, and sexy. With unlimited ways to style, she’s guaranteed to be ultra-flattering for every body shape. One bikini and several different looks means this can be the only bikini in your suitcase - just pick your favourite bottom to get a fully customised look.</span></p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Multiway, tapered strap design to style your way</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Triangle Cup Shape </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Ruched Under Bust Channel</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Adjustable support and coverage </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Easily adjustable tie back</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Consciously created with sustainability in mind, made from 81% Recycled Polyamide, 19% Elastane</span></p>\n</li>\n</ul>\n<p dir=\"ltr\"><span>Model info:</span></p>\n<p dir=\"ltr\"><span>Maria // Height 5’8 // UK size 8 // TALA size M</span></p>\n<p>Treat me with care…</p>\n<p>All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</p>\n<ul>\n<li>Rinse well after use</li>\n<li>Cool hand wash only</li>\n<li>Do not bleach</li>\n<li>Do not tumble dry</li>\n<li>Do not iron</li>\n<li>Do not dry clean</li>\n<li>Dry away from direct heat and sunlight</li>\n<li>Dry flat</li>\n<li>To prevent discolouration and loss of elasticity, minimise exposure to hot tubs</li>\n<li>Avoid direct contact with suntan lotions and oils</li>\n<li>Swimwear can only be returned with hygiene stickers in place</li>\n</ul>\n<p> </p>\n<p>This fabric is made from 81% recycled Polyamide, 19% elastane from pre-consumer waste, certified by the Global Recycle Standard. </p>\n<p>Recycled polyamide in this product comes from pre-consumer waste, which are wastes derived before they reach the consumer. This utilises yarn or fabric offcuts and needs recycling to be put again in production. </p>\n<p>Audited, Ethical factories: Made in Turkey. </p>\n<p>Sedex-SMETA audited for worker health and safety. </p>\n<p>Oeko-Tex Standard 100 tested and certified for no harmful substances.</p>\n<p>Read about our factories and fabrics<a href=\"https://www.wearetala.com/pages/responsibility-at-tala\"> here</a></p>",
       "published_at": "2026-08-18T09:59:03+01:00",
       "created_at": "2025-05-12T11:47:04+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini Tops",
       "tags": [
@@ -2673,7 +2869,7 @@
           "position": 1,
           "product_id": 15268860363132,
           "created_at": "2025-05-12T11:47:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55238899007868,
@@ -2692,7 +2888,7 @@
           "position": 2,
           "product_id": 15268860363132,
           "created_at": "2025-05-12T11:47:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55238899040636,
@@ -2711,7 +2907,7 @@
           "position": 3,
           "product_id": 15268860363132,
           "created_at": "2025-05-12T11:47:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55238899073404,
@@ -2730,7 +2926,7 @@
           "position": 4,
           "product_id": 15268860363132,
           "created_at": "2025-05-12T11:47:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55238899106172,
@@ -2749,7 +2945,7 @@
           "position": 5,
           "product_id": 15268860363132,
           "created_at": "2025-05-12T11:47:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55238899138940,
@@ -2768,7 +2964,7 @@
           "position": 6,
           "product_id": 15268860363132,
           "created_at": "2025-05-12T11:47:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55238899171708,
@@ -2787,7 +2983,7 @@
           "position": 7,
           "product_id": 15268860363132,
           "created_at": "2025-05-12T11:47:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -2881,7 +3077,7 @@
       "body_html": "<p>Our first *ever* underwire bikini. Made for sunbathing and the occasional dip, if you want your girls lifted and a little enhanced (thanks ruching) this is the bikini for you. Oh, and she has matching bikini bottoms, obviously. </p>\n<p>/ Supportive underwire</p>\n<p>/ Low scoop neckline</p>\n<p>/ Adjustable straps</p>\n<p>/ Adjustable back closure</p>\n<p>/ Sheen fabric</p>\n<p>/ Gold TALA branding under bust</p>\n<p>/ Refer to our online bra size conversion chart for size recommendations </p>\n<p>/ Consciously created with sustainability in mind, made from 73% Recycled Polyamide and 27% Elastane</p>\n<p><strong>Model Info:</strong></p>\n<p>Valentina // Height 5’9// UK size 8 // TALA size S</p>\n<p> </p>\n<p>Treat me with care…</p>\n<p>All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</p>\n<ul>\n<li>Rinse well after use</li>\n<li>Cool hand wash only</li>\n<li>Do not bleach</li>\n<li>Do not tumble dry</li>\n<li>Dry away from direct heat and sunlight</li>\n<li>Dry flat</li>\n<li>To prevent discolouration and loss of elasticity, minimise exposure to hot tubs</li>\n<li>Avoid direct contact with suntan lotions and oils</li>\n<li>Swimwear can only be returned with hygiene stickers in place</li>\n</ul>\n<p> </p>\n<p>This fabric is made from 73% Recycled Polyamide and 27% Elastane from pre-consumer waste, certified by the Global Recycle Standard. </p>\n<p>Recycled polyamide in this product comes from pre-consumer waste, which are wastes derived before they reach the consumer. This utilises yarn or fabric offcuts and needs recycling to be put again in production. </p>\n<p>Audited, Ethical factories: Made in Cambodia. </p>\n<p>Read about our factories and fabrics<a href=\"https://www.wearetala.com/pages/responsibility-at-tala\"> here</a></p>",
       "published_at": "2026-08-18T09:59:01+01:00",
       "created_at": "2025-05-08T20:07:19+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini Tops",
       "tags": [
@@ -2889,13 +3085,12 @@
         "bikini",
         "bikini top",
         "col-filter-orange",
-        "In Stock",
         "LARGE",
         "MEDIUM",
         "medium-medium",
         "multiway bikini top",
         "non sale",
-        "size-x-large",
+        "Out of Stock",
         "sizes-L-XL",
         "SMALL",
         "small-small",
@@ -2905,7 +3100,6 @@
         "sustaina-sale-new",
         "sustainable",
         "swimwear",
-        "vt-size-xl",
         "X-LARGE",
         "YGroup_underwired-gathered-bikini-top"
       ],
@@ -2927,7 +3121,7 @@
           "position": 1,
           "product_id": 15249837752700,
           "created_at": "2025-05-08T20:07:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55203103441276,
@@ -2946,7 +3140,7 @@
           "position": 2,
           "product_id": 15249837752700,
           "created_at": "2025-05-08T20:07:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55203103474044,
@@ -2965,7 +3159,7 @@
           "position": 3,
           "product_id": 15249837752700,
           "created_at": "2025-05-08T20:07:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55203103506812,
@@ -2984,7 +3178,7 @@
           "position": 4,
           "product_id": 15249837752700,
           "created_at": "2025-05-08T20:07:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55203103539580,
@@ -2996,14 +3190,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "12.60",
           "grams": 0,
           "compare_at_price": "42.00",
           "position": 5,
           "product_id": 15249837752700,
           "created_at": "2025-05-08T20:07:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -3095,7 +3289,7 @@
       "body_html": "<p dir=\"ltr\"><span>The art of packing light? Reversible anything.</span></p>",
       "published_at": "2026-08-18T09:58:59+01:00",
       "created_at": "2024-06-18T15:40:01+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Tops",
       "tags": [
@@ -3132,7 +3326,7 @@
           "position": 1,
           "product_id": 7122083086432,
           "created_at": "2024-06-18T15:40:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006255669344,
@@ -3151,7 +3345,7 @@
           "position": 2,
           "product_id": 7122083086432,
           "created_at": "2024-06-18T15:40:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006255702112,
@@ -3170,7 +3364,7 @@
           "position": 3,
           "product_id": 7122083086432,
           "created_at": "2024-06-18T15:40:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006255734880,
@@ -3189,7 +3383,7 @@
           "position": 4,
           "product_id": 7122083086432,
           "created_at": "2024-06-18T15:40:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006255767648,
@@ -3208,7 +3402,7 @@
           "position": 5,
           "product_id": 7122083086432,
           "created_at": "2024-06-18T15:40:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -3300,7 +3494,7 @@
       "body_html": "<p>Meet our new Cassia ruched adjustable swimsuit. Designed with a flattering square neck and cutaway coverage at the back, sexy swimwear is no longer reserved for plunging styles.</p>\n<p>And of course, because it’s TALA, enjoy a built in bra shelf so that you can feel confident, and supported. Switch the straps for a fresh look, or adjust the ruching on the sides for a cheeky high leg moment. Showing skin not your thing? Simply increase coverage to your comfort level with the side ties.</p>\n<ul>\n<li>Adjustable straps </li>\n<li>Built in bra with removable pads</li>\n<li>Ruched side detailing - adjustable leg opening height  </li>\n<li>High leg brief shaping </li>\n<li>Cutaway coverage at the back</li>\n<li>Smooth shaping fit</li>\n<li>Squared neckline </li>\n<li>Consciously created with sustainability in mind, made from 81% Recycled Polyamide, 19% Elastane</li>\n</ul>\n<p>Model info:</p>\n<p>Maria // Height 5’8 // UK size 8 // TALA size S</p>\n<p dir=\"ltr\"><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Treat me with care…</span><br></p>\n<p>All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</p>\n<ul>\n<li>Rinse well after use</li>\n<li>Cool hand wash only</li>\n<li>Do not bleach</li>\n<li>Do not tumble dry</li>\n<li>Do not iron</li>\n<li>Do not dry clean</li>\n<li>Dry away from direct heat and sunlight</li>\n<li>Dry flat</li>\n<li>To prevent discolouration and loss of elasticity, minimise exposure to hot tubs</li>\n<li>Avoid direct contact with suntan lotions and oils</li>\n<li>Swimwear can only be returned with hygiene stickers in place</li>\n</ul>\n<p> </p>\n<p>This fabric is made from 81% recycled Polyamide, 19% elastane from pre-consumer waste, certified by the Global Recycle Standard. </p>\n<p>Recycled polyamide in this product comes from pre-consumer waste, which are wastes derived before they reach the consumer. This utilises yarn or fabric offcuts and needs recycling to be put again in production. </p>\n<p>Audited, Ethical factories: Made in Turkey. </p>\n<p>Sedex-SMETA audited for worker health and safety. </p>\n<p>Oeko-Tex Standard 100 tested and certified for no harmful substances.</p>\n<p>Read about our factories and fabrics<a href=\"https://www.wearetala.com/pages/responsibility-at-tala\"> here</a></p>",
       "published_at": "2026-08-18T09:58:57+01:00",
       "created_at": "2024-06-18T15:26:08+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Swimsuit",
       "tags": [
@@ -3341,7 +3535,7 @@
           "position": 1,
           "product_id": 7122065096800,
           "created_at": "2024-06-18T15:26:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006225358944,
@@ -3360,7 +3554,7 @@
           "position": 2,
           "product_id": 7122065096800,
           "created_at": "2024-06-18T15:26:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006225391712,
@@ -3379,7 +3573,7 @@
           "position": 3,
           "product_id": 7122065096800,
           "created_at": "2024-06-18T15:26:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006225424480,
@@ -3398,7 +3592,7 @@
           "position": 4,
           "product_id": 7122065096800,
           "created_at": "2024-06-18T15:26:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006225457248,
@@ -3417,7 +3611,7 @@
           "position": 5,
           "product_id": 7122065096800,
           "created_at": "2024-06-18T15:26:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -3498,7 +3692,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our bestselling swimsuit returns for summer in a brand-new sheen fabric. Match your coverage to your mood with our handy adjustable side ties. Designed with a flattering square neck, silhouette-enhancing ruching and a supportive built-in bra shelf. </span></p>\n<p><b><br></b></p>\n<p dir=\"ltr\"><span>/ Square neckline</span></p>\n<p dir=\"ltr\"><span>/ Adjustable shoulder straps </span></p>\n<p dir=\"ltr\"><span>/ Built-in bra with removable pads</span></p>\n<p dir=\"ltr\"><span>/ Ruched side ties for adjustable coverage</span></p>\n<p dir=\"ltr\"><span>/ Sheen fabric</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 73% Recycled Polyamide and 27% Elastane</span></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Valentina // Height 5’9// UK size 8 // TALA size S</span></p>\n<p> </p>",
       "published_at": "2026-08-18T09:58:55+01:00",
       "created_at": "2024-06-18T15:04:29+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Swimsuit",
       "tags": [
@@ -3542,7 +3736,7 @@
           "position": 1,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:09:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006187610208,
@@ -3561,7 +3755,7 @@
           "position": 2,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:04:29+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006187642976,
@@ -3580,7 +3774,7 @@
           "position": 3,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:04:29+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006187675744,
@@ -3599,7 +3793,7 @@
           "position": 4,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:04:29+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006187741280,
@@ -3618,7 +3812,7 @@
           "position": 5,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:04:29+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006187774048,
@@ -3637,7 +3831,7 @@
           "position": 6,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:04:29+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006192656480,
@@ -3656,7 +3850,7 @@
           "position": 7,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:09:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006192689248,
@@ -3675,7 +3869,7 @@
           "position": 8,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:09:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006192722016,
@@ -3694,7 +3888,7 @@
           "position": 9,
           "product_id": 7122052644960,
           "created_at": "2024-06-18T15:09:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -3856,7 +4050,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our High Waisted Bikini Briefs provide the exact level of coverage you’ll feel comfortable with. Created in the same shape as our Kos Contrast Trim High Waisted Cheeky Bikini Brief, the Terra still comes in the cute high waist cheeky cut you love but this time in a new super durable fabric that still feels soft, and sexy. Constructed to keep its shape, our new swim fabric also keeps our colours looking good and will not fade or transfer onto your towel. So you can enjoy our swimwear this year and the next, in summery hues and shapes that look good as new.</span><b></b></p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sits on the waistline </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>High leg </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Cheeky brazilian brief shaping</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Consciously made with sustainability in mind, made from 81% Recycled Polyamide, 19% Elastane</span></p>\n</li>\n</ul>\n<p dir=\"ltr\"><span>Model info:</span></p>\n<p dir=\"ltr\"><span>Maria // Height 5’8 // UK size 8 // TALA size S</span></p>\n<p> </p>\n<p>Treat me with care…</p>\n<p>All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</p>\n<ul>\n<li>Rinse well after use</li>\n<li>Cool hand wash only</li>\n<li>Do not bleach</li>\n<li>Do not tumble dry</li>\n<li>Do not iron</li>\n<li>Do not dry clean</li>\n<li>Dry away from direct heat and sunlight</li>\n<li>Dry flat</li>\n<li>To prevent discolouration and loss of elasticity, minimise exposure to hot tubs</li>\n<li>Avoid direct contact with suntan lotions and oils</li>\n<li>Swimwear can only be returned with hygiene stickers in place</li>\n</ul>\n<p> </p>\n<p>This fabric is made from 81% recycled Polyamide, 19% elastane from pre-consumer waste, certified by the Global Recycle Standard. </p>\n<p>Recycled polyamide in this product comes from pre-consumer waste, which are wastes derived before they reach the consumer. This utilises yarn or fabric offcuts and needs recycling to be put again in production. </p>\n<p>Audited, Ethical factories: Made in Turkey. </p>\n<p>Sedex-SMETA audited for worker health and safety. </p>\n<p>Oeko-Tex Standard 100 tested and certified for no harmful substances.</p>\n<p>Read about our factories and fabrics<a href=\"https://www.wearetala.com/pages/responsibility-at-tala\"> here</a></p>\n<!---->",
       "published_at": "2026-08-18T09:58:53+01:00",
       "created_at": "2024-06-18T12:30:04+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini",
       "tags": [
@@ -3900,7 +4094,7 @@
           "position": 1,
           "product_id": 7121968988256,
           "created_at": "2024-06-18T12:30:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006025244768,
@@ -3919,7 +4113,7 @@
           "position": 2,
           "product_id": 7121968988256,
           "created_at": "2024-06-18T12:30:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006025277536,
@@ -3938,7 +4132,7 @@
           "position": 3,
           "product_id": 7121968988256,
           "created_at": "2024-06-18T12:30:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006025310304,
@@ -3957,7 +4151,7 @@
           "position": 4,
           "product_id": 7121968988256,
           "created_at": "2024-06-18T12:30:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 41006025343072,
@@ -3976,7 +4170,7 @@
           "position": 5,
           "product_id": 7121968988256,
           "created_at": "2024-06-18T12:30:04+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -4057,7 +4251,7 @@
       "body_html": "<p dir=\"ltr\"><span>Breakfast buffet, Beach, Bar, Repeat.</span></p>",
       "published_at": "2026-08-18T09:58:49+01:00",
       "created_at": "2024-05-22T12:57:45+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shirts",
       "tags": [
@@ -4095,7 +4289,7 @@
           "position": 1,
           "product_id": 7057391550560,
           "created_at": "2024-05-22T12:57:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866795978848,
@@ -4114,7 +4308,7 @@
           "position": 2,
           "product_id": 7057391550560,
           "created_at": "2024-05-22T12:57:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866796011616,
@@ -4133,7 +4327,7 @@
           "position": 3,
           "product_id": 7057391550560,
           "created_at": "2024-05-22T12:57:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866796077152,
@@ -4152,7 +4346,7 @@
           "position": 4,
           "product_id": 7057391550560,
           "created_at": "2024-05-22T12:57:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866796109920,
@@ -4171,7 +4365,7 @@
           "position": 5,
           "product_id": 7057391550560,
           "created_at": "2024-05-22T12:57:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -4263,7 +4457,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our bestseller is back but this time with the cutest contrast piping. Perfect for boat, beach and by the pool days. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ </span><span>Contrast binding </span></p>\n<p dir=\"ltr\"><span>/ Plunge V neckline </span></p>\n<p dir=\"ltr\"><span>/ Straight shaping waistband  </span></p>\n<p dir=\"ltr\"><span>/ Bust darts to add to shaping </span></p>\n<p dir=\"ltr\"><span>/ High leg </span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 70% polyamide (recycled), 30% elastane</span></p>\n<p dir=\"ltr\"> </p>\n<p><strong>Model Info:</strong></p>\n<p>Elissa / UK 8 / Tala size XS / Height 5’8</p>",
       "published_at": "2026-08-18T09:58:48+01:00",
       "created_at": "2024-05-22T12:30:09+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Swimsuit",
       "tags": [
@@ -4277,7 +4471,6 @@
         "multiway swimsuit",
         "non sale",
         "size-4x-large",
-        "size-large",
         "size-x-small",
         "sizes-2xl-3xl-4xl",
         "sizes-2xs-xs",
@@ -4287,7 +4480,6 @@
         "sustainable",
         "swimming costume",
         "vt-size-4xl",
-        "vt-size-l",
         "vt-size-xs",
         "X-LARGE",
         "X-SMALL",
@@ -4311,7 +4503,7 @@
           "position": 1,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727592032,
@@ -4330,7 +4522,7 @@
           "position": 2,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727624800,
@@ -4349,7 +4541,7 @@
           "position": 3,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727657568,
@@ -4368,7 +4560,7 @@
           "position": 4,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727690336,
@@ -4380,14 +4572,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "20.70",
           "grams": 260,
           "compare_at_price": "69.00",
           "position": 5,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727723104,
@@ -4406,7 +4598,7 @@
           "position": 6,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727788640,
@@ -4425,7 +4617,7 @@
           "position": 7,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727854176,
@@ -4444,7 +4636,7 @@
           "position": 8,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866727886944,
@@ -4463,7 +4655,7 @@
           "position": 9,
           "product_id": 7057353244768,
           "created_at": "2024-05-22T12:30:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -4691,7 +4883,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our Wrap Waist Bikini Briefs provide the exact level of coverage you’ll feel comfortable with. The cute, contrast detailing and wrap waist cut make for an ultra-flattering fit that sits on the waistline and won’t wash away with the waves. Made from the same, shaping fabric as our Plunge Bikini Tops, these bottoms lift and sculpt while you wear them for a peachy bum. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Contrast binding wrap waist</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sits on the waistline  </span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>High leg brief shaping</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Cutaway coverage at the back</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Consciously made with sustainability in mind, made from 57% Recycled Polyamide 43% Elastane </span></p>\n</li>\n</ul>\n<p dir=\"ltr\"><span>Model Info: </span></p>\n<p dir=\"ltr\"><span>Violetta // UK Size 6-8 // TALA Size XS // 5ft8”</span><span></span></p>\n<p dir=\"ltr\"><span>Treat me with care…</span></p>\n<p dir=\"ltr\"><span>All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</span></p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Rinse well after use</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Cool hand wash only</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Do not bleach</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Do not tumble dry</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Do not iron</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Do not dry clean</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Dry away from direct heat and sunlight</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Dry flat</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Take care to avoid snagging</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>To prevent discolouration and loss of elasticity, minimise exposure to hot tubs</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Avoid direct contact with suntan lotions and oils</span></p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span>Swimwear can only be returned with hygiene stickers in place</span></p>\n</li>\n</ul>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>This fabric is made from 57% recycled Polyamide, 43% elastane from pre-consumer waste, certified by the Global Recycle Standard. </p>\n<p>Recycled polyamide in this product comes from pre-consumer waste, which are wastes derived before they reach the consumer. This utilises yarn or fabric offcuts and needs recycling to be put again in production. </p>\n<p>Audited, Ethical factories: Made in Turkey. </p>\n<p>Sedex-SMETA audited for worker health and safety. </p>\n<p>Oeko-Tex Standard 100 tested and certified for no harmful substances.</p>\n<p>Read about our factories and fabrics<a href=\"https://www.wearetala.com/pages/responsibility-at-tala\"> here</a></p>\n<!---->",
       "published_at": "2026-08-18T09:58:46+01:00",
       "created_at": "2024-05-22T11:34:07+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini",
       "tags": [
@@ -4733,7 +4925,7 @@
           "position": 1,
           "product_id": 7057330372704,
           "created_at": "2024-05-22T11:34:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866598092896,
@@ -4752,7 +4944,7 @@
           "position": 2,
           "product_id": 7057330372704,
           "created_at": "2024-05-22T11:34:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866598125664,
@@ -4771,7 +4963,7 @@
           "position": 3,
           "product_id": 7057330372704,
           "created_at": "2024-05-22T11:34:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866598158432,
@@ -4790,7 +4982,7 @@
           "position": 4,
           "product_id": 7057330372704,
           "created_at": "2024-05-22T11:34:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866598191200,
@@ -4809,7 +5001,7 @@
           "position": 5,
           "product_id": 7057330372704,
           "created_at": "2024-05-22T11:34:08+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -4890,7 +5082,7 @@
       "body_html": "<p dir=\"ltr\"><span>Our iconic (&amp; ridiculously flattering) wrap waist now comes in swimwear. Happy sunbathing!</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ </span><span>Contrast binding wrap waist</span></p>\n<p dir=\"ltr\"><span>/ Sits on the waistline </span></p>\n<p dir=\"ltr\"><span>/ High leg </span></p>\n<p dir=\"ltr\"><span>/ Cheeky brazilian brief</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 70% polyamide (recycled), 30% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p><strong>Model Info:</strong></p>\n<p>Elissa / UK 8 / Tala size XS / Height 5’8</p>\n<!---->",
       "published_at": "2026-08-18T09:58:43+01:00",
       "created_at": "2024-05-22T11:28:29+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini",
       "tags": [
@@ -4936,7 +5128,7 @@
           "position": 1,
           "product_id": 7057326178400,
           "created_at": "2024-05-22T11:28:30+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866580299872,
@@ -4955,7 +5147,7 @@
           "position": 2,
           "product_id": 7057326178400,
           "created_at": "2024-05-22T11:28:30+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866580332640,
@@ -4974,7 +5166,7 @@
           "position": 3,
           "product_id": 7057326178400,
           "created_at": "2024-05-22T11:28:30+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866580365408,
@@ -4993,7 +5185,7 @@
           "position": 4,
           "product_id": 7057326178400,
           "created_at": "2024-05-22T11:28:30+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866580398176,
@@ -5012,7 +5204,7 @@
           "position": 5,
           "product_id": 7057326178400,
           "created_at": "2024-05-22T11:28:30+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866580430944,
@@ -5031,7 +5223,7 @@
           "position": 6,
           "product_id": 7057326178400,
           "created_at": "2024-05-22T11:28:30+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40866580463712,
@@ -5050,7 +5242,7 @@
           "position": 7,
           "product_id": 7057326178400,
           "created_at": "2024-05-22T11:28:30+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -5144,7 +5336,7 @@
       "body_html": "<p dir=\"ltr\"><span>A plunge bikini that supports </span><span>and</span><span> lifts the girls? Yep, we designed that. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ Contrast binding </span></p>\n<p dir=\"ltr\"><span>/ Clasp back fastening </span></p>\n<p dir=\"ltr\"><span>/ Plunge V neckline </span></p>\n<p dir=\"ltr\"><span>/ Straight underband </span></p>\n<p dir=\"ltr\"><span>/ Bust darts to add shaping </span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 70% polyamide (recycled), 30% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p><strong>Model Info:</strong></p>\n<p>Elissa / UK 8 / Tala size XS / Height 5’8</p>\n<p dir=\"ltr\"> </p>",
       "published_at": "2026-08-18T09:58:41+01:00",
       "created_at": "2024-05-21T12:43:22+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Bikini Tops",
       "tags": [
@@ -5192,7 +5384,7 @@
           "position": 1,
           "product_id": 7054897283168,
           "created_at": "2024-05-21T12:43:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40862303551584,
@@ -5211,7 +5403,7 @@
           "position": 2,
           "product_id": 7054897283168,
           "created_at": "2024-05-21T12:43:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40862303584352,
@@ -5230,7 +5422,7 @@
           "position": 3,
           "product_id": 7054897283168,
           "created_at": "2024-05-21T12:43:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40862303617120,
@@ -5249,7 +5441,7 @@
           "position": 4,
           "product_id": 7054897283168,
           "created_at": "2024-05-21T12:43:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40862303649888,
@@ -5268,7 +5460,7 @@
           "position": 5,
           "product_id": 7054897283168,
           "created_at": "2024-05-21T12:43:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40862303682656,
@@ -5287,7 +5479,7 @@
           "position": 6,
           "product_id": 7054897283168,
           "created_at": "2024-05-21T12:43:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40862303715424,
@@ -5306,7 +5498,7 @@
           "position": 7,
           "product_id": 7054897283168,
           "created_at": "2024-05-21T12:43:23+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -5400,7 +5592,7 @@
       "body_html": "<p dir=\"ltr\"><span>Spilling the tee: she‚Äôs 100% organic cotton</span></p>",
       "published_at": "2026-08-18T09:38:33+01:00",
       "created_at": "2026-05-28T09:25:45+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "T-Shirts",
       "tags": [
@@ -5454,7 +5646,7 @@
           "position": 1,
           "product_id": 16000601063804,
           "created_at": "2026-05-28T09:25:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56815218491772,
@@ -5473,7 +5665,7 @@
           "position": 2,
           "product_id": 16000601063804,
           "created_at": "2026-05-28T09:25:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56815218524540,
@@ -5492,7 +5684,7 @@
           "position": 3,
           "product_id": 16000601063804,
           "created_at": "2026-05-28T09:25:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56815218557308,
@@ -5511,7 +5703,7 @@
           "position": 4,
           "product_id": 16000601063804,
           "created_at": "2026-05-28T09:25:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56815218590076,
@@ -5530,7 +5722,7 @@
           "position": 5,
           "product_id": 16000601063804,
           "created_at": "2026-05-28T09:25:45+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -5622,7 +5814,7 @@
       "body_html": "<p dir=\"ltr\"><span>Mix, match and make the waiter take another photo.¬†</span></p>\n<!---->",
       "published_at": "2026-08-18T09:38:29+01:00",
       "created_at": "2026-05-06T14:04:49+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shorts",
       "tags": [
@@ -5666,7 +5858,7 @@
           "position": 1,
           "product_id": 15979488117116,
           "created_at": "2026-05-06T14:04:50+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737952268668,
@@ -5685,7 +5877,7 @@
           "position": 2,
           "product_id": 15979488117116,
           "created_at": "2026-05-06T14:04:50+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737952301436,
@@ -5704,7 +5896,7 @@
           "position": 3,
           "product_id": 15979488117116,
           "created_at": "2026-05-06T14:04:50+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737952334204,
@@ -5723,7 +5915,7 @@
           "position": 4,
           "product_id": 15979488117116,
           "created_at": "2026-05-06T14:04:50+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737952366972,
@@ -5742,7 +5934,7 @@
           "position": 5,
           "product_id": 15979488117116,
           "created_at": "2026-05-06T14:04:50+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -5834,7 +6026,7 @@
       "body_html": "<p dir=\"ltr\"><span>Breakfast buffet, Beach, Bar, Repeat.</span></p>",
       "published_at": "2026-08-18T09:38:27+01:00",
       "created_at": "2026-05-06T13:13:05+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shirts",
       "tags": [
@@ -5873,7 +6065,7 @@
           "position": 1,
           "product_id": 15979380801916,
           "created_at": "2026-05-06T13:13:06+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737716896124,
@@ -5892,7 +6084,7 @@
           "position": 2,
           "product_id": 15979380801916,
           "created_at": "2026-05-06T13:13:06+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737716928892,
@@ -5911,7 +6103,7 @@
           "position": 3,
           "product_id": 15979380801916,
           "created_at": "2026-05-06T13:13:06+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737716961660,
@@ -5930,7 +6122,7 @@
           "position": 4,
           "product_id": 15979380801916,
           "created_at": "2026-05-06T13:13:06+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737716994428,
@@ -5949,7 +6141,7 @@
           "position": 5,
           "product_id": 15979380801916,
           "created_at": "2026-05-06T13:13:06+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -6041,7 +6233,7 @@
       "body_html": "<p dir=\"ltr\"><span>Breakfast buffet, Beach, Bar, Repeat.</span></p>",
       "published_at": "2026-08-18T09:38:24+01:00",
       "created_at": "2026-05-06T13:12:05+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shirts",
       "tags": [
@@ -6080,7 +6272,7 @@
           "position": 1,
           "product_id": 15979378606460,
           "created_at": "2026-05-06T13:12:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737706901884,
@@ -6099,7 +6291,7 @@
           "position": 2,
           "product_id": 15979378606460,
           "created_at": "2026-05-06T13:12:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737706934652,
@@ -6118,7 +6310,7 @@
           "position": 3,
           "product_id": 15979378606460,
           "created_at": "2026-05-06T13:12:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737706967420,
@@ -6137,7 +6329,7 @@
           "position": 4,
           "product_id": 15979378606460,
           "created_at": "2026-05-06T13:12:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737707000188,
@@ -6156,7 +6348,7 @@
           "position": 5,
           "product_id": 15979378606460,
           "created_at": "2026-05-06T13:12:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -6248,7 +6440,7 @@
       "body_html": "<p dir=\"ltr\"><span>Save on checked luggage with two looks in one.</span></p>\n<!---->",
       "published_at": "2026-08-18T09:38:20+01:00",
       "created_at": "2026-05-06T12:59:52+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Dresses",
       "tags": [
@@ -6286,7 +6478,7 @@
           "position": 1,
           "product_id": 15979352621436,
           "created_at": "2026-05-06T12:59:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737631273340,
@@ -6305,7 +6497,7 @@
           "position": 2,
           "product_id": 15979352621436,
           "created_at": "2026-05-06T12:59:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737631306108,
@@ -6324,7 +6516,7 @@
           "position": 3,
           "product_id": 15979352621436,
           "created_at": "2026-05-06T12:59:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737631338876,
@@ -6343,7 +6535,7 @@
           "position": 4,
           "product_id": 15979352621436,
           "created_at": "2026-05-06T12:59:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 56737631371644,
@@ -6362,7 +6554,7 @@
           "position": 5,
           "product_id": 15979352621436,
           "created_at": "2026-05-06T12:59:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -6443,7 +6635,7 @@
       "body_html": "<p dir=\"ltr\"><span>The only short you need this summer, made from 98% organic cotton.</span></p>\n<p><b><br></b></p>\n<p dir=\"ltr\"><span>/ Relaxed fit</span></p>\n<p dir=\"ltr\"><span>/ Boxer style</span></p>\n<p dir=\"ltr\"><span>/ Covered elastic waist</span></p>\n<p dir=\"ltr\"><span>/ Woven TALA label on waistband</span></p>\n<p dir=\"ltr\"><span>/ Side pockets</span></p>\n<p dir=\"ltr\"><span>/ Decorative fly buttons</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p><b><br></b></p>\n<p><strong>Model Info:</strong></p>\n<p>Elissa / UK 8 / Tala size XS / Height 5’8</p>\n<!---->",
       "published_at": "2026-08-13T12:58:24+01:00",
       "created_at": "2025-06-02T19:00:39+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Womens Shorts",
       "tags": [
@@ -6474,7 +6666,7 @@
           "position": 1,
           "product_id": 15351057547644,
           "created_at": "2025-06-02T19:00:40+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394768060796,
@@ -6493,7 +6685,7 @@
           "position": 2,
           "product_id": 15351057547644,
           "created_at": "2025-06-02T19:00:40+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394768093564,
@@ -6512,7 +6704,7 @@
           "position": 3,
           "product_id": 15351057547644,
           "created_at": "2025-06-02T19:00:40+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394768126332,
@@ -6531,7 +6723,7 @@
           "position": 4,
           "product_id": 15351057547644,
           "created_at": "2025-06-02T19:00:40+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394768159100,
@@ -6550,7 +6742,7 @@
           "position": 5,
           "product_id": 15351057547644,
           "created_at": "2025-06-02T19:00:40+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -6642,7 +6834,7 @@
       "body_html": "<p dir=\"ltr\"><span>The only short you need this summer, made from 98% organic cotton.</span></p>\n<p><b><br></b></p>\n<p dir=\"ltr\"><span>/ Relaxed fit</span></p>\n<p dir=\"ltr\"><span>/ Boxer style</span></p>\n<p dir=\"ltr\"><span>/ Covered elastic waist</span></p>\n<p dir=\"ltr\"><span>/ Woven TALA label on waistband</span></p>\n<p dir=\"ltr\"><span>/ Side pockets</span></p>\n<p dir=\"ltr\"><span>/ Decorative fly buttons</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p><b><br></b></p>\n<p dir=\"ltr\"><strong>Model Info:</strong></p>\n<p dir=\"ltr\"><span>Elissa // Height 5’8 // UK size 8 // TALA size S</span></p>\n<!---->",
       "published_at": "2026-08-13T12:58:16+01:00",
       "created_at": "2025-06-02T18:59:04+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Womens Shorts",
       "tags": [
@@ -6679,7 +6871,7 @@
           "position": 1,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394764587388,
@@ -6698,7 +6890,7 @@
           "position": 2,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394764620156,
@@ -6717,7 +6909,7 @@
           "position": 3,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394764652924,
@@ -6736,7 +6928,7 @@
           "position": 4,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394764685692,
@@ -6755,7 +6947,7 @@
           "position": 5,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394764718460,
@@ -6774,7 +6966,7 @@
           "position": 6,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:05+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394765898108,
@@ -6793,7 +6985,7 @@
           "position": 7,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394765930876,
@@ -6812,7 +7004,7 @@
           "position": 8,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394765963644,
@@ -6831,7 +7023,7 @@
           "position": 9,
           "product_id": 15351055417724,
           "created_at": "2025-06-02T18:59:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -6927,7 +7119,7 @@
       "body_html": "<p dir=\"ltr\"><span>The only short you need this summer, made from 98% organic cotton.</span></p>\n<p><b><br></b></p>\n<p dir=\"ltr\"><span>/ Relaxed fit</span></p>\n<p dir=\"ltr\"><span>/ Boxer style</span></p>\n<p dir=\"ltr\"><span>/ Covered elastic waist</span></p>\n<p dir=\"ltr\"><span>/ Woven TALA label on waistband</span></p>\n<p dir=\"ltr\"><span>/ Side pockets</span></p>\n<p dir=\"ltr\"><span>/ Decorative fly buttons</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p><b><br></b></p>\n<p dir=\"ltr\"><strong>Model Info:</strong></p>\n<p dir=\"ltr\"><span>Elissa // Height 5’8 // UK size 8 // TALA size S</span></p>\n<!---->",
       "published_at": "2026-08-13T12:58:08+01:00",
       "created_at": "2025-06-02T18:57:56+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Womens Shorts",
       "tags": [
@@ -6958,7 +7150,7 @@
           "position": 1,
           "product_id": 15351054270844,
           "created_at": "2025-06-02T18:57:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394761081212,
@@ -6977,7 +7169,7 @@
           "position": 2,
           "product_id": 15351054270844,
           "created_at": "2025-06-02T18:57:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394761113980,
@@ -6996,7 +7188,7 @@
           "position": 3,
           "product_id": 15351054270844,
           "created_at": "2025-06-02T18:57:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394761146748,
@@ -7015,7 +7207,7 @@
           "position": 4,
           "product_id": 15351054270844,
           "created_at": "2025-06-02T18:57:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394761179516,
@@ -7034,7 +7226,7 @@
           "position": 5,
           "product_id": 15351054270844,
           "created_at": "2025-06-02T18:57:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -7126,7 +7318,7 @@
       "body_html": "<p dir=\"ltr\"><span>Whether you’re OOO or have just got back, our never-ever see-through, structured wide leg trousers are the definition of versatile, from office to dinner to drinks. Wear with our matching heavyweight longline linen strapless top or style with the complimenting essential linen shirt.</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ Hook &amp; zip closure</span></p>\n<p dir=\"ltr\"><span>/ Adjustable waistband button detail to customise waist fit</span></p>\n<p dir=\"ltr\"><span>/ Clean flat waistband</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from 41% Linen and 59% Organic Cotton</span></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Valentina // Height 5’9// UK size 8 // TALA size S</span></p>\n<!---->",
       "published_at": "2026-08-13T12:58:01+01:00",
       "created_at": "2025-06-02T18:46:15+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
@@ -7171,7 +7363,7 @@
           "position": 1,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745418108,
@@ -7190,7 +7382,7 @@
           "position": 2,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745450876,
@@ -7209,7 +7401,7 @@
           "position": 3,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745483644,
@@ -7228,7 +7420,7 @@
           "position": 4,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745516412,
@@ -7247,7 +7439,7 @@
           "position": 5,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745549180,
@@ -7266,7 +7458,7 @@
           "position": 6,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745581948,
@@ -7285,7 +7477,7 @@
           "position": 7,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745614716,
@@ -7304,7 +7496,7 @@
           "position": 8,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394745647484,
@@ -7323,7 +7515,7 @@
           "position": 9,
           "product_id": 15351040934268,
           "created_at": "2025-06-02T18:46:16+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [],
@@ -7352,7 +7544,7 @@
       "body_html": "<p dir=\"ltr\"><span>The trousers your bikini top has been dreaming of. Oh, and she’s made from 98% organic cotton. </span></p>\n<p dir=\"ltr\"><span>/ </span><span>Relaxed-fit</span></p>\n<p dir=\"ltr\"><span>/ Wide Leg</span></p>\n<p dir=\"ltr\"><span>/ Covered elastic waist</span></p>\n<p dir=\"ltr\"><span>/ TALA woven branded label on Centre of waistband</span></p>\n<p dir=\"ltr\"><span>/ Side pockets</span></p>\n<p dir=\"ltr\"><span>/ Decorative fly buttons</span></p>\n<p dir=\"ltr\"><span>/ Fit to a 30\" inseam</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Elissa // Height 5’8 // UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>\n<!---->",
       "published_at": "2026-08-13T12:57:54+01:00",
       "created_at": "2025-06-02T18:44:14+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
@@ -7405,7 +7597,7 @@
           "position": 1,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738241916,
@@ -7424,7 +7616,7 @@
           "position": 2,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738274684,
@@ -7443,7 +7635,7 @@
           "position": 3,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738307452,
@@ -7462,7 +7654,7 @@
           "position": 4,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738340220,
@@ -7481,7 +7673,7 @@
           "position": 5,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738372988,
@@ -7500,7 +7692,7 @@
           "position": 6,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738405756,
@@ -7519,7 +7711,7 @@
           "position": 7,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738438524,
@@ -7538,7 +7730,7 @@
           "position": 8,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394738471292,
@@ -7557,7 +7749,7 @@
           "position": 9,
           "product_id": 15351038345596,
           "created_at": "2025-06-02T18:44:15+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -7653,7 +7845,7 @@
       "body_html": "<p dir=\"ltr\"><span>A TALA HQ favourite, made from 98% organic cotton. Wear mid-rise or size up for a low rise fit, it’s up to you. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ Deep flat waistband</span></p>\n<p dir=\"ltr\"><span>/ Gathered full skirt</span></p>\n<p dir=\"ltr\"><span>/ Side pockets</span></p>\n<p dir=\"ltr\"><span>/ Zip Closure at centre back waistband</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Elissa // Height 5’8 // UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>\n<!---->",
       "published_at": "2026-08-13T12:57:49+01:00",
       "created_at": "2025-06-02T18:38:03+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
@@ -7694,7 +7886,7 @@
           "position": 1,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394718679420,
@@ -7713,7 +7905,7 @@
           "position": 2,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394718712188,
@@ -7732,7 +7924,7 @@
           "position": 3,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394718744956,
@@ -7751,7 +7943,7 @@
           "position": 4,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394718777724,
@@ -7770,7 +7962,7 @@
           "position": 5,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394718810492,
@@ -7789,7 +7981,7 @@
           "position": 6,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:03+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394718941564,
@@ -7808,7 +8000,7 @@
           "position": 7,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394718974332,
@@ -7827,7 +8019,7 @@
           "position": 8,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394719007100,
@@ -7846,7 +8038,7 @@
           "position": 9,
           "product_id": 15351029727612,
           "created_at": "2025-06-02T18:38:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -7942,7 +8134,7 @@
       "body_html": "<p dir=\"ltr\"><span>Made from 98% organic cotton aka the hottest way to cool down this summer. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ Pocket </span></p>\n<p dir=\"ltr\"><span>/ Deep cuff</span></p>\n<p dir=\"ltr\"><span>/ Woven TALA label on cuff </span></p>\n<p dir=\"ltr\"><span>/ Button up closure</span></p>\n<p dir=\"ltr\"><span>/ Curved hem </span></p>\n<p dir=\"ltr\"><span>/ Side splits</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Elissa // Height 5’8 // UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>",
       "published_at": "2026-08-13T12:57:43+01:00",
       "created_at": "2025-06-02T18:04:43+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shirts",
       "tags": [
@@ -7956,17 +8148,13 @@
         "poplin",
         "shirt",
         "size-large",
-        "size-medium",
         "size-small",
-        "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
         "SMALL",
         "SP",
         "vt-size-l",
-        "vt-size-m",
         "vt-size-s",
-        "vt-size-xs",
         "white shirt",
         "X-LARGE",
         "X-SMALL",
@@ -7983,14 +8171,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "18.00",
           "grams": 0,
           "compare_at_price": "45.00",
           "position": 1,
           "product_id": 15350996173180,
           "created_at": "2025-06-02T18:04:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394691547516,
@@ -8009,7 +8197,7 @@
           "position": 2,
           "product_id": 15350996173180,
           "created_at": "2025-06-02T18:04:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394691580284,
@@ -8021,14 +8209,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "18.00",
           "grams": 0,
           "compare_at_price": "45.00",
           "position": 3,
           "product_id": 15350996173180,
           "created_at": "2025-06-02T18:04:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394691613052,
@@ -8047,7 +8235,7 @@
           "position": 4,
           "product_id": 15350996173180,
           "created_at": "2025-06-02T18:04:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394691645820,
@@ -8066,7 +8254,7 @@
           "position": 5,
           "product_id": 15350996173180,
           "created_at": "2025-06-02T18:04:44+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -8158,7 +8346,7 @@
       "body_html": "<p dir=\"ltr\"><span>Made from 98% organic cotton aka the hottest way to cool down this summer. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ Pocket </span></p>\n<p dir=\"ltr\"><span>/ Deep cuff</span></p>\n<p dir=\"ltr\"><span>/ Woven TALA label on cuff </span></p>\n<p dir=\"ltr\"><span>/ Button up closure</span></p>\n<p dir=\"ltr\"><span>/ Curved hem </span></p>\n<p dir=\"ltr\"><span>/ Side splits</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Elissa // Height 5’8 // UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>",
       "published_at": "2026-08-13T12:57:35+01:00",
       "created_at": "2025-06-02T18:02:54+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shirts",
       "tags": [
@@ -8208,7 +8396,7 @@
           "position": 1,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687222140,
@@ -8227,7 +8415,7 @@
           "position": 2,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687254908,
@@ -8246,7 +8434,7 @@
           "position": 3,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687287676,
@@ -8265,7 +8453,7 @@
           "position": 4,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687320444,
@@ -8284,7 +8472,7 @@
           "position": 5,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687353212,
@@ -8303,7 +8491,7 @@
           "position": 6,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687385980,
@@ -8322,7 +8510,7 @@
           "position": 7,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687418748,
@@ -8341,7 +8529,7 @@
           "position": 8,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394687451516,
@@ -8360,7 +8548,7 @@
           "position": 9,
           "product_id": 15350993486204,
           "created_at": "2025-06-02T18:02:55+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -8456,7 +8644,7 @@
       "body_html": "<p dir=\"ltr\"><span>Made from 98% organic cotton aka the hottest way to cool down this summer. </span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>/ Pocket </span></p>\n<p dir=\"ltr\"><span>/ Deep cuff</span></p>\n<p dir=\"ltr\"><span>/ Woven TALA label on cuff </span></p>\n<p dir=\"ltr\"><span>/ Button up closure</span></p>\n<p dir=\"ltr\"><span>/ Curved hem </span></p>\n<p dir=\"ltr\"><span>/ Side splits</span></p>\n<p dir=\"ltr\"><span>/ Consciously created with sustainability in mind, made from </span><span>98% organic cotton and 2% elastane</span></p>\n<p dir=\"ltr\"><b><br></b></p>\n<p dir=\"ltr\"><span>Model Info:</span></p>\n<p dir=\"ltr\"><span>Elissa // Height 5’8 // UK size 8 // TALA size S</span></p>\n<p dir=\"ltr\"> </p>",
       "published_at": "2026-08-13T12:57:27+01:00",
       "created_at": "2025-06-02T17:52:57+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shirts",
       "tags": [
@@ -8496,7 +8684,7 @@
           "position": 1,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667037052,
@@ -8515,7 +8703,7 @@
           "position": 2,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667069820,
@@ -8534,7 +8722,7 @@
           "position": 3,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667102588,
@@ -8553,7 +8741,7 @@
           "position": 4,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667135356,
@@ -8572,7 +8760,7 @@
           "position": 5,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667168124,
@@ -8591,7 +8779,7 @@
           "position": 6,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667200892,
@@ -8610,7 +8798,7 @@
           "position": 7,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667233660,
@@ -8629,7 +8817,7 @@
           "position": 8,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 55394667266428,
@@ -8648,7 +8836,7 @@
           "position": 9,
           "product_id": 15350981067132,
           "created_at": "2025-06-02T17:52:57+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -8744,7 +8932,7 @@
       "body_html": "<p><span style=\"font-weight: 400;\">To the untrained eye, this could look like a standard white shirt, but au contraire: this has actually been designed from scratch to be THE perfect oversized white shirt for year-round styling. Deep cuffs allow you to choose your sleeve length; side splits on each side allow for half-in-half-out styling that always looks good. And if that wasn't enough, the classic curved and bonded hem, oversized (but still flattering) fit and 100% organic cotton material allow you to wear and style this shirt 365 days a year. </span></p>\n<ul>\n<li aria-level=\"1\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Deep cuff to add femininity </span></li>\n<li aria-level=\"1\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">TALA woven branded label on LHSAW cuff </span></li>\n<li aria-level=\"1\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Centre front button closure </span></li>\n<li aria-level=\"1\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Curved hem </span></li>\n<li aria-level=\"1\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Side splits for multiway wearing </span></li>\n<li aria-level=\"1\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collar </span></li>\n<li aria-level=\"1\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Consciously created with 100% Organic Cotton</span></li>\n</ul>\n<p style=\"font-weight: 400;\"><strong>Responsibility:</strong></p>\n<p style=\"font-weight: 400;\">This item is made<span> 1</span>00% Cotton Poplin  - cotton poplin is a durable lightweight cotton fabric and is less prone to creasing and organic cotton uses no chemicals, pesticides or fertilisers to produce</p>\n<p style=\"font-weight: 400;\">Certified by the Organic Content Standard  - Verified by ETC-OCS  that it has been produced in accordance with the Organic Farming Standard</p>\n<p style=\"font-weight: 400;\">Audited, Ethical Factories: Made in Turkey</p>\n<p style=\"font-weight: 400;\">Sedex-SMETA audited for worker health and safety. </p>\n<p style=\"font-weight: 400;\">Oeko-Tex Standard 100 tested and certified for no harmful substances.</p>\n<p style=\"font-weight: 400;\">Read about our factories and fabrics<span> </span><a data-outlook-id=\"ad34a226-b8e0-41fb-b678-e519fce98435\" href=\"https://www.wearetala.com/pages/responsibility-at-tala\">here</a>.</p>\n<p style=\"font-weight: 400;\">Correct at the time of publishing. </p>\n<p style=\"font-weight: 400;\"><strong>Treat me with care... </strong></p>\n<p style=\"font-weight: 400;\">All TALA items are made to last. By caring for our clothes we prolong their life, so they can be worn, over and over again.</p>\n<p style=\"font-weight: 400;\"> Delicate machine wash at  30°C</p>\n<p style=\"font-weight: 400;\">Do not bleach</p>\n<p style=\"font-weight: 400;\">Do not tumble dry</p>\n<p style=\"font-weight: 400;\">Iron on a medium setting</p>\n<p style=\"font-weight: 400;\">Can be professionally dry cleaned</p>\n<p style=\"font-weight: 400;\">Can be steamed to remove creases</p>\n<p data-mce-fragment=\"1\"><br><br><br></p>\n<br><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\"><br></span>",
       "published_at": "2026-08-13T12:57:21+01:00",
       "created_at": "2024-03-26T16:29:06+00:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shirts",
       "tags": [
@@ -8783,7 +8971,7 @@
           "position": 1,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:48:28+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469005238368,
@@ -8802,7 +8990,7 @@
           "position": 2,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:29:06+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469005271136,
@@ -8821,7 +9009,7 @@
           "position": 3,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:29:06+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469005303904,
@@ -8840,7 +9028,7 @@
           "position": 4,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:29:06+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469005336672,
@@ -8859,7 +9047,7 @@
           "position": 5,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:29:06+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469005369440,
@@ -8878,7 +9066,7 @@
           "position": 6,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:29:06+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469094858848,
@@ -8897,7 +9085,7 @@
           "position": 7,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:48:28+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469094891616,
@@ -8916,7 +9104,7 @@
           "position": 8,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:48:28+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 40469094924384,
@@ -8935,7 +9123,7 @@
           "position": 9,
           "product_id": 6904711970912,
           "created_at": "2024-03-26T16:48:28+00:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -9020,7 +9208,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">For team no front seam.</p>",
       "published_at": "2026-08-13T10:31:13+01:00",
       "created_at": "2026-08-05T16:13:55+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Leggings",
       "tags": [
@@ -9064,7 +9252,7 @@
           "position": 1,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252903911804,
@@ -9083,7 +9271,7 @@
           "position": 2,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252903944572,
@@ -9102,7 +9290,7 @@
           "position": 3,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252903977340,
@@ -9121,7 +9309,7 @@
           "position": 4,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252904010108,
@@ -9140,7 +9328,7 @@
           "position": 5,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252904042876,
@@ -9159,7 +9347,7 @@
           "position": 6,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252904075644,
@@ -9178,7 +9366,7 @@
           "position": 7,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252904108412,
@@ -9197,7 +9385,7 @@
           "position": 8,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252904141180,
@@ -9216,7 +9404,7 @@
           "position": 9,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252904173948,
@@ -9235,7 +9423,7 @@
           "position": 10,
           "product_id": 16074470064508,
           "created_at": "2026-08-05T16:13:56+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -9335,7 +9523,7 @@
       "body_html": "<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\" dir=\"auto\">\n<div class=\"p-rich_text_section\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p dir=\"ltr\"><span>More supportive than your group chat</span></p>\n<b id=\"docs-internal-guid-d20dc1be-7fff-e8cc-aa61-c66645b0401a\"></b>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "published_at": "2026-08-13T10:31:11+01:00",
       "created_at": "2026-08-05T16:17:17+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -9377,7 +9565,7 @@
           "position": 1,
           "product_id": 16074471965052,
           "created_at": "2026-08-05T16:17:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908695932,
@@ -9396,7 +9584,7 @@
           "position": 2,
           "product_id": 16074471965052,
           "created_at": "2026-08-05T16:17:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908728700,
@@ -9415,7 +9603,7 @@
           "position": 3,
           "product_id": 16074471965052,
           "created_at": "2026-08-05T16:17:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908761468,
@@ -9434,7 +9622,7 @@
           "position": 4,
           "product_id": 16074471965052,
           "created_at": "2026-08-05T16:17:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908794236,
@@ -9453,7 +9641,7 @@
           "position": 5,
           "product_id": 16074471965052,
           "created_at": "2026-08-05T16:17:19+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -9545,7 +9733,7 @@
       "body_html": "<p dir=\"ltr\"><span>The fleece of all fleeces. Say that ten times fast.</span></p>",
       "published_at": "2026-08-13T10:31:09+01:00",
       "created_at": "2026-08-05T16:59:46+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Fleece",
       "tags": [
@@ -9553,8 +9741,6 @@
         "new skinluxe rib aug26",
         "outerwear",
         "size-large",
-        "size-medium",
-        "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
         "SKINLUXE RIB AUG 26",
@@ -9562,7 +9748,6 @@
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
-        "vt-size-xs",
         "YGroup_1/4-zip-fleece-jacket"
       ],
       "variants": [
@@ -9576,14 +9761,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "75.00",
           "grams": 1016,
           "compare_at_price": null,
           "position": 1,
           "product_id": 16074507944316,
           "created_at": "2026-08-05T16:59:47+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030560124,
@@ -9602,7 +9787,7 @@
           "position": 2,
           "product_id": 16074507944316,
           "created_at": "2026-08-05T16:59:47+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030592892,
@@ -9614,14 +9799,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "75.00",
           "grams": 1068,
           "compare_at_price": null,
           "position": 3,
           "product_id": 16074507944316,
           "created_at": "2026-08-05T16:59:47+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030625660,
@@ -9640,7 +9825,7 @@
           "position": 4,
           "product_id": 16074507944316,
           "created_at": "2026-08-05T16:59:47+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030658428,
@@ -9659,7 +9844,7 @@
           "position": 5,
           "product_id": 16074507944316,
           "created_at": "2026-08-05T16:59:47+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -9751,7 +9936,7 @@
       "body_html": "<p dir=\"ltr\"><span>Plot twist: she’s adjustable!</span></p>",
       "published_at": "2026-08-13T10:31:07+01:00",
       "created_at": "2026-08-05T17:00:52+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Joggers",
       "tags": [
@@ -9786,7 +9971,7 @@
           "position": 1,
           "product_id": 16074509222268,
           "created_at": "2026-08-05T17:00:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253032886652,
@@ -9805,7 +9990,7 @@
           "position": 2,
           "product_id": 16074509222268,
           "created_at": "2026-08-05T17:00:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253032919420,
@@ -9824,7 +10009,7 @@
           "position": 3,
           "product_id": 16074509222268,
           "created_at": "2026-08-05T17:00:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253032952188,
@@ -9843,7 +10028,7 @@
           "position": 4,
           "product_id": 16074509222268,
           "created_at": "2026-08-05T17:00:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253032984956,
@@ -9862,7 +10047,7 @@
           "position": 5,
           "product_id": 16074509222268,
           "created_at": "2026-08-05T17:00:53+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -9954,7 +10139,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\">Presenting your emotional support layer, keeping you cosy from the gym to the coffee shop</p>",
       "published_at": "2026-08-13T10:31:05+01:00",
       "created_at": "2026-08-05T16:53:48+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -9995,7 +10180,7 @@
           "position": 1,
           "product_id": 16074495820156,
           "created_at": "2026-08-05T16:53:49+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253004673404,
@@ -10014,7 +10199,7 @@
           "position": 2,
           "product_id": 16074495820156,
           "created_at": "2026-08-05T16:53:49+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253004706172,
@@ -10033,7 +10218,7 @@
           "position": 3,
           "product_id": 16074495820156,
           "created_at": "2026-08-05T16:53:49+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253004738940,
@@ -10052,7 +10237,7 @@
           "position": 4,
           "product_id": 16074495820156,
           "created_at": "2026-08-05T16:53:49+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253004771708,
@@ -10071,7 +10256,7 @@
           "position": 5,
           "product_id": 16074495820156,
           "created_at": "2026-08-05T16:53:49+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -10174,7 +10359,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Feeling speedy? Run errands (or a pb) with the coverage you need and the style you want.</p>",
       "published_at": "2026-08-13T10:31:04+01:00",
       "created_at": "2026-08-05T16:16:08+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Shorts",
       "tags": [
@@ -10219,7 +10404,7 @@
           "position": 1,
           "product_id": 16074471702908,
           "created_at": "2026-08-05T16:16:09+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908204412,
@@ -10238,7 +10423,7 @@
           "position": 2,
           "product_id": 16074471702908,
           "created_at": "2026-08-05T16:16:09+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908237180,
@@ -10257,7 +10442,7 @@
           "position": 3,
           "product_id": 16074471702908,
           "created_at": "2026-08-05T16:16:09+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908269948,
@@ -10276,7 +10461,7 @@
           "position": 4,
           "product_id": 16074471702908,
           "created_at": "2026-08-05T16:16:09+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252908302716,
@@ -10295,7 +10480,7 @@
           "position": 5,
           "product_id": 16074471702908,
           "created_at": "2026-08-05T16:16:09+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -10376,7 +10561,7 @@
       "body_html": "<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\" dir=\"auto\">\n<div class=\"p-rich_text_section\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p dir=\"ltr\"><span>More supportive than your group chat</span></p>\n<b id=\"docs-internal-guid-d20dc1be-7fff-e8cc-aa61-c66645b0401a\"></b>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "published_at": "2026-08-13T10:31:02+01:00",
       "created_at": "2026-08-05T16:20:30+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -10417,7 +10602,7 @@
           "position": 1,
           "product_id": 16074474127740,
           "created_at": "2026-08-05T16:20:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252942217596,
@@ -10436,7 +10621,7 @@
           "position": 2,
           "product_id": 16074474127740,
           "created_at": "2026-08-05T16:20:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252942250364,
@@ -10455,7 +10640,7 @@
           "position": 3,
           "product_id": 16074474127740,
           "created_at": "2026-08-05T16:20:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252942283132,
@@ -10474,7 +10659,7 @@
           "position": 4,
           "product_id": 16074474127740,
           "created_at": "2026-08-05T16:20:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252942315900,
@@ -10493,7 +10678,7 @@
           "position": 5,
           "product_id": 16074474127740,
           "created_at": "2026-08-05T16:20:31+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -10585,7 +10770,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\"><span>The world’s favourite hoodie</span></p>",
       "published_at": "2026-08-13T10:30:59+01:00",
       "created_at": "2026-08-05T16:57:23+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -10626,7 +10811,7 @@
           "position": 1,
           "product_id": 16074506142076,
           "created_at": "2026-08-05T16:57:24+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253026922876,
@@ -10645,7 +10830,7 @@
           "position": 2,
           "product_id": 16074506142076,
           "created_at": "2026-08-05T16:57:24+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253026955644,
@@ -10664,7 +10849,7 @@
           "position": 3,
           "product_id": 16074506142076,
           "created_at": "2026-08-05T16:57:24+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253026988412,
@@ -10683,7 +10868,7 @@
           "position": 4,
           "product_id": 16074506142076,
           "created_at": "2026-08-05T16:57:24+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253027021180,
@@ -10702,7 +10887,7 @@
           "position": 5,
           "product_id": 16074506142076,
           "created_at": "2026-08-05T16:57:24+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -10794,7 +10979,7 @@
       "body_html": "<p dir=\"ltr\"><span>The fleece of all fleeces. Say that ten times fast.</span></p>",
       "published_at": "2026-08-13T10:30:58+01:00",
       "created_at": "2026-08-05T16:59:18+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Fleece",
       "tags": [
@@ -10805,7 +10990,6 @@
         "size-large",
         "size-medium",
         "size-small",
-        "size-x-large",
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
@@ -10815,7 +10999,6 @@
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
-        "vt-size-xl",
         "vt-size-xs",
         "winter",
         "YGroup_1/4-zip-fleece-jacket"
@@ -10838,7 +11021,7 @@
           "position": 1,
           "product_id": 16074507682172,
           "created_at": "2026-08-05T16:59:18+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030003068,
@@ -10857,7 +11040,7 @@
           "position": 2,
           "product_id": 16074507682172,
           "created_at": "2026-08-05T16:59:18+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030035836,
@@ -10876,7 +11059,7 @@
           "position": 3,
           "product_id": 16074507682172,
           "created_at": "2026-08-05T16:59:18+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030068604,
@@ -10895,7 +11078,7 @@
           "position": 4,
           "product_id": 16074507682172,
           "created_at": "2026-08-05T16:59:18+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57253030101372,
@@ -10907,14 +11090,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "75.00",
           "grams": 1162,
           "compare_at_price": null,
           "position": 5,
           "product_id": 16074507682172,
           "created_at": "2026-08-05T16:59:18+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -11006,7 +11189,7 @@
       "body_html": "<p dir=\"ltr\"><span>Performance meets the retro aesthetic</span></p>",
       "published_at": "2026-08-13T10:30:56+01:00",
       "created_at": "2026-08-05T16:49:09+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Leggings",
       "tags": [
@@ -11047,7 +11230,7 @@
           "position": 1,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995137916,
@@ -11066,7 +11249,7 @@
           "position": 2,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995170684,
@@ -11085,7 +11268,7 @@
           "position": 3,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995203452,
@@ -11104,7 +11287,7 @@
           "position": 4,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995236220,
@@ -11123,7 +11306,7 @@
           "position": 5,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995268988,
@@ -11142,7 +11325,7 @@
           "position": 6,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995301756,
@@ -11161,7 +11344,7 @@
           "position": 7,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995334524,
@@ -11180,7 +11363,7 @@
           "position": 8,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995367292,
@@ -11199,7 +11382,7 @@
           "position": 9,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252995400060,
@@ -11218,7 +11401,7 @@
           "position": 10,
           "product_id": 16074492510588,
           "created_at": "2026-08-05T16:49:10+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -11318,7 +11501,7 @@
       "body_html": "<p dir=\"ltr\"><span>Double the straps, double the support</span></p>",
       "published_at": "2026-08-13T10:30:55+01:00",
       "created_at": "2026-08-05T16:22:33+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
+      "updated_at": "2026-08-26T04:02:16+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Vest Tops",
       "tags": [
@@ -11357,7 +11540,7 @@
           "position": 1,
           "product_id": 16074475962748,
           "created_at": "2026-08-05T16:22:35+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252944970108,
@@ -11376,7 +11559,7 @@
           "position": 2,
           "product_id": 16074475962748,
           "created_at": "2026-08-05T16:22:35+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252945002876,
@@ -11395,7 +11578,7 @@
           "position": 3,
           "product_id": 16074475962748,
           "created_at": "2026-08-05T16:22:35+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252945035644,
@@ -11414,7 +11597,7 @@
           "position": 4,
           "product_id": 16074475962748,
           "created_at": "2026-08-05T16:22:35+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         },
         {
           "id": 57252945068412,
@@ -11433,7 +11616,7 @@
           "position": 5,
           "product_id": 16074475962748,
           "created_at": "2026-08-05T16:22:35+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
+          "updated_at": "2026-08-26T04:02:16+01:00"
         }
       ],
       "images": [
@@ -11500,215 +11683,6 @@
           "product_id": 16074475962748,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SKINLUXE_CONTRASTDOUBLESTRAPVEST_SHADOWBLACK_DETAIL.jpg?v=1786267473",
-          "width": 1000,
-          "height": 1500
-        }
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 16074503782780,
-      "title": "Piped Cocoon Zip Through Hoodie - Black",
-      "handle": "piped-cocoon-zip-through-hoodie-black",
-      "body_html": "<ul></ul>\n<p dir=\"ltr\"><span>The world’s favourite hoodie</span></p>",
-      "published_at": "2026-08-13T10:30:54+01:00",
-      "created_at": "2026-08-05T16:57:00+01:00",
-      "updated_at": "2026-08-25T03:56:14+01:00",
-      "vendor": "TALA",
-      "product_type": "Hoodies",
-      "tags": [
-        "gifts for yourself",
-        "In Stock",
-        "loungewear",
-        "new skinluxe rib aug26",
-        "size-large",
-        "size-medium",
-        "size-small",
-        "size-x-large",
-        "size-x-small",
-        "sizes-2xs-xs",
-        "sizes-L-XL",
-        "SKINLUXE RIB AUG 26",
-        "vt-size-l",
-        "vt-size-m",
-        "vt-size-s",
-        "vt-size-xl",
-        "vt-size-xs",
-        "YGroup_cocoon-zip-through-hoodie"
-      ],
-      "variants": [
-        {
-          "id": 57253022237052,
-          "title": "XS",
-          "option1": "XS",
-          "option2": null,
-          "option3": null,
-          "sku": "06-08212B03-XS",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "59.00",
-          "grams": 558,
-          "compare_at_price": null,
-          "position": 1,
-          "product_id": 16074503782780,
-          "created_at": "2026-08-05T16:57:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
-        },
-        {
-          "id": 57253022269820,
-          "title": "S",
-          "option1": "S",
-          "option2": null,
-          "option3": null,
-          "sku": "06-08212B03-S",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "59.00",
-          "grams": 581,
-          "compare_at_price": null,
-          "position": 2,
-          "product_id": 16074503782780,
-          "created_at": "2026-08-05T16:57:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
-        },
-        {
-          "id": 57253022302588,
-          "title": "M",
-          "option1": "M",
-          "option2": null,
-          "option3": null,
-          "sku": "06-08212B03-M",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "59.00",
-          "grams": 581,
-          "compare_at_price": null,
-          "position": 3,
-          "product_id": 16074503782780,
-          "created_at": "2026-08-05T16:57:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
-        },
-        {
-          "id": 57253022335356,
-          "title": "L",
-          "option1": "L",
-          "option2": null,
-          "option3": null,
-          "sku": "06-08212B03-L",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "59.00",
-          "grams": 608,
-          "compare_at_price": null,
-          "position": 4,
-          "product_id": 16074503782780,
-          "created_at": "2026-08-05T16:57:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
-        },
-        {
-          "id": 57253022368124,
-          "title": "XL",
-          "option1": "XL",
-          "option2": null,
-          "option3": null,
-          "sku": "06-08212B03-XL",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "59.00",
-          "grams": 644,
-          "compare_at_price": null,
-          "position": 5,
-          "product_id": 16074503782780,
-          "created_at": "2026-08-05T16:57:01+01:00",
-          "updated_at": "2026-08-25T03:56:14+01:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 84613261525372,
-          "created_at": "2026-08-09T09:17:09+01:00",
-          "position": 1,
-          "updated_at": "2026-08-09T09:17:13+01:00",
-          "product_id": 16074503782780,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_PIPEDCOCOONZIPTHROUGHSWEATER_BLACK_1364.jpg?v=1786263433",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 84613261656444,
-          "created_at": "2026-08-09T09:17:09+01:00",
-          "position": 2,
-          "updated_at": "2026-08-09T09:17:12+01:00",
-          "product_id": 16074503782780,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_PIPEDCOCOONZIPTHROUGHSWEATER_BLACK.jpg?v=1786263432",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 84613261492604,
-          "created_at": "2026-08-09T09:17:09+01:00",
-          "position": 3,
-          "updated_at": "2026-08-09T09:17:13+01:00",
-          "product_id": 16074503782780,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_PIPEDCOCOONZIPTHROUGHSWEATER_BLACK_1343.jpg?v=1786263433",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 84613261558140,
-          "created_at": "2026-08-09T09:17:09+01:00",
-          "position": 4,
-          "updated_at": "2026-08-09T09:17:13+01:00",
-          "product_id": 16074503782780,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_PIPEDCOCOONZIPTHROUGHSWEATER_BLACK_1384.jpg?v=1786263433",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 84613261590908,
-          "created_at": "2026-08-09T09:17:09+01:00",
-          "position": 5,
-          "updated_at": "2026-08-09T09:17:13+01:00",
-          "product_id": 16074503782780,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_PIPEDCOCOONZIPTHROUGHSWEATER_BLACK_1391.jpg?v=1786263433",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 84613261623676,
-          "created_at": "2026-08-09T09:17:09+01:00",
-          "position": 6,
-          "updated_at": "2026-08-09T09:17:13+01:00",
-          "product_id": 16074503782780,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_PIPEDCOCOONZIPTHROUGHSWEATER_BLACK_DETAIL.jpg?v=1786263433",
           "width": 1000,
           "height": 1500
         }
