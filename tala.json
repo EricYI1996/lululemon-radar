@@ -1,8 +1,1116 @@
 {
-  "fetchedAt": "2026-09-11T06:59:43.041433+00:00",
+  "fetchedAt": "2026-09-12T06:51:21.218192+00:00",
   "source": "https://www.wearetala.com/products.json?limit=50",
   "count": 50,
   "products": [
+    {
+      "id": 16113469555068,
+      "title": "Cocoon & Legging Set - Burgundy",
+      "handle": "cocoon-zip-through-dayflex-legging-set",
+      "body_html": "<div id=\"message-list_1789128967.804469\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div draggable=\"false\">\n<div>\n<div>The running errands set</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+      "published_at": "2026-09-11T12:33:05+01:00",
+      "created_at": "2026-09-09T17:02:20+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
+      "vendor": "TALA",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 57423951298940,
+          "title": "XS / FULL / XS",
+          "option1": "XS",
+          "option2": "FULL",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-09T17:02:20+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429730820476,
+          "title": "XS / FULL / S",
+          "option1": "XS",
+          "option2": "FULL",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429730853244,
+          "title": "XS / FULL / M",
+          "option1": "XS",
+          "option2": "FULL",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429730886012,
+          "title": "XS / FULL / L",
+          "option1": "XS",
+          "option2": "FULL",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429730918780,
+          "title": "XS / FULL / XL",
+          "option1": "XS",
+          "option2": "FULL",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429730951548,
+          "title": "XS / 7/8 / XS",
+          "option1": "XS",
+          "option2": "7/8",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429730984316,
+          "title": "XS / 7/8 / S",
+          "option1": "XS",
+          "option2": "7/8",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731017084,
+          "title": "XS / 7/8 / M",
+          "option1": "XS",
+          "option2": "7/8",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731049852,
+          "title": "XS / 7/8 / L",
+          "option1": "XS",
+          "option2": "7/8",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 9,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731082620,
+          "title": "XS / 7/8 / XL",
+          "option1": "XS",
+          "option2": "7/8",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 10,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731115388,
+          "title": "S / FULL / XS",
+          "option1": "S",
+          "option2": "FULL",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 11,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731148156,
+          "title": "S / FULL / S",
+          "option1": "S",
+          "option2": "FULL",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 12,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731180924,
+          "title": "S / FULL / M",
+          "option1": "S",
+          "option2": "FULL",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 13,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731213692,
+          "title": "S / FULL / L",
+          "option1": "S",
+          "option2": "FULL",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 14,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731246460,
+          "title": "S / FULL / XL",
+          "option1": "S",
+          "option2": "FULL",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 15,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731279228,
+          "title": "S / 7/8 / XS",
+          "option1": "S",
+          "option2": "7/8",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 16,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731311996,
+          "title": "S / 7/8 / S",
+          "option1": "S",
+          "option2": "7/8",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 17,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731344764,
+          "title": "S / 7/8 / M",
+          "option1": "S",
+          "option2": "7/8",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 18,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731377532,
+          "title": "S / 7/8 / L",
+          "option1": "S",
+          "option2": "7/8",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 19,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731410300,
+          "title": "S / 7/8 / XL",
+          "option1": "S",
+          "option2": "7/8",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 20,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731443068,
+          "title": "M / FULL / XS",
+          "option1": "M",
+          "option2": "FULL",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 21,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731475836,
+          "title": "M / FULL / S",
+          "option1": "M",
+          "option2": "FULL",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 22,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731508604,
+          "title": "M / FULL / M",
+          "option1": "M",
+          "option2": "FULL",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 23,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731541372,
+          "title": "M / FULL / L",
+          "option1": "M",
+          "option2": "FULL",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 24,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731574140,
+          "title": "M / FULL / XL",
+          "option1": "M",
+          "option2": "FULL",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 25,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731606908,
+          "title": "M / 7/8 / XS",
+          "option1": "M",
+          "option2": "7/8",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 26,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731639676,
+          "title": "M / 7/8 / S",
+          "option1": "M",
+          "option2": "7/8",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 27,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731672444,
+          "title": "M / 7/8 / M",
+          "option1": "M",
+          "option2": "7/8",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 28,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731705212,
+          "title": "M / 7/8 / L",
+          "option1": "M",
+          "option2": "7/8",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 29,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731737980,
+          "title": "M / 7/8 / XL",
+          "option1": "M",
+          "option2": "7/8",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 30,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731770748,
+          "title": "L / FULL / XS",
+          "option1": "L",
+          "option2": "FULL",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 31,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731803516,
+          "title": "L / FULL / S",
+          "option1": "L",
+          "option2": "FULL",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 32,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731836284,
+          "title": "L / FULL / M",
+          "option1": "L",
+          "option2": "FULL",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 33,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731869052,
+          "title": "L / FULL / L",
+          "option1": "L",
+          "option2": "FULL",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 34,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731901820,
+          "title": "L / FULL / XL",
+          "option1": "L",
+          "option2": "FULL",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 35,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731934588,
+          "title": "L / 7/8 / XS",
+          "option1": "L",
+          "option2": "7/8",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 36,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429731967356,
+          "title": "L / 7/8 / S",
+          "option1": "L",
+          "option2": "7/8",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 37,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732000124,
+          "title": "L / 7/8 / M",
+          "option1": "L",
+          "option2": "7/8",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 38,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732032892,
+          "title": "L / 7/8 / L",
+          "option1": "L",
+          "option2": "7/8",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 39,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732065660,
+          "title": "L / 7/8 / XL",
+          "option1": "L",
+          "option2": "7/8",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 40,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732098428,
+          "title": "XL / FULL / XS",
+          "option1": "XL",
+          "option2": "FULL",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 41,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732131196,
+          "title": "XL / FULL / S",
+          "option1": "XL",
+          "option2": "FULL",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 42,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732163964,
+          "title": "XL / FULL / M",
+          "option1": "XL",
+          "option2": "FULL",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 43,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732196732,
+          "title": "XL / FULL / L",
+          "option1": "XL",
+          "option2": "FULL",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 44,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732229500,
+          "title": "XL / FULL / XL",
+          "option1": "XL",
+          "option2": "FULL",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 45,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732262268,
+          "title": "XL / 7/8 / XS",
+          "option1": "XL",
+          "option2": "7/8",
+          "option3": "XS",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 46,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732295036,
+          "title": "XL / 7/8 / S",
+          "option1": "XL",
+          "option2": "7/8",
+          "option3": "S",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 47,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732327804,
+          "title": "XL / 7/8 / M",
+          "option1": "XL",
+          "option2": "7/8",
+          "option3": "M",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 48,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732360572,
+          "title": "XL / 7/8 / L",
+          "option1": "XL",
+          "option2": "7/8",
+          "option3": "L",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 49,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        },
+        {
+          "id": 57429732393340,
+          "title": "XL / 7/8 / XL",
+          "option1": "XL",
+          "option2": "7/8",
+          "option3": "XL",
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "118.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 50,
+          "product_id": 16113469555068,
+          "created_at": "2026-09-10T17:08:03+01:00",
+          "updated_at": "2026-09-12T07:51:21+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 85036560744828,
+          "created_at": "2026-09-10T17:08:45+01:00",
+          "position": 1,
+          "updated_at": "2026-09-10T17:08:47+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/tala-cocoon-hoodie-legging-set-stacked-close.jpg?v=1789056527",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036559499644,
+          "created_at": "2026-09-10T17:08:27+01:00",
+          "position": 2,
+          "updated_at": "2026-09-10T17:08:31+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_COCOONZIPTHROUGH_DEEPBURGUNDY_2031_b2d27ea2-96cd-41db-821e-cd558b220407.jpg?v=1789056511",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036559565180,
+          "created_at": "2026-09-10T17:08:27+01:00",
+          "position": 3,
+          "updated_at": "2026-09-10T17:08:31+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_COCOONZIPTHROUGH_DEEPBURGUNDY_7edb6f94-3c80-4562-a724-46477129017b.jpg?v=1789056511",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036559434108,
+          "created_at": "2026-09-10T17:08:27+01:00",
+          "position": 4,
+          "updated_at": "2026-09-10T17:08:32+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_COCOONZIPTHROUGH_DEEPBURGUNDY_2055_2dc8216e-b73f-4664-982f-cf1c28658b6b.jpg?v=1789056512",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036559401340,
+          "created_at": "2026-09-10T17:08:27+01:00",
+          "position": 5,
+          "updated_at": "2026-09-10T17:08:31+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_COCOONZIPTHROUGH_DEEPBURGUNDY_2071_80cd2247-1f3a-4084-b2a5-21672938d7fd.jpg?v=1789056511",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036559466876,
+          "created_at": "2026-09-10T17:08:27+01:00",
+          "position": 6,
+          "updated_at": "2026-09-10T17:08:30+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_COCOONZIPTHROUGH_DEEPBURGUNDY_2091_4821b315-b147-4808-aacb-0e7da5402de4.jpg?v=1789056510",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036567593340,
+          "created_at": "2026-09-10T17:10:32+01:00",
+          "position": 7,
+          "updated_at": "2026-09-10T17:10:35+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/DAYFLEX_DayflexHWLeggingNFS_Burgundy_1fe4e5eb-8b7b-490a-ad38-aea6038bdc45.jpg?v=1789056635",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036567626108,
+          "created_at": "2026-09-10T17:10:32+01:00",
+          "position": 8,
+          "updated_at": "2026-09-10T17:10:35+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/DAYFLEX_DayflexHWLeggingNFS_Burgundy_658_0ed2b7d8-c37a-4f3a-be36-42fd89fe0e48.jpg?v=1789056635",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036567658876,
+          "created_at": "2026-09-10T17:10:32+01:00",
+          "position": 9,
+          "updated_at": "2026-09-10T17:10:36+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/DAYFLEX_DayflexHWLeggingNFS_Burgundy_664_73c994ee-91a3-45a1-8dfb-6cb615ca1b03.jpg?v=1789056636",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 85036559532412,
+          "created_at": "2026-09-10T17:08:27+01:00",
+          "position": 10,
+          "updated_at": "2026-09-10T17:08:31+01:00",
+          "product_id": 16113469555068,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/SWEATS_COCOONZIPTHROUGH_DEEPBURGUNDY_detail_d9771fd2-a803-40b4-b3c5-69215337e6b2.jpg?v=1789056511",
+          "width": 1000,
+          "height": 1500
+        }
+      ],
+      "options": [
+        {
+          "name": "Cocoon Zip Through Hoodie - Deep Burgundy (Size)",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "name": "DayFlex High Waist No Front Seam Legging - Burgundy (Leg Length)",
+          "position": 2,
+          "values": [
+            "FULL",
+            "7/8"
+          ]
+        },
+        {
+          "name": "DayFlex High Waist No Front Seam Legging - Burgundy (Size)",
+          "position": 3,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
     {
       "id": 16113285595516,
       "title": "Organic Cotton Barrel Leg Jogger - Black",
@@ -10,7 +1118,7 @@
       "body_html": "<p dir=\"ltr\"><span>We made the shape of the season adjustable.</span></p>",
       "published_at": "2026-09-10T10:40:06+01:00",
       "created_at": "2026-09-09T13:43:25+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Joggers",
       "tags": [
@@ -50,7 +1158,7 @@
           "position": 1,
           "product_id": 16113285595516,
           "created_at": "2026-09-09T13:43:25+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385756028,
@@ -69,7 +1177,7 @@
           "position": 2,
           "product_id": 16113285595516,
           "created_at": "2026-09-09T13:43:25+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385788796,
@@ -88,7 +1196,7 @@
           "position": 3,
           "product_id": 16113285595516,
           "created_at": "2026-09-09T13:43:25+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385821564,
@@ -107,7 +1215,7 @@
           "position": 4,
           "product_id": 16113285595516,
           "created_at": "2026-09-09T13:43:25+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385854332,
@@ -126,7 +1234,7 @@
           "position": 5,
           "product_id": 16113285595516,
           "created_at": "2026-09-09T13:43:25+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -218,7 +1326,7 @@
       "body_html": "<p dir=\"ltr\">We made the shape of the season adjustable.<br></p>",
       "published_at": "2026-09-10T10:40:05+01:00",
       "created_at": "2026-09-09T13:43:00+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Joggers",
       "tags": [
@@ -258,7 +1366,7 @@
           "position": 1,
           "product_id": 16113285267836,
           "created_at": "2026-09-09T13:43:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385264508,
@@ -277,7 +1385,7 @@
           "position": 2,
           "product_id": 16113285267836,
           "created_at": "2026-09-09T13:43:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385297276,
@@ -296,7 +1404,7 @@
           "position": 3,
           "product_id": 16113285267836,
           "created_at": "2026-09-09T13:43:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385330044,
@@ -315,7 +1423,7 @@
           "position": 4,
           "product_id": 16113285267836,
           "created_at": "2026-09-09T13:43:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57423385362812,
@@ -334,7 +1442,7 @@
           "position": 5,
           "product_id": 16113285267836,
           "created_at": "2026-09-09T13:43:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -426,7 +1534,7 @@
       "body_html": "<p dir=\"ltr\"><span>The fleece of all fleeces. Say that ten times fast.</span></p>",
       "published_at": "2026-09-10T10:40:03+01:00",
       "created_at": "2026-09-09T10:40:27+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Fleece",
       "tags": [
@@ -466,7 +1574,7 @@
           "position": 1,
           "product_id": 16113125392764,
           "created_at": "2026-09-09T10:40:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422524154236,
@@ -485,7 +1593,7 @@
           "position": 2,
           "product_id": 16113125392764,
           "created_at": "2026-09-09T10:40:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422524187004,
@@ -504,7 +1612,7 @@
           "position": 3,
           "product_id": 16113125392764,
           "created_at": "2026-09-09T10:40:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422524219772,
@@ -523,7 +1631,7 @@
           "position": 4,
           "product_id": 16113125392764,
           "created_at": "2026-09-09T10:40:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422524252540,
@@ -542,7 +1650,7 @@
           "position": 5,
           "product_id": 16113125392764,
           "created_at": "2026-09-09T10:40:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -634,7 +1742,7 @@
       "body_html": "<p dir=\"ltr\"><span>And, relax!</span></p>",
       "published_at": "2026-09-10T10:40:02+01:00",
       "created_at": "2026-09-09T10:36:40+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -674,7 +1782,7 @@
           "position": 1,
           "product_id": 16113121984892,
           "created_at": "2026-09-09T10:36:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422451638652,
@@ -693,7 +1801,7 @@
           "position": 2,
           "product_id": 16113121984892,
           "created_at": "2026-09-09T10:36:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422451671420,
@@ -712,7 +1820,7 @@
           "position": 3,
           "product_id": 16113121984892,
           "created_at": "2026-09-09T10:36:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422451704188,
@@ -731,7 +1839,7 @@
           "position": 4,
           "product_id": 16113121984892,
           "created_at": "2026-09-09T10:36:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57422451736956,
@@ -750,7 +1858,7 @@
           "position": 5,
           "product_id": 16113121984892,
           "created_at": "2026-09-09T10:36:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -842,7 +1950,7 @@
       "body_html": "<p dir=\"ltr\"><span>The fleece of all fleeces. Say that ten times fast.</span></p>",
       "published_at": "2026-09-10T10:40:00+01:00",
       "created_at": "2026-09-08T17:24:23+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Fleece",
       "tags": [
@@ -882,7 +1990,7 @@
           "position": 1,
           "product_id": 16112514466172,
           "created_at": "2026-09-08T17:24:24+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57419002118524,
@@ -901,7 +2009,7 @@
           "position": 2,
           "product_id": 16112514466172,
           "created_at": "2026-09-08T17:24:24+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57419002151292,
@@ -920,7 +2028,7 @@
           "position": 3,
           "product_id": 16112514466172,
           "created_at": "2026-09-08T17:24:24+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57419002184060,
@@ -939,7 +2047,7 @@
           "position": 4,
           "product_id": 16112514466172,
           "created_at": "2026-09-08T17:24:24+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57419002216828,
@@ -958,7 +2066,7 @@
           "position": 5,
           "product_id": 16112514466172,
           "created_at": "2026-09-08T17:24:24+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -1028,7 +2136,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\">Presenting your emotional support layer, keeping you cosy from the gym to the coffee shop</p>",
       "published_at": "2026-09-10T10:39:59+01:00",
       "created_at": "2026-09-08T10:59:17+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -1067,7 +2175,7 @@
           "position": 1,
           "product_id": 16112207233404,
           "created_at": "2026-09-08T10:59:18+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417578807676,
@@ -1086,7 +2194,7 @@
           "position": 2,
           "product_id": 16112207233404,
           "created_at": "2026-09-08T10:59:18+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417578840444,
@@ -1105,7 +2213,7 @@
           "position": 3,
           "product_id": 16112207233404,
           "created_at": "2026-09-08T10:59:18+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417578873212,
@@ -1124,7 +2232,7 @@
           "position": 4,
           "product_id": 16112207233404,
           "created_at": "2026-09-08T10:59:18+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417578905980,
@@ -1143,7 +2251,7 @@
           "position": 5,
           "product_id": 16112207233404,
           "created_at": "2026-09-08T10:59:18+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -1224,7 +2332,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\">Presenting your emotional support layer, keeping you cosy from the gym to the coffee shop</p>",
       "published_at": "2026-09-10T10:39:57+01:00",
       "created_at": "2026-09-08T10:56:50+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -1263,7 +2371,7 @@
           "position": 1,
           "product_id": 16112197271932,
           "created_at": "2026-09-08T10:56:51+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417560752508,
@@ -1282,7 +2390,7 @@
           "position": 2,
           "product_id": 16112197271932,
           "created_at": "2026-09-08T10:56:51+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417560785276,
@@ -1301,7 +2409,7 @@
           "position": 3,
           "product_id": 16112197271932,
           "created_at": "2026-09-08T10:56:51+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417560818044,
@@ -1320,7 +2428,7 @@
           "position": 4,
           "product_id": 16112197271932,
           "created_at": "2026-09-08T10:56:51+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57417560850812,
@@ -1339,7 +2447,7 @@
           "position": 5,
           "product_id": 16112197271932,
           "created_at": "2026-09-08T10:56:51+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -1420,7 +2528,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\"><span>Like our bestselling Cocoon just </span><span><em>bigger</em> </span></p>",
       "published_at": "2026-09-10T10:39:56+01:00",
       "created_at": "2026-04-01T14:49:33+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -1433,7 +2541,6 @@
         "loungewear",
         "oversized sweatshirt",
         "relaxed fit",
-        "size-small",
         "size-x-small",
         "sizes-2xs-xs",
         "sustainable",
@@ -1465,7 +2572,7 @@
           "position": 1,
           "product_id": 15940778164604,
           "created_at": "2026-04-01T14:49:34+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574939857276,
@@ -1477,14 +2584,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.00",
           "grams": 582,
           "compare_at_price": null,
           "position": 2,
           "product_id": 15940778164604,
           "created_at": "2026-04-01T14:49:34+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574939890044,
@@ -1503,7 +2610,7 @@
           "position": 3,
           "product_id": 15940778164604,
           "created_at": "2026-04-01T14:49:34+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574939922812,
@@ -1522,7 +2629,7 @@
           "position": 4,
           "product_id": 15940778164604,
           "created_at": "2026-04-01T14:49:34+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574939955580,
@@ -1541,7 +2648,7 @@
           "position": 5,
           "product_id": 15940778164604,
           "created_at": "2026-04-01T14:49:34+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -1633,7 +2740,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\"><span>Like our bestselling Cocoon just </span><span><em>bigger</em> </span></p>",
       "published_at": "2026-09-10T10:39:55+01:00",
       "created_at": "2026-04-01T14:43:09+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -1686,7 +2793,7 @@
           "position": 1,
           "product_id": 15940773806460,
           "created_at": "2026-04-01T14:43:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574928159100,
@@ -1705,7 +2812,7 @@
           "position": 2,
           "product_id": 15940773806460,
           "created_at": "2026-04-01T14:43:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574928191868,
@@ -1724,7 +2831,7 @@
           "position": 3,
           "product_id": 15940773806460,
           "created_at": "2026-04-01T14:43:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574928224636,
@@ -1743,7 +2850,7 @@
           "position": 4,
           "product_id": 15940773806460,
           "created_at": "2026-04-01T14:43:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56574928257404,
@@ -1762,7 +2869,7 @@
           "position": 5,
           "product_id": 15940773806460,
           "created_at": "2026-04-01T14:43:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -1854,7 +2961,7 @@
       "body_html": "<p dir=\"ltr\"><span>The fleece of all fleeces. Say that ten times fast.</span></p>",
       "published_at": "2026-09-10T10:39:53+01:00",
       "created_at": "2026-01-26T11:55:01+00:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Fleece",
       "tags": [
@@ -1906,7 +3013,7 @@
           "position": 1,
           "product_id": 15869289202044,
           "created_at": "2026-01-26T11:55:01+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56280702583164,
@@ -1925,7 +3032,7 @@
           "position": 2,
           "product_id": 15869289202044,
           "created_at": "2026-01-26T11:55:01+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56280702615932,
@@ -1944,7 +3051,7 @@
           "position": 3,
           "product_id": 15869289202044,
           "created_at": "2026-01-26T11:55:01+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56280702648700,
@@ -1963,7 +3070,7 @@
           "position": 4,
           "product_id": 15869289202044,
           "created_at": "2026-01-26T11:55:01+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 56280702681468,
@@ -1982,7 +3089,7 @@
           "position": 5,
           "product_id": 15869289202044,
           "created_at": "2026-01-26T11:55:01+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -2085,7 +3192,7 @@
       "body_html": "<p dir=\"ltr\"><span>The fleece of all fleeces. Say that ten times fast.</span></p>",
       "published_at": "2026-09-10T10:39:50+01:00",
       "created_at": "2025-10-03T13:19:36+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Fleece",
       "tags": [
@@ -2136,7 +3243,7 @@
           "position": 1,
           "product_id": 15617672511868,
           "created_at": "2025-10-03T13:19:37+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 55830040805756,
@@ -2155,7 +3262,7 @@
           "position": 2,
           "product_id": 15617672511868,
           "created_at": "2025-10-03T13:19:37+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 55830040838524,
@@ -2174,7 +3281,7 @@
           "position": 3,
           "product_id": 15617672511868,
           "created_at": "2025-10-03T13:19:37+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 55830040871292,
@@ -2193,7 +3300,7 @@
           "position": 4,
           "product_id": 15617672511868,
           "created_at": "2025-10-03T13:19:37+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 55830040904060,
@@ -2212,7 +3319,7 @@
           "position": 5,
           "product_id": 15617672511868,
           "created_at": "2025-10-03T13:19:37+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -2304,7 +3411,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">The vest everyone's wearing (or wanting)<br></p>",
       "published_at": "2026-09-03T11:01:46+01:00",
       "created_at": "2026-08-25T16:35:01+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Vest Tops",
       "tags": [
@@ -2339,7 +3446,7 @@
           "position": 1,
           "product_id": 16094735827324,
           "created_at": "2026-08-25T16:35:02+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349342953852,
@@ -2358,7 +3465,7 @@
           "position": 2,
           "product_id": 16094735827324,
           "created_at": "2026-08-25T16:35:02+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349342986620,
@@ -2377,7 +3484,7 @@
           "position": 3,
           "product_id": 16094735827324,
           "created_at": "2026-08-25T16:35:02+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349343019388,
@@ -2396,7 +3503,7 @@
           "position": 4,
           "product_id": 16094735827324,
           "created_at": "2026-08-25T16:35:02+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349343052156,
@@ -2415,7 +3522,7 @@
           "position": 5,
           "product_id": 16094735827324,
           "created_at": "2026-08-25T16:35:02+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -2496,7 +3603,7 @@
       "body_html": "<p>Designed for whatever the forecast forgot to mention</p>",
       "published_at": "2026-09-03T10:49:45+01:00",
       "created_at": "2026-08-26T11:50:40+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Jackets",
       "tags": [
@@ -2536,7 +3643,7 @@
           "position": 1,
           "product_id": 16095897649532,
           "created_at": "2026-08-26T11:50:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356286427516,
@@ -2555,7 +3662,7 @@
           "position": 2,
           "product_id": 16095897649532,
           "created_at": "2026-08-26T11:50:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356286460284,
@@ -2574,7 +3681,7 @@
           "position": 3,
           "product_id": 16095897649532,
           "created_at": "2026-08-26T11:50:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356286493052,
@@ -2593,7 +3700,7 @@
           "position": 4,
           "product_id": 16095897649532,
           "created_at": "2026-08-26T11:50:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356286525820,
@@ -2612,7 +3719,7 @@
           "position": 5,
           "product_id": 16095897649532,
           "created_at": "2026-08-26T11:50:41+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -2704,7 +3811,7 @@
       "body_html": "<p data-mce-fragment=\"1\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\">The ultimate yoga-inspired flared legging that you’ll wear over and over again now comes with no front seam.</span></p>\n<p><b> </b></p>",
       "published_at": "2026-09-03T10:31:01+01:00",
       "created_at": "2026-08-25T16:41:07+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Flares",
       "tags": [
@@ -2759,7 +3866,7 @@
           "position": 1,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355274620,
@@ -2778,7 +3885,7 @@
           "position": 2,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355307388,
@@ -2797,7 +3904,7 @@
           "position": 3,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355340156,
@@ -2816,7 +3923,7 @@
           "position": 4,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355372924,
@@ -2835,7 +3942,7 @@
           "position": 5,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355536764,
@@ -2854,7 +3961,7 @@
           "position": 6,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355569532,
@@ -2873,7 +3980,7 @@
           "position": 7,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355602300,
@@ -2892,7 +3999,7 @@
           "position": 8,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355635068,
@@ -2911,7 +4018,7 @@
           "position": 9,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349355667836,
@@ -2930,7 +4037,7 @@
           "position": 10,
           "product_id": 16094739071356,
           "created_at": "2026-08-25T16:41:08+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -3030,7 +4137,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Pilates just got cuter<br><br></p>",
       "published_at": "2026-09-03T10:30:59+01:00",
       "created_at": "2026-08-25T16:18:31+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tank Tops",
       "tags": [
@@ -3069,7 +4176,7 @@
           "position": 1,
           "product_id": 16094724882812,
           "created_at": "2026-08-25T16:18:32+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349321228668,
@@ -3088,7 +4195,7 @@
           "position": 2,
           "product_id": 16094724882812,
           "created_at": "2026-08-25T16:18:32+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349321261436,
@@ -3107,7 +4214,7 @@
           "position": 3,
           "product_id": 16094724882812,
           "created_at": "2026-08-25T16:18:32+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349321294204,
@@ -3126,7 +4233,7 @@
           "position": 4,
           "product_id": 16094724882812,
           "created_at": "2026-08-25T16:18:32+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349321326972,
@@ -3145,7 +4252,7 @@
           "position": 5,
           "product_id": 16094724882812,
           "created_at": "2026-08-25T16:18:32+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -3226,7 +4333,7 @@
       "body_html": "<p dir=\"ltr\"><span>New and improved: now with front zip pockets *and* thumb holes</span></p>",
       "published_at": "2026-09-03T10:30:57+01:00",
       "created_at": "2026-08-25T16:39:20+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Jackets",
       "tags": [
@@ -3266,7 +4373,7 @@
           "position": 1,
           "product_id": 16094738383228,
           "created_at": "2026-08-25T16:39:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349352882556,
@@ -3285,7 +4392,7 @@
           "position": 2,
           "product_id": 16094738383228,
           "created_at": "2026-08-25T16:39:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349352915324,
@@ -3304,7 +4411,7 @@
           "position": 3,
           "product_id": 16094738383228,
           "created_at": "2026-08-25T16:39:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349352948092,
@@ -3323,7 +4430,7 @@
           "position": 4,
           "product_id": 16094738383228,
           "created_at": "2026-08-25T16:39:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349352980860,
@@ -3342,7 +4449,7 @@
           "position": 5,
           "product_id": 16094738383228,
           "created_at": "2026-08-25T16:39:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -3423,7 +4530,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><span>Name a more flattering legging, we’ll wait. Perfect for yoga and just about everything else</span></p>",
       "published_at": "2026-09-03T10:30:56+01:00",
       "created_at": "2026-08-25T16:56:35+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "DayFlex Leggings",
       "tags": [
@@ -3471,7 +4578,7 @@
           "position": 1,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437161852,
@@ -3490,7 +4597,7 @@
           "position": 2,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437194620,
@@ -3509,7 +4616,7 @@
           "position": 3,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437227388,
@@ -3528,7 +4635,7 @@
           "position": 4,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437260156,
@@ -3547,7 +4654,7 @@
           "position": 5,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437391228,
@@ -3566,7 +4673,7 @@
           "position": 6,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437423996,
@@ -3585,7 +4692,7 @@
           "position": 7,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437456764,
@@ -3604,7 +4711,7 @@
           "position": 8,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437489532,
@@ -3623,7 +4730,7 @@
           "position": 9,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349437522300,
@@ -3642,7 +4749,7 @@
           "position": 10,
           "product_id": 16094746378620,
           "created_at": "2026-08-25T16:56:36+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -3731,7 +4838,7 @@
       "body_html": "<p>Zip it your way</p>",
       "published_at": "2026-09-03T10:30:54+01:00",
       "created_at": "2026-08-26T11:40:22+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Cardigans",
       "tags": [
@@ -3772,7 +4879,7 @@
           "position": 1,
           "product_id": 16095879266684,
           "created_at": "2026-08-26T11:40:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356233638268,
@@ -3791,7 +4898,7 @@
           "position": 2,
           "product_id": 16095879266684,
           "created_at": "2026-08-26T11:40:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356233671036,
@@ -3810,7 +4917,7 @@
           "position": 3,
           "product_id": 16095879266684,
           "created_at": "2026-08-26T11:40:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356233703804,
@@ -3829,7 +4936,7 @@
           "position": 4,
           "product_id": 16095879266684,
           "created_at": "2026-08-26T11:40:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356233736572,
@@ -3848,7 +4955,7 @@
           "position": 5,
           "product_id": 16095879266684,
           "created_at": "2026-08-26T11:40:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -3951,7 +5058,7 @@
       "body_html": "<p dir=\"ltr\">The vest version of our \"boob job\" bra. All the support &amp; all the lift</p>",
       "published_at": "2026-09-03T10:30:52+01:00",
       "created_at": "2026-08-25T16:37:14+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Vest Tops",
       "tags": [
@@ -3991,7 +5098,7 @@
           "position": 1,
           "product_id": 16094737564028,
           "created_at": "2026-08-25T16:37:15+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345804668,
@@ -4010,7 +5117,7 @@
           "position": 2,
           "product_id": 16094737564028,
           "created_at": "2026-08-25T16:37:15+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345837436,
@@ -4029,7 +5136,7 @@
           "position": 3,
           "product_id": 16094737564028,
           "created_at": "2026-08-25T16:37:15+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345870204,
@@ -4048,7 +5155,7 @@
           "position": 4,
           "product_id": 16094737564028,
           "created_at": "2026-08-25T16:37:15+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345902972,
@@ -4067,7 +5174,7 @@
           "position": 5,
           "product_id": 16094737564028,
           "created_at": "2026-08-25T16:37:15+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -4148,7 +5255,7 @@
       "body_html": "<p>Zip it your way</p>",
       "published_at": "2026-09-03T10:30:51+01:00",
       "created_at": "2026-08-26T11:42:33+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Cardigans",
       "tags": [
@@ -4161,7 +5268,6 @@
         "size-large",
         "size-medium",
         "size-x-large",
-        "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
         "vt-size-l",
@@ -4189,7 +5295,7 @@
           "position": 1,
           "product_id": 16095881789820,
           "created_at": "2026-08-26T11:42:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356239929724,
@@ -4208,7 +5314,7 @@
           "position": 2,
           "product_id": 16095881789820,
           "created_at": "2026-08-26T11:42:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356239962492,
@@ -4227,7 +5333,7 @@
           "position": 3,
           "product_id": 16095881789820,
           "created_at": "2026-08-26T11:42:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356239995260,
@@ -4246,7 +5352,7 @@
           "position": 4,
           "product_id": 16095881789820,
           "created_at": "2026-08-26T11:42:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356240028028,
@@ -4265,7 +5371,7 @@
           "position": 5,
           "product_id": 16095881789820,
           "created_at": "2026-08-26T11:42:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -4357,7 +5463,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><span>Name a more flattering legging, we’ll wait. Perfect for yoga and just about everything else</span></p>",
       "published_at": "2026-09-03T10:30:49+01:00",
       "created_at": "2026-08-25T17:04:47+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "DayFlex Leggings",
       "tags": [
@@ -4402,7 +5508,7 @@
           "position": 1,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455610236,
@@ -4421,7 +5527,7 @@
           "position": 2,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455643004,
@@ -4440,7 +5546,7 @@
           "position": 3,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455675772,
@@ -4459,7 +5565,7 @@
           "position": 4,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455708540,
@@ -4478,7 +5584,7 @@
           "position": 5,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455839612,
@@ -4497,7 +5603,7 @@
           "position": 6,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455872380,
@@ -4516,7 +5622,7 @@
           "position": 7,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455905148,
@@ -4535,7 +5641,7 @@
           "position": 8,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455937916,
@@ -4554,7 +5660,7 @@
           "position": 9,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349455970684,
@@ -4573,7 +5679,7 @@
           "position": 10,
           "product_id": 16094751031676,
           "created_at": "2026-08-25T17:04:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -4673,7 +5779,7 @@
       "body_html": "<p>Off the mat and into these</p>",
       "published_at": "2026-09-03T10:30:48+01:00",
       "created_at": "2026-08-26T10:58:06+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Joggers",
       "tags": [
@@ -4712,7 +5818,7 @@
           "position": 1,
           "product_id": 16095789482364,
           "created_at": "2026-08-26T10:58:07+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356020679036,
@@ -4731,7 +5837,7 @@
           "position": 2,
           "product_id": 16095789482364,
           "created_at": "2026-08-26T10:58:07+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356020711804,
@@ -4750,7 +5856,7 @@
           "position": 3,
           "product_id": 16095789482364,
           "created_at": "2026-08-26T10:58:07+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356020744572,
@@ -4769,7 +5875,7 @@
           "position": 4,
           "product_id": 16095789482364,
           "created_at": "2026-08-26T10:58:07+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356020777340,
@@ -4788,7 +5894,7 @@
           "position": 5,
           "product_id": 16095789482364,
           "created_at": "2026-08-26T10:58:07+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -4880,7 +5986,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><span>Name a more flattering legging, we’ll wait. Perfect for yoga and just about everything else</span></p>",
       "published_at": "2026-09-03T10:30:46+01:00",
       "created_at": "2026-08-25T16:54:02+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "DayFlex Leggings",
       "tags": [
@@ -4928,7 +6034,7 @@
           "position": 1,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378638204,
@@ -4947,7 +6053,7 @@
           "position": 2,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378670972,
@@ -4966,7 +6072,7 @@
           "position": 3,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378703740,
@@ -4985,7 +6091,7 @@
           "position": 4,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378736508,
@@ -5004,7 +6110,7 @@
           "position": 5,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378867580,
@@ -5023,7 +6129,7 @@
           "position": 6,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378900348,
@@ -5042,7 +6148,7 @@
           "position": 7,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378933116,
@@ -5061,7 +6167,7 @@
           "position": 8,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378965884,
@@ -5080,7 +6186,7 @@
           "position": 9,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349378998652,
@@ -5099,7 +6205,7 @@
           "position": 10,
           "product_id": 16094744969596,
           "created_at": "2026-08-25T16:54:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -5199,7 +6305,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><meta charset=\"utf-8\">The vest everyone's wearing (or wanting)<br></p>",
       "published_at": "2026-09-03T10:30:44+01:00",
       "created_at": "2026-08-25T16:35:44+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Vest Tops",
       "tags": [
@@ -5239,7 +6345,7 @@
           "position": 1,
           "product_id": 16094737006972,
           "created_at": "2026-08-25T16:35:45+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349344428412,
@@ -5258,7 +6364,7 @@
           "position": 2,
           "product_id": 16094737006972,
           "created_at": "2026-08-25T16:35:45+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349344461180,
@@ -5277,7 +6383,7 @@
           "position": 3,
           "product_id": 16094737006972,
           "created_at": "2026-08-25T16:35:45+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349344493948,
@@ -5296,7 +6402,7 @@
           "position": 4,
           "product_id": 16094737006972,
           "created_at": "2026-08-25T16:35:45+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349344526716,
@@ -5315,7 +6421,7 @@
           "position": 5,
           "product_id": 16094737006972,
           "created_at": "2026-08-25T16:35:45+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -5396,7 +6502,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Pilates just got cuter<br><br></p>",
       "published_at": "2026-09-03T10:30:43+01:00",
       "created_at": "2026-08-25T16:04:05+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tank Tops",
       "tags": [
@@ -5436,7 +6542,7 @@
           "position": 1,
           "product_id": 16094716068220,
           "created_at": "2026-08-25T16:04:05+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349295636860,
@@ -5455,7 +6561,7 @@
           "position": 2,
           "product_id": 16094716068220,
           "created_at": "2026-08-25T16:04:05+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349295669628,
@@ -5474,7 +6580,7 @@
           "position": 3,
           "product_id": 16094716068220,
           "created_at": "2026-08-25T16:04:05+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349295702396,
@@ -5493,7 +6599,7 @@
           "position": 4,
           "product_id": 16094716068220,
           "created_at": "2026-08-25T16:04:05+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349295735164,
@@ -5512,7 +6618,7 @@
           "position": 5,
           "product_id": 16094716068220,
           "created_at": "2026-08-25T16:04:05+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -5604,7 +6710,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Like our viral boob-job vest but with long-sleeves</span></p>",
       "published_at": "2026-09-03T10:30:41+01:00",
       "created_at": "2026-08-25T16:38:08+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tops",
       "tags": [
@@ -5644,7 +6750,7 @@
           "position": 1,
           "product_id": 16094737891708,
           "created_at": "2026-08-25T16:38:09+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350064508,
@@ -5663,7 +6769,7 @@
           "position": 2,
           "product_id": 16094737891708,
           "created_at": "2026-08-25T16:38:09+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350097276,
@@ -5682,7 +6788,7 @@
           "position": 3,
           "product_id": 16094737891708,
           "created_at": "2026-08-25T16:38:09+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350130044,
@@ -5701,7 +6807,7 @@
           "position": 4,
           "product_id": 16094737891708,
           "created_at": "2026-08-25T16:38:09+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350162812,
@@ -5720,7 +6826,7 @@
           "position": 5,
           "product_id": 16094737891708,
           "created_at": "2026-08-25T16:38:09+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -5801,7 +6907,7 @@
       "body_html": "<p>A waistband that grows with you</p>\n<p><b> </b></p>",
       "published_at": "2026-09-03T10:30:38+01:00",
       "created_at": "2026-08-27T15:11:29+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Flares",
       "tags": [
@@ -5844,7 +6950,7 @@
           "position": 1,
           "product_id": 16097297990012,
           "created_at": "2026-08-27T15:11:30+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57361425990012,
@@ -5863,7 +6969,7 @@
           "position": 2,
           "product_id": 16097297990012,
           "created_at": "2026-08-27T15:11:30+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57361426022780,
@@ -5882,7 +6988,7 @@
           "position": 3,
           "product_id": 16097297990012,
           "created_at": "2026-08-27T15:11:30+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57361426055548,
@@ -5901,7 +7007,7 @@
           "position": 4,
           "product_id": 16097297990012,
           "created_at": "2026-08-27T15:11:30+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57361426088316,
@@ -5920,7 +7026,7 @@
           "position": 5,
           "product_id": 16097297990012,
           "created_at": "2026-08-27T15:11:30+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -5997,7 +7103,7 @@
       "body_html": "<p data-mce-fragment=\"1\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\">The ultimate yoga-inspired flared legging that you’ll wear over and over again now comes with no front seam.</span></p>\n<p><b> </b></p>",
       "published_at": "2026-09-03T10:30:36+01:00",
       "created_at": "2026-08-25T16:40:37+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Flares",
       "tags": [
@@ -6045,7 +7151,7 @@
           "position": 1,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353668988,
@@ -6064,7 +7170,7 @@
           "position": 2,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353701756,
@@ -6083,7 +7189,7 @@
           "position": 3,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353734524,
@@ -6102,7 +7208,7 @@
           "position": 4,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353767292,
@@ -6121,7 +7227,7 @@
           "position": 5,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353931132,
@@ -6140,7 +7246,7 @@
           "position": 6,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353963900,
@@ -6159,7 +7265,7 @@
           "position": 7,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353996668,
@@ -6178,7 +7284,7 @@
           "position": 8,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349354029436,
@@ -6197,7 +7303,7 @@
           "position": 9,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349354062204,
@@ -6216,7 +7322,7 @@
           "position": 10,
           "product_id": 16094738678140,
           "created_at": "2026-08-25T16:40:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -6305,7 +7411,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Pilates just got cuter<br><br></p>",
       "published_at": "2026-09-03T10:30:34+01:00",
       "created_at": "2026-08-25T15:50:57+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -6348,7 +7454,7 @@
           "position": 1,
           "product_id": 16094704796028,
           "created_at": "2026-08-25T15:50:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349271454076,
@@ -6367,7 +7473,7 @@
           "position": 2,
           "product_id": 16094704796028,
           "created_at": "2026-08-25T15:50:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349271486844,
@@ -6386,7 +7492,7 @@
           "position": 3,
           "product_id": 16094704796028,
           "created_at": "2026-08-25T15:50:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349271519612,
@@ -6405,7 +7511,7 @@
           "position": 4,
           "product_id": 16094704796028,
           "created_at": "2026-08-25T15:50:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349271552380,
@@ -6424,7 +7530,7 @@
           "position": 5,
           "product_id": 16094704796028,
           "created_at": "2026-08-25T15:50:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -6505,7 +7611,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Our viral sports bra is now back in stock! </p>",
       "published_at": "2026-09-03T10:30:31+01:00",
       "created_at": "2026-08-25T16:34:19+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -6545,7 +7651,7 @@
           "position": 1,
           "product_id": 16094735565180,
           "created_at": "2026-08-25T16:34:20+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349341970812,
@@ -6564,7 +7670,7 @@
           "position": 2,
           "product_id": 16094735565180,
           "created_at": "2026-08-25T16:34:20+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349342003580,
@@ -6583,7 +7689,7 @@
           "position": 3,
           "product_id": 16094735565180,
           "created_at": "2026-08-25T16:34:20+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349342036348,
@@ -6602,7 +7708,7 @@
           "position": 4,
           "product_id": 16094735565180,
           "created_at": "2026-08-25T16:34:20+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349342069116,
@@ -6621,7 +7727,7 @@
           "position": 5,
           "product_id": 16094735565180,
           "created_at": "2026-08-25T16:34:20+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -6702,7 +7808,7 @@
       "body_html": "<p>Off the mat and into these</p>",
       "published_at": "2026-09-03T10:30:30+01:00",
       "created_at": "2026-08-26T10:57:46+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Joggers",
       "tags": [
@@ -6741,7 +7847,7 @@
           "position": 1,
           "product_id": 16095789089148,
           "created_at": "2026-08-26T10:57:47+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356019990908,
@@ -6760,7 +7866,7 @@
           "position": 2,
           "product_id": 16095789089148,
           "created_at": "2026-08-26T10:57:47+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356020023676,
@@ -6779,7 +7885,7 @@
           "position": 3,
           "product_id": 16095789089148,
           "created_at": "2026-08-26T10:57:47+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356020056444,
@@ -6798,7 +7904,7 @@
           "position": 4,
           "product_id": 16095789089148,
           "created_at": "2026-08-26T10:57:47+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356020089212,
@@ -6817,7 +7923,7 @@
           "position": 5,
           "product_id": 16095789089148,
           "created_at": "2026-08-26T10:57:47+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -6920,7 +8026,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Pilates just got cuter<br><br></p>",
       "published_at": "2026-09-03T10:30:28+01:00",
       "created_at": "2026-08-25T16:17:58+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tank Tops",
       "tags": [
@@ -6960,7 +8066,7 @@
           "position": 1,
           "product_id": 16094724096380,
           "created_at": "2026-08-25T16:17:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349318836604,
@@ -6979,7 +8085,7 @@
           "position": 2,
           "product_id": 16094724096380,
           "created_at": "2026-08-25T16:17:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349318869372,
@@ -6998,7 +8104,7 @@
           "position": 3,
           "product_id": 16094724096380,
           "created_at": "2026-08-25T16:17:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349318902140,
@@ -7017,7 +8123,7 @@
           "position": 4,
           "product_id": 16094724096380,
           "created_at": "2026-08-25T16:17:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349318934908,
@@ -7036,7 +8142,7 @@
           "position": 5,
           "product_id": 16094724096380,
           "created_at": "2026-08-25T16:17:58+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -7117,7 +8223,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><span data-sheets-root=\"1\">Yoga-inspired and insanely flattering, we wear these to TALA HQ daily.</span></p>\n<p><b> </b></p>",
       "published_at": "2026-09-03T10:30:27+01:00",
       "created_at": "2025-01-16T09:36:08+00:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Flares",
       "tags": [
@@ -7157,7 +8263,7 @@
           "position": 1,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710445948,
@@ -7176,7 +8282,7 @@
           "position": 2,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710511484,
@@ -7195,7 +8301,7 @@
           "position": 3,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710577020,
@@ -7214,7 +8320,7 @@
           "position": 4,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710642556,
@@ -7233,7 +8339,7 @@
           "position": 5,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710413180,
@@ -7252,7 +8358,7 @@
           "position": 6,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710478716,
@@ -7271,7 +8377,7 @@
           "position": 7,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710544252,
@@ -7290,7 +8396,7 @@
           "position": 8,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710609788,
@@ -7309,7 +8415,7 @@
           "position": 9,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54879710675324,
@@ -7328,7 +8434,7 @@
           "position": 10,
           "product_id": 14965400076668,
           "created_at": "2025-01-16T09:36:09+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -7428,7 +8534,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Like our viral boob-job vest but with long-sleeves</span></p>",
       "published_at": "2026-09-03T10:30:25+01:00",
       "created_at": "2026-08-25T16:38:26+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tops",
       "tags": [
@@ -7468,7 +8574,7 @@
           "position": 1,
           "product_id": 16094737957244,
           "created_at": "2026-08-25T16:38:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350392188,
@@ -7487,7 +8593,7 @@
           "position": 2,
           "product_id": 16094737957244,
           "created_at": "2026-08-25T16:38:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350424956,
@@ -7506,7 +8612,7 @@
           "position": 3,
           "product_id": 16094737957244,
           "created_at": "2026-08-25T16:38:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350457724,
@@ -7525,7 +8631,7 @@
           "position": 4,
           "product_id": 16094737957244,
           "created_at": "2026-08-25T16:38:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349350490492,
@@ -7544,7 +8650,7 @@
           "position": 5,
           "product_id": 16094737957244,
           "created_at": "2026-08-25T16:38:27+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -7625,7 +8731,7 @@
       "body_html": "<p dir=\"ltr\"><span>New and improved: now with front zip pockets *and* thumb holes</span></p>",
       "published_at": "2026-09-03T10:30:23+01:00",
       "created_at": "2026-08-25T16:39:37+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Jackets",
       "tags": [
@@ -7665,7 +8771,7 @@
           "position": 1,
           "product_id": 16094738547068,
           "created_at": "2026-08-25T16:39:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353406844,
@@ -7684,7 +8790,7 @@
           "position": 2,
           "product_id": 16094738547068,
           "created_at": "2026-08-25T16:39:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353439612,
@@ -7703,7 +8809,7 @@
           "position": 3,
           "product_id": 16094738547068,
           "created_at": "2026-08-25T16:39:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353472380,
@@ -7722,7 +8828,7 @@
           "position": 4,
           "product_id": 16094738547068,
           "created_at": "2026-08-25T16:39:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349353505148,
@@ -7741,7 +8847,7 @@
           "position": 5,
           "product_id": 16094738547068,
           "created_at": "2026-08-25T16:39:38+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -7822,7 +8928,7 @@
       "body_html": "<p dir=\"ltr\"><span>Whether you're heading to barre, the bar or beyond, channel all the balletcore vibes with our new Twist Front Sports Bra</span></p>",
       "published_at": "2026-09-03T10:30:22+01:00",
       "created_at": "2026-08-25T16:21:02+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -7862,7 +8968,7 @@
           "position": 1,
           "product_id": 16094726160764,
           "created_at": "2026-08-25T16:21:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349323719036,
@@ -7881,7 +8987,7 @@
           "position": 2,
           "product_id": 16094726160764,
           "created_at": "2026-08-25T16:21:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349323751804,
@@ -7900,7 +9006,7 @@
           "position": 3,
           "product_id": 16094726160764,
           "created_at": "2026-08-25T16:21:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349323784572,
@@ -7919,7 +9025,7 @@
           "position": 4,
           "product_id": 16094726160764,
           "created_at": "2026-08-25T16:21:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349323817340,
@@ -7938,7 +9044,7 @@
           "position": 5,
           "product_id": 16094726160764,
           "created_at": "2026-08-25T16:21:03+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -8030,7 +9136,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Pilates just got cuter<br><br></p>",
       "published_at": "2026-09-03T10:30:20+01:00",
       "created_at": "2026-08-25T15:50:40+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -8072,7 +9178,7 @@
           "position": 1,
           "product_id": 16094704337276,
           "created_at": "2026-08-25T15:50:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349270143356,
@@ -8091,7 +9197,7 @@
           "position": 2,
           "product_id": 16094704337276,
           "created_at": "2026-08-25T15:50:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349270176124,
@@ -8110,7 +9216,7 @@
           "position": 3,
           "product_id": 16094704337276,
           "created_at": "2026-08-25T15:50:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349270208892,
@@ -8129,7 +9235,7 @@
           "position": 4,
           "product_id": 16094704337276,
           "created_at": "2026-08-25T15:50:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349270241660,
@@ -8148,7 +9254,7 @@
           "position": 5,
           "product_id": 16094704337276,
           "created_at": "2026-08-25T15:50:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -8229,7 +9335,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Our viral sports bra is now back in stock! </p>",
       "published_at": "2026-09-03T10:30:18+01:00",
       "created_at": "2026-08-17T13:14:49+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -8278,7 +9384,7 @@
           "position": 1,
           "product_id": 16083838861692,
           "created_at": "2026-08-17T13:14:50+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57311106498940,
@@ -8297,7 +9403,7 @@
           "position": 2,
           "product_id": 16083838861692,
           "created_at": "2026-08-17T13:14:50+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57311106531708,
@@ -8316,7 +9422,7 @@
           "position": 3,
           "product_id": 16083838861692,
           "created_at": "2026-08-17T13:14:50+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57311106564476,
@@ -8335,7 +9441,7 @@
           "position": 4,
           "product_id": 16083838861692,
           "created_at": "2026-08-17T13:14:50+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57311106597244,
@@ -8354,7 +9460,7 @@
           "position": 5,
           "product_id": 16083838861692,
           "created_at": "2026-08-17T13:14:50+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -8457,7 +9563,7 @@
       "body_html": "<p dir=\"ltr\"><span>Whether you're heading to barre, the bar or beyond, channel all the balletcore vibes with our new Twist Front Sports Bra</span></p>",
       "published_at": "2026-09-03T10:30:17+01:00",
       "created_at": "2026-08-25T16:21:58+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -8497,7 +9603,7 @@
           "position": 1,
           "product_id": 16094726979964,
           "created_at": "2026-08-25T16:21:59+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349324931452,
@@ -8516,7 +9622,7 @@
           "position": 2,
           "product_id": 16094726979964,
           "created_at": "2026-08-25T16:21:59+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349324964220,
@@ -8535,7 +9641,7 @@
           "position": 3,
           "product_id": 16094726979964,
           "created_at": "2026-08-25T16:21:59+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349324996988,
@@ -8554,7 +9660,7 @@
           "position": 4,
           "product_id": 16094726979964,
           "created_at": "2026-08-25T16:21:59+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349325029756,
@@ -8573,7 +9679,7 @@
           "position": 5,
           "product_id": 16094726979964,
           "created_at": "2026-08-25T16:21:59+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -8665,7 +9771,7 @@
       "body_html": "<p>A waistband that grows with you<br></p>",
       "published_at": "2026-09-03T10:30:15+01:00",
       "created_at": "2026-08-25T17:02:40+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "DayFlex Leggings",
       "tags": [
@@ -8709,7 +9815,7 @@
           "position": 1,
           "product_id": 16094750409084,
           "created_at": "2026-08-25T17:02:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349448073596,
@@ -8728,7 +9834,7 @@
           "position": 2,
           "product_id": 16094750409084,
           "created_at": "2026-08-25T17:02:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349448106364,
@@ -8747,7 +9853,7 @@
           "position": 3,
           "product_id": 16094750409084,
           "created_at": "2026-08-25T17:02:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349448139132,
@@ -8766,7 +9872,7 @@
           "position": 4,
           "product_id": 16094750409084,
           "created_at": "2026-08-25T17:02:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349448171900,
@@ -8785,7 +9891,7 @@
           "position": 5,
           "product_id": 16094750409084,
           "created_at": "2026-08-25T17:02:40+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -8851,7 +9957,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\">Pilates just got cuter<br><br></p>",
       "published_at": "2026-09-03T10:30:13+01:00",
       "created_at": "2026-08-25T15:51:20+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
@@ -8894,7 +10000,7 @@
           "position": 1,
           "product_id": 16094705287548,
           "created_at": "2026-08-25T15:51:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349272863100,
@@ -8913,7 +10019,7 @@
           "position": 2,
           "product_id": 16094705287548,
           "created_at": "2026-08-25T15:51:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349272895868,
@@ -8932,7 +10038,7 @@
           "position": 3,
           "product_id": 16094705287548,
           "created_at": "2026-08-25T15:51:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349272928636,
@@ -8951,7 +10057,7 @@
           "position": 4,
           "product_id": 16094705287548,
           "created_at": "2026-08-25T15:51:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349272961404,
@@ -8970,7 +10076,7 @@
           "position": 5,
           "product_id": 16094705287548,
           "created_at": "2026-08-25T15:51:21+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -9062,7 +10168,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\">Presenting your emotional support layer, keeping you cosy from the gym to the coffee shop</p>",
       "published_at": "2026-09-03T10:30:12+01:00",
       "created_at": "2026-08-26T11:43:13+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -9102,7 +10208,7 @@
           "position": 1,
           "product_id": 16095882609020,
           "created_at": "2026-08-26T11:43:14+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356242878844,
@@ -9121,7 +10227,7 @@
           "position": 2,
           "product_id": 16095882609020,
           "created_at": "2026-08-26T11:43:14+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356242911612,
@@ -9140,7 +10246,7 @@
           "position": 3,
           "product_id": 16095882609020,
           "created_at": "2026-08-26T11:43:14+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356242944380,
@@ -9159,7 +10265,7 @@
           "position": 4,
           "product_id": 16095882609020,
           "created_at": "2026-08-26T11:43:14+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356242977148,
@@ -9178,7 +10284,7 @@
           "position": 5,
           "product_id": 16095882609020,
           "created_at": "2026-08-26T11:43:14+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -9270,7 +10376,7 @@
       "body_html": "<p><span style=\"font-weight: 400;\">The ultimate yoga-inspired flared legging that you’ll wear over and over again now comes with no front seam.</span></p>\n<p><b> </b></p>",
       "published_at": "2026-09-03T10:30:10+01:00",
       "created_at": "2026-08-25T16:41:33+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Flares",
       "tags": [
@@ -9315,7 +10421,7 @@
           "position": 1,
           "product_id": 16094739595644,
           "created_at": "2026-08-25T16:41:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349357306236,
@@ -9334,7 +10440,7 @@
           "position": 2,
           "product_id": 16094739595644,
           "created_at": "2026-08-25T16:41:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349357339004,
@@ -9353,7 +10459,7 @@
           "position": 3,
           "product_id": 16094739595644,
           "created_at": "2026-08-25T16:41:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349357371772,
@@ -9372,7 +10478,7 @@
           "position": 4,
           "product_id": 16094739595644,
           "created_at": "2026-08-25T16:41:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349357404540,
@@ -9391,7 +10497,7 @@
           "position": 5,
           "product_id": 16094739595644,
           "created_at": "2026-08-25T16:41:33+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -9479,7 +10585,7 @@
       "body_html": "<p dir=\"ltr\">The vest version of our \"boob job\" bra. All the support &amp; all the lift</p>",
       "published_at": "2026-09-03T10:30:08+01:00",
       "created_at": "2026-08-25T16:36:47+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Vest Tops",
       "tags": [
@@ -9519,7 +10625,7 @@
           "position": 1,
           "product_id": 16094737498492,
           "created_at": "2026-08-25T16:36:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345608060,
@@ -9538,7 +10644,7 @@
           "position": 2,
           "product_id": 16094737498492,
           "created_at": "2026-08-25T16:36:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345640828,
@@ -9557,7 +10663,7 @@
           "position": 3,
           "product_id": 16094737498492,
           "created_at": "2026-08-25T16:36:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345673596,
@@ -9576,7 +10682,7 @@
           "position": 4,
           "product_id": 16094737498492,
           "created_at": "2026-08-25T16:36:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349345706364,
@@ -9595,7 +10701,7 @@
           "position": 5,
           "product_id": 16094737498492,
           "created_at": "2026-08-25T16:36:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -9676,7 +10782,7 @@
       "body_html": "<p>And, Relax</p>",
       "published_at": "2026-09-03T10:30:05+01:00",
       "created_at": "2026-08-26T10:56:06+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -9718,7 +10824,7 @@
           "position": 1,
           "product_id": 16095785910652,
           "created_at": "2026-08-26T10:56:06+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356009865596,
@@ -9737,7 +10843,7 @@
           "position": 2,
           "product_id": 16095785910652,
           "created_at": "2026-08-26T10:56:06+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356009898364,
@@ -9756,7 +10862,7 @@
           "position": 3,
           "product_id": 16095785910652,
           "created_at": "2026-08-26T10:56:06+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356009931132,
@@ -9775,7 +10881,7 @@
           "position": 4,
           "product_id": 16095785910652,
           "created_at": "2026-08-26T10:56:06+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57356009963900,
@@ -9794,7 +10900,7 @@
           "position": 5,
           "product_id": 16095785910652,
           "created_at": "2026-08-26T10:56:06+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -9886,7 +10992,7 @@
       "body_html": "<p dir=\"ltr\"><meta charset=\"utf-8\"><span>Name a more flattering legging, we’ll wait. Perfect for yoga and just about everything else</span></p>",
       "published_at": "2026-09-03T10:30:02+01:00",
       "created_at": "2026-08-25T17:04:09+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "DayFlex Leggings",
       "tags": [
@@ -9932,7 +11038,7 @@
           "position": 1,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449089404,
@@ -9951,7 +11057,7 @@
           "position": 2,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449122172,
@@ -9970,7 +11076,7 @@
           "position": 3,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449154940,
@@ -9989,7 +11095,7 @@
           "position": 4,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449187708,
@@ -10008,7 +11114,7 @@
           "position": 5,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449318780,
@@ -10027,7 +11133,7 @@
           "position": 6,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449351548,
@@ -10046,7 +11152,7 @@
           "position": 7,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449384316,
@@ -10065,7 +11171,7 @@
           "position": 8,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449417084,
@@ -10084,7 +11190,7 @@
           "position": 9,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57349449449852,
@@ -10103,7 +11209,7 @@
           "position": 10,
           "product_id": 16094750802300,
           "created_at": "2026-08-25T17:04:10+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -10203,7 +11309,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\"><span>Like our bestselling Cocoon just </span><span><em>bigger</em> </span></p>",
       "published_at": "2026-08-25T10:31:02+01:00",
       "created_at": "2026-08-21T11:23:59+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -10251,7 +11357,7 @@
           "position": 1,
           "product_id": 16088897126780,
           "created_at": "2026-08-21T11:24:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57334260990332,
@@ -10270,7 +11376,7 @@
           "position": 2,
           "product_id": 16088897126780,
           "created_at": "2026-08-21T11:24:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57334261023100,
@@ -10289,7 +11395,7 @@
           "position": 3,
           "product_id": 16088897126780,
           "created_at": "2026-08-21T11:24:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57334261055868,
@@ -10308,7 +11414,7 @@
           "position": 4,
           "product_id": 16088897126780,
           "created_at": "2026-08-21T11:24:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57334261088636,
@@ -10327,7 +11433,7 @@
           "position": 5,
           "product_id": 16088897126780,
           "created_at": "2026-08-21T11:24:00+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -10408,7 +11514,7 @@
       "body_html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Back in stock soon...</span></p>",
       "published_at": "2026-08-24T12:42:09+01:00",
       "created_at": "2022-10-17T10:43:58+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Jackets",
       "tags": [
@@ -10455,7 +11561,7 @@
           "position": 1,
           "product_id": 6630661718112,
           "created_at": "2022-10-17T10:43:59+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57345618772348,
@@ -10474,7 +11580,7 @@
           "position": 2,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57345618805116,
@@ -10493,7 +11599,7 @@
           "position": 3,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57345618837884,
@@ -10512,7 +11618,7 @@
           "position": 4,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 57345618870652,
@@ -10531,7 +11637,7 @@
           "position": 5,
           "product_id": 6630661718112,
           "created_at": "2026-08-24T12:41:23+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -10645,7 +11751,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span style=\"font-weight: 400;\">Sculpting and comfortable with a <meta charset=\"utf-8\">discreet scrunch bum- you’ll never want to take them off</span></p>",
       "published_at": "2026-08-21T11:25:33+01:00",
       "created_at": "2025-01-02T12:24:21+00:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
+      "updated_at": "2026-09-12T07:51:21+01:00",
       "vendor": "TALA",
       "product_type": "Seamless Leggings",
       "tags": [
@@ -10706,7 +11812,7 @@
           "position": 1,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54859262427516,
@@ -10725,7 +11831,7 @@
           "position": 2,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54859262460284,
@@ -10744,7 +11850,7 @@
           "position": 3,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54859262493052,
@@ -10763,7 +11869,7 @@
           "position": 4,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         },
         {
           "id": 54859262525820,
@@ -10782,7 +11888,7 @@
           "position": 5,
           "product_id": 14936706220412,
           "created_at": "2025-01-02T12:24:22+00:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
+          "updated_at": "2026-09-12T07:51:21+01:00"
         }
       ],
       "images": [
@@ -10849,200 +11955,6 @@
           "product_id": 14936706220412,
           "variant_ids": [],
           "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/Sculptseamless_sculptbumlegging_darkolive_detail_8fd357ca-e270-42b9-b5d5-e178b8b2c2f9.jpg?v=1752480615",
-          "width": 1000,
-          "height": 1500
-        }
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15585940603260,
-      "title": "Longline Reversible Trench - Beige / True Black",
-      "handle": "longline-reversible-trench-beige-true-black",
-      "body_html": "<p dir=\"ltr\"><span>Two-coats-in-one. Now, that’s girl math for you</span></p>",
-      "published_at": "2026-08-20T16:24:39+01:00",
-      "created_at": "2025-09-19T12:18:47+01:00",
-      "updated_at": "2026-09-11T07:59:42+01:00",
-      "vendor": "TALA",
-      "product_type": "Outerwear",
-      "tags": [
-        "black friday outerwear",
-        "coat",
-        "coats",
-        "col-filter-neutral",
-        "fleece",
-        "In Stock",
-        "jacket",
-        "outerwear",
-        "reskinned",
-        "size-medium",
-        "Styled In The City",
-        "szn",
-        "vt-size-m",
-        "YGroup_longline-reversible-trench"
-      ],
-      "variants": [
-        {
-          "id": 55767702438268,
-          "title": "XS",
-          "option1": "XS",
-          "option2": null,
-          "option3": null,
-          "sku": "12-02534B03-XS",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "199.00",
-          "grams": 1016,
-          "compare_at_price": "189.00",
-          "position": 1,
-          "product_id": 15585940603260,
-          "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
-        },
-        {
-          "id": 55767702471036,
-          "title": "S",
-          "option1": "S",
-          "option2": null,
-          "option3": null,
-          "sku": "12-02534B03-S",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "199.00",
-          "grams": 1042,
-          "compare_at_price": "189.00",
-          "position": 2,
-          "product_id": 15585940603260,
-          "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
-        },
-        {
-          "id": 55767702503804,
-          "title": "M",
-          "option1": "M",
-          "option2": null,
-          "option3": null,
-          "sku": "12-02534B03-M",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "199.00",
-          "grams": 1068,
-          "compare_at_price": "189.00",
-          "position": 3,
-          "product_id": 15585940603260,
-          "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
-        },
-        {
-          "id": 55767702536572,
-          "title": "L",
-          "option1": "L",
-          "option2": null,
-          "option3": null,
-          "sku": "12-02534B03-L",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "199.00",
-          "grams": 1132,
-          "compare_at_price": "189.00",
-          "position": 4,
-          "product_id": 15585940603260,
-          "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
-        },
-        {
-          "id": 55767702569340,
-          "title": "XL",
-          "option1": "XL",
-          "option2": null,
-          "option3": null,
-          "sku": "12-02534B03-XL",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": false,
-          "price": "199.00",
-          "grams": 1162,
-          "compare_at_price": "189.00",
-          "position": 5,
-          "product_id": 15585940603260,
-          "created_at": "2025-09-19T12:18:48+01:00",
-          "updated_at": "2026-09-11T07:59:42+01:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 77341157589372,
-          "created_at": "2025-09-23T15:12:42+01:00",
-          "position": 1,
-          "updated_at": "2025-09-25T10:38:06+01:00",
-          "product_id": 15585940603260,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/Outerwear_ReversableLongLineJacket_Beige_Black_2006.jpg?v=1758793086",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 77373677339004,
-          "created_at": "2025-09-25T11:01:13+01:00",
-          "position": 2,
-          "updated_at": "2025-09-25T11:01:27+01:00",
-          "product_id": 15585940603260,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/Tala_fulllengthblazer_black_1_d3550038-3fae-4196-a1bc-c4f8a200943c.jpg?v=1758794487",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 77341157425532,
-          "created_at": "2025-09-23T15:12:42+01:00",
-          "position": 3,
-          "updated_at": "2025-09-25T11:01:27+01:00",
-          "product_id": 15585940603260,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/Outerwear_ReversableLongLineJacket_Beige_Black_2116.jpg?v=1758794487",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 77341157491068,
-          "created_at": "2025-09-23T15:12:42+01:00",
-          "position": 4,
-          "updated_at": "2025-09-25T11:01:27+01:00",
-          "product_id": 15585940603260,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/Outerwear_ReversableLongLineJacket_Beige_Black_b.jpg?v=1758794487",
-          "width": 1000,
-          "height": 1500
-        },
-        {
-          "id": 77341157556604,
-          "created_at": "2025-09-23T15:12:42+01:00",
-          "position": 5,
-          "updated_at": "2025-09-25T11:01:27+01:00",
-          "product_id": 15585940603260,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0081/8711/7664/files/Outerwear_ReversableLongLineJacket_Beige_Black_2058.jpg?v=1758794487",
           "width": 1000,
           "height": 1500
         }
