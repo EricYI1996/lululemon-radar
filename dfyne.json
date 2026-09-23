@@ -1,8 +1,189 @@
 {
-  "fetchedAt": "2026-09-22T07:17:24.448460+00:00",
+  "fetchedAt": "2026-09-23T07:20:34.722662+00:00",
   "source": "https://dfyne.com/products.json?limit=50",
   "count": 50,
   "products": [
+    {
+      "id": 8097296679005,
+      "title": "Defy Shorts | 4.5\"",
+      "handle": "dfyne-defy-brown-shorts-260125",
+      "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
+      "published_at": "2026-09-22T09:26:09+01:00",
+      "created_at": "2026-03-25T13:47:04+00:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
+      "vendor": "Chestnut",
+      "product_type": "Shorts",
+      "tags": [
+        "bottoms",
+        "Brown",
+        "Chestnut",
+        "Defy",
+        "JMR::Defy Shorts 4.5\"",
+        "New Releases",
+        "restock recent",
+        "SAPG::Defy Shorts | 4.5\"::Chestnut",
+        "Seamless",
+        "Shorts",
+        "Womens",
+        "Womenswear"
+      ],
+      "variants": [
+        {
+          "id": 44306430328925,
+          "title": "XS",
+          "option1": "XS",
+          "option2": null,
+          "option3": null,
+          "sku": "260125-35-07-11-13",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "52.50",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8097296679005,
+          "created_at": "2026-03-25T13:47:04+00:00",
+          "updated_at": "2026-09-23T08:20:34+01:00"
+        },
+        {
+          "id": 44306430361693,
+          "title": "S",
+          "option1": "S",
+          "option2": null,
+          "option3": null,
+          "sku": "260125-35-07-11-14",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "52.50",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 8097296679005,
+          "created_at": "2026-03-25T13:47:04+00:00",
+          "updated_at": "2026-09-23T08:20:34+01:00"
+        },
+        {
+          "id": 44306430394461,
+          "title": "M",
+          "option1": "M",
+          "option2": null,
+          "option3": null,
+          "sku": "260125-35-07-11-15",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "52.50",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 8097296679005,
+          "created_at": "2026-03-25T13:47:04+00:00",
+          "updated_at": "2026-09-23T08:20:34+01:00"
+        },
+        {
+          "id": 44306430427229,
+          "title": "L",
+          "option1": "L",
+          "option2": null,
+          "option3": null,
+          "sku": "260125-35-07-11-16",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "52.50",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 8097296679005,
+          "created_at": "2026-03-25T13:47:04+00:00",
+          "updated_at": "2026-09-23T08:20:34+01:00"
+        },
+        {
+          "id": 44306430459997,
+          "title": "XL",
+          "option1": "XL",
+          "option2": null,
+          "option3": null,
+          "sku": "260125-35-07-11-17",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "52.50",
+          "grams": 100,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 8097296679005,
+          "created_at": "2026-03-25T13:47:04+00:00",
+          "updated_at": "2026-09-23T08:20:34+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42192846192733,
+          "created_at": "2026-08-31T17:15:17+01:00",
+          "position": 1,
+          "updated_at": "2026-08-31T17:15:19+01:00",
+          "product_id": 8097296679005,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/3004/1240/files/DEFY_SHORTS_CHESTNUT_0282-Edit_e5f47022-9823-4a28-9427-4eff517892d5.jpg?v=1788192919",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42192846225501,
+          "created_at": "2026-08-31T17:15:17+01:00",
+          "position": 2,
+          "updated_at": "2026-08-31T17:15:19+01:00",
+          "product_id": 8097296679005,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/3004/1240/files/DEFY_SHORTS_CHESTNUT_0305-Edit_85e422be-2ca6-42f3-a10d-48dde2a8b841.jpg?v=1788192919",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42192846258269,
+          "created_at": "2026-08-31T17:15:17+01:00",
+          "position": 3,
+          "updated_at": "2026-08-31T17:15:19+01:00",
+          "product_id": 8097296679005,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/3004/1240/files/DEFY_SHORTS_CHESTNUT_0314-Edit_1731128d-5f3f-45fe-9ef3-f670dcdb82cc.jpg?v=1788192919",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42192846291037,
+          "created_at": "2026-08-31T17:15:17+01:00",
+          "position": 4,
+          "updated_at": "2026-08-31T17:15:19+01:00",
+          "product_id": 8097296679005,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/3004/1240/files/DEFY_SHORTS_CHESTNUT_0325-Edit_a5cc2f15-617d-4ae2-a1e9-b4feba4d3426.jpg?v=1788192919",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
     {
       "id": 8201331015773,
       "title": "Dynamic Longline Halter Top",
@@ -10,7 +191,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:25+01:00",
       "created_at": "2026-08-12T10:30:27+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Charcoal",
       "product_type": "Tops",
       "tags": [
@@ -44,7 +225,7 @@
           "position": 1,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897302937693,
@@ -63,7 +244,7 @@
           "position": 2,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897302970461,
@@ -82,7 +263,7 @@
           "position": 3,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303003229,
@@ -101,7 +282,7 @@
           "position": 4,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303035997,
@@ -120,7 +301,7 @@
           "position": 5,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -190,7 +371,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:24+01:00",
       "created_at": "2026-08-12T10:30:29+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Chocolate",
       "product_type": "Tops",
       "tags": [
@@ -224,7 +405,7 @@
           "position": 1,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303461981,
@@ -243,7 +424,7 @@
           "position": 2,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303494749,
@@ -262,7 +443,7 @@
           "position": 3,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303527517,
@@ -281,7 +462,7 @@
           "position": 4,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303560285,
@@ -300,7 +481,7 @@
           "position": 5,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -370,7 +551,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:24+01:00",
       "created_at": "2026-08-12T10:30:27+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Optic White",
       "product_type": "Tops",
       "tags": [
@@ -404,7 +585,7 @@
           "position": 1,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303134301,
@@ -423,7 +604,7 @@
           "position": 2,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303167069,
@@ -442,7 +623,7 @@
           "position": 3,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303199837,
@@ -461,7 +642,7 @@
           "position": 4,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303232605,
@@ -480,7 +661,7 @@
           "position": 5,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -550,7 +731,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:23+01:00",
       "created_at": "2026-08-12T10:30:28+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Powder Blue",
       "product_type": "Tops",
       "tags": [
@@ -584,7 +765,7 @@
           "position": 1,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303298141,
@@ -603,7 +784,7 @@
           "position": 2,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303330909,
@@ -622,7 +803,7 @@
           "position": 3,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303363677,
@@ -641,7 +822,7 @@
           "position": 4,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303396445,
@@ -660,7 +841,7 @@
           "position": 5,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -730,7 +911,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:22+01:00",
       "created_at": "2026-08-12T10:30:31+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Charcoal",
       "product_type": "Sports Bras",
       "tags": [
@@ -763,7 +944,7 @@
           "position": 1,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303986269,
@@ -782,7 +963,7 @@
           "position": 2,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304019037,
@@ -801,7 +982,7 @@
           "position": 3,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304051805,
@@ -820,7 +1001,7 @@
           "position": 4,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304084573,
@@ -839,7 +1020,7 @@
           "position": 5,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -909,7 +1090,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:21+01:00",
       "created_at": "2026-08-12T10:30:31+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Optic White",
       "product_type": "Sports Bras",
       "tags": [
@@ -942,7 +1123,7 @@
           "position": 1,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304182877,
@@ -961,7 +1142,7 @@
           "position": 2,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304215645,
@@ -980,7 +1161,7 @@
           "position": 3,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304248413,
@@ -999,7 +1180,7 @@
           "position": 4,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304281181,
@@ -1018,7 +1199,7 @@
           "position": 5,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -1088,7 +1269,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:20+01:00",
       "created_at": "2026-08-12T10:30:30+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Berry",
       "product_type": "Tops",
       "tags": [
@@ -1122,7 +1303,7 @@
           "position": 1,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303789661,
@@ -1141,7 +1322,7 @@
           "position": 2,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303822429,
@@ -1160,7 +1341,7 @@
           "position": 3,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303855197,
@@ -1179,7 +1360,7 @@
           "position": 4,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303887965,
@@ -1198,7 +1379,7 @@
           "position": 5,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -1268,7 +1449,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:19+01:00",
       "created_at": "2026-08-12T10:30:29+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -1302,7 +1483,7 @@
           "position": 1,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303625821,
@@ -1321,7 +1502,7 @@
           "position": 2,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303658589,
@@ -1340,7 +1521,7 @@
           "position": 3,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303691357,
@@ -1359,7 +1540,7 @@
           "position": 4,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897303724125,
@@ -1378,7 +1559,7 @@
           "position": 5,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -1448,7 +1629,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:18+01:00",
       "created_at": "2026-08-12T10:30:34+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Berry",
       "product_type": "Sports Bras",
       "tags": [
@@ -1481,7 +1662,7 @@
           "position": 1,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304838237,
@@ -1500,7 +1681,7 @@
           "position": 2,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304871005,
@@ -1519,7 +1700,7 @@
           "position": 3,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304903773,
@@ -1538,7 +1719,7 @@
           "position": 4,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304936541,
@@ -1557,7 +1738,7 @@
           "position": 5,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -1627,7 +1808,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:17+01:00",
       "created_at": "2026-08-12T10:30:33+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sports Bras",
       "tags": [
@@ -1660,7 +1841,7 @@
           "position": 1,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304674397,
@@ -1679,7 +1860,7 @@
           "position": 2,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304707165,
@@ -1698,7 +1879,7 @@
           "position": 3,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304739933,
@@ -1717,7 +1898,7 @@
           "position": 4,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304772701,
@@ -1736,7 +1917,7 @@
           "position": 5,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -1806,7 +1987,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:17+01:00",
       "created_at": "2026-08-12T10:30:32+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Powder Blue",
       "product_type": "Sports Bras",
       "tags": [
@@ -1839,7 +2020,7 @@
           "position": 1,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304346717,
@@ -1858,7 +2039,7 @@
           "position": 2,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304379485,
@@ -1877,7 +2058,7 @@
           "position": 3,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304412253,
@@ -1896,7 +2077,7 @@
           "position": 4,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304445021,
@@ -1915,7 +2096,7 @@
           "position": 5,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -1985,7 +2166,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:16+01:00",
       "created_at": "2026-08-12T10:30:33+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Chocolate",
       "product_type": "Sports Bras",
       "tags": [
@@ -2018,7 +2199,7 @@
           "position": 1,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304510557,
@@ -2037,7 +2218,7 @@
           "position": 2,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304543325,
@@ -2056,7 +2237,7 @@
           "position": 3,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304576093,
@@ -2075,7 +2256,7 @@
           "position": 4,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897304608861,
@@ -2094,7 +2275,7 @@
           "position": 5,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -2164,7 +2345,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:15+01:00",
       "created_at": "2026-08-12T10:30:35+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Powder Blue",
       "product_type": "Shorts",
       "tags": [
@@ -2198,7 +2379,7 @@
           "position": 1,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305165917,
@@ -2217,7 +2398,7 @@
           "position": 2,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305198685,
@@ -2236,7 +2417,7 @@
           "position": 3,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305231453,
@@ -2255,7 +2436,7 @@
           "position": 4,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305264221,
@@ -2274,7 +2455,7 @@
           "position": 5,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -2344,7 +2525,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:14+01:00",
       "created_at": "2026-08-12T10:30:35+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Charcoal",
       "product_type": "Shorts",
       "tags": [
@@ -2378,7 +2559,7 @@
           "position": 1,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305002077,
@@ -2397,7 +2578,7 @@
           "position": 2,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305034845,
@@ -2416,7 +2597,7 @@
           "position": 3,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305067613,
@@ -2435,7 +2616,7 @@
           "position": 4,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305100381,
@@ -2454,7 +2635,7 @@
           "position": 5,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -2524,7 +2705,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:13+01:00",
       "created_at": "2026-08-12T10:30:36+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Chocolate",
       "product_type": "Shorts",
       "tags": [
@@ -2558,7 +2739,7 @@
           "position": 1,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305329757,
@@ -2577,7 +2758,7 @@
           "position": 2,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305362525,
@@ -2596,7 +2777,7 @@
           "position": 3,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305395293,
@@ -2615,7 +2796,7 @@
           "position": 4,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305428061,
@@ -2634,7 +2815,7 @@
           "position": 5,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -2704,7 +2885,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:12+01:00",
       "created_at": "2026-08-12T10:30:37+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Shorts",
       "tags": [
@@ -2738,7 +2919,7 @@
           "position": 1,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305493597,
@@ -2757,7 +2938,7 @@
           "position": 2,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305526365,
@@ -2776,7 +2957,7 @@
           "position": 3,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305559133,
@@ -2795,7 +2976,7 @@
           "position": 4,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305591901,
@@ -2814,7 +2995,7 @@
           "position": 5,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -2884,7 +3065,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:11+01:00",
       "created_at": "2026-08-12T10:30:40+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Flares",
       "tags": [
@@ -2918,7 +3099,7 @@
           "position": 1,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306804317,
@@ -2937,7 +3118,7 @@
           "position": 2,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306837085,
@@ -2956,7 +3137,7 @@
           "position": 3,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306869853,
@@ -2975,7 +3156,7 @@
           "position": 4,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306902621,
@@ -2994,7 +3175,7 @@
           "position": 5,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306935389,
@@ -3013,7 +3194,7 @@
           "position": 6,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306968157,
@@ -3032,7 +3213,7 @@
           "position": 7,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307000925,
@@ -3051,7 +3232,7 @@
           "position": 8,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307033693,
@@ -3070,7 +3251,7 @@
           "position": 9,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307066461,
@@ -3082,14 +3263,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307099229,
@@ -3108,7 +3289,7 @@
           "position": 11,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307131997,
@@ -3127,7 +3308,7 @@
           "position": 12,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307164765,
@@ -3146,7 +3327,7 @@
           "position": 13,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307197533,
@@ -3165,7 +3346,7 @@
           "position": 14,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307230301,
@@ -3184,7 +3365,7 @@
           "position": 15,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -3263,7 +3444,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:11+01:00",
       "created_at": "2026-08-12T10:30:39+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Chocolate",
       "product_type": "Flares",
       "tags": [
@@ -3298,7 +3479,7 @@
           "position": 1,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306312797,
@@ -3317,7 +3498,7 @@
           "position": 2,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306345565,
@@ -3336,7 +3517,7 @@
           "position": 3,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306378333,
@@ -3355,7 +3536,7 @@
           "position": 4,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306411101,
@@ -3374,7 +3555,7 @@
           "position": 5,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306443869,
@@ -3393,7 +3574,7 @@
           "position": 6,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306476637,
@@ -3412,7 +3593,7 @@
           "position": 7,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306509405,
@@ -3431,7 +3612,7 @@
           "position": 8,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306542173,
@@ -3450,7 +3631,7 @@
           "position": 9,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306574941,
@@ -3469,7 +3650,7 @@
           "position": 10,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306607709,
@@ -3488,7 +3669,7 @@
           "position": 11,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306640477,
@@ -3507,7 +3688,7 @@
           "position": 12,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306673245,
@@ -3526,7 +3707,7 @@
           "position": 13,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306706013,
@@ -3545,7 +3726,7 @@
           "position": 14,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306738781,
@@ -3564,7 +3745,7 @@
           "position": 15,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -3643,7 +3824,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:10+01:00",
       "created_at": "2026-08-12T10:30:38+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Berry",
       "product_type": "Shorts",
       "tags": [
@@ -3677,7 +3858,7 @@
           "position": 1,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305657437,
@@ -3696,7 +3877,7 @@
           "position": 2,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305690205,
@@ -3715,7 +3896,7 @@
           "position": 3,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305722973,
@@ -3734,7 +3915,7 @@
           "position": 4,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305755741,
@@ -3753,7 +3934,7 @@
           "position": 5,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -3823,7 +4004,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:09+01:00",
       "created_at": "2026-08-12T10:30:38+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Charcoal",
       "product_type": "Flares",
       "tags": [
@@ -3835,6 +4016,7 @@
         "JMR::Dynamic Flares | V-Back",
         "New Releases",
         "Pants & Leggings",
+        "restock recent",
         "SAPG::Dynamic Flares | V-Back ::Charcoal",
         "Womens",
         "Womenswear"
@@ -3857,7 +4039,7 @@
           "position": 1,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305821277,
@@ -3876,7 +4058,7 @@
           "position": 2,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305854045,
@@ -3895,7 +4077,7 @@
           "position": 3,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305886813,
@@ -3914,7 +4096,7 @@
           "position": 4,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305919581,
@@ -3933,7 +4115,7 @@
           "position": 5,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305952349,
@@ -3952,7 +4134,7 @@
           "position": 6,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897305985117,
@@ -3971,7 +4153,7 @@
           "position": 7,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306017885,
@@ -3990,7 +4172,7 @@
           "position": 8,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306050653,
@@ -4009,7 +4191,7 @@
           "position": 9,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306083421,
@@ -4028,7 +4210,7 @@
           "position": 10,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306116189,
@@ -4047,7 +4229,7 @@
           "position": 11,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306148957,
@@ -4066,7 +4248,7 @@
           "position": 12,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306181725,
@@ -4085,7 +4267,7 @@
           "position": 13,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306214493,
@@ -4104,7 +4286,7 @@
           "position": 14,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897306247261,
@@ -4123,7 +4305,7 @@
           "position": 15,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -4202,7 +4384,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:08+01:00",
       "created_at": "2026-08-12T10:30:44+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Powder Blue",
       "product_type": "Sports Bras",
       "tags": [
@@ -4235,7 +4417,7 @@
           "position": 1,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308672093,
@@ -4254,7 +4436,7 @@
           "position": 2,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308704861,
@@ -4273,7 +4455,7 @@
           "position": 3,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308737629,
@@ -4292,7 +4474,7 @@
           "position": 4,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308770397,
@@ -4311,7 +4493,7 @@
           "position": 5,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -4370,7 +4552,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:07+01:00",
       "created_at": "2026-08-12T10:30:41+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Berry",
       "product_type": "Flares",
       "tags": [
@@ -4404,7 +4586,7 @@
           "position": 1,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307295837,
@@ -4423,7 +4605,7 @@
           "position": 2,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307328605,
@@ -4442,7 +4624,7 @@
           "position": 3,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307361373,
@@ -4461,7 +4643,7 @@
           "position": 4,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307394141,
@@ -4480,7 +4662,7 @@
           "position": 5,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307426909,
@@ -4499,7 +4681,7 @@
           "position": 6,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307459677,
@@ -4518,7 +4700,7 @@
           "position": 7,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307492445,
@@ -4537,7 +4719,7 @@
           "position": 8,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307525213,
@@ -4556,7 +4738,7 @@
           "position": 9,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307557981,
@@ -4575,7 +4757,7 @@
           "position": 10,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307590749,
@@ -4594,7 +4776,7 @@
           "position": 11,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307623517,
@@ -4613,7 +4795,7 @@
           "position": 12,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307656285,
@@ -4632,7 +4814,7 @@
           "position": 13,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307689053,
@@ -4651,7 +4833,7 @@
           "position": 14,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307721821,
@@ -4670,7 +4852,7 @@
           "position": 15,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -4749,7 +4931,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:14+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Truffle",
       "product_type": "Tops",
       "tags": [
@@ -4783,7 +4965,7 @@
           "position": 1,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741835869,
@@ -4802,7 +4984,7 @@
           "position": 2,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741868637,
@@ -4821,7 +5003,7 @@
           "position": 3,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741901405,
@@ -4840,7 +5022,7 @@
           "position": 4,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741934173,
@@ -4859,7 +5041,7 @@
           "position": 5,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -4929,7 +5111,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:13+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Navy",
       "product_type": "Tops",
       "tags": [
@@ -4963,7 +5145,7 @@
           "position": 1,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741639261,
@@ -4982,7 +5164,7 @@
           "position": 2,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741672029,
@@ -5001,7 +5183,7 @@
           "position": 3,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741704797,
@@ -5020,7 +5202,7 @@
           "position": 4,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741737565,
@@ -5039,7 +5221,7 @@
           "position": 5,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -5109,7 +5291,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:12+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Grey Marl",
       "product_type": "Tops",
       "tags": [
@@ -5143,7 +5325,7 @@
           "position": 1,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741442653,
@@ -5162,7 +5344,7 @@
           "position": 2,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741475421,
@@ -5181,7 +5363,7 @@
           "position": 3,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741508189,
@@ -5200,7 +5382,7 @@
           "position": 4,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741540957,
@@ -5219,7 +5401,7 @@
           "position": 5,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -5289,7 +5471,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:11+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -5323,7 +5505,7 @@
           "position": 1,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741246045,
@@ -5342,7 +5524,7 @@
           "position": 2,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741278813,
@@ -5361,7 +5543,7 @@
           "position": 3,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741311581,
@@ -5380,7 +5562,7 @@
           "position": 4,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44902741344349,
@@ -5399,7 +5581,7 @@
           "position": 5,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -5469,7 +5651,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-12T10:30:42+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Powder Blue",
       "product_type": "Tops",
       "tags": [
@@ -5503,7 +5685,7 @@
           "position": 1,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308344413,
@@ -5522,7 +5704,7 @@
           "position": 2,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308377181,
@@ -5541,7 +5723,7 @@
           "position": 3,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308409949,
@@ -5560,7 +5742,7 @@
           "position": 4,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308442717,
@@ -5579,7 +5761,7 @@
           "position": 5,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -5649,7 +5831,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:05+01:00",
       "created_at": "2026-08-12T10:30:48+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Berry",
       "product_type": "Leggings",
       "tags": [
@@ -5684,7 +5866,7 @@
           "position": 1,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310539869,
@@ -5703,7 +5885,7 @@
           "position": 2,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310572637,
@@ -5722,7 +5904,7 @@
           "position": 3,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310605405,
@@ -5741,7 +5923,7 @@
           "position": 4,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310638173,
@@ -5760,7 +5942,7 @@
           "position": 5,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310670941,
@@ -5779,7 +5961,7 @@
           "position": 6,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310703709,
@@ -5798,7 +5980,7 @@
           "position": 7,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310736477,
@@ -5817,7 +5999,7 @@
           "position": 8,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310769245,
@@ -5829,14 +6011,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310802013,
@@ -5855,7 +6037,7 @@
           "position": 10,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310834781,
@@ -5867,14 +6049,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310867549,
@@ -5893,7 +6075,7 @@
           "position": 12,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310900317,
@@ -5912,7 +6094,7 @@
           "position": 13,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310933085,
@@ -5931,7 +6113,7 @@
           "position": 14,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310965853,
@@ -5950,7 +6132,7 @@
           "position": 15,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -6029,7 +6211,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:05+01:00",
       "created_at": "2026-08-12T10:30:42+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Powder Blue",
       "product_type": "Flares",
       "tags": [
@@ -6041,6 +6223,7 @@
         "New Releases",
         "Pants & Leggings",
         "Powder Blue",
+        "restock recent",
         "SAPG::Dynamic Flares | V-Back ::Powder Blue",
         "Womens",
         "Womenswear"
@@ -6063,7 +6246,7 @@
           "position": 1,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307820125,
@@ -6082,7 +6265,7 @@
           "position": 2,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307852893,
@@ -6101,7 +6284,7 @@
           "position": 3,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307885661,
@@ -6120,7 +6303,7 @@
           "position": 4,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307918429,
@@ -6139,7 +6322,7 @@
           "position": 5,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307951197,
@@ -6158,7 +6341,7 @@
           "position": 6,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897307983965,
@@ -6177,7 +6360,7 @@
           "position": 7,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308016733,
@@ -6196,7 +6379,7 @@
           "position": 8,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308049501,
@@ -6215,7 +6398,7 @@
           "position": 9,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308082269,
@@ -6234,7 +6417,7 @@
           "position": 10,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308115037,
@@ -6253,7 +6436,7 @@
           "position": 11,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308147805,
@@ -6272,7 +6455,7 @@
           "position": 12,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308180573,
@@ -6291,7 +6474,7 @@
           "position": 13,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308213341,
@@ -6310,7 +6493,7 @@
           "position": 14,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897308246109,
@@ -6329,7 +6512,7 @@
           "position": 15,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -6408,7 +6591,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:04+01:00",
       "created_at": "2026-08-25T10:39:35+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Truffle",
       "product_type": "Sweatshirts",
       "tags": [
@@ -6417,7 +6600,6 @@
         "Hoodies & Sweatshirts",
         "JMR::Revive Graphic Sweatshirt",
         "New Releases",
-        "restock recent",
         "Revive",
         "SAPG::Revive Graphic Sweatshirt::Truffle",
         "Sweatshirts",
@@ -6443,7 +6625,7 @@
           "position": 1,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323627613,
@@ -6462,7 +6644,7 @@
           "position": 2,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323660381,
@@ -6481,7 +6663,7 @@
           "position": 3,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323693149,
@@ -6500,7 +6682,7 @@
           "position": 4,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323725917,
@@ -6519,7 +6701,7 @@
           "position": 5,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -6589,7 +6771,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:04+01:00",
       "created_at": "2026-08-25T10:39:34+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Navy",
       "product_type": "Sweatshirts",
       "tags": [
@@ -6623,7 +6805,7 @@
           "position": 1,
           "product_id": 8211296321629,
           "created_at": "2026-08-25T10:39:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323463773,
@@ -6642,7 +6824,7 @@
           "position": 2,
           "product_id": 8211296321629,
           "created_at": "2026-08-25T10:39:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323496541,
@@ -6661,7 +6843,7 @@
           "position": 3,
           "product_id": 8211296321629,
           "created_at": "2026-08-25T10:39:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323529309,
@@ -6680,7 +6862,7 @@
           "position": 4,
           "product_id": 8211296321629,
           "created_at": "2026-08-25T10:39:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323562077,
@@ -6699,7 +6881,7 @@
           "position": 5,
           "product_id": 8211296321629,
           "created_at": "2026-08-25T10:39:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -6769,7 +6951,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:04+01:00",
       "created_at": "2026-08-25T10:39:33+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Grey Marl",
       "product_type": "Sweatshirts",
       "tags": [
@@ -6803,7 +6985,7 @@
           "position": 1,
           "product_id": 8211296288861,
           "created_at": "2026-08-25T10:39:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323299933,
@@ -6822,7 +7004,7 @@
           "position": 2,
           "product_id": 8211296288861,
           "created_at": "2026-08-25T10:39:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323332701,
@@ -6841,7 +7023,7 @@
           "position": 3,
           "product_id": 8211296288861,
           "created_at": "2026-08-25T10:39:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323365469,
@@ -6860,7 +7042,7 @@
           "position": 4,
           "product_id": 8211296288861,
           "created_at": "2026-08-25T10:39:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323398237,
@@ -6879,7 +7061,7 @@
           "position": 5,
           "product_id": 8211296288861,
           "created_at": "2026-08-25T10:39:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -6949,7 +7131,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:04+01:00",
       "created_at": "2026-08-25T10:39:32+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sweatshirts",
       "tags": [
@@ -6983,7 +7165,7 @@
           "position": 1,
           "product_id": 8211296256093,
           "created_at": "2026-08-25T10:39:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323136093,
@@ -7002,7 +7184,7 @@
           "position": 2,
           "product_id": 8211296256093,
           "created_at": "2026-08-25T10:39:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323168861,
@@ -7021,7 +7203,7 @@
           "position": 3,
           "product_id": 8211296256093,
           "created_at": "2026-08-25T10:39:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323201629,
@@ -7040,7 +7222,7 @@
           "position": 4,
           "product_id": 8211296256093,
           "created_at": "2026-08-25T10:39:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44943323234397,
@@ -7059,7 +7241,7 @@
           "position": 5,
           "product_id": 8211296256093,
           "created_at": "2026-08-25T10:39:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -7129,7 +7311,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:04+01:00",
       "created_at": "2026-08-12T10:30:45+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Charcoal",
       "product_type": "Leggings",
       "tags": [
@@ -7163,7 +7345,7 @@
           "position": 1,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309065309,
@@ -7182,7 +7364,7 @@
           "position": 2,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309098077,
@@ -7201,7 +7383,7 @@
           "position": 3,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309130845,
@@ -7220,7 +7402,7 @@
           "position": 4,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309163613,
@@ -7239,7 +7421,7 @@
           "position": 5,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309196381,
@@ -7258,7 +7440,7 @@
           "position": 6,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309229149,
@@ -7277,7 +7459,7 @@
           "position": 7,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309261917,
@@ -7296,7 +7478,7 @@
           "position": 8,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309294685,
@@ -7315,7 +7497,7 @@
           "position": 9,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309327453,
@@ -7334,7 +7516,7 @@
           "position": 10,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309360221,
@@ -7346,14 +7528,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309392989,
@@ -7372,7 +7554,7 @@
           "position": 12,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309425757,
@@ -7391,7 +7573,7 @@
           "position": 13,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309458525,
@@ -7410,7 +7592,7 @@
           "position": 14,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309491293,
@@ -7429,7 +7611,7 @@
           "position": 15,
           "product_id": 8201331966045,
           "created_at": "2026-08-12T10:30:45+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -7508,7 +7690,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:03+01:00",
       "created_at": "2026-08-12T10:30:46+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Chocolate",
       "product_type": "Leggings",
       "tags": [
@@ -7542,7 +7724,7 @@
           "position": 1,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309556829,
@@ -7561,7 +7743,7 @@
           "position": 2,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309589597,
@@ -7580,7 +7762,7 @@
           "position": 3,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309622365,
@@ -7599,7 +7781,7 @@
           "position": 4,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309655133,
@@ -7618,7 +7800,7 @@
           "position": 5,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309687901,
@@ -7637,7 +7819,7 @@
           "position": 6,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309720669,
@@ -7656,7 +7838,7 @@
           "position": 7,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309753437,
@@ -7675,7 +7857,7 @@
           "position": 8,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309786205,
@@ -7694,7 +7876,7 @@
           "position": 9,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309818973,
@@ -7713,7 +7895,7 @@
           "position": 10,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309851741,
@@ -7725,14 +7907,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309884509,
@@ -7751,7 +7933,7 @@
           "position": 12,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309917277,
@@ -7770,7 +7952,7 @@
           "position": 13,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309950045,
@@ -7789,7 +7971,7 @@
           "position": 14,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897309982813,
@@ -7808,7 +7990,7 @@
           "position": 15,
           "product_id": 8201331998813,
           "created_at": "2026-08-12T10:30:46+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -7887,7 +8069,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:02+01:00",
       "created_at": "2026-08-12T10:30:47+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Leggings",
       "tags": [
@@ -7921,7 +8103,7 @@
           "position": 1,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310048349,
@@ -7940,7 +8122,7 @@
           "position": 2,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310081117,
@@ -7959,7 +8141,7 @@
           "position": 3,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310113885,
@@ -7978,7 +8160,7 @@
           "position": 4,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310146653,
@@ -7997,7 +8179,7 @@
           "position": 5,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310179421,
@@ -8016,7 +8198,7 @@
           "position": 6,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310212189,
@@ -8035,7 +8217,7 @@
           "position": 7,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310244957,
@@ -8054,7 +8236,7 @@
           "position": 8,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310277725,
@@ -8073,7 +8255,7 @@
           "position": 9,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310310493,
@@ -8092,7 +8274,7 @@
           "position": 10,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310343261,
@@ -8104,14 +8286,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310376029,
@@ -8130,7 +8312,7 @@
           "position": 12,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310408797,
@@ -8149,7 +8331,7 @@
           "position": 13,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310441565,
@@ -8168,7 +8350,7 @@
           "position": 14,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44897310474333,
@@ -8187,7 +8369,7 @@
           "position": 15,
           "product_id": 8201332031581,
           "created_at": "2026-08-12T10:30:47+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -8266,7 +8448,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:41:05+01:00",
       "created_at": "2026-09-01T14:31:34+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Espresso",
       "product_type": "Shorts",
       "tags": [
@@ -8275,7 +8457,6 @@
         "Impact",
         "JMR::Impact Shorts | 4.5\"",
         "New Releases",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Espresso",
         "Shorts",
         "Shorts 4.5\"",
@@ -8300,7 +8481,7 @@
           "position": 1,
           "product_id": 8221576233053,
           "created_at": "2026-09-01T14:31:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563388509,
@@ -8319,7 +8500,7 @@
           "position": 2,
           "product_id": 8221576233053,
           "created_at": "2026-09-01T14:31:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563421277,
@@ -8338,7 +8519,7 @@
           "position": 3,
           "product_id": 8221576233053,
           "created_at": "2026-09-01T14:31:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563454045,
@@ -8357,7 +8538,7 @@
           "position": 4,
           "product_id": 8221576233053,
           "created_at": "2026-09-01T14:31:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563486813,
@@ -8376,7 +8557,7 @@
           "position": 5,
           "product_id": 8221576233053,
           "created_at": "2026-09-01T14:31:34+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -8446,7 +8627,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:41:03+01:00",
       "created_at": "2026-09-01T14:31:31+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Blossom",
       "product_type": "Shorts",
       "tags": [
@@ -8455,7 +8636,6 @@
         "JMR::Impact Shorts | 4.5\"",
         "New Releases",
         "Pink",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Blossom",
         "Shorts",
         "Shorts 4.5\"",
@@ -8480,7 +8660,7 @@
           "position": 1,
           "product_id": 8221576003677,
           "created_at": "2026-09-01T14:31:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976562765917,
@@ -8499,7 +8679,7 @@
           "position": 2,
           "product_id": 8221576003677,
           "created_at": "2026-09-01T14:31:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976562798685,
@@ -8518,7 +8698,7 @@
           "position": 3,
           "product_id": 8221576003677,
           "created_at": "2026-09-01T14:31:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976562831453,
@@ -8537,7 +8717,7 @@
           "position": 4,
           "product_id": 8221576003677,
           "created_at": "2026-09-01T14:31:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976562864221,
@@ -8556,7 +8736,7 @@
           "position": 5,
           "product_id": 8221576003677,
           "created_at": "2026-09-01T14:31:31+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -8626,7 +8806,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:41:02+01:00",
       "created_at": "2026-09-01T14:31:33+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Electric Blue",
       "product_type": "Shorts",
       "tags": [
@@ -8635,7 +8815,6 @@
         "Impact",
         "JMR::Impact Shorts | 4.5\"",
         "New Releases",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Electric Blue",
         "Shorts",
         "Shorts 4.5\"",
@@ -8660,7 +8839,7 @@
           "position": 1,
           "product_id": 8221576101981,
           "created_at": "2026-09-01T14:31:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563159133,
@@ -8679,7 +8858,7 @@
           "position": 2,
           "product_id": 8221576101981,
           "created_at": "2026-09-01T14:31:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563191901,
@@ -8698,7 +8877,7 @@
           "position": 3,
           "product_id": 8221576101981,
           "created_at": "2026-09-01T14:31:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563224669,
@@ -8717,7 +8896,7 @@
           "position": 4,
           "product_id": 8221576101981,
           "created_at": "2026-09-01T14:31:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563257437,
@@ -8736,7 +8915,7 @@
           "position": 5,
           "product_id": 8221576101981,
           "created_at": "2026-09-01T14:31:33+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -8806,7 +8985,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:41:02+01:00",
       "created_at": "2026-09-01T14:31:32+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Copper",
       "product_type": "Shorts",
       "tags": [
@@ -8815,7 +8994,6 @@
         "JMR::Impact Shorts | 4.5\"",
         "New Releases",
         "Orange",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Copper",
         "Shorts",
         "Shorts 4.5\"",
@@ -8840,7 +9018,7 @@
           "position": 1,
           "product_id": 8221576069213,
           "created_at": "2026-09-01T14:31:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976562962525,
@@ -8859,7 +9037,7 @@
           "position": 2,
           "product_id": 8221576069213,
           "created_at": "2026-09-01T14:31:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976562995293,
@@ -8878,7 +9056,7 @@
           "position": 3,
           "product_id": 8221576069213,
           "created_at": "2026-09-01T14:31:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563028061,
@@ -8897,7 +9075,7 @@
           "position": 4,
           "product_id": 8221576069213,
           "created_at": "2026-09-01T14:31:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563060829,
@@ -8916,7 +9094,7 @@
           "position": 5,
           "product_id": 8221576069213,
           "created_at": "2026-09-01T14:31:32+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -8986,7 +9164,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:40:59+01:00",
       "created_at": "2026-09-01T14:31:39+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Shorts",
       "tags": [
@@ -8995,7 +9173,6 @@
         "JMR::Impact Shorts | 4.5\"",
         "Midnight Black",
         "New Releases",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Midnight Black",
         "Shorts",
         "Shorts 4.5\"",
@@ -9020,7 +9197,7 @@
           "position": 1,
           "product_id": 8221576560733,
           "created_at": "2026-09-01T14:31:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564338781,
@@ -9039,7 +9216,7 @@
           "position": 2,
           "product_id": 8221576560733,
           "created_at": "2026-09-01T14:31:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564371549,
@@ -9058,7 +9235,7 @@
           "position": 3,
           "product_id": 8221576560733,
           "created_at": "2026-09-01T14:31:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564404317,
@@ -9077,7 +9254,7 @@
           "position": 4,
           "product_id": 8221576560733,
           "created_at": "2026-09-01T14:31:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564437085,
@@ -9096,7 +9273,7 @@
           "position": 5,
           "product_id": 8221576560733,
           "created_at": "2026-09-01T14:31:39+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -9166,7 +9343,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:40:59+01:00",
       "created_at": "2026-09-01T14:31:38+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Lunar Rock",
       "product_type": "Shorts",
       "tags": [
@@ -9175,7 +9352,6 @@
         "JMR::Impact Shorts | 4.5\"",
         "Lunar Rock",
         "New Releases",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Lunar Rock",
         "Shorts",
         "Shorts 4.5\"",
@@ -9200,7 +9376,7 @@
           "position": 1,
           "product_id": 8221576495197,
           "created_at": "2026-09-01T14:31:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564076637,
@@ -9219,7 +9395,7 @@
           "position": 2,
           "product_id": 8221576495197,
           "created_at": "2026-09-01T14:31:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564109405,
@@ -9238,7 +9414,7 @@
           "position": 3,
           "product_id": 8221576495197,
           "created_at": "2026-09-01T14:31:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564142173,
@@ -9257,7 +9433,7 @@
           "position": 4,
           "product_id": 8221576495197,
           "created_at": "2026-09-01T14:31:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564174941,
@@ -9276,7 +9452,7 @@
           "position": 5,
           "product_id": 8221576495197,
           "created_at": "2026-09-01T14:31:38+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -9346,7 +9522,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:40:59+01:00",
       "created_at": "2026-09-01T14:31:37+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Light Rose Pink",
       "product_type": "Shorts",
       "tags": [
@@ -9355,7 +9531,6 @@
         "Light Rose Pink",
         "New Releases",
         "Pink",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Light Rose Pink",
         "Shorts",
         "Shorts 4.5\"",
@@ -9380,7 +9555,7 @@
           "position": 1,
           "product_id": 8221576429661,
           "created_at": "2026-09-01T14:31:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563880029,
@@ -9399,7 +9574,7 @@
           "position": 2,
           "product_id": 8221576429661,
           "created_at": "2026-09-01T14:31:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563912797,
@@ -9418,7 +9593,7 @@
           "position": 3,
           "product_id": 8221576429661,
           "created_at": "2026-09-01T14:31:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563945565,
@@ -9437,7 +9612,7 @@
           "position": 4,
           "product_id": 8221576429661,
           "created_at": "2026-09-01T14:31:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563978333,
@@ -9456,7 +9631,7 @@
           "position": 5,
           "product_id": 8221576429661,
           "created_at": "2026-09-01T14:31:37+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -9526,7 +9701,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:40:59+01:00",
       "created_at": "2026-09-01T14:31:35+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Ice Blue",
       "product_type": "Shorts",
       "tags": [
@@ -9535,7 +9710,6 @@
         "Impact",
         "JMR::Impact Shorts | 4.5\"",
         "New Releases",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Ice Blue",
         "Shorts",
         "Shorts 4.5\"",
@@ -9560,7 +9734,7 @@
           "position": 1,
           "product_id": 8221576265821,
           "created_at": "2026-09-01T14:31:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563585117,
@@ -9579,7 +9753,7 @@
           "position": 2,
           "product_id": 8221576265821,
           "created_at": "2026-09-01T14:31:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563617885,
@@ -9598,7 +9772,7 @@
           "position": 3,
           "product_id": 8221576265821,
           "created_at": "2026-09-01T14:31:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563650653,
@@ -9617,7 +9791,7 @@
           "position": 4,
           "product_id": 8221576265821,
           "created_at": "2026-09-01T14:31:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976563683421,
@@ -9636,7 +9810,7 @@
           "position": 5,
           "product_id": 8221576265821,
           "created_at": "2026-09-01T14:31:35+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -9706,7 +9880,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:40:56+01:00",
       "created_at": "2026-09-01T14:31:43+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Winter Berry",
       "product_type": "Shorts",
       "tags": [
@@ -9714,7 +9888,6 @@
         "JMR::Impact Shorts | 4.5\"",
         "New Releases",
         "Red",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Winter Berry",
         "Shorts",
         "Shorts 4.5\"",
@@ -9740,7 +9913,7 @@
           "position": 1,
           "product_id": 8221576790109,
           "created_at": "2026-09-01T14:31:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976565092445,
@@ -9759,7 +9932,7 @@
           "position": 2,
           "product_id": 8221576790109,
           "created_at": "2026-09-01T14:31:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976565125213,
@@ -9778,7 +9951,7 @@
           "position": 3,
           "product_id": 8221576790109,
           "created_at": "2026-09-01T14:31:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976565157981,
@@ -9797,7 +9970,7 @@
           "position": 4,
           "product_id": 8221576790109,
           "created_at": "2026-09-01T14:31:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976565190749,
@@ -9816,7 +9989,7 @@
           "position": 5,
           "product_id": 8221576790109,
           "created_at": "2026-09-01T14:31:43+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -9886,7 +10059,7 @@
       "body_html": "<p>Impact Collection</p>",
       "published_at": "2026-09-08T13:40:56+01:00",
       "created_at": "2026-09-01T14:31:40+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Pine",
       "product_type": "Shorts",
       "tags": [
@@ -9895,7 +10068,6 @@
         "JMR::Impact Shorts | 4.5\"",
         "New Releases",
         "Pine",
-        "restock recent",
         "SAPG::Impact Shorts | 4.5\"::Pine",
         "Shorts",
         "Shorts 4.5\"",
@@ -9920,7 +10092,7 @@
           "position": 1,
           "product_id": 8221576593501,
           "created_at": "2026-09-01T14:31:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564502621,
@@ -9939,7 +10111,7 @@
           "position": 2,
           "product_id": 8221576593501,
           "created_at": "2026-09-01T14:31:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564535389,
@@ -9958,7 +10130,7 @@
           "position": 3,
           "product_id": 8221576593501,
           "created_at": "2026-09-01T14:31:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564568157,
@@ -9977,7 +10149,7 @@
           "position": 4,
           "product_id": 8221576593501,
           "created_at": "2026-09-01T14:31:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 44976564600925,
@@ -9996,7 +10168,7 @@
           "position": 5,
           "product_id": 8221576593501,
           "created_at": "2026-09-01T14:31:40+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -10066,7 +10238,7 @@
       "body_html": "<p>Step into your main character energy with the Hannah Pearson Flares. Our first ever flares, made with a buttery soft fabric featuring a curved back waistband for subtly contouring the glutes. Pair with the rest of the Hannah Pearson Edit for the it girl gym fit.</p>",
       "published_at": "2026-09-07T11:03:36+01:00",
       "created_at": "2025-07-23T12:47:20+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Midnight Black",
       "product_type": "Flares",
       "tags": [
@@ -10103,7 +10275,7 @@
           "position": 1,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938924637,
@@ -10122,7 +10294,7 @@
           "position": 2,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938957405,
@@ -10141,7 +10313,7 @@
           "position": 3,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938990173,
@@ -10160,7 +10332,7 @@
           "position": 4,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939022941,
@@ -10179,7 +10351,7 @@
           "position": 5,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939055709,
@@ -10198,7 +10370,7 @@
           "position": 6,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939088477,
@@ -10217,7 +10389,7 @@
           "position": 7,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939121245,
@@ -10229,14 +10401,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "72.50",
           "grams": 250,
           "compare_at_price": null,
           "position": 8,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939154013,
@@ -10255,7 +10427,7 @@
           "position": 9,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939186781,
@@ -10274,7 +10446,7 @@
           "position": 10,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939219549,
@@ -10293,7 +10465,7 @@
           "position": 11,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543939252317,
@@ -10312,7 +10484,7 @@
           "position": 12,
           "product_id": 7942732513373,
           "created_at": "2025-07-23T12:47:20+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -10380,7 +10552,7 @@
       "body_html": "<p>Step into your main character energy with the Hannah Pearson Flares. Our first ever flares, made with a buttery soft fabric featuring a curved back waistband for subtly contouring the glutes. Pair with the rest of the Hannah Pearson Edit for the it girl gym fit.</p>",
       "published_at": "2026-09-07T11:03:34+01:00",
       "created_at": "2025-07-23T12:47:18+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Oat",
       "product_type": "Flares",
       "tags": [
@@ -10417,7 +10589,7 @@
           "position": 1,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938531421,
@@ -10436,7 +10608,7 @@
           "position": 2,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938564189,
@@ -10455,7 +10627,7 @@
           "position": 3,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938596957,
@@ -10474,7 +10646,7 @@
           "position": 4,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938629725,
@@ -10493,7 +10665,7 @@
           "position": 5,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938662493,
@@ -10512,7 +10684,7 @@
           "position": 6,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938695261,
@@ -10531,7 +10703,7 @@
           "position": 7,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938728029,
@@ -10550,7 +10722,7 @@
           "position": 8,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938760797,
@@ -10569,7 +10741,7 @@
           "position": 9,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938793565,
@@ -10588,7 +10760,7 @@
           "position": 10,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938826333,
@@ -10607,7 +10779,7 @@
           "position": 11,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938859101,
@@ -10626,7 +10798,7 @@
           "position": 12,
           "product_id": 7942732480605,
           "created_at": "2025-07-23T12:47:19+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -10694,7 +10866,7 @@
       "body_html": "<p>Step into your main character energy with the Hannah Pearson Flares. Our first ever flares, made with a buttery soft fabric featuring a curved back waistband for subtly contouring the glutes. Pair with the rest of the Hannah Pearson Edit for the it girl gym fit.</p>",
       "published_at": "2026-09-07T11:03:32+01:00",
       "created_at": "2025-07-23T12:47:17+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
+      "updated_at": "2026-09-23T08:20:34+01:00",
       "vendor": "Chestnut",
       "product_type": "Flares",
       "tags": [
@@ -10731,7 +10903,7 @@
           "position": 1,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938138205,
@@ -10750,7 +10922,7 @@
           "position": 2,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938170973,
@@ -10769,7 +10941,7 @@
           "position": 3,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938203741,
@@ -10788,7 +10960,7 @@
           "position": 4,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938236509,
@@ -10807,7 +10979,7 @@
           "position": 5,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938269277,
@@ -10826,7 +10998,7 @@
           "position": 6,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938302045,
@@ -10845,7 +11017,7 @@
           "position": 7,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938334813,
@@ -10864,7 +11036,7 @@
           "position": 8,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938367581,
@@ -10883,7 +11055,7 @@
           "position": 9,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938400349,
@@ -10902,7 +11074,7 @@
           "position": 10,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938433117,
@@ -10921,7 +11093,7 @@
           "position": 11,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         },
         {
           "id": 43543938465885,
@@ -10940,7 +11112,7 @@
           "position": 12,
           "product_id": 7942732447837,
           "created_at": "2025-07-23T12:47:18+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
+          "updated_at": "2026-09-23T08:20:34+01:00"
         }
       ],
       "images": [
@@ -10997,178 +11169,6 @@
           "values": [
             "Regular",
             "Tall"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7942732415069,
-      "title": "Hannah Pearson Leggings",
-      "handle": "dfyne-hannah-pearson-edit-pink-leggings-250301",
-      "body_html": "<p>Step into your main character energy with the Hannah Pearson Leggings. The soft, seamless fabric is designed to sculpt the legs and contour the glutes, whilst the mid-rise ribbed waistband provides the perfect amount of support. Pair with the rest of the Hannah Pearson Edit for the it girl gym fit.</p>",
-      "published_at": "2026-09-07T11:03:31+01:00",
-      "created_at": "2025-07-23T12:47:16+01:00",
-      "updated_at": "2026-09-22T08:17:24+01:00",
-      "vendor": "Quartz",
-      "product_type": "Leggings",
-      "tags": [
-        "_label_Limited<br>Edition",
-        "_label_NEW",
-        "Hannah Pearson Edit",
-        "JMR::Hannah Pearson Leggings",
-        "JMR::Hannah Pearson Leggings New",
-        "Leggings",
-        "New Releases",
-        "Pants & Leggings",
-        "Pink",
-        "Quartz",
-        "SAPG::Hannah Pearson Leggings::Quartz",
-        "Seamless",
-        "Womens",
-        "Womenswear"
-      ],
-      "variants": [
-        {
-          "id": 43543937941597,
-          "title": "XS",
-          "option1": "XS",
-          "option2": null,
-          "option3": null,
-          "sku": "250301-23-07-080102-13",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "64.00",
-          "grams": 250,
-          "compare_at_price": null,
-          "position": 1,
-          "product_id": 7942732415069,
-          "created_at": "2025-07-23T12:47:17+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
-        },
-        {
-          "id": 43543937974365,
-          "title": "S",
-          "option1": "S",
-          "option2": null,
-          "option3": null,
-          "sku": "250301-23-07-080102-14",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "64.00",
-          "grams": 250,
-          "compare_at_price": null,
-          "position": 2,
-          "product_id": 7942732415069,
-          "created_at": "2025-07-23T12:47:17+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
-        },
-        {
-          "id": 43543938007133,
-          "title": "M",
-          "option1": "M",
-          "option2": null,
-          "option3": null,
-          "sku": "250301-23-07-080102-15",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "64.00",
-          "grams": 250,
-          "compare_at_price": null,
-          "position": 3,
-          "product_id": 7942732415069,
-          "created_at": "2025-07-23T12:47:17+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
-        },
-        {
-          "id": 43543938039901,
-          "title": "L",
-          "option1": "L",
-          "option2": null,
-          "option3": null,
-          "sku": "250301-23-07-080102-16",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "64.00",
-          "grams": 250,
-          "compare_at_price": null,
-          "position": 4,
-          "product_id": 7942732415069,
-          "created_at": "2025-07-23T12:47:17+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
-        },
-        {
-          "id": 43543938072669,
-          "title": "XL",
-          "option1": "XL",
-          "option2": null,
-          "option3": null,
-          "sku": "250301-23-07-080102-17",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": null,
-          "available": true,
-          "price": "64.00",
-          "grams": 250,
-          "compare_at_price": null,
-          "position": 5,
-          "product_id": 7942732415069,
-          "created_at": "2025-07-23T12:47:17+01:00",
-          "updated_at": "2026-09-22T08:17:24+01:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 42184347189341,
-          "created_at": "2026-08-30T19:44:10+01:00",
-          "position": 1,
-          "updated_at": "2026-08-30T19:44:12+01:00",
-          "product_id": 7942732415069,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/3004/1240/files/LEGGINGSQUARTZ1IMG_0339-Edit_0c4faf00-33ab-482e-a16e-bfc262e4a654.jpg?v=1788115452",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 42184347222109,
-          "created_at": "2026-08-30T19:44:10+01:00",
-          "position": 2,
-          "updated_at": "2026-08-30T19:44:13+01:00",
-          "product_id": 7942732415069,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/3004/1240/files/LEGGINGSQUARTZ3IMG_0367-Edit.jpg?v=1788115453",
-          "width": 2500,
-          "height": 2500
-        },
-        {
-          "id": 42184347254877,
-          "created_at": "2026-08-30T19:44:10+01:00",
-          "position": 3,
-          "updated_at": "2026-08-30T19:44:13+01:00",
-          "product_id": 7942732415069,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/3004/1240/files/LEGGINGSQUARTZ2IMG_0347-Edit.jpg?v=1788115453",
-          "width": 2500,
-          "height": 2500
-        }
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "position": 1,
-          "values": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
           ]
         }
       ]
