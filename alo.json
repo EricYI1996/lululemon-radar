@@ -1,8 +1,588 @@
 {
-  "fetchedAt": "2026-10-09T08:28:41.710927+00:00",
+  "fetchedAt": "2026-10-09T12:34:03.346920+00:00",
   "source": "https://www.aloyoga.com/products.json?limit=50",
   "count": 50,
   "products": [
+    {
+      "id": 9092914250087,
+      "title": "ALO Softsculpt Amp It Up Short Sleeve Bra - Summer Romance Red",
+      "handle": "w9972r-alo-softsculpt-amp-it-up-short-sleeve-bra-summer-romance-red",
+      "body_html": "<p>Take your look to the next level. The ALO Softsculpt Amp It Up Short Sleeve Bra is made from our signature medium-compression fabric that sculpts and smooths while allowing you the freedom to move. The naturally breathable material has a subtle sheen that keeps your look polished and an ultra-soft feel that’s comfortable enough for all-day wear. This style features removable cups and a ribbed band with contrast trim for a little added texture. Pair it with your favorite bottoms from the Amp It Up collection for a head-to-toe look that was made to serve.</p>",
+      "published_at": "2026-10-09T04:27:30-07:00",
+      "created_at": "2026-03-31T17:38:13-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
+      "vendor": "Alo Yoga",
+      "product_type": "Women:Bras",
+      "tags": [
+        "BuilderDropzoneStyle:SOFTSCULPT",
+        "BVCategory:Women",
+        "Color:Summer Romance Red:Color",
+        "ColorGroup:Red",
+        "ColorwayType:Limited",
+        "Computed:IsAlmostGone",
+        "Computed:UnderInventoryThreshold:5:for:L",
+        "Computed:UnderInventoryThreshold:5:for:M",
+        "Computed:UnderInventoryThreshold:5:for:S",
+        "Content:Builder",
+        "Fabric:ALO Softsculpt",
+        "Filter:DisplaySize:4:Medium",
+        "Filter:Size:M",
+        "Maintenance:ColorwayProduct",
+        "master-woman-all",
+        "not_clearance",
+        "pricing:fullprice",
+        "SFSSafetyStock0",
+        "Status:FPPhaseOut",
+        "Status:PhaseOut",
+        "StyleId:W9972R",
+        "SU26-Campaign",
+        "SU26D3-family",
+        "SU26Drops-family",
+        "TurkeyCatalog",
+        "Women:Activity:Court",
+        "Women:Activity:CourtSports",
+        "Women:Activity:Pilates",
+        "Women:Activity:Train",
+        "Women:Performance",
+        "X:IsPublishedToOnlineStore",
+        "YCRF_reviews:women",
+        "YGroup_W9972R"
+      ],
+      "variants": [
+        {
+          "id": 50662160564583,
+          "title": "Summer Romance Red / XXS",
+          "option1": "Summer Romance Red",
+          "option2": "XXS",
+          "option3": null,
+          "sku": "W9972R079520",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "98.00",
+          "grams": 191,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 9092914250087,
+          "created_at": "2026-03-31T17:38:13-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662160597351,
+          "title": "Summer Romance Red / XS",
+          "option1": "Summer Romance Red",
+          "option2": "XS",
+          "option3": null,
+          "sku": "W9972R079521",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "98.00",
+          "grams": 191,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 9092914250087,
+          "created_at": "2026-03-31T17:38:13-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662160630119,
+          "title": "Summer Romance Red / S",
+          "option1": "Summer Romance Red",
+          "option2": "S",
+          "option3": null,
+          "sku": "W9972R079522",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "98.00",
+          "grams": 191,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 9092914250087,
+          "created_at": "2026-03-31T17:38:13-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662160662887,
+          "title": "Summer Romance Red / M",
+          "option1": "Summer Romance Red",
+          "option2": "M",
+          "option3": null,
+          "sku": "W9972R079523",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "98.00",
+          "grams": 191,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 9092914250087,
+          "created_at": "2026-03-31T17:38:13-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662160695655,
+          "title": "Summer Romance Red / L",
+          "option1": "Summer Romance Red",
+          "option2": "L",
+          "option3": null,
+          "sku": "W9972R079524",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "98.00",
+          "grams": 191,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 9092914250087,
+          "created_at": "2026-03-31T17:38:13-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 41455619015015,
+          "created_at": "2026-05-26T23:01:18-07:00",
+          "position": 1,
+          "updated_at": "2026-05-26T23:01:19-07:00",
+          "product_id": 9092914250087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9972R_07952_b2_s1_a1_dSU26_m143.png?v=1779861679",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41455610724711,
+          "created_at": "2026-05-20T00:56:11-07:00",
+          "position": 2,
+          "updated_at": "2026-05-20T00:56:12-07:00",
+          "product_id": 9092914250087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9972R_07952_b1_s1_a3_dSU26_m191.jpg?v=1779263772",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41455610659175,
+          "created_at": "2026-05-20T00:56:11-07:00",
+          "position": 3,
+          "updated_at": "2026-05-20T00:56:12-07:00",
+          "product_id": 9092914250087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9972R_07952_b1_s1_a1_dSU26_m191.jpg?v=1779263772",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41455610691943,
+          "created_at": "2026-05-20T00:56:11-07:00",
+          "position": 4,
+          "updated_at": "2026-05-20T00:56:12-07:00",
+          "product_id": 9092914250087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9972R_07952_b1_s1_a2_dSU26_m191.jpg?v=1779263772",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41455610757479,
+          "created_at": "2026-05-20T00:56:11-07:00",
+          "position": 5,
+          "updated_at": "2026-05-20T00:56:12-07:00",
+          "product_id": 9092914250087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9972R_07952_b1_s1_a4_dSU26_m191.jpg?v=1779263772",
+          "width": 2001,
+          "height": 3000
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Summer Romance Red"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9092816568679,
+      "title": "Serenity Wide Leg Sweatpant - Winter Frost",
+      "handle": "w54162r-serenity-wide-leg-sweatpant-winter-frost",
+      "body_html": "<p>Elevate your post-workout look with the Serenity Wide Leg Sweatpant. Made of our signature Accolade fabric, this style has all the necessary details like zippered pockets, an interior drawcord, and a ribbed waistband. Pair it with the Cropped Serenity Coverup for a chic look.</p>",
+      "published_at": "2026-10-09T01:37:48-07:00",
+      "created_at": "2025-10-06T11:36:45-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
+      "vendor": "Alo Yoga",
+      "product_type": "Women:Bottoms:Sweatpants",
+      "tags": [
+        "BVCategory:Women",
+        "Color:Winter Frost:Color",
+        "ColorGroup:Blue",
+        "ColorwayType:Limited",
+        "Computed:IsAlmostGone",
+        "Computed:UnderInventoryThreshold:5:for:L",
+        "Computed:UnderInventoryThreshold:5:for:M",
+        "Computed:UnderInventoryThreshold:5:for:S",
+        "Content:Builder",
+        "Filter:DisplaySize:1:XXS - XS",
+        "Filter:Size:XXS",
+        "Maintenance:ColorwayProduct",
+        "master-woman-all",
+        "not_clearance",
+        "pricing:fullprice",
+        "SFSSafetyStock0",
+        "Status:FPPhaseOut",
+        "Status:PhaseOut",
+        "StyleId:W54162R",
+        "TurkeyCatalog",
+        "Waist:Regular Waist",
+        "Women:Activity:Lounge",
+        "Women:Fashion",
+        "WT25-Campaign",
+        "WT25D1-family",
+        "WT25Drops-family",
+        "X:IsPublishedToOnlineStore",
+        "YCRF_reviews:women",
+        "YGroup_W54162R"
+      ],
+      "variants": [
+        {
+          "id": 50661697356135,
+          "title": "Winter Frost / XXS",
+          "option1": "Winter Frost",
+          "option2": "XXS",
+          "option3": null,
+          "sku": "W54162R066460",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "128.00",
+          "grams": 558,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 9092816568679,
+          "created_at": "2025-10-06T11:36:45-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50661697388903,
+          "title": "Winter Frost / XS",
+          "option1": "Winter Frost",
+          "option2": "XS",
+          "option3": null,
+          "sku": "W54162R066461",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "128.00",
+          "grams": 553,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 9092816568679,
+          "created_at": "2025-10-06T11:36:45-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50661697421671,
+          "title": "Winter Frost / S",
+          "option1": "Winter Frost",
+          "option2": "S",
+          "option3": null,
+          "sku": "W54162R066462",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "128.00",
+          "grams": 590,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 9092816568679,
+          "created_at": "2025-10-06T11:36:45-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50661697454439,
+          "title": "Winter Frost / M",
+          "option1": "Winter Frost",
+          "option2": "M",
+          "option3": null,
+          "sku": "W54162R066463",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "128.00",
+          "grams": 635,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 9092816568679,
+          "created_at": "2025-10-06T11:36:45-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50661697487207,
+          "title": "Winter Frost / L",
+          "option1": "Winter Frost",
+          "option2": "L",
+          "option3": null,
+          "sku": "W54162R066464",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "128.00",
+          "grams": 630,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 9092816568679,
+          "created_at": "2025-10-06T11:36:45-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 41455273705831,
+          "created_at": "2026-01-09T15:47:29-08:00",
+          "position": 1,
+          "updated_at": "2026-01-09T15:47:38-08:00",
+          "product_id": 9092816568679,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54162R_06646_b2_s1_a1_m18_c16629ea-60b4-4699-97c2-20e23a96f863.jpg?v=1768002458",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41455515468135,
+          "created_at": "2026-04-14T19:40:12-07:00",
+          "position": 2,
+          "updated_at": "2026-04-20T11:23:52-07:00",
+          "product_id": 9092816568679,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54162R_06646_b1_s1_a5_m207_ef564732-0dd6-48e3-929e-ddca8bfe3d50.jpg?v=1776709432",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41455515500903,
+          "created_at": "2026-04-14T19:40:12-07:00",
+          "position": 3,
+          "updated_at": "2026-04-20T11:23:52-07:00",
+          "product_id": 9092816568679,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54162R_06646_b1_s1_a2_m207_92400f67-8ef3-4a53-b88a-76417959f15c.jpg?v=1776709432",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41455515533671,
+          "created_at": "2026-04-14T19:40:12-07:00",
+          "position": 4,
+          "updated_at": "2026-04-20T11:23:52-07:00",
+          "product_id": 9092816568679,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54162R_06646_b1_s1_a3_m207_3fd5bb75-5efc-482a-a1b5-c24890919df7.jpg?v=1776709432",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41455515566439,
+          "created_at": "2026-04-14T19:40:12-07:00",
+          "position": 5,
+          "updated_at": "2026-04-20T11:23:52-07:00",
+          "product_id": 9092816568679,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54162R_06646_b1_s1_a4_m207_8ec43df3-bdb2-473b-8c89-31543589ebb7.jpg?v=1776709432",
+          "width": 930,
+          "height": 1395
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Winter Frost"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9092737663335,
+      "title": "Colorblock Visor - Black/White",
+      "handle": "a0801u-colorblock-visor-black-white",
+      "body_html": "<p data-pm-slice='1 1 [\"table\",{},\"table_row\",{},\"table_cell\",{\"colspan\":1,\"rowspan\":1,\"colwidth\":[362]}]'>The Colorblock Visor is so giving sporty chic. However you’re getting in a moment of movement, keep the sweat and sun out of your eyes with this functional and cute style. Bonus point: it pairs perfectly with a messy bun or ponytail and your swishiest tennis skirt.</p>",
+      "published_at": "2026-10-09T01:37:47-07:00",
+      "created_at": "2025-04-03T18:38:44-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
+      "vendor": "Alo Yoga",
+      "product_type": "Accessories:Hats:Visors",
+      "tags": [
+        "BVCategory:Accessories",
+        "Color:Black:Color",
+        "ColorGroup:Black",
+        "Computed:IsAlmostGone",
+        "Maintenance:ColorwayProduct",
+        "master-accessories-all",
+        "master-woman-all",
+        "not_clearance",
+        "pricing:fullprice",
+        "SellThru_AS_2025",
+        "SFSSafetyStock0",
+        "Status:FPPhaseOut",
+        "Status:PhaseOut",
+        "StyleId:A0801U",
+        "SU25D2-family",
+        "SU25Drops",
+        "SuppressModelInfo",
+        "TurkeyCatalog",
+        "Women:Activity:CourtSports",
+        "X:IsPublishedToOnlineStore",
+        "YCRF_reviews:accessories",
+        "YGroup_A0801U"
+      ],
+      "variants": [
+        {
+          "id": 50661324456295,
+          "title": "Black/White / One Size",
+          "option1": "Black/White",
+          "option2": "One Size",
+          "option3": null,
+          "sku": "A0801U01001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 41454568702311,
+            "product_id": 9092737663335,
+            "position": 5,
+            "created_at": "2025-05-08T02:37:30-07:00",
+            "updated_at": "2025-05-16T14:57:07-07:00",
+            "alt": null,
+            "width": 930,
+            "height": 1395,
+            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0801U_0100_b1_s1_a1.jpg?v=1747432627",
+            "variant_ids": [
+              50661324456295
+            ]
+          },
+          "available": true,
+          "price": "68.00",
+          "grams": 91,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 9092737663335,
+          "created_at": "2025-04-03T18:38:44-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 41454568669543,
+          "created_at": "2025-05-08T02:37:30-07:00",
+          "position": 1,
+          "updated_at": "2025-05-16T14:57:07-07:00",
+          "product_id": 9092737663335,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0801U_0100_b1_s1_a3.jpg?v=1747432627",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41454568636775,
+          "created_at": "2025-05-08T02:37:30-07:00",
+          "position": 2,
+          "updated_at": "2025-05-16T14:57:07-07:00",
+          "product_id": 9092737663335,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0801U_0100_b1_s1_a4.jpg?v=1747432627",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41454568604007,
+          "created_at": "2025-05-08T02:37:30-07:00",
+          "position": 3,
+          "updated_at": "2025-05-16T14:57:07-07:00",
+          "product_id": 9092737663335,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0801U_0100_b1_s1_a2.jpg?v=1747432627",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41454585119079,
+          "created_at": "2025-05-11T22:14:38-07:00",
+          "position": 4,
+          "updated_at": "2025-05-16T14:57:07-07:00",
+          "product_id": 9092737663335,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0801U_0100_b1_s1_a5.jpg?v=1747432627",
+          "width": 930,
+          "height": 1395
+        },
+        {
+          "id": 41454568702311,
+          "created_at": "2025-05-08T02:37:30-07:00",
+          "position": 5,
+          "updated_at": "2025-05-16T14:57:07-07:00",
+          "product_id": 9092737663335,
+          "variant_ids": [
+            50661324456295
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0801U_0100_b1_s1_a1.jpg?v=1747432627",
+          "width": 930,
+          "height": 1395
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black/White"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "One Size"
+          ]
+        }
+      ]
+    },
     {
       "id": 9092826530151,
       "title": "Airlift Solar Visor - Bright Red",
@@ -10,7 +590,7 @@
       "body_html": "<p>Tenniscore at its finest, the Solar Visor has a stiff, holographic brim and a comfortable crown made from our signature sweat-wicking Airlift performance fabric. Finished with a tonal logo and an adjustable buckle, it’s perfect for pickup matches or to complete a sporty look when the weather warms up.</p>",
       "published_at": "2026-10-09T01:28:06-07:00",
       "created_at": "2025-10-06T12:42:04-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Accessories:Hats:Visors",
       "tags": [
@@ -35,6 +615,7 @@
         "Women:Fashion",
         "WT25D4-family",
         "WT25Drops-family",
+        "X:IsPublishedToOnlineStore",
         "YCRF_reviews:accessories",
         "YGroup:A0684U"
       ],
@@ -69,7 +650,7 @@
           "position": 1,
           "product_id": 9092826530151,
           "created_at": "2025-10-06T12:42:04-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -144,7 +725,7 @@
       "body_html": "<p>Studio, street, lounge: no problem. The Airlift High-Waist 7/8 Line Up Legging goes everywhere and makes it look easy. With cool flocking and sweetheart detailing on the back, it’s a versatile look that also happens to be epic. Don’t forget the matching bra to complete the set.</p>",
       "published_at": "2026-10-09T01:28:05-07:00",
       "created_at": "2025-06-24T11:13:59-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -161,6 +742,8 @@
         "FA25D4-family",
         "FA25Drops-family",
         "Fabric:Airlift",
+        "Filter:DisplaySize:1:XXS - XS",
+        "Filter:Size:XS",
         "Length:7/8",
         "Maintenance:ColorwayProduct",
         "master-woman-all",
@@ -174,6 +757,7 @@
         "Waist:High Waist",
         "Women:Activity:Yoga",
         "Women:Performance",
+        "X:IsPublishedToOnlineStore",
         "YCRF_reviews:women",
         "YGroup_W51154R"
       ],
@@ -195,7 +779,7 @@
           "position": 1,
           "product_id": 9092776755559,
           "created_at": "2025-06-24T11:13:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661503435111,
@@ -214,7 +798,7 @@
           "position": 2,
           "product_id": 9092776755559,
           "created_at": "2025-06-24T11:13:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661503467879,
@@ -233,7 +817,7 @@
           "position": 3,
           "product_id": 9092776755559,
           "created_at": "2025-06-24T11:13:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661503500647,
@@ -252,7 +836,7 @@
           "position": 4,
           "product_id": 9092776755559,
           "created_at": "2025-06-24T11:13:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661503533415,
@@ -271,7 +855,7 @@
           "position": 5,
           "product_id": 9092776755559,
           "created_at": "2025-06-24T11:13:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -359,7 +943,7 @@
       "body_html": "<p>This sweater is our latest obsession. It’s soft, cozy and designed with the perfect oversized fit. Wear it during the day with a pair of cargo pants, or pair it with a pair of sweat shorts for a luxe, laid-back lounge look. It’s the pullover that can pull off anything.</p>",
       "published_at": "2026-10-09T01:28:05-07:00",
       "created_at": "2025-06-24T10:50:38-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -373,6 +957,8 @@
         "Computed:UnderInventoryThreshold:5:for:S",
         "FA25D4-family",
         "FA25Drops-family",
+        "Filter:DisplaySize:1:XXS - XS",
+        "Filter:Size:XS",
         "Maintenance:ColorwayProduct",
         "master-woman-all",
         "not_clearance",
@@ -385,6 +971,7 @@
         "TurkeyCatalog",
         "Women:Activity:Lounge",
         "Women:Fashion",
+        "X:IsPublishedToOnlineStore",
         "YCRF_reviews:women",
         "YGroup_W3845R"
       ],
@@ -423,7 +1010,7 @@
           "position": 1,
           "product_id": 9092773708135,
           "created_at": "2025-06-24T10:50:38-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661488394599,
@@ -459,7 +1046,7 @@
           "position": 2,
           "product_id": 9092773708135,
           "created_at": "2025-06-24T10:50:38-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661488427367,
@@ -495,7 +1082,7 @@
           "position": 3,
           "product_id": 9092773708135,
           "created_at": "2025-06-24T10:50:38-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661488460135,
@@ -531,7 +1118,7 @@
           "position": 4,
           "product_id": 9092773708135,
           "created_at": "2025-06-24T10:50:38-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661488492903,
@@ -567,7 +1154,7 @@
           "position": 5,
           "product_id": 9092773708135,
           "created_at": "2025-06-24T10:50:38-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -672,7 +1259,7 @@
       "body_html": "<p>Wondering why these leggings are a fan favorite? Maybe it’s the sculpting, subtly sheeny, high-compression Airlift fabric. Or the fact that they fit like a glove, complete with a wide, double-layered waistband for a holds-you-in feel. Or the ⅞ length hems that are perfect for petites or an above-the-ankle fit. Pick your color and get ready to wear yours on repeat.</p>",
       "published_at": "2026-10-09T01:28:04-07:00",
       "created_at": "2024-04-04T14:48:37-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -688,8 +1275,10 @@
         "Computed:UnderInventoryThreshold:5:for:S",
         "Content:Builder",
         "Fabric:Airlift",
+        "Filter:DisplaySize:1:XXS - XS",
         "Filter:PercentOffBucket:30-40%",
         "Filter:PercentOffBucket:40-50%",
+        "Filter:Size:XS",
         "FurtherMDs-BFCM25",
         "FurtherMDs-SinglesDay25",
         "Length:7/8",
@@ -708,6 +1297,7 @@
         "SU24D1-family",
         "SU24Drops-family",
         "Waist:High Waist",
+        "X:IsPublishedToOnlineStore",
         "YCRF_reviews:women",
         "YGroup_W51314R"
       ],
@@ -746,7 +1336,7 @@
           "position": 1,
           "product_id": 7569583407284,
           "created_at": "2024-04-04T14:48:37-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42865486528692,
@@ -782,7 +1372,7 @@
           "position": 2,
           "product_id": 7569583407284,
           "created_at": "2024-04-04T14:48:37-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42865486561460,
@@ -818,7 +1408,7 @@
           "position": 3,
           "product_id": 7569583407284,
           "created_at": "2024-04-04T14:48:37-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42865486659764,
@@ -854,7 +1444,7 @@
           "position": 4,
           "product_id": 7569583407284,
           "created_at": "2024-04-04T14:48:37-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42865486725300,
@@ -890,7 +1480,7 @@
           "position": 5,
           "product_id": 7569583407284,
           "created_at": "2024-04-04T14:48:37-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -985,313 +1575,13 @@
       ]
     },
     {
-      "id": 7366581747892,
-      "title": "Knit High-Waist Salana Wide Leg Pant - Black",
-      "handle": "w51262r-knit-high-waist-salana-wide-leg-pant-black",
-      "body_html": "<p>Long-awaited and already setting trends. The Knit High-Waist Salana Wide Leg Pant steps streetwear up a notch with a forward wide leg silhouette, deep side slits, a lightweight ribbed knit, and invisible side pockets for hands-free city strolls. Pair with the Knit Salana Tank or the Knit Salana Cardigan for the ultimate set.</p>",
-      "published_at": "2026-10-09T01:28:03-07:00",
-      "created_at": "2023-03-22T10:00:13-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
-      "vendor": "Alo Yoga",
-      "product_type": "Women:Bottoms:Pants",
-      "tags": [
-        "BVCategory:Women",
-        "clearance",
-        "Color:Black:Color",
-        "ColorGroup:Black",
-        "Computed:IsAlmostGone",
-        "Computed:UnderInventoryThreshold:5:for:L",
-        "Computed:UnderInventoryThreshold:5:for:M",
-        "Computed:UnderInventoryThreshold:5:for:S",
-        "Filter:DisplaySize:1:XXS - XS",
-        "Filter:PercentOffBucket:30-40%",
-        "Filter:PercentOffBucket:40-50%",
-        "Filter:Size:XXS",
-        "FurtherMDs-BFCM25",
-        "FurtherMDs-SinglesDay25",
-        "HO24BFCMTAP",
-        "HO24SinglesDayTAP",
-        "Length:Bottoms:Regular",
-        "Maintenance:ColorwayProduct",
-        "master-woman-sale",
-        "NEWMD-Aloversary25",
-        "pricing:saleprice",
-        "RemovalNewMD-Aloversary25",
-        "Sale:WomenBottoms",
-        "SFSSafetyStock0",
-        "Status:Markdown",
-        "Status:PhaseOut",
-        "StyleId:W51262R",
-        "SU23D1-family",
-        "SU23Drops-family",
-        "Waist:Regular Waist",
-        "Women:Fashion",
-        "YCRF_reviews:women",
-        "YGroup_W51262R"
-      ],
-      "variants": [
-        {
-          "id": 42218615013556,
-          "title": "Black / XXS",
-          "option1": "Black",
-          "option2": "XXS",
-          "option3": null,
-          "sku": "W51262R010",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 35954718736564,
-            "product_id": 7366581747892,
-            "position": 1,
-            "created_at": "2023-03-22T16:59:25-07:00",
-            "updated_at": "2023-09-22T14:38:22-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a1_1_m18.jpg?v=1695418702",
-            "variant_ids": [
-              42218615013556,
-              42218615046324,
-              42218615079092,
-              42218615111860,
-              42218615144628
-            ]
-          },
-          "available": true,
-          "price": "100.00",
-          "grams": 0,
-          "compare_at_price": "168.00",
-          "position": 1,
-          "product_id": 7366581747892,
-          "created_at": "2023-03-22T10:00:14-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 42218615046324,
-          "title": "Black / XS",
-          "option1": "Black",
-          "option2": "XS",
-          "option3": null,
-          "sku": "W51262R011",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 35954718736564,
-            "product_id": 7366581747892,
-            "position": 1,
-            "created_at": "2023-03-22T16:59:25-07:00",
-            "updated_at": "2023-09-22T14:38:22-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a1_1_m18.jpg?v=1695418702",
-            "variant_ids": [
-              42218615013556,
-              42218615046324,
-              42218615079092,
-              42218615111860,
-              42218615144628
-            ]
-          },
-          "available": false,
-          "price": "100.00",
-          "grams": 0,
-          "compare_at_price": "168.00",
-          "position": 2,
-          "product_id": 7366581747892,
-          "created_at": "2023-03-22T10:00:14-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 42218615079092,
-          "title": "Black / S",
-          "option1": "Black",
-          "option2": "S",
-          "option3": null,
-          "sku": "W51262R012",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 35954718736564,
-            "product_id": 7366581747892,
-            "position": 1,
-            "created_at": "2023-03-22T16:59:25-07:00",
-            "updated_at": "2023-09-22T14:38:22-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a1_1_m18.jpg?v=1695418702",
-            "variant_ids": [
-              42218615013556,
-              42218615046324,
-              42218615079092,
-              42218615111860,
-              42218615144628
-            ]
-          },
-          "available": false,
-          "price": "100.00",
-          "grams": 0,
-          "compare_at_price": "168.00",
-          "position": 3,
-          "product_id": 7366581747892,
-          "created_at": "2023-03-22T10:00:14-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 42218615111860,
-          "title": "Black / M",
-          "option1": "Black",
-          "option2": "M",
-          "option3": null,
-          "sku": "W51262R013",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 35954718736564,
-            "product_id": 7366581747892,
-            "position": 1,
-            "created_at": "2023-03-22T16:59:25-07:00",
-            "updated_at": "2023-09-22T14:38:22-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a1_1_m18.jpg?v=1695418702",
-            "variant_ids": [
-              42218615013556,
-              42218615046324,
-              42218615079092,
-              42218615111860,
-              42218615144628
-            ]
-          },
-          "available": false,
-          "price": "100.00",
-          "grams": 0,
-          "compare_at_price": "168.00",
-          "position": 4,
-          "product_id": 7366581747892,
-          "created_at": "2023-03-22T10:00:14-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 42218615144628,
-          "title": "Black / L",
-          "option1": "Black",
-          "option2": "L",
-          "option3": null,
-          "sku": "W51262R014",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 35954718736564,
-            "product_id": 7366581747892,
-            "position": 1,
-            "created_at": "2023-03-22T16:59:25-07:00",
-            "updated_at": "2023-09-22T14:38:22-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a1_1_m18.jpg?v=1695418702",
-            "variant_ids": [
-              42218615013556,
-              42218615046324,
-              42218615079092,
-              42218615111860,
-              42218615144628
-            ]
-          },
-          "available": false,
-          "price": "100.00",
-          "grams": 0,
-          "compare_at_price": "168.00",
-          "position": 5,
-          "product_id": 7366581747892,
-          "created_at": "2023-03-22T10:00:14-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 35954718736564,
-          "created_at": "2023-03-22T16:59:25-07:00",
-          "position": 1,
-          "updated_at": "2023-09-22T14:38:22-07:00",
-          "product_id": 7366581747892,
-          "variant_ids": [
-            42218615013556,
-            42218615046324,
-            42218615079092,
-            42218615111860,
-            42218615144628
-          ],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a1_1_m18.jpg?v=1695418702",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 35954718769332,
-          "created_at": "2023-03-22T16:59:25-07:00",
-          "position": 2,
-          "updated_at": "2023-09-22T14:38:22-07:00",
-          "product_id": 7366581747892,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a2_1_m18.jpg?v=1695418702",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 35954718638260,
-          "created_at": "2023-03-22T16:59:25-07:00",
-          "position": 3,
-          "updated_at": "2023-09-22T14:38:22-07:00",
-          "product_id": 7366581747892,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a3_1_m18.jpg?v=1695418702",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 35954718671028,
-          "created_at": "2023-03-22T16:59:25-07:00",
-          "position": 4,
-          "updated_at": "2023-09-22T14:38:22-07:00",
-          "product_id": 7366581747892,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W51262R_01_b1_s1_a5_1_m18.jpg?v=1695418702",
-          "width": 930,
-          "height": 1395
-        }
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Black"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-          ]
-        }
-      ]
-    },
-    {
       "id": 9092738056551,
       "title": "Double Take Short Sleeve Polo - Black",
       "handle": "m1251r-double-take-short-sleeve-polo-black",
       "body_html": "<p>Meet your new everyday polo. The Double Take Polo is the perfect option for your plans on and off the greens. The fit is slightly oversized (in a cool way, not a slouchy way) and pairs back to anything—straight leg pants, classic shorts, and, of course, the matching Double Take Short.</p>",
       "published_at": "2026-10-09T01:17:49-07:00",
       "created_at": "2025-04-03T18:38:45-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Tops:Short Sleeves",
       "tags": [
@@ -1359,7 +1649,7 @@
           "position": 1,
           "product_id": 9092738056551,
           "created_at": "2025-04-03T18:38:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661326815591,
@@ -1395,7 +1685,7 @@
           "position": 2,
           "product_id": 9092738056551,
           "created_at": "2025-04-03T18:38:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661326848359,
@@ -1431,7 +1721,7 @@
           "position": 3,
           "product_id": 9092738056551,
           "created_at": "2025-04-03T18:38:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661326881127,
@@ -1467,7 +1757,7 @@
           "position": 4,
           "product_id": 9092738056551,
           "created_at": "2025-04-03T18:38:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661326913895,
@@ -1503,7 +1793,7 @@
           "position": 5,
           "product_id": 9092738056551,
           "created_at": "2025-04-03T18:38:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -1619,7 +1909,7 @@
       "body_html": "<p>Take your look from the court to post-practice plans in the Match Point Tennis Skirt. It has a boxer-style elastic waistband (so on-trend), built-in shorts with a side pocket, and a mini-length hem. It’s made from a lightweight, slightly swishy performance fabric and has a cute, swingy fit. Wear it with a hoodie, a bra top, or even a blazer—this skirt aces the game every time.</p>",
       "published_at": "2026-10-09T01:08:10-07:00",
       "created_at": "2026-03-31T16:05:20-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Skirts",
       "tags": [
@@ -1672,7 +1962,7 @@
           "position": 1,
           "product_id": 9092907729255,
           "created_at": "2026-03-31T16:05:20-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662127927655,
@@ -1691,7 +1981,7 @@
           "position": 2,
           "product_id": 9092907729255,
           "created_at": "2026-03-31T16:05:20-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662127960423,
@@ -1710,7 +2000,7 @@
           "position": 3,
           "product_id": 9092907729255,
           "created_at": "2026-03-31T16:05:20-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662127993191,
@@ -1729,7 +2019,7 @@
           "position": 4,
           "product_id": 9092907729255,
           "created_at": "2026-03-31T16:05:20-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662128025959,
@@ -1748,7 +2038,7 @@
           "position": 5,
           "product_id": 9092907729255,
           "created_at": "2026-03-31T16:05:20-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -1830,1117 +2120,13 @@
       ]
     },
     {
-      "id": 9092775870823,
-      "title": "Micro Corduroy On Duty Jacket - Black",
-      "handle": "w4692r-micro-corduroy-on-duty-jacket-black",
-      "body_html": "<p>A sleek take on a classic texture. The Micro Corduroy On Duty Jacket has a soft-to-the-touch feel and a relaxed fit with subtle structure. It’s finished with a tailored collar, clean seams, and buttoned cuffs for versatile styling. Pair it with the Micro Corduroy On Duty Short for an effortless look that seamlessly goes from day to night. </p>",
-      "published_at": "2026-10-09T00:27:29-07:00",
-      "created_at": "2025-06-24T11:13:28-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
-      "vendor": "Alo Yoga",
-      "product_type": "Women:Outerwear:Jackets",
-      "tags": [
-        "BVCategory:Women",
-        "Color:Black:Color",
-        "ColorGroup:Black",
-        "Computed:IsAlmostGone",
-        "Computed:UnderInventoryThreshold:5:for:L",
-        "Computed:UnderInventoryThreshold:5:for:M",
-        "Computed:UnderInventoryThreshold:5:for:S",
-        "FA25D4-1-family",
-        "FA25Drops-family",
-        "Filter:DisplaySize:1:XXS - XS",
-        "Filter:Size:XS",
-        "Maintenance:ColorwayProduct",
-        "master-woman-all",
-        "not_clearance",
-        "pricing:fullprice",
-        "SFSSafetyStock0",
-        "Status:FPPhaseOut",
-        "Status:PhaseOut",
-        "StyleId:W4692R",
-        "Tops:Length:Full Length",
-        "TurkeyCatalog",
-        "Warmth:Warm",
-        "Women:Fashion",
-        "X:IsPublishedToOnlineStore",
-        "YCRF_reviews:women",
-        "YGroup_W4692R"
-      ],
-      "variants": [
-        {
-          "id": 50661499175271,
-          "title": "Black / XXS",
-          "option1": "Black",
-          "option2": "XXS",
-          "option3": null,
-          "sku": "W4692R010",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 41454896480615,
-            "product_id": 9092775870823,
-            "position": 1,
-            "created_at": "2025-09-09T04:56:54-07:00",
-            "updated_at": "2025-09-09T04:57:13-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a2_m241.jpg?v=1757419033",
-            "variant_ids": [
-              50661499175271,
-              50661499208039,
-              50661499240807,
-              50661499273575,
-              50661499306343
-            ]
-          },
-          "available": false,
-          "price": "228.00",
-          "grams": 191,
-          "compare_at_price": null,
-          "position": 1,
-          "product_id": 9092775870823,
-          "created_at": "2025-06-24T11:13:28-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 50661499208039,
-          "title": "Black / XS",
-          "option1": "Black",
-          "option2": "XS",
-          "option3": null,
-          "sku": "W4692R011",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 41454896480615,
-            "product_id": 9092775870823,
-            "position": 1,
-            "created_at": "2025-09-09T04:56:54-07:00",
-            "updated_at": "2025-09-09T04:57:13-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a2_m241.jpg?v=1757419033",
-            "variant_ids": [
-              50661499175271,
-              50661499208039,
-              50661499240807,
-              50661499273575,
-              50661499306343
-            ]
-          },
-          "available": true,
-          "price": "228.00",
-          "grams": 191,
-          "compare_at_price": null,
-          "position": 2,
-          "product_id": 9092775870823,
-          "created_at": "2025-06-24T11:13:28-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 50661499240807,
-          "title": "Black / S",
-          "option1": "Black",
-          "option2": "S",
-          "option3": null,
-          "sku": "W4692R012",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 41454896480615,
-            "product_id": 9092775870823,
-            "position": 1,
-            "created_at": "2025-09-09T04:56:54-07:00",
-            "updated_at": "2025-09-09T04:57:13-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a2_m241.jpg?v=1757419033",
-            "variant_ids": [
-              50661499175271,
-              50661499208039,
-              50661499240807,
-              50661499273575,
-              50661499306343
-            ]
-          },
-          "available": false,
-          "price": "228.00",
-          "grams": 191,
-          "compare_at_price": null,
-          "position": 3,
-          "product_id": 9092775870823,
-          "created_at": "2025-06-24T11:13:28-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 50661499273575,
-          "title": "Black / M",
-          "option1": "Black",
-          "option2": "M",
-          "option3": null,
-          "sku": "W4692R013",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 41454896480615,
-            "product_id": 9092775870823,
-            "position": 1,
-            "created_at": "2025-09-09T04:56:54-07:00",
-            "updated_at": "2025-09-09T04:57:13-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a2_m241.jpg?v=1757419033",
-            "variant_ids": [
-              50661499175271,
-              50661499208039,
-              50661499240807,
-              50661499273575,
-              50661499306343
-            ]
-          },
-          "available": false,
-          "price": "228.00",
-          "grams": 191,
-          "compare_at_price": null,
-          "position": 4,
-          "product_id": 9092775870823,
-          "created_at": "2025-06-24T11:13:28-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 50661499306343,
-          "title": "Black / L",
-          "option1": "Black",
-          "option2": "L",
-          "option3": null,
-          "sku": "W4692R014",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 41454896480615,
-            "product_id": 9092775870823,
-            "position": 1,
-            "created_at": "2025-09-09T04:56:54-07:00",
-            "updated_at": "2025-09-09T04:57:13-07:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a2_m241.jpg?v=1757419033",
-            "variant_ids": [
-              50661499175271,
-              50661499208039,
-              50661499240807,
-              50661499273575,
-              50661499306343
-            ]
-          },
-          "available": false,
-          "price": "228.00",
-          "grams": 191,
-          "compare_at_price": null,
-          "position": 5,
-          "product_id": 9092775870823,
-          "created_at": "2025-06-24T11:13:28-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 41454896480615,
-          "created_at": "2025-09-09T04:56:54-07:00",
-          "position": 1,
-          "updated_at": "2025-09-09T04:57:13-07:00",
-          "product_id": 9092775870823,
-          "variant_ids": [
-            50661499175271,
-            50661499208039,
-            50661499240807,
-            50661499273575,
-            50661499306343
-          ],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a2_m241.jpg?v=1757419033",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 41454887403879,
-          "created_at": "2025-09-08T05:36:11-07:00",
-          "position": 2,
-          "updated_at": "2025-09-09T04:57:13-07:00",
-          "product_id": 9092775870823,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_ai_m241.jpg?v=1757419033",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 41454896578919,
-          "created_at": "2025-09-09T04:56:55-07:00",
-          "position": 3,
-          "updated_at": "2025-09-09T04:57:13-07:00",
-          "product_id": 9092775870823,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a5_m241.jpg?v=1757419033",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 41454896611687,
-          "created_at": "2025-09-09T04:56:55-07:00",
-          "position": 4,
-          "updated_at": "2025-09-09T04:57:13-07:00",
-          "product_id": 9092775870823,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a6_m241.jpg?v=1757419033",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 41454896546151,
-          "created_at": "2025-09-09T04:56:55-07:00",
-          "position": 5,
-          "updated_at": "2025-09-10T13:46:42-07:00",
-          "product_id": 9092775870823,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a4_m241.jpg?v=1757537202",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 41454896447847,
-          "created_at": "2025-09-09T04:56:54-07:00",
-          "position": 6,
-          "updated_at": "2025-09-10T13:46:42-07:00",
-          "product_id": 9092775870823,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W4692R_01_b1_s1_a1_m241.jpg?v=1757537202",
-          "width": 930,
-          "height": 1395
-        }
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Black"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7851460821172,
-      "title": "Renown Heavy Weight Hoodie - Celestial Blue",
-      "handle": "u3013r-renown-heavy-weight-hoodie-celestial-blue-mens",
-      "body_html": "<p>Take it out &amp; about in the Renown Hoodie, our forward, street-ready look for he, she &amp; they. Made from thick, heavyweight French terry, this oversized hoodie features a structured hood &amp; kangaroo pocket for on-the-go convenience and cuffs at the sleeves and waistband.</p>",
-      "published_at": "2026-10-09T00:07:57-07:00",
-      "created_at": "2024-09-20T10:01:02-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
-      "vendor": "Alo Yoga",
-      "product_type": "Men:Outerwear:Coverups:Hoodies",
-      "tags": [
-        "BR:unisex",
-        "BVCategory:Men",
-        "clearance",
-        "Color:Celestial Blue:Color",
-        "ColorGroup:Blue",
-        "ColorwayType:Limited",
-        "Computed:IsAlmostGone",
-        "Computed:UnderInventoryThreshold:5:for:L",
-        "Computed:UnderInventoryThreshold:5:for:M",
-        "Computed:UnderInventoryThreshold:5:for:S",
-        "Filter:DisplaySize:3:Small",
-        "Filter:PercentOffBucket:20-30%",
-        "Filter:PercentOffBucket:30-40%",
-        "Filter:Size:S",
-        "HO24",
-        "HO24Drops-family",
-        "HO24MD1-family",
-        "Maintenance:ColorwayProduct",
-        "Maintenance:DontPublishToPOS",
-        "master-man-sale",
-        "Men:Activity:Lounge",
-        "Men:Fashion",
-        "NewMDs-BFCM25",
-        "pricing:saleprice",
-        "Sale:MenJackets",
-        "Sale:MenNew",
-        "Sale:MenSweatshirts",
-        "SellThru_AS_2025",
-        "SFSSafetyStock0",
-        "Status:Markdown",
-        "Status:PhaseOut",
-        "StyleId:MensU3013R",
-        "TurkeyCatalog",
-        "Type:Unisex:Men:Tops:Coverups",
-        "Unisex:DuplicateSKU",
-        "X:IsPublishedToOnlineStore",
-        "YCRF_reviews:men",
-        "YGroup_MensU3013R"
-      ],
-      "variants": [
-        {
-          "id": 43594927243444,
-          "title": "Celestial Blue / XXS",
-          "option1": "Celestial Blue",
-          "option2": "XXS",
-          "option3": null,
-          "sku": "U3013R058160",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38648027611316,
-            "product_id": 7851460821172,
-            "position": 1,
-            "created_at": "2024-11-18T15:15:42-08:00",
-            "updated_at": "2024-11-18T15:15:44-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-            "variant_ids": [
-              43594927243444,
-              43594927472820,
-              43594927734964,
-              43594928062644,
-              43594928390324,
-              43594928783540,
-              43594929111220
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 826,
-          "compare_at_price": "148.00",
-          "position": 1,
-          "product_id": 7851460821172,
-          "created_at": "2024-09-20T10:01:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43594927472820,
-          "title": "Celestial Blue / XS",
-          "option1": "Celestial Blue",
-          "option2": "XS",
-          "option3": null,
-          "sku": "U3013R058161",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38648027611316,
-            "product_id": 7851460821172,
-            "position": 1,
-            "created_at": "2024-11-18T15:15:42-08:00",
-            "updated_at": "2024-11-18T15:15:44-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-            "variant_ids": [
-              43594927243444,
-              43594927472820,
-              43594927734964,
-              43594928062644,
-              43594928390324,
-              43594928783540,
-              43594929111220
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 844,
-          "compare_at_price": "148.00",
-          "position": 2,
-          "product_id": 7851460821172,
-          "created_at": "2024-09-20T10:01:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43594927734964,
-          "title": "Celestial Blue / S",
-          "option1": "Celestial Blue",
-          "option2": "S",
-          "option3": null,
-          "sku": "U3013R058162",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38648027611316,
-            "product_id": 7851460821172,
-            "position": 1,
-            "created_at": "2024-11-18T15:15:42-08:00",
-            "updated_at": "2024-11-18T15:15:44-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-            "variant_ids": [
-              43594927243444,
-              43594927472820,
-              43594927734964,
-              43594928062644,
-              43594928390324,
-              43594928783540,
-              43594929111220
-            ]
-          },
-          "available": true,
-          "price": "103.00",
-          "grams": 898,
-          "compare_at_price": "148.00",
-          "position": 3,
-          "product_id": 7851460821172,
-          "created_at": "2024-09-20T10:01:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43594928062644,
-          "title": "Celestial Blue / M",
-          "option1": "Celestial Blue",
-          "option2": "M",
-          "option3": null,
-          "sku": "U3013R058163",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38648027611316,
-            "product_id": 7851460821172,
-            "position": 1,
-            "created_at": "2024-11-18T15:15:42-08:00",
-            "updated_at": "2024-11-18T15:15:44-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-            "variant_ids": [
-              43594927243444,
-              43594927472820,
-              43594927734964,
-              43594928062644,
-              43594928390324,
-              43594928783540,
-              43594929111220
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 1002,
-          "compare_at_price": "148.00",
-          "position": 4,
-          "product_id": 7851460821172,
-          "created_at": "2024-09-20T10:01:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43594928390324,
-          "title": "Celestial Blue / L",
-          "option1": "Celestial Blue",
-          "option2": "L",
-          "option3": null,
-          "sku": "U3013R058164",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38648027611316,
-            "product_id": 7851460821172,
-            "position": 1,
-            "created_at": "2024-11-18T15:15:42-08:00",
-            "updated_at": "2024-11-18T15:15:44-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-            "variant_ids": [
-              43594927243444,
-              43594927472820,
-              43594927734964,
-              43594928062644,
-              43594928390324,
-              43594928783540,
-              43594929111220
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 1048,
-          "compare_at_price": "148.00",
-          "position": 5,
-          "product_id": 7851460821172,
-          "created_at": "2024-09-20T10:01:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43594928783540,
-          "title": "Celestial Blue / XL",
-          "option1": "Celestial Blue",
-          "option2": "XL",
-          "option3": null,
-          "sku": "U3013R058165",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38648027611316,
-            "product_id": 7851460821172,
-            "position": 1,
-            "created_at": "2024-11-18T15:15:42-08:00",
-            "updated_at": "2024-11-18T15:15:44-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-            "variant_ids": [
-              43594927243444,
-              43594927472820,
-              43594927734964,
-              43594928062644,
-              43594928390324,
-              43594928783540,
-              43594929111220
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 1139,
-          "compare_at_price": "148.00",
-          "position": 6,
-          "product_id": 7851460821172,
-          "created_at": "2024-09-20T10:01:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43594929111220,
-          "title": "Celestial Blue / 2XL",
-          "option1": "Celestial Blue",
-          "option2": "2XL",
-          "option3": null,
-          "sku": "U3013R058166",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38648027611316,
-            "product_id": 7851460821172,
-            "position": 1,
-            "created_at": "2024-11-18T15:15:42-08:00",
-            "updated_at": "2024-11-18T15:15:44-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-            "variant_ids": [
-              43594927243444,
-              43594927472820,
-              43594927734964,
-              43594928062644,
-              43594928390324,
-              43594928783540,
-              43594929111220
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 1207,
-          "compare_at_price": "148.00",
-          "position": 7,
-          "product_id": 7851460821172,
-          "created_at": "2024-09-20T10:01:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 38648027611316,
-          "created_at": "2024-11-18T15:15:42-08:00",
-          "position": 1,
-          "updated_at": "2024-11-18T15:15:44-08:00",
-          "product_id": 7851460821172,
-          "variant_ids": [
-            43594927243444,
-            43594927472820,
-            43594927734964,
-            43594928062644,
-            43594928390324,
-            43594928783540,
-            43594929111220
-          ],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a1_m180.jpg?v=1731971744",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38648027447476,
-          "created_at": "2024-11-18T15:15:42-08:00",
-          "position": 2,
-          "updated_at": "2024-11-18T15:15:44-08:00",
-          "product_id": 7851460821172,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a2_m180.jpg?v=1731971744",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38648027513012,
-          "created_at": "2024-11-18T15:15:42-08:00",
-          "position": 3,
-          "updated_at": "2024-11-18T15:15:44-08:00",
-          "product_id": 7851460821172,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a4_m180.jpg?v=1731971744",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38648027578548,
-          "created_at": "2024-11-18T15:15:42-08:00",
-          "position": 4,
-          "updated_at": "2024-11-18T15:15:44-08:00",
-          "product_id": 7851460821172,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s3_a2_2_m180.jpg?v=1731971744",
-          "width": 930,
-          "height": 1395
-        }
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Celestial Blue"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7850780524724,
-      "title": "Renown Heavy Weight Hoodie - Celestial Blue",
-      "handle": "u3013r-renown-heavy-weight-hoodie-celestial-blue",
-      "body_html": "<p>Take it out &amp; about in the Renown Hoodie, our forward, street-ready look for he, she &amp; they. Made from thick, heavyweight French terry, this oversized hoodie features a structured hood &amp; kangaroo pocket for on-the-go convenience and cuffs at the sleeves and waistband.</p>",
-      "published_at": "2026-10-09T00:07:56-07:00",
-      "created_at": "2024-09-19T15:13:21-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
-      "vendor": "Alo Yoga",
-      "product_type": "Women:Outerwear:Coverups:Hoodies",
-      "tags": [
-        "BR:unisex",
-        "BVCategory:Women",
-        "clearance",
-        "Color:Celestial Blue:Color",
-        "ColorGroup:Blue",
-        "ColorwayType:Limited",
-        "Computed:IsAlmostGone",
-        "Computed:UnderInventoryThreshold:5:for:L",
-        "Computed:UnderInventoryThreshold:5:for:M",
-        "Computed:UnderInventoryThreshold:5:for:S",
-        "Filter:DisplaySize:3:Small",
-        "Filter:PercentOffBucket:20-30%",
-        "Filter:PercentOffBucket:30-40%",
-        "Filter:Size:S",
-        "FurtherMDs-Aloversary26",
-        "HO24",
-        "HO24Drops-family",
-        "HO24MD1-family",
-        "Maintenance:ColorwayProduct",
-        "master-woman-sale",
-        "NewMDs-BFCM25",
-        "pricing:saleprice",
-        "Sale:WomenJackets",
-        "Sale:WomenNew",
-        "Sale:WomenSweatshirts",
-        "SellThru_AS_2025",
-        "SFSSafetyStock0",
-        "Status:Markdown",
-        "Status:PhaseOut",
-        "StyleId:U3013R",
-        "TurkeyCatalog",
-        "Type:Unisex:Women:Tops:Coverups",
-        "Women:Activity:Lounge",
-        "Women:Fashion",
-        "X:IsPublishedToOnlineStore",
-        "YCRF_reviews:women",
-        "YGroup_U3013R"
-      ],
-      "variants": [
-        {
-          "id": 43591444791476,
-          "title": "Celestial Blue / XXS",
-          "option1": "Celestial Blue",
-          "option2": "XXS",
-          "option3": null,
-          "sku": "U3013R058160",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38652204777652,
-            "product_id": 7850780524724,
-            "position": 1,
-            "created_at": "2024-11-19T09:03:06-08:00",
-            "updated_at": "2024-11-19T09:03:07-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-            "variant_ids": [
-              43591444791476,
-              43591444824244,
-              43591444889780,
-              43591444922548,
-              43591444955316,
-              43591444988084,
-              43591445020852
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 849,
-          "compare_at_price": "148.00",
-          "position": 1,
-          "product_id": 7850780524724,
-          "created_at": "2024-09-19T15:13:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43591444824244,
-          "title": "Celestial Blue / XS",
-          "option1": "Celestial Blue",
-          "option2": "XS",
-          "option3": null,
-          "sku": "U3013R058161",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38652204777652,
-            "product_id": 7850780524724,
-            "position": 1,
-            "created_at": "2024-11-19T09:03:06-08:00",
-            "updated_at": "2024-11-19T09:03:07-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-            "variant_ids": [
-              43591444791476,
-              43591444824244,
-              43591444889780,
-              43591444922548,
-              43591444955316,
-              43591444988084,
-              43591445020852
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 849,
-          "compare_at_price": "148.00",
-          "position": 2,
-          "product_id": 7850780524724,
-          "created_at": "2024-09-19T15:13:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43591444889780,
-          "title": "Celestial Blue / S",
-          "option1": "Celestial Blue",
-          "option2": "S",
-          "option3": null,
-          "sku": "U3013R058162",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38652204777652,
-            "product_id": 7850780524724,
-            "position": 1,
-            "created_at": "2024-11-19T09:03:06-08:00",
-            "updated_at": "2024-11-19T09:03:07-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-            "variant_ids": [
-              43591444791476,
-              43591444824244,
-              43591444889780,
-              43591444922548,
-              43591444955316,
-              43591444988084,
-              43591445020852
-            ]
-          },
-          "available": true,
-          "price": "103.00",
-          "grams": 849,
-          "compare_at_price": "148.00",
-          "position": 3,
-          "product_id": 7850780524724,
-          "created_at": "2024-09-19T15:13:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43591444922548,
-          "title": "Celestial Blue / M",
-          "option1": "Celestial Blue",
-          "option2": "M",
-          "option3": null,
-          "sku": "U3013R058163",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38652204777652,
-            "product_id": 7850780524724,
-            "position": 1,
-            "created_at": "2024-11-19T09:03:06-08:00",
-            "updated_at": "2024-11-19T09:03:07-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-            "variant_ids": [
-              43591444791476,
-              43591444824244,
-              43591444889780,
-              43591444922548,
-              43591444955316,
-              43591444988084,
-              43591445020852
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 849,
-          "compare_at_price": "148.00",
-          "position": 4,
-          "product_id": 7850780524724,
-          "created_at": "2024-09-19T15:13:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43591444955316,
-          "title": "Celestial Blue / L",
-          "option1": "Celestial Blue",
-          "option2": "L",
-          "option3": null,
-          "sku": "U3013R058164",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38652204777652,
-            "product_id": 7850780524724,
-            "position": 1,
-            "created_at": "2024-11-19T09:03:06-08:00",
-            "updated_at": "2024-11-19T09:03:07-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-            "variant_ids": [
-              43591444791476,
-              43591444824244,
-              43591444889780,
-              43591444922548,
-              43591444955316,
-              43591444988084,
-              43591445020852
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 849,
-          "compare_at_price": "148.00",
-          "position": 5,
-          "product_id": 7850780524724,
-          "created_at": "2024-09-19T15:13:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43591444988084,
-          "title": "Celestial Blue / XL",
-          "option1": "Celestial Blue",
-          "option2": "XL",
-          "option3": null,
-          "sku": "U3013R058165",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38652204777652,
-            "product_id": 7850780524724,
-            "position": 1,
-            "created_at": "2024-11-19T09:03:06-08:00",
-            "updated_at": "2024-11-19T09:03:07-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-            "variant_ids": [
-              43591444791476,
-              43591444824244,
-              43591444889780,
-              43591444922548,
-              43591444955316,
-              43591444988084,
-              43591445020852
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 849,
-          "compare_at_price": "148.00",
-          "position": 6,
-          "product_id": 7850780524724,
-          "created_at": "2024-09-19T15:13:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43591445020852,
-          "title": "Celestial Blue / 2XL",
-          "option1": "Celestial Blue",
-          "option2": "2XL",
-          "option3": null,
-          "sku": "U3013R058166",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38652204777652,
-            "product_id": 7850780524724,
-            "position": 1,
-            "created_at": "2024-11-19T09:03:06-08:00",
-            "updated_at": "2024-11-19T09:03:07-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-            "variant_ids": [
-              43591444791476,
-              43591444824244,
-              43591444889780,
-              43591444922548,
-              43591444955316,
-              43591444988084,
-              43591445020852
-            ]
-          },
-          "available": false,
-          "price": "103.00",
-          "grams": 849,
-          "compare_at_price": "148.00",
-          "position": 7,
-          "product_id": 7850780524724,
-          "created_at": "2024-09-19T15:13:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 38652204777652,
-          "created_at": "2024-11-19T09:03:06-08:00",
-          "position": 1,
-          "updated_at": "2024-11-19T09:03:07-08:00",
-          "product_id": 7850780524724,
-          "variant_ids": [
-            43591444791476,
-            43591444824244,
-            43591444889780,
-            43591444922548,
-            43591444955316,
-            43591444988084,
-            43591445020852
-          ],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a1_m18.jpg?v=1732035787",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38652204548276,
-          "created_at": "2024-11-19T09:03:06-08:00",
-          "position": 2,
-          "updated_at": "2024-11-19T09:03:07-08:00",
-          "product_id": 7850780524724,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a2_m18.jpg?v=1732035787",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38652204744884,
-          "created_at": "2024-11-19T09:03:06-08:00",
-          "position": 3,
-          "updated_at": "2024-11-19T09:03:07-08:00",
-          "product_id": 7850780524724,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a3_m18.jpg?v=1732035787",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38652204712116,
-          "created_at": "2024-11-19T09:03:06-08:00",
-          "position": 4,
-          "updated_at": "2024-11-19T09:03:07-08:00",
-          "product_id": 7850780524724,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/U3013R_05816_b1_s1_a4_m18.jpg?v=1732035787",
-          "width": 930,
-          "height": 1395
-        }
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Celestial Blue"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "2XL"
-          ]
-        }
-      ]
-    },
-    {
       "id": 9092775641447,
       "title": "Tennis Club Sweater Knit Full Zip Jacket - Pink Wild Rose/White",
       "handle": "w4677r-tennis-club-sweater-knit-full-zip-pink-wild-rose-white",
       "body_html": "<p>Tell your tennis pro it’s your turn to serve. Whether you’re hitting aces or serving looks, the Tennis Club Sweater Knit Full Zip Jacket is your go-to. Made of a softly textured, lightweight cotton knit, this elevated style features a relaxed body and a fitted, flattering hem. Pair it with your favorite court-ready style and you’ll be ready to score major points.</p>",
       "published_at": "2026-10-08T22:17:08-07:00",
       "created_at": "2025-06-24T11:13:24-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Jackets",
       "tags": [
@@ -3009,7 +2195,7 @@
           "position": 1,
           "product_id": 9092775641447,
           "created_at": "2025-06-24T11:13:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661498061159,
@@ -3045,7 +2231,7 @@
           "position": 2,
           "product_id": 9092775641447,
           "created_at": "2025-06-24T11:13:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661498093927,
@@ -3081,7 +2267,7 @@
           "position": 3,
           "product_id": 9092775641447,
           "created_at": "2025-06-24T11:13:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661498126695,
@@ -3117,7 +2303,7 @@
           "position": 4,
           "product_id": 9092775641447,
           "created_at": "2025-06-24T11:13:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661498159463,
@@ -3153,7 +2339,7 @@
           "position": 5,
           "product_id": 9092775641447,
           "created_at": "2025-06-24T11:13:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -3247,7 +2433,7 @@
       "body_html": "<p>Scrunchies have never been cuter. This oversized style is the perfect accessory to elevate any hairstyle. Our favorite tip? Place it over your already-tied ponytail or updo to keep it looking full and bouncy.</p>",
       "published_at": "2026-10-08T19:37:42-07:00",
       "created_at": "2024-09-19T15:09:30-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Accessories:Hair Management:Hair Ties",
       "tags": [
@@ -3306,7 +2492,7 @@
           "position": 1,
           "product_id": 7850775183540,
           "created_at": "2024-09-19T15:09:30-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -3353,324 +2539,13 @@
       ]
     },
     {
-      "id": 7900129034420,
-      "title": "Muse Sweatpant - Raisinette Heather",
-      "handle": "w5784r-muse-sweatpant-raisinette-heather",
-      "body_html": "<p>Meet the sweats you’ve seen all over your feed. They’re done in a plush, incredibly soft, wide-ribbed fabric that feels as good as it looks. The jogger-style silhouette is luxuriously cozy with a high-rise waistband and ankle cuffs. Make it a matching set with the Muse Hoodie.</p>",
-      "published_at": "2026-10-08T18:18:30-07:00",
-      "created_at": "2024-12-12T15:38:14-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
-      "vendor": "Alo Yoga",
-      "product_type": "Women:Bottoms:Sweatpants",
-      "tags": [
-        "BVCategory:Women",
-        "clearance",
-        "Color:Raisinette Heather:Color",
-        "ColorGroup:Brown",
-        "ColorwayType:Limited",
-        "Computed:IsAlmostGone",
-        "Computed:UnderInventoryThreshold:5:for:L",
-        "Computed:UnderInventoryThreshold:5:for:M",
-        "Computed:UnderInventoryThreshold:5:for:S",
-        "FA24",
-        "FA24D3-family",
-        "FA24Drops-family",
-        "Filter:DisplaySize:3:Small",
-        "Filter:PercentOffBucket:30-40%",
-        "Filter:Size:S",
-        "FurtherMDs-BFCM25",
-        "Maintenance:ColorwayProduct",
-        "master-woman-sale",
-        "NewMDs-SinglesDay25",
-        "pricing:saleprice",
-        "Sale:WomenBottoms",
-        "Sale:WomenNew",
-        "SellThru_AS_2025",
-        "SFSSafetyStock0",
-        "Status:Markdown",
-        "Status:PhaseOut",
-        "StyleId:W5784R",
-        "Waist:Regular Waist",
-        "Women:Activity:Lounge",
-        "Women:Fashion",
-        "X:IsPublishedToOnlineStore",
-        "YCRF_reviews:women",
-        "YGroup_W5784R"
-      ],
-      "variants": [
-        {
-          "id": 43766331932852,
-          "title": "Raisinette Heather / XXS",
-          "option1": "Raisinette Heather",
-          "option2": "XXS",
-          "option3": null,
-          "sku": "W5784R056350",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38760724660404,
-            "product_id": 7900129034420,
-            "position": 5,
-            "created_at": "2024-12-12T17:53:12-08:00",
-            "updated_at": "2024-12-12T17:53:13-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a5_1_m196.jpg?v=1734054793",
-            "variant_ids": [
-              43766331932852,
-              43766331965620,
-              43766331998388,
-              43766332031156,
-              43766332063924
-            ]
-          },
-          "available": false,
-          "price": "82.00",
-          "grams": 382,
-          "compare_at_price": "118.00",
-          "position": 1,
-          "product_id": 7900129034420,
-          "created_at": "2024-12-12T15:38:14-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43766331965620,
-          "title": "Raisinette Heather / XS",
-          "option1": "Raisinette Heather",
-          "option2": "XS",
-          "option3": null,
-          "sku": "W5784R056351",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38760724660404,
-            "product_id": 7900129034420,
-            "position": 5,
-            "created_at": "2024-12-12T17:53:12-08:00",
-            "updated_at": "2024-12-12T17:53:13-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a5_1_m196.jpg?v=1734054793",
-            "variant_ids": [
-              43766331932852,
-              43766331965620,
-              43766331998388,
-              43766332031156,
-              43766332063924
-            ]
-          },
-          "available": false,
-          "price": "82.00",
-          "grams": 382,
-          "compare_at_price": "118.00",
-          "position": 2,
-          "product_id": 7900129034420,
-          "created_at": "2024-12-12T15:38:14-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43766331998388,
-          "title": "Raisinette Heather / S",
-          "option1": "Raisinette Heather",
-          "option2": "S",
-          "option3": null,
-          "sku": "W5784R056352",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38760724660404,
-            "product_id": 7900129034420,
-            "position": 5,
-            "created_at": "2024-12-12T17:53:12-08:00",
-            "updated_at": "2024-12-12T17:53:13-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a5_1_m196.jpg?v=1734054793",
-            "variant_ids": [
-              43766331932852,
-              43766331965620,
-              43766331998388,
-              43766332031156,
-              43766332063924
-            ]
-          },
-          "available": true,
-          "price": "82.00",
-          "grams": 382,
-          "compare_at_price": "118.00",
-          "position": 3,
-          "product_id": 7900129034420,
-          "created_at": "2024-12-12T15:38:14-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43766332031156,
-          "title": "Raisinette Heather / M",
-          "option1": "Raisinette Heather",
-          "option2": "M",
-          "option3": null,
-          "sku": "W5784R056353",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38760724660404,
-            "product_id": 7900129034420,
-            "position": 5,
-            "created_at": "2024-12-12T17:53:12-08:00",
-            "updated_at": "2024-12-12T17:53:13-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a5_1_m196.jpg?v=1734054793",
-            "variant_ids": [
-              43766331932852,
-              43766331965620,
-              43766331998388,
-              43766332031156,
-              43766332063924
-            ]
-          },
-          "available": false,
-          "price": "82.00",
-          "grams": 382,
-          "compare_at_price": "118.00",
-          "position": 4,
-          "product_id": 7900129034420,
-          "created_at": "2024-12-12T15:38:14-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        },
-        {
-          "id": 43766332063924,
-          "title": "Raisinette Heather / L",
-          "option1": "Raisinette Heather",
-          "option2": "L",
-          "option3": null,
-          "sku": "W5784R056354",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 38760724660404,
-            "product_id": 7900129034420,
-            "position": 5,
-            "created_at": "2024-12-12T17:53:12-08:00",
-            "updated_at": "2024-12-12T17:53:13-08:00",
-            "alt": null,
-            "width": 930,
-            "height": 1395,
-            "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a5_1_m196.jpg?v=1734054793",
-            "variant_ids": [
-              43766331932852,
-              43766331965620,
-              43766331998388,
-              43766332031156,
-              43766332063924
-            ]
-          },
-          "available": false,
-          "price": "82.00",
-          "grams": 382,
-          "compare_at_price": "118.00",
-          "position": 5,
-          "product_id": 7900129034420,
-          "created_at": "2024-12-12T15:38:14-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
-        }
-      ],
-      "images": [
-        {
-          "id": 38760724496564,
-          "created_at": "2024-12-12T17:53:12-08:00",
-          "position": 1,
-          "updated_at": "2025-02-12T16:15:54-08:00",
-          "product_id": 7900129034420,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a1_1_m196.jpg?v=1739405754",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38760724431028,
-          "created_at": "2024-12-12T17:53:12-08:00",
-          "position": 2,
-          "updated_at": "2025-02-12T16:15:54-08:00",
-          "product_id": 7900129034420,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a2_1_m196.jpg?v=1739405754",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38760724562100,
-          "created_at": "2024-12-12T17:53:12-08:00",
-          "position": 3,
-          "updated_at": "2025-02-12T16:15:54-08:00",
-          "product_id": 7900129034420,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a3_1_m196.jpg?v=1739405754",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38760724594868,
-          "created_at": "2024-12-12T17:53:12-08:00",
-          "position": 4,
-          "updated_at": "2024-12-12T17:53:13-08:00",
-          "product_id": 7900129034420,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a4_1_m196.jpg?v=1734054793",
-          "width": 930,
-          "height": 1395
-        },
-        {
-          "id": 38760724660404,
-          "created_at": "2024-12-12T17:53:12-08:00",
-          "position": 5,
-          "updated_at": "2024-12-12T17:53:13-08:00",
-          "product_id": 7900129034420,
-          "variant_ids": [
-            43766331932852,
-            43766331965620,
-            43766331998388,
-            43766332031156,
-            43766332063924
-          ],
-          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W5784R_05635_b1_s1_a5_1_m196.jpg?v=1734054793",
-          "width": 930,
-          "height": 1395
-        }
-      ],
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Raisinette Heather"
-          ]
-        },
-        {
-          "name": "Size",
-          "position": 2,
-          "values": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-          ]
-        }
-      ]
-    },
-    {
       "id": 9092897309031,
       "title": "Linen Jersey Coastal Short Sleeve Polo - Black",
       "handle": "m1286p-linen-jersey-coastal-short-sleeve-polo-black",
       "body_html": "<p>Whether you’re packing it in a suitcase or wearing it to a late-night dinner, the Linen Jersey Coastal Polo is perfect for taking your summer looks to a new level. Made from a soft, lightweight linen, this style is slightly see-through and has a relaxed, streamlined fit. Pair it with the matching shorts or your favorite pants, and you’ll be ready for wherever the day takes you.</p>",
       "published_at": "2026-10-08T17:47:33-07:00",
       "created_at": "2026-03-31T13:52:59-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Tops:Short Sleeves",
       "tags": [
@@ -3716,7 +2591,7 @@
           "position": 1,
           "product_id": 9092897309031,
           "created_at": "2026-03-31T13:52:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662076514663,
@@ -3735,7 +2610,7 @@
           "position": 2,
           "product_id": 9092897309031,
           "created_at": "2026-03-31T13:52:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662076547431,
@@ -3754,7 +2629,7 @@
           "position": 3,
           "product_id": 9092897309031,
           "created_at": "2026-03-31T13:52:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662076580199,
@@ -3773,7 +2648,7 @@
           "position": 4,
           "product_id": 9092897309031,
           "created_at": "2026-03-31T13:52:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662076612967,
@@ -3792,7 +2667,7 @@
           "position": 5,
           "product_id": 9092897309031,
           "created_at": "2026-03-31T13:52:59-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -3891,7 +2766,7 @@
       "body_html": "<p>The Highline Ribbed Sweater Knit Cropped Tank puts a retro spin on your off-duty uniform with bold contrast piping and a body-hugging silhouette. Designed in a midweight stretchy knit that moves with you, it’s finished with a high neck, racerback cut, and slightly cropped hem for a sleek, athletic look. Pair it with the Highline Flare Pant for a head-to-toe look that’s soft, sculpting, and sleek.</p>",
       "published_at": "2026-10-08T17:37:47-07:00",
       "created_at": "2025-06-24T10:45:42-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Tops:Tanks",
       "tags": [
@@ -3958,7 +2833,7 @@
           "position": 1,
           "product_id": 9092772987239,
           "created_at": "2025-06-24T10:45:42-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661484790119,
@@ -3994,7 +2869,7 @@
           "position": 2,
           "product_id": 9092772987239,
           "created_at": "2025-06-24T10:45:42-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661484822887,
@@ -4030,7 +2905,7 @@
           "position": 3,
           "product_id": 9092772987239,
           "created_at": "2025-06-24T10:45:42-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661484855655,
@@ -4066,7 +2941,7 @@
           "position": 4,
           "product_id": 9092772987239,
           "created_at": "2025-06-24T10:45:42-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661484888423,
@@ -4102,7 +2977,7 @@
           "position": 5,
           "product_id": 9092772987239,
           "created_at": "2025-06-24T10:45:42-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -4185,7 +3060,7 @@
       "body_html": "<p>Sculpt your silhouette with the Airlift Sleek Legging. This style is constructed of our signature Airlift performance fabric and designed with a bonded waistband (that means no front seam!) Perfect for everything from heated yoga classes to chill days in. Pair it with the Airlift Sleek Bra Tank for the ultimate look.</p>",
       "published_at": "2026-10-08T17:17:27-07:00",
       "created_at": "2024-12-20T17:01:12-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -4266,7 +3141,7 @@
           "position": 1,
           "product_id": 7902733369524,
           "created_at": "2024-12-20T17:01:12-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43774129897652,
@@ -4302,7 +3177,7 @@
           "position": 2,
           "product_id": 7902733369524,
           "created_at": "2024-12-20T17:01:12-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43774129930420,
@@ -4338,7 +3213,7 @@
           "position": 3,
           "product_id": 7902733369524,
           "created_at": "2024-12-20T17:01:12-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43774129963188,
@@ -4374,7 +3249,7 @@
           "position": 4,
           "product_id": 7902733369524,
           "created_at": "2024-12-20T17:01:12-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43774129995956,
@@ -4410,7 +3285,7 @@
           "position": 5,
           "product_id": 7902733369524,
           "created_at": "2024-12-20T17:01:12-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -4504,7 +3379,7 @@
       "body_html": "<p>So yummy soft &amp; cool, with major dancer vibes — the Prima Off-The-Shoulder Pullover in tri-blend fleece features a raw-edge hem &amp; neckline, dropped shoulders &amp; cuffed sleeves. Perfect to-and-from yoga or your pre- and post-practice plans.</p>\n<ul>\n<li>Comfy tri-blend fleece</li>\n<li>Cropped, off-the-shoulder fit</li>\n<li>Designed &amp; uniquely fit to flatter every size</li>\n<li>Wear-tested by our in-house team for the perfect fit</li>\n</ul>",
       "published_at": "2026-10-08T17:17:26-07:00",
       "created_at": "2020-12-29T12:05:08-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -4564,7 +3439,7 @@
           "position": 1,
           "product_id": 6146484797620,
           "created_at": "2020-12-29T12:05:08-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 37808029171892,
@@ -4599,7 +3474,7 @@
           "position": 2,
           "product_id": 6146484797620,
           "created_at": "2020-12-29T12:05:08-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 37808029368500,
@@ -4634,7 +3509,7 @@
           "position": 3,
           "product_id": 6146484797620,
           "created_at": "2020-12-29T12:05:08-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 37808029794484,
@@ -4669,7 +3544,7 @@
           "position": 4,
           "product_id": 6146484797620,
           "created_at": "2020-12-29T12:05:08-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -4794,7 +3669,7 @@
       "body_html": "<meta charset=\"UTF-8\">\n<p data-pm-slice=\"1 1 []\" data-mce-fragment=\"1\">A classic piece you’ll wear constantly, the Scholar is knit from a soft, heavyweight cotton blend with just-right drape. It has an oversized fit, a four-button front, dropped shoulders and cozy ribbed cuffs. Wear it as a throw-on-and-go layer with your favorite workout sets, or style it with trousers and heeled boots for a dressed-up dinner date.</p>",
       "published_at": "2026-10-08T16:58:06-07:00",
       "created_at": "2023-12-14T11:24:13-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Sweaters",
       "tags": [
@@ -4872,7 +3747,7 @@
           "position": 1,
           "product_id": 7487760367796,
           "created_at": "2023-12-14T11:24:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42545600266420,
@@ -4908,7 +3783,7 @@
           "position": 2,
           "product_id": 7487760367796,
           "created_at": "2023-12-14T11:24:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42545600430260,
@@ -4944,7 +3819,7 @@
           "position": 3,
           "product_id": 7487760367796,
           "created_at": "2023-12-14T11:24:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42545600561332,
@@ -4980,7 +3855,7 @@
           "position": 4,
           "product_id": 7487760367796,
           "created_at": "2023-12-14T11:24:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42545600790708,
@@ -5016,7 +3891,7 @@
           "position": 5,
           "product_id": 7487760367796,
           "created_at": "2023-12-14T11:24:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -5099,7 +3974,7 @@
       "body_html": "<meta charset=\"UTF-8\">\n<p data-mce-fragment=\"1\" data-pm-slice=\"1 1 []\">A classic piece you’ll wear constantly, the Scholar is knit from a soft, heavyweight cotton blend with just-right drape. It has a relaxed fit, a four-button front, dropped shoulders and cozy ribbed cuffs. And the hem is around the same length as your favorite t-shirt, making it super easy to style—try it left open over a basic or buttoned up under a bomber jacket. </p>",
       "published_at": "2026-10-08T16:58:05-07:00",
       "created_at": "2023-12-12T14:26:11-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Outerwear:Coverups:Sweaters",
       "tags": [
@@ -5172,7 +4047,7 @@
           "position": 1,
           "product_id": 7486530224308,
           "created_at": "2023-12-12T14:26:11-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42542417674420,
@@ -5208,7 +4083,7 @@
           "position": 2,
           "product_id": 7486530224308,
           "created_at": "2023-12-12T14:26:11-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42542417707188,
@@ -5244,7 +4119,7 @@
           "position": 3,
           "product_id": 7486530224308,
           "created_at": "2023-12-12T14:26:11-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42542417739956,
@@ -5280,7 +4155,7 @@
           "position": 4,
           "product_id": 7486530224308,
           "created_at": "2023-12-12T14:26:11-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42542417772724,
@@ -5316,7 +4191,7 @@
           "position": 5,
           "product_id": 7486530224308,
           "created_at": "2023-12-12T14:26:11-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -5410,7 +4285,7 @@
       "body_html": "<p>This sweater is our latest obsession. It’s soft, cozy and designed with the perfect oversized fit. Wear it during the day with a pair of cargo pants, or pair it with a pair of sweat shorts for a luxe, laid-back lounge look. It’s the pullover that can pull off anything.</p>",
       "published_at": "2026-10-08T16:08:03-07:00",
       "created_at": "2025-01-15T15:08:29-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -5480,7 +4355,7 @@
           "position": 1,
           "product_id": 7910885294260,
           "created_at": "2025-01-15T15:08:29-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43802083688628,
@@ -5516,7 +4391,7 @@
           "position": 2,
           "product_id": 7910885294260,
           "created_at": "2025-01-15T15:08:29-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43802083721396,
@@ -5552,7 +4427,7 @@
           "position": 3,
           "product_id": 7910885294260,
           "created_at": "2025-01-15T15:08:29-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43802083754164,
@@ -5588,7 +4463,7 @@
           "position": 4,
           "product_id": 7910885294260,
           "created_at": "2025-01-15T15:08:29-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43802083786932,
@@ -5624,7 +4499,7 @@
           "position": 5,
           "product_id": 7910885294260,
           "created_at": "2025-01-15T15:08:29-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -5707,7 +4582,7 @@
       "body_html": "<p>Just as perfect for out and about as they are for a good sweat session. These leggings are made from Airlift—our most compressive, supportive fabric with a sheeny finish and four-way-stretch for a glove-like fit. The high-rise waistband is double-layered for a sleek look, and the full-length legs are designed to hit at the ankle. Choose your favorite color(s) and get ready to wear yours on repeat.</p>",
       "published_at": "2026-10-08T15:17:40-07:00",
       "created_at": "2024-09-19T15:04:38-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -5783,7 +4658,7 @@
           "position": 1,
           "product_id": 7850770792628,
           "created_at": "2024-09-19T15:04:38-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591409860788,
@@ -5819,7 +4694,7 @@
           "position": 2,
           "product_id": 7850770792628,
           "created_at": "2024-09-19T15:04:39-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591409893556,
@@ -5855,7 +4730,7 @@
           "position": 3,
           "product_id": 7850770792628,
           "created_at": "2024-09-19T15:04:39-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591409926324,
@@ -5891,7 +4766,7 @@
           "position": 4,
           "product_id": 7850770792628,
           "created_at": "2024-09-19T15:04:39-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591409959092,
@@ -5927,7 +4802,7 @@
           "position": 5,
           "product_id": 7850770792628,
           "created_at": "2024-09-19T15:04:39-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -6039,7 +4914,7 @@
       "body_html": "<p>Luxe layering is always in. Whether you’re traveling this season or just looking for something to keep you warm, the Courchevel Soiree Wool Coat is it. Inspired by men’s tailoring, this oversized and structured coat was made for girls on the go. It has an easy and lightweight silhouette that still keeps you warm and elevates your outfits no matter where you take them. </p>",
       "published_at": "2026-10-08T15:17:39-07:00",
       "created_at": "2024-09-19T14:44:10-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Jackets",
       "tags": [
@@ -6097,7 +4972,7 @@
           "position": 1,
           "product_id": 7850762240180,
           "created_at": "2024-09-19T14:44:11-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591361003700,
@@ -6130,7 +5005,7 @@
           "position": 2,
           "product_id": 7850762240180,
           "created_at": "2024-09-19T14:44:11-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -6207,7 +5082,7 @@
       "body_html": "<p>Every wardrobe needs a good cardigan. The Winter Bliss Cardigan is the quintessential piece your closet has been missing. With its oversized silhouette and chunky feel, it’s the perfect throw-on-and-go piece that takes any outfit to the next level.</p>",
       "published_at": "2026-10-08T15:17:38-07:00",
       "created_at": "2024-09-19T14:44:07-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Sweaters",
       "tags": [
@@ -6275,7 +5150,7 @@
           "position": 1,
           "product_id": 7850758897844,
           "created_at": "2024-09-19T14:44:07-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591348486324,
@@ -6310,7 +5185,7 @@
           "position": 2,
           "product_id": 7850758897844,
           "created_at": "2024-09-19T14:44:07-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591348551860,
@@ -6345,7 +5220,7 @@
           "position": 3,
           "product_id": 7850758897844,
           "created_at": "2024-09-19T14:44:07-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591348650164,
@@ -6380,7 +5255,7 @@
           "position": 4,
           "product_id": 7850758897844,
           "created_at": "2024-09-19T14:44:07-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -6461,7 +5336,7 @@
       "body_html": "<p>Winter Bliss just got a little shorter (in a good way). These relaxed shorts elevate any and all of your looks. Pair it with another piece in the Winter Bliss collection for the perfect cozy outfit for going out or staying in. </p>",
       "published_at": "2026-10-08T14:37:34-07:00",
       "created_at": "2024-09-19T14:44:08-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Shorts",
       "tags": [
@@ -6528,7 +5403,7 @@
           "position": 1,
           "product_id": 7850759061684,
           "created_at": "2024-09-19T14:44:08-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591349010612,
@@ -6564,7 +5439,7 @@
           "position": 2,
           "product_id": 7850759061684,
           "created_at": "2024-09-19T14:44:08-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591349076148,
@@ -6600,7 +5475,7 @@
           "position": 3,
           "product_id": 7850759061684,
           "created_at": "2024-09-19T14:44:08-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591349174452,
@@ -6636,7 +5511,7 @@
           "position": 4,
           "product_id": 7850759061684,
           "created_at": "2024-09-19T14:44:08-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591349305524,
@@ -6672,7 +5547,7 @@
           "position": 5,
           "product_id": 7850759061684,
           "created_at": "2024-09-19T14:44:08-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -6755,7 +5630,7 @@
       "body_html": "<p>Support? Check. Longer length? Check. Signature Airlift fabric? Double check. The Empower Bra has it all. It’s designed with an ultra-compressive fit to support any of your moves. It features elements you can tailor to your perfect fit, like adjustable straps and back clasp closure, while a mesh back still makes this high-impact sports bra breathable.</p>",
       "published_at": "2026-10-08T14:17:37-07:00",
       "created_at": "2024-09-19T14:39:16-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -6827,7 +5702,7 @@
           "position": 1,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591336853684,
@@ -6869,7 +5744,7 @@
           "position": 2,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591337181364,
@@ -6911,7 +5786,7 @@
           "position": 3,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591337410740,
@@ -6953,7 +5828,7 @@
           "position": 4,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591337672884,
@@ -6995,7 +5870,7 @@
           "position": 5,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591337869492,
@@ -7037,7 +5912,7 @@
           "position": 6,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591338098868,
@@ -7079,7 +5954,7 @@
           "position": 7,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591338492084,
@@ -7121,7 +5996,7 @@
           "position": 8,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591338688692,
@@ -7163,7 +6038,7 @@
           "position": 9,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591339016372,
@@ -7205,7 +6080,7 @@
           "position": 10,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591339245748,
@@ -7247,7 +6122,7 @@
           "position": 11,
           "product_id": 7850757554356,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -7353,7 +6228,7 @@
       "body_html": "<p>The Cashmere High-Waist Embrace Short is a study in softness and simplicity. Warm yet weightless, the pure cashmere knit molds gently to the body, creating a silhouette that feels both relaxed and intentional. With its clean lines and understated texture, it brings a sense of quiet luxury to cozy moments.</p>",
       "published_at": "2026-10-08T13:07:27-07:00",
       "created_at": "2025-10-02T13:54:36-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Shorts",
       "tags": [
@@ -7420,7 +6295,7 @@
           "position": 1,
           "product_id": 9092811587943,
           "created_at": "2025-10-02T13:54:36-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661671993703,
@@ -7455,7 +6330,7 @@
           "position": 2,
           "product_id": 9092811587943,
           "created_at": "2025-10-02T13:54:36-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661672026471,
@@ -7490,7 +6365,7 @@
           "position": 3,
           "product_id": 9092811587943,
           "created_at": "2025-10-02T13:54:36-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661672059239,
@@ -7525,7 +6400,7 @@
           "position": 4,
           "product_id": 9092811587943,
           "created_at": "2025-10-02T13:54:36-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -7606,7 +6481,7 @@
       "body_html": "<p>Soft, warm, and effortlessly sculpted, the Cashmere Radiate Jacket elevates coziness into contemporary chic. The zippered details and cinched hem add a crisp modernity, while gentle ribbing frames the body with understated elegance. Wrapping you in the cloud-like touch of pure cashmere, this style transforms the simple act of layering into a luxurious winter ritual.</p>",
       "published_at": "2026-10-08T12:57:44-07:00",
       "created_at": "2025-10-06T11:56:31-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Jackets",
       "tags": [
@@ -7655,7 +6530,7 @@
           "position": 1,
           "product_id": 9092817879399,
           "created_at": "2025-10-06T11:56:31-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661703713127,
@@ -7674,7 +6549,7 @@
           "position": 2,
           "product_id": 9092817879399,
           "created_at": "2025-10-06T11:56:31-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661703745895,
@@ -7693,7 +6568,7 @@
           "position": 3,
           "product_id": 9092817879399,
           "created_at": "2025-10-06T11:56:31-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661703778663,
@@ -7712,7 +6587,7 @@
           "position": 4,
           "product_id": 9092817879399,
           "created_at": "2025-10-06T11:56:31-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50661703811431,
@@ -7731,7 +6606,7 @@
           "position": 5,
           "product_id": 9092817879399,
           "created_at": "2025-10-06T11:56:31-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -7808,7 +6683,7 @@
       "body_html": "<p>Here’s why the Intrigue Bra will be your new go-to: It’s made from our signature Airlift fabric for a supportive, snug fit that’s ready for everything from HIIT to headstands. The cut is simple but flattering, designed with a scoop-neck, adjustable straps that crisscross in back for extra lift, and a keyhole cutout. Wear it with sweats to cozy up at home, with matching Airlift leggings to make a cute set… Really, when won’t you reach for it?</p>",
       "published_at": "2026-10-08T12:57:43-07:00",
       "created_at": "2024-12-12T15:01:21-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -7890,7 +6765,7 @@
           "position": 1,
           "product_id": 7900116746420,
           "created_at": "2024-12-12T15:01:21-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43766278357172,
@@ -7925,7 +6800,7 @@
           "position": 2,
           "product_id": 7900116746420,
           "created_at": "2024-12-12T15:01:21-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43766278389940,
@@ -7960,7 +6835,7 @@
           "position": 3,
           "product_id": 7900116746420,
           "created_at": "2024-12-12T15:01:21-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43766278422708,
@@ -7995,7 +6870,7 @@
           "position": 4,
           "product_id": 7900116746420,
           "created_at": "2024-12-12T15:01:21-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -8087,7 +6962,7 @@
       "body_html": "<p>Picture this: you step off the lift, head down the slopes, and head straight to grab a post-ski hot toddy, all while wearing the Polar Star Ski Suit. As a fully functioning ski suit, this style is a must-have for snow season. It features a waterproof fabrication, gaiters, zippered pockets, and every other detail you need to make your retreat to snow-capped mountains both fun and chic. </p>",
       "published_at": "2026-10-08T12:57:39-07:00",
       "created_at": "2024-09-19T15:10:00-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:One Piece:Onesies",
       "tags": [
@@ -8157,7 +7032,7 @@
           "position": 1,
           "product_id": 7850776887476,
           "created_at": "2025-10-30T10:06:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591434109108,
@@ -8193,7 +7068,7 @@
           "position": 2,
           "product_id": 7850776887476,
           "created_at": "2024-09-19T15:10:00-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591434141876,
@@ -8229,7 +7104,7 @@
           "position": 3,
           "product_id": 7850776887476,
           "created_at": "2024-09-19T15:10:00-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591434174644,
@@ -8265,7 +7140,7 @@
           "position": 4,
           "product_id": 7850776887476,
           "created_at": "2024-09-19T15:10:00-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 43591434207412,
@@ -8301,7 +7176,7 @@
           "position": 5,
           "product_id": 7850776887476,
           "created_at": "2024-09-19T15:10:00-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -8406,7 +7281,7 @@
       "body_html": "<p>The Timeless Tank is an elevated basic that everyone needs. This style is made from a soft cotton blend with a slight stretch. It’s designed to have a slightly fitted look with a waist-grazing silhouette and a scooped neckline that’s oh-so-flattering. Wear it as an easy layering piece over activewear or under a button down, or wear it on its own with your favorite trouser, short, or skirt for a look that easily goes from day to night.</p>",
       "published_at": "2026-10-08T12:17:35-07:00",
       "created_at": "2026-03-31T14:37:19-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Tops:Tanks",
       "tags": [
@@ -8456,7 +7331,7 @@
           "position": 1,
           "product_id": 9092902125927,
           "created_at": "2026-03-31T14:37:19-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662099911015,
@@ -8475,7 +7350,7 @@
           "position": 2,
           "product_id": 9092902125927,
           "created_at": "2026-03-31T14:37:19-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662099943783,
@@ -8494,7 +7369,7 @@
           "position": 3,
           "product_id": 9092902125927,
           "created_at": "2026-03-31T14:37:19-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662099976551,
@@ -8513,7 +7388,7 @@
           "position": 4,
           "product_id": 9092902125927,
           "created_at": "2026-03-31T14:37:19-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662100009319,
@@ -8532,7 +7407,7 @@
           "position": 5,
           "product_id": 9092902125927,
           "created_at": "2026-03-31T14:37:19-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -8609,7 +7484,7 @@
       "body_html": "<p>Equal parts tech- and street-smart, the Co-Op 7/8 Pant is lightweight and water-repellent, with drawcords, side-zip pockets, single back pocket and cuffs. The 7/8 length hits just above the ankle.</p>\n<ul>\n<li>Water-repellent</li>\n<li>Side-zip pockets</li>\n<li>Back pocket</li>\n</ul>",
       "published_at": "2026-10-08T12:17:33-07:00",
       "created_at": "2021-12-16T12:19:13-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Bottoms:Pants",
       "tags": [
@@ -8676,7 +7551,7 @@
           "position": 1,
           "product_id": 6998304751796,
           "created_at": "2021-12-16T12:19:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 41039766945972,
@@ -8712,7 +7587,7 @@
           "position": 2,
           "product_id": 6998304751796,
           "created_at": "2021-12-16T12:19:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 41039766978740,
@@ -8748,7 +7623,7 @@
           "position": 3,
           "product_id": 6998304751796,
           "created_at": "2021-12-16T12:19:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 41039767011508,
@@ -8784,7 +7659,7 @@
           "position": 4,
           "product_id": 6998304751796,
           "created_at": "2021-12-16T12:19:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 41039767044276,
@@ -8820,7 +7695,7 @@
           "position": 5,
           "product_id": 6998304751796,
           "created_at": "2021-12-16T12:19:13-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -8903,7 +7778,7 @@
       "body_html": "<p>Run and train fast and free with the 9” Traction Arena Short — a lightweight performance short with allover perforation for breathability, an elastic waistband, adjustable drawcord and concealed front zip pockets. Varsity-inspired detailing along the hem makes this a major standout wherever you work out.</p>\n<ul>\n<li>Breathable perforated detailing &amp; front zip pockets</li>\n<li>For working out and wearing out</li>\n<li>Designed to work from gym to street</li>\n<li>Wear-tested by our in-house team for the perfect fit</li>\n</ul>",
       "published_at": "2026-10-08T11:47:24-07:00",
       "created_at": "2023-08-03T16:19:13-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Bottoms:Shorts",
       "tags": [
@@ -8975,7 +7850,7 @@
           "position": 1,
           "product_id": 7404208849076,
           "created_at": "2023-08-03T16:19:13-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42337290092724,
@@ -9011,7 +7886,7 @@
           "position": 2,
           "product_id": 7404208849076,
           "created_at": "2023-08-03T16:19:13-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42337290125492,
@@ -9047,7 +7922,7 @@
           "position": 3,
           "product_id": 7404208849076,
           "created_at": "2023-08-03T16:19:13-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42337290191028,
@@ -9083,7 +7958,7 @@
           "position": 4,
           "product_id": 7404208849076,
           "created_at": "2023-08-03T16:19:13-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42337290223796,
@@ -9119,7 +7994,7 @@
           "position": 5,
           "product_id": 7404208849076,
           "created_at": "2023-08-03T16:19:13-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -9202,7 +8077,7 @@
       "body_html": "<p>Our ultralight Airlift fabric, in an essential silhouette. The Airlift Line Up Bra sets it up to knock ‘em down during a super-sweaty hot yoga sesh or on the street. Flocking details, removable cups, and skinny adjustable straps give a clean, finished look. Pair with the matching Airlift 7/8 High-Waist Line Up legging for all-day wicking and breathing.</p>",
       "published_at": "2026-10-08T10:57:42-07:00",
       "created_at": "2024-01-07T21:31:25-08:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -9278,7 +8153,7 @@
           "position": 1,
           "product_id": 7495622754484,
           "created_at": "2024-01-07T21:31:25-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42580506673332,
@@ -9313,7 +8188,7 @@
           "position": 2,
           "product_id": 7495622754484,
           "created_at": "2024-01-07T21:31:25-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42580506706100,
@@ -9348,7 +8223,7 @@
           "position": 3,
           "product_id": 7495622754484,
           "created_at": "2024-01-07T21:31:25-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 42580506738868,
@@ -9383,7 +8258,7 @@
           "position": 4,
           "product_id": 7495622754484,
           "created_at": "2024-01-07T21:31:25-08:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -9464,7 +8339,7 @@
       "body_html": "<p>The Chill Cutoff Sweatpant is cool, easy, and made for everyday wear. This comfy style is made of a soft cotton blend and features an easy, relaxed fit a drawcord waistband. It has a 19\" inseam and side pockets for holding the essentials. They sit comfortably at your waist but size up once or twice to wear them low-slung on the waist. Pair it with your favorite cropped tee or tank for a comfy look you'll never want to take off.</p>",
       "published_at": "2026-10-08T09:02:29-07:00",
       "created_at": "2026-08-13T16:11:44-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Sweatpants",
       "tags": [
@@ -9520,7 +8395,7 @@
           "position": 1,
           "product_id": 9092975788391,
           "created_at": "2026-08-13T16:11:44-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662448824679,
@@ -9539,7 +8414,7 @@
           "position": 2,
           "product_id": 9092975788391,
           "created_at": "2026-08-13T16:11:44-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662448857447,
@@ -9558,7 +8433,7 @@
           "position": 3,
           "product_id": 9092975788391,
           "created_at": "2026-08-13T16:11:44-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662448890215,
@@ -9577,7 +8452,7 @@
           "position": 4,
           "product_id": 9092975788391,
           "created_at": "2026-08-13T16:11:44-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662448922983,
@@ -9596,7 +8471,7 @@
           "position": 5,
           "product_id": 9092975788391,
           "created_at": "2026-08-13T16:11:44-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -9673,7 +8548,7 @@
       "body_html": "<p>Everyone needs more Accolade. Meet the Accolade 1/4 Zip Pullover—your favorite fabric in a cool new silhouette. With its 1/4 zip feature and its stand-up collar, this pullover is sure to be a new favorite. Be sure to add this must-have style to your loungewear collection ASAP.</p>",
       "published_at": "2026-10-08T09:02:29-07:00",
       "created_at": "2026-07-13T15:24:05-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -9735,7 +8610,7 @@
           "position": 1,
           "product_id": 9092957634919,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662359138663,
@@ -9754,7 +8629,7 @@
           "position": 2,
           "product_id": 9092957634919,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662359171431,
@@ -9773,7 +8648,7 @@
           "position": 3,
           "product_id": 9092957634919,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662359204199,
@@ -9792,7 +8667,7 @@
           "position": 4,
           "product_id": 9092957634919,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662359236967,
@@ -9811,7 +8686,7 @@
           "position": 5,
           "product_id": 9092957634919,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662359269735,
@@ -9830,7 +8705,7 @@
           "position": 6,
           "product_id": 9092957634919,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662359302503,
@@ -9849,7 +8724,7 @@
           "position": 7,
           "product_id": 9092957634919,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -9928,7 +8803,7 @@
       "body_html": "<p>The search for the perfect lounge-to-street look is over. Our iconic sweats have classic details, like an elastic waistband and cuffs, plus a relaxed fit that reads laid-back but not slouchy (since this is a unisex style, we recommend sizing down to achieve this look). The French terry feels smooth on the outside and fleecy on the inside. And may we suggest a matching Accolade Hoodie or Crew Neck?</p>",
       "published_at": "2026-10-08T09:02:28-07:00",
       "created_at": "2026-07-13T15:24:05-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Bottoms:Sweatpants",
       "tags": [
@@ -9990,7 +8865,7 @@
           "position": 1,
           "product_id": 9092957569383,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662357107047,
@@ -10009,7 +8884,7 @@
           "position": 2,
           "product_id": 9092957569383,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662357139815,
@@ -10028,7 +8903,7 @@
           "position": 3,
           "product_id": 9092957569383,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662357172583,
@@ -10047,7 +8922,7 @@
           "position": 4,
           "product_id": 9092957569383,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662357205351,
@@ -10066,7 +8941,7 @@
           "position": 5,
           "product_id": 9092957569383,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662357238119,
@@ -10085,7 +8960,7 @@
           "position": 6,
           "product_id": 9092957569383,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662357270887,
@@ -10104,7 +8979,7 @@
           "position": 7,
           "product_id": 9092957569383,
           "created_at": "2026-07-13T15:24:06-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -10194,7 +9069,7 @@
       "body_html": "<p>Sometimes a good beanie is your best hair day. Especially if you have this one in your collection—the ribbed fabric is warm and cozy, and the ALO logo is unmistakably cool. Wear it to finish off all your favorite street and lounge looks.</p><p></p>",
       "published_at": "2026-10-08T09:02:26-07:00",
       "created_at": "2026-07-13T15:24:03-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Accessories:Cold Weather:Beanies",
       "tags": [
@@ -10243,7 +9118,7 @@
           "position": 1,
           "product_id": 9092956717415,
           "created_at": "2026-07-13T15:24:03-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -10294,7 +9169,7 @@
       "body_html": "<p>A modern take on performance elegance. The ALO Softsculpt Precision Bra is crafted from our signature naturally-breathable, medium-compression fabric with a subtle sheen to catch the light just right. The fabric has an ultra-soft feel that’s comfortable enough for studio sessions and recovery moments. Designed for a smooth, barely-there feel, it features clean lines, a sculpted silhouette, and just the right amount of hold for low-to-medium impact movement. Pair it with the ALO Softsculpt leggings for a chic look at your next barre class.</p>",
       "published_at": "2026-10-08T09:02:24-07:00",
       "created_at": "2026-07-09T12:13:40-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -10354,7 +9229,7 @@
           "position": 1,
           "product_id": 9092956094823,
           "created_at": "2026-07-09T12:13:40-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349439335,
@@ -10373,7 +9248,7 @@
           "position": 2,
           "product_id": 9092956094823,
           "created_at": "2026-07-09T12:13:40-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349472103,
@@ -10392,7 +9267,7 @@
           "position": 3,
           "product_id": 9092956094823,
           "created_at": "2026-07-09T12:13:40-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349504871,
@@ -10411,7 +9286,7 @@
           "position": 4,
           "product_id": 9092956094823,
           "created_at": "2026-07-09T12:13:40-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349537639,
@@ -10430,7 +9305,7 @@
           "position": 5,
           "product_id": 9092956094823,
           "created_at": "2026-07-09T12:13:40-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -10507,7 +9382,7 @@
       "body_html": "<p>Live up to your Pilates Princess status with the new Airlift Rebel Bra. Constructed of our signature Airlift performance fabric, this style keeps up with all your moves while elevating your look. It features subtle mesh details along the underside of the bust and the racer back for breathability and style. Pair it back to the Airlift Rebel Leggings for the full look.</p>",
       "published_at": "2026-10-08T09:02:23-07:00",
       "created_at": "2026-07-09T12:12:54-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -10573,7 +9448,7 @@
           "position": 1,
           "product_id": 9092956029287,
           "created_at": "2026-07-09T12:12:54-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349111655,
@@ -10592,7 +9467,7 @@
           "position": 2,
           "product_id": 9092956029287,
           "created_at": "2026-07-09T12:12:54-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349144423,
@@ -10611,7 +9486,7 @@
           "position": 3,
           "product_id": 9092956029287,
           "created_at": "2026-07-09T12:12:54-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349177191,
@@ -10630,7 +9505,7 @@
           "position": 4,
           "product_id": 9092956029287,
           "created_at": "2026-07-09T12:12:54-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662349209959,
@@ -10649,7 +9524,7 @@
           "position": 5,
           "product_id": 9092956029287,
           "created_at": "2026-07-09T12:12:54-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -10737,7 +9612,7 @@
       "body_html": "<p>Here’s why the Intrigue Bra will be your new go-to: It’s made from our signature Airlift fabric for a supportive, snug fit that’s ready for everything from HIIT to headstands. The cut is simple but flattering, designed with a scoop-neck, adjustable straps that crisscross in back for extra lift, and a keyhole cutout. Wear it with sweats to cozy up at home, with matching Airlift leggings to make a cute set… Really, when won’t you reach for it?</p>",
       "published_at": "2026-10-08T09:02:22-07:00",
       "created_at": "2026-07-09T11:57:52-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -10803,7 +9678,7 @@
           "position": 1,
           "product_id": 9092955636071,
           "created_at": "2026-07-09T11:57:52-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662347145575,
@@ -10822,7 +9697,7 @@
           "position": 2,
           "product_id": 9092955636071,
           "created_at": "2026-07-09T11:57:52-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662347178343,
@@ -10841,7 +9716,7 @@
           "position": 3,
           "product_id": 9092955636071,
           "created_at": "2026-07-09T11:57:52-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662347211111,
@@ -10860,7 +9735,7 @@
           "position": 4,
           "product_id": 9092955636071,
           "created_at": "2026-07-09T11:57:52-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662347243879,
@@ -10879,7 +9754,7 @@
           "position": 5,
           "product_id": 9092955636071,
           "created_at": "2026-07-09T11:57:52-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -10967,7 +9842,7 @@
       "body_html": "<p>You’ll be wearing the Airmesh Venus Bralette on repeat. It’s hard not to fall in love with this feminine, flirty bralette, with allover mesh, adjustable elastic straps &amp; elevated construction that delivers light, everyday support. Wear it underneath studio-to-street looks with confidence.</p>",
       "published_at": "2026-10-08T09:02:21-07:00",
       "created_at": "2026-07-09T11:40:46-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -11024,7 +9899,7 @@
           "position": 1,
           "product_id": 9092955472231,
           "created_at": "2026-07-09T11:40:47-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662346326375,
@@ -11043,7 +9918,7 @@
           "position": 2,
           "product_id": 9092955472231,
           "created_at": "2026-07-09T11:40:47-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662346359143,
@@ -11062,7 +9937,7 @@
           "position": 3,
           "product_id": 9092955472231,
           "created_at": "2026-07-09T11:40:47-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662346391911,
@@ -11081,7 +9956,7 @@
           "position": 4,
           "product_id": 9092955472231,
           "created_at": "2026-07-09T11:40:47-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662346424679,
@@ -11100,7 +9975,7 @@
           "position": 5,
           "product_id": 9092955472231,
           "created_at": "2026-07-09T11:40:47-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -11177,7 +10052,7 @@
       "body_html": "<p>Talk about a wardrobe staple. The ALO Softsculpt Entice Bra Tank is made from our signature medium-compression fabric that sculpts and smooths while allowing you the freedom to move. The naturally breathable material has a subtle sheen that keeps your look polished and an ultra-soft feel that’s comfortable enough for all-day wear. This classic style features a built-in bra with removable cups and side ruching details that are oh-so flattering. Pair it with your favorite pair of ALO Softsculpt Leggings or a classic trouser and you'll be ready for anything.</p>",
       "published_at": "2026-10-08T09:02:20-07:00",
       "created_at": "2026-07-09T11:26:21-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Tops:Tanks",
       "tags": [
@@ -11239,7 +10114,7 @@
           "position": 1,
           "product_id": 9092954751335,
           "created_at": "2026-07-09T11:26:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342721895,
@@ -11258,7 +10133,7 @@
           "position": 2,
           "product_id": 9092954751335,
           "created_at": "2026-07-09T11:26:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342754663,
@@ -11277,7 +10152,7 @@
           "position": 3,
           "product_id": 9092954751335,
           "created_at": "2026-07-09T11:26:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342787431,
@@ -11296,7 +10171,7 @@
           "position": 4,
           "product_id": 9092954751335,
           "created_at": "2026-07-09T11:26:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342820199,
@@ -11315,7 +10190,7 @@
           "position": 5,
           "product_id": 9092954751335,
           "created_at": "2026-07-09T11:26:21-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -11403,7 +10278,7 @@
       "body_html": "<p>Talk about a wardrobe staple. The ALO Softsculpt Entice Bra Tank is made from our signature medium-compression fabric that sculpts and smooths while allowing you the freedom to move. The naturally breathable material has a subtle sheen that keeps your look polished and an ultra-soft feel that’s comfortable enough for all-day wear. This classic style features a built-in bra with removable cups and side ruching details that are oh-so flattering. Pair it with your favorite pair of ALO Softsculpt Leggings or a classic trouser and you'll be ready for anything.</p>",
       "published_at": "2026-10-08T09:02:19-07:00",
       "created_at": "2026-07-09T11:25:50-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Tops:Tanks",
       "tags": [
@@ -11463,7 +10338,7 @@
           "position": 1,
           "product_id": 9092954718567,
           "created_at": "2026-07-09T11:25:50-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342558055,
@@ -11482,7 +10357,7 @@
           "position": 2,
           "product_id": 9092954718567,
           "created_at": "2026-07-09T11:25:50-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342590823,
@@ -11501,7 +10376,7 @@
           "position": 3,
           "product_id": 9092954718567,
           "created_at": "2026-07-09T11:25:50-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342623591,
@@ -11520,7 +10395,7 @@
           "position": 4,
           "product_id": 9092954718567,
           "created_at": "2026-07-09T11:25:50-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342656359,
@@ -11539,7 +10414,7 @@
           "position": 5,
           "product_id": 9092954718567,
           "created_at": "2026-07-09T11:25:50-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -11638,7 +10513,7 @@
       "body_html": "<p>Take your performance looks to the next level with the Airlift Techlux Bra. This ultra-high compression style is made from our signature Airlift fabric and features bonded seams and molded cups. It's designed with mesh details for that breathable touch and a racerback silhouette. Pair it with the matching Techlux Legging for a head-to-toe look that keeps up with all your moves.</p>",
       "published_at": "2026-10-08T09:02:18-07:00",
       "created_at": "2026-07-09T11:25:32-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -11700,7 +10575,7 @@
           "position": 1,
           "product_id": 9092954685799,
           "created_at": "2026-07-09T11:25:32-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342394215,
@@ -11719,7 +10594,7 @@
           "position": 2,
           "product_id": 9092954685799,
           "created_at": "2026-07-09T11:25:32-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342426983,
@@ -11738,7 +10613,7 @@
           "position": 3,
           "product_id": 9092954685799,
           "created_at": "2026-07-09T11:25:32-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342459751,
@@ -11757,7 +10632,7 @@
           "position": 4,
           "product_id": 9092954685799,
           "created_at": "2026-07-09T11:25:32-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342492519,
@@ -11776,7 +10651,7 @@
           "position": 5,
           "product_id": 9092954685799,
           "created_at": "2026-07-09T11:25:32-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -11875,7 +10750,7 @@
       "body_html": "<p>Take your performance looks to the next level with the Airlift Techlux Bra. This ultra-high compression style is made from our signature Airlift fabric and features bonded seams and molded cups. It's designed with mesh details for that breathable touch and a racerback silhouette. Pair it with the matching Techlux Legging for a head-to-toe look that keeps up with all your moves.</p>",
       "published_at": "2026-10-08T09:02:17-07:00",
       "created_at": "2026-07-09T11:24:45-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -11935,7 +10810,7 @@
           "position": 1,
           "product_id": 9092954653031,
           "created_at": "2026-07-09T11:24:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342230375,
@@ -11954,7 +10829,7 @@
           "position": 2,
           "product_id": 9092954653031,
           "created_at": "2026-07-09T11:24:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342263143,
@@ -11973,7 +10848,7 @@
           "position": 3,
           "product_id": 9092954653031,
           "created_at": "2026-07-09T11:24:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342295911,
@@ -11992,7 +10867,7 @@
           "position": 4,
           "product_id": 9092954653031,
           "created_at": "2026-07-09T11:24:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662342328679,
@@ -12011,7 +10886,7 @@
           "position": 5,
           "product_id": 9092954653031,
           "created_at": "2026-07-09T11:24:45-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -12121,7 +10996,7 @@
       "body_html": "<p>One thing about a onesie? It works every time. Full-length and full-proof, this is the easiest way to style an effortless outfit. It’s designed with a low back, sculpting Airbrush fabric that hugs the body, and adjustable straps for the perfect fit. Wear it solo or layered up. </p>\n<!---->",
       "published_at": "2026-10-08T09:02:17-07:00",
       "created_at": "2026-07-09T11:16:01-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:One Piece:Onesies",
       "tags": [
@@ -12179,7 +11054,7 @@
           "position": 1,
           "product_id": 9092954292583,
           "created_at": "2026-07-09T11:16:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662340428135,
@@ -12198,7 +11073,7 @@
           "position": 2,
           "product_id": 9092954292583,
           "created_at": "2026-07-09T11:16:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662340460903,
@@ -12217,7 +11092,7 @@
           "position": 3,
           "product_id": 9092954292583,
           "created_at": "2026-07-09T11:16:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662340493671,
@@ -12236,7 +11111,7 @@
           "position": 4,
           "product_id": 9092954292583,
           "created_at": "2026-07-09T11:16:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662340526439,
@@ -12255,7 +11130,7 @@
           "position": 5,
           "product_id": 9092954292583,
           "created_at": "2026-07-09T11:16:02-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -12332,7 +11207,7 @@
       "body_html": "<p>Make the match. The Match Point Short is a high-cut performance staple — made from lightweight woven fabric with a relaxed fit and built-in brief for comfortably pushing the limits at practice. An elastic logo waistband finishes off the look and an invisible side pocket stores small essentials on-the-go.</p>",
       "published_at": "2026-10-08T09:02:16-07:00",
       "created_at": "2026-07-09T11:00:35-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Shorts",
       "tags": [
@@ -12392,7 +11267,7 @@
           "position": 1,
           "product_id": 9092952555879,
           "created_at": "2026-07-09T11:00:35-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331744615,
@@ -12411,7 +11286,7 @@
           "position": 2,
           "product_id": 9092952555879,
           "created_at": "2026-07-09T11:00:35-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331777383,
@@ -12430,7 +11305,7 @@
           "position": 3,
           "product_id": 9092952555879,
           "created_at": "2026-07-09T11:00:35-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331810151,
@@ -12449,7 +11324,7 @@
           "position": 4,
           "product_id": 9092952555879,
           "created_at": "2026-07-09T11:00:35-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331842919,
@@ -12468,7 +11343,7 @@
           "position": 5,
           "product_id": 9092952555879,
           "created_at": "2026-07-09T11:00:35-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -12556,7 +11431,7 @@
       "body_html": "<p>Found: The perfect pair of biker shorts. Designed with a high-rise, sweetheart seams in the back and a not-too-short, not-too-long 5-inch length. They’re done in our best-selling Airlift fabric and fit like a dream—sleek and sculpting with a comfortable amount of compression. Dress them up for dinner, dress them down to lounge… You know what to do.</p>",
       "published_at": "2026-10-08T09:02:15-07:00",
       "created_at": "2026-07-09T11:00:24-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Shorts",
       "tags": [
@@ -12616,7 +11491,7 @@
           "position": 1,
           "product_id": 9092952523111,
           "created_at": "2026-07-09T11:00:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331580775,
@@ -12635,7 +11510,7 @@
           "position": 2,
           "product_id": 9092952523111,
           "created_at": "2026-07-09T11:00:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331613543,
@@ -12654,7 +11529,7 @@
           "position": 3,
           "product_id": 9092952523111,
           "created_at": "2026-07-09T11:00:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331646311,
@@ -12673,7 +11548,7 @@
           "position": 4,
           "product_id": 9092952523111,
           "created_at": "2026-07-09T11:00:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662331679079,
@@ -12692,7 +11567,7 @@
           "position": 5,
           "product_id": 9092952523111,
           "created_at": "2026-07-09T11:00:24-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -12780,7 +11655,7 @@
       "body_html": "<p>Wondering why these leggings are a fan favorite? Maybe it’s the sculpting, subtly sheeny, high-compression Airlift fabric. Or the fact that they fit like a glove, complete with a wide, double-layered waistband for a holds-you-in feel. Or the ⅞ length hems that are perfect for petites or an above-the-ankle fit. Pick your color and get ready to wear yours on repeat.</p>",
       "published_at": "2026-10-08T09:02:15-07:00",
       "created_at": "2026-07-09T10:59:11-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -12846,7 +11721,7 @@
           "position": 1,
           "product_id": 9092952228199,
           "created_at": "2026-07-09T10:59:11-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662330106215,
@@ -12865,7 +11740,7 @@
           "position": 2,
           "product_id": 9092952228199,
           "created_at": "2026-07-09T10:59:11-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662330138983,
@@ -12884,7 +11759,7 @@
           "position": 3,
           "product_id": 9092952228199,
           "created_at": "2026-07-09T10:59:11-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662330171751,
@@ -12903,7 +11778,7 @@
           "position": 4,
           "product_id": 9092952228199,
           "created_at": "2026-07-09T10:59:11-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662330204519,
@@ -12922,7 +11797,7 @@
           "position": 5,
           "product_id": 9092952228199,
           "created_at": "2026-07-09T10:59:11-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -13006,7 +11881,7 @@
       "body_html": "<p>The ALO Softsculpt 7/8 Define Legging is giving a new meaning to definition. This style features no front seam and an invisible interior scrunch, so it sculpts and lifts in a subtle, yet noticeable way. Made from our signature medium-compression fabric, it’s smoothing, sculpting, and naturally breathable. It has a subtle sheen that keeps your look polished and an ultra-soft feel that’s comfortable enough for all-day wear. Plus, our 7/8 length is perfect for petite girls or for taller girls who want to show a little ankle. Pair it with your favorite ALO Softsculpt Bra for a standout look that was made to move.</p>",
       "published_at": "2026-10-08T09:02:14-07:00",
       "created_at": "2026-07-09T10:58:09-07:00",
-      "updated_at": "2026-10-09T01:28:41-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -13069,7 +11944,7 @@
           "position": 1,
           "product_id": 9092951933287,
           "created_at": "2026-07-09T10:58:09-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662328631655,
@@ -13088,7 +11963,7 @@
           "position": 2,
           "product_id": 9092951933287,
           "created_at": "2026-07-09T10:58:09-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662328664423,
@@ -13107,7 +11982,7 @@
           "position": 3,
           "product_id": 9092951933287,
           "created_at": "2026-07-09T10:58:09-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662328697191,
@@ -13126,7 +12001,7 @@
           "position": 4,
           "product_id": 9092951933287,
           "created_at": "2026-07-09T10:58:09-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         },
         {
           "id": 50662328729959,
@@ -13145,7 +12020,7 @@
           "position": 5,
           "product_id": 9092951933287,
           "created_at": "2026-07-09T10:58:09-07:00",
-          "updated_at": "2026-10-09T01:28:41-07:00"
+          "updated_at": "2026-10-09T05:34:03-07:00"
         }
       ],
       "images": [
@@ -13251,6 +12126,458 @@
           "position": 3,
           "values": [
             "7/8 24\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9092951834983,
+      "title": "ALO Softsculpt Define Legging - Rich Bordeaux",
+      "handle": "w54598r-alo-softsculpt-define-legging-rich-bordeaux",
+      "body_html": "<p>The ALO Softsculpt Define Legging is giving a new meaning to definition. This style features no front seam and an invisible interior scrunch, so it sculpts and lifts in a subtle, yet noticeable way. Made from our signature medium-compression fabric, it’s smoothing, sculpting, and naturally breathable. It has a subtle sheen that keeps your look polished and an ultra-soft feel that’s comfortable enough for all-day wear. Pair it with your favorite ALO Softsculpt Bra for a standout look that was made to move.</p>",
+      "published_at": "2026-10-08T09:02:14-07:00",
+      "created_at": "2026-07-09T10:58:05-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
+      "vendor": "Alo Yoga",
+      "product_type": "Women:Bottoms:Leggings",
+      "tags": [
+        "b:1:Early Access",
+        "bis-paused",
+        "BuilderDropzoneStyle:DFNLGG",
+        "BuilderDropzoneStyle:STSLPTRISE",
+        "BVCategory:Women",
+        "ChinaCatalog",
+        "Color:Rich Bordeaux:Color",
+        "ColorGroup:Purple",
+        "ColorwayType:Limited",
+        "Content:Builder",
+        "FA26D6-family",
+        "FA26Drops-family",
+        "Fabric:ALO Softsculpt",
+        "Filter:DisplaySize:1:XXS - XS",
+        "Filter:DisplaySize:3:Small",
+        "Filter:DisplaySize:4:Medium",
+        "Filter:DisplaySize:5:L - XL",
+        "Filter:Size:L",
+        "Filter:Size:M",
+        "Filter:Size:S",
+        "Filter:Size:XS",
+        "Filter:Size:XXS",
+        "Inventory:Hidden",
+        "JustDropped:New This Month",
+        "JustDropped:New This Season",
+        "JustDropped:New This Week",
+        "Length:Full Length",
+        "Maintenance:ColorwayProduct",
+        "master-woman-all",
+        "not_clearance",
+        "Policy:EarlyAccess",
+        "pricing:fullprice",
+        "sibling_product_identifier:define-legging",
+        "StyleId:W54598R",
+        "Women:Activity:Pilates",
+        "Women:Activity:Yoga",
+        "Women:Performance",
+        "X:IsPublishedToOnlineStore",
+        "YCRF_reviews:women",
+        "YGroup_W54598R"
+      ],
+      "variants": [
+        {
+          "id": 50662328107367,
+          "title": "Rich Bordeaux / XXS / Full 27\"",
+          "option1": "Rich Bordeaux",
+          "option2": "XXS",
+          "option3": "Full 27\"",
+          "sku": "W54598R065470",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "134.00",
+          "grams": 159,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 9092951834983,
+          "created_at": "2026-07-09T10:58:05-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662328140135,
+          "title": "Rich Bordeaux / XS / Full 27\"",
+          "option1": "Rich Bordeaux",
+          "option2": "XS",
+          "option3": "Full 27\"",
+          "sku": "W54598R065471",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "134.00",
+          "grams": 163,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 9092951834983,
+          "created_at": "2026-07-09T10:58:05-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662328172903,
+          "title": "Rich Bordeaux / S / Full 27\"",
+          "option1": "Rich Bordeaux",
+          "option2": "S",
+          "option3": "Full 27\"",
+          "sku": "W54598R065472",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "134.00",
+          "grams": 172,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 9092951834983,
+          "created_at": "2026-07-09T10:58:05-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662328205671,
+          "title": "Rich Bordeaux / M / Full 27\"",
+          "option1": "Rich Bordeaux",
+          "option2": "M",
+          "option3": "Full 27\"",
+          "sku": "W54598R065473",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "134.00",
+          "grams": 181,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 9092951834983,
+          "created_at": "2026-07-09T10:58:05-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662328238439,
+          "title": "Rich Bordeaux / L / Full 27\"",
+          "option1": "Rich Bordeaux",
+          "option2": "L",
+          "option3": "Full 27\"",
+          "sku": "W54598R065474",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "134.00",
+          "grams": 191,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 9092951834983,
+          "created_at": "2026-07-09T10:58:05-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 41456024944999,
+          "created_at": "2026-10-06T00:03:19-07:00",
+          "position": 1,
+          "updated_at": "2026-10-06T00:03:20-07:00",
+          "product_id": 9092951834983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54598R_06547_b1_s1_a1_dFA26_m207_1.jpg?v=1791270200",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41456024846695,
+          "created_at": "2026-10-06T00:03:19-07:00",
+          "position": 2,
+          "updated_at": "2026-10-06T00:03:21-07:00",
+          "product_id": 9092951834983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54598R_06547_b1_s1_a2_dFA26_m207_1.jpg?v=1791270201",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41456024813927,
+          "created_at": "2026-10-06T00:03:19-07:00",
+          "position": 3,
+          "updated_at": "2026-10-06T00:03:21-07:00",
+          "product_id": 9092951834983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54598R_06547_b1_s1_a3_dFA26_m207_1.jpg?v=1791270201",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41456024879463,
+          "created_at": "2026-10-06T00:03:19-07:00",
+          "position": 4,
+          "updated_at": "2026-10-06T00:03:21-07:00",
+          "product_id": 9092951834983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54598R_06547_b1_s1_a4_dFA26_m207_1.jpg?v=1791270201",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41456024912231,
+          "created_at": "2026-10-06T00:03:19-07:00",
+          "position": 5,
+          "updated_at": "2026-10-06T00:03:20-07:00",
+          "product_id": 9092951834983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54598R_06547_b1_s1_a5_dFA26_m207_1.jpg?v=1791270200",
+          "width": 2001,
+          "height": 3000
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Rich Bordeaux"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "name": "Length",
+          "position": 3,
+          "values": [
+            "Full 27\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9092951114087,
+      "title": "Suit Up Trouser (Short) - Rich Bordeaux",
+      "handle": "w54428r-suit-up-trouser-short-rich-bordeaux",
+      "body_html": "<p>She’s iconic for a reason. The Suit Up Trouser is the cool-girl silhouette your closet has been missing. Crafted from a lightweight, swishy fabric, this style features a comfortable stretch, side pockets, and our signature boxer-style waistband that’s easy to wear high or low-waisted. This style has a short-length inseam for figures 5’3” and under. It has a loose, relaxed fit that’s oh-so flattering and features front pleats that add a tailored touch to any look. Pair it with your favorite top, and you’ll be ready for anything.</p>",
+      "published_at": "2026-10-08T09:02:13-07:00",
+      "created_at": "2026-07-09T10:53:12-07:00",
+      "updated_at": "2026-10-09T05:34:03-07:00",
+      "vendor": "Alo Yoga",
+      "product_type": "Women:Bottoms:Pants",
+      "tags": [
+        "b:1:Early Access",
+        "bis-paused",
+        "BVCategory:Women",
+        "ChinaCatalog",
+        "Color:Rich Bordeaux:Color",
+        "ColorGroup:Purple",
+        "ColorwayType:Limited",
+        "FA26-Campaign",
+        "FA26D6-family",
+        "FA26Drops-family",
+        "Filter:DisplaySize:1:XXS - XS",
+        "Filter:DisplaySize:3:Small",
+        "Filter:DisplaySize:4:Medium",
+        "Filter:DisplaySize:5:L - XL",
+        "Filter:Size:L",
+        "Filter:Size:M",
+        "Filter:Size:S",
+        "Filter:Size:XS",
+        "Filter:Size:XXS",
+        "Inventory:Hidden",
+        "JustDropped:New This Month",
+        "JustDropped:New This Season",
+        "JustDropped:New This Week",
+        "Length:Bottoms:Short",
+        "Maintenance:ColorwayProduct",
+        "master-woman-all",
+        "not_clearance",
+        "Policy:EarlyAccess",
+        "pricing:fullprice",
+        "sibling_product_identifier:suit-up-trouser",
+        "StyleId:W54428R",
+        "Women:Fashion",
+        "X:IsPublishedToOnlineStore",
+        "YCRF_reviews:women",
+        "YGroup_W54428R"
+      ],
+      "variants": [
+        {
+          "id": 50662324502887,
+          "title": "Rich Bordeaux / XXS / Short 28\"",
+          "option1": "Rich Bordeaux",
+          "option2": "XXS",
+          "option3": "Short 28\"",
+          "sku": "W54428R065470",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "148.00",
+          "grams": 562,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 9092951114087,
+          "created_at": "2026-07-09T10:53:12-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662324535655,
+          "title": "Rich Bordeaux / XS / Short 28\"",
+          "option1": "Rich Bordeaux",
+          "option2": "XS",
+          "option3": "Short 28\"",
+          "sku": "W54428R065471",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "148.00",
+          "grams": 268,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 9092951114087,
+          "created_at": "2026-07-09T10:53:12-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662324568423,
+          "title": "Rich Bordeaux / S / Short 28\"",
+          "option1": "Rich Bordeaux",
+          "option2": "S",
+          "option3": "Short 28\"",
+          "sku": "W54428R065472",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "148.00",
+          "grams": 277,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 9092951114087,
+          "created_at": "2026-07-09T10:53:12-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662324601191,
+          "title": "Rich Bordeaux / M / Short 28\"",
+          "option1": "Rich Bordeaux",
+          "option2": "M",
+          "option3": "Short 28\"",
+          "sku": "W54428R065473",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "148.00",
+          "grams": 313,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 9092951114087,
+          "created_at": "2026-07-09T10:53:12-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        },
+        {
+          "id": 50662324633959,
+          "title": "Rich Bordeaux / L / Short 28\"",
+          "option1": "Rich Bordeaux",
+          "option2": "L",
+          "option3": "Short 28\"",
+          "sku": "W54428R065474",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "148.00",
+          "grams": 336,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 9092951114087,
+          "created_at": "2026-07-09T10:53:12-07:00",
+          "updated_at": "2026-10-09T05:34:03-07:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 41456023404903,
+          "created_at": "2026-10-05T23:49:06-07:00",
+          "position": 1,
+          "updated_at": "2026-10-05T23:49:08-07:00",
+          "product_id": 9092951114087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54187R_06547_b1_s1_a2_dFA26_m18_1.jpg?v=1791269348",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41456023437671,
+          "created_at": "2026-10-05T23:49:06-07:00",
+          "position": 2,
+          "updated_at": "2026-10-05T23:49:08-07:00",
+          "product_id": 9092951114087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54187R_06547_b1_s1_a3_dFA26_m18_1.jpg?v=1791269348",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41456023470439,
+          "created_at": "2026-10-05T23:49:06-07:00",
+          "position": 3,
+          "updated_at": "2026-10-05T23:49:08-07:00",
+          "product_id": 9092951114087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54187R_06547_b1_s1_a4_dFA26_m18_1.jpg?v=1791269348",
+          "width": 2001,
+          "height": 3000
+        },
+        {
+          "id": 41456023503207,
+          "created_at": "2026-10-05T23:49:06-07:00",
+          "position": 4,
+          "updated_at": "2026-10-05T23:49:09-07:00",
+          "product_id": 9092951114087,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54187R_06547_b1_s1_a1_dFA26_m18_1.jpg?v=1791269349",
+          "width": 2001,
+          "height": 3000
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Rich Bordeaux"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "name": "Length",
+          "position": 3,
+          "values": [
+            "Short 28\""
           ]
         }
       ]

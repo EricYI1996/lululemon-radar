@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T09:32:41.443651+00:00",
+  "fetchedAt": "2026-10-09T12:34:05.431688+00:00",
   "source": "https://www.comfrt.com/collections/new-arrivals/products.json?limit=250",
   "count": 1,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<p>The Sculpt High-Waist Legging does exactly what its name promises: a built-in sculpting waistband smooths your silhouette while soft, 4-way stretch fabric moves with you.</p>\n\n<ul>\n  <li>\n<strong>Slick, smooth fabric:</strong> 4-way stretch built for all-day comfort</li>\n  <li>\n<strong>Fitted through hip, thigh, and leg:</strong> true to size for a second-skin feel</li>\n  <li>\n<strong>Sculpt waistband:</strong> an extra-layered waistband for a smooth, supportive hold, without the squeeze</li>\n  <li>\n<strong>Wider front seam:</strong> designed for a smoother, more contoured silhouette</li>\n  <li>\n<strong>Sculpting back seam:</strong> a deeper back seam for a lifted, shaped look</li>\n  <li>\n<strong>Side seam pocket:</strong> a secure spot for the essentials</li>\n  <li>\n<strong>Sweat-wicking finish:</strong> helps keep you dry and fresh</li>\n</ul>\n\n<p><strong>Perfect for:</strong></p>\n<ul>\n  <li>Workouts that call for full range of motion</li>\n  <li>Grocery store run in something that feels as good as it looks</li>\n  <li>Layering under an <a href=\"https://comfrt.com/collections/oversized-hoodies\">oversized hoodie</a> for a polished look</li>\n</ul>",
       "published_at": "2026-10-01T09:17:12-04:00",
       "created_at": "2026-05-29T19:10:03-04:00",
-      "updated_at": "2026-10-09T05:32:41-04:00",
+      "updated_at": "2026-10-09T08:34:05-04:00",
       "vendor": "Comfrt",
       "product_type": "Lounge Pants",
       "tags": [
@@ -48,13 +48,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 1,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822277164,
@@ -86,13 +86,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 2,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822309932,
@@ -124,13 +124,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 3,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822342700,
@@ -162,13 +162,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 4,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822375468,
@@ -200,13 +200,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 5,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822408236,
@@ -238,13 +238,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 6,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822441004,
@@ -276,13 +276,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 7,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822473772,
@@ -314,13 +314,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 8,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822506540,
@@ -352,13 +352,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 9,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822539308,
@@ -390,13 +390,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 10,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822572076,
@@ -428,13 +428,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 11,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822604844,
@@ -466,13 +466,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 12,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822637612,
@@ -504,13 +504,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 13,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822670380,
@@ -542,13 +542,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 14,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822703148,
@@ -580,13 +580,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 15,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822735916,
@@ -618,13 +618,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 16,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822768684,
@@ -656,13 +656,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 17,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822801452,
@@ -694,13 +694,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 18,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822834220,
@@ -732,13 +732,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 19,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822866988,
@@ -770,13 +770,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 20,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822899756,
@@ -808,13 +808,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 21,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822932524,
@@ -846,13 +846,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 22,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822965292,
@@ -884,13 +884,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 23,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582822998060,
@@ -922,13 +922,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 24,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582823030828,
@@ -960,13 +960,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 25,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582823063596,
@@ -998,13 +998,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 26,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582823096364,
@@ -1036,13 +1036,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 27,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         },
         {
           "id": 45582823129132,
@@ -1074,13 +1074,13 @@
             ]
           },
           "available": true,
-          "price": "6300",
+          "price": "39.00",
           "grams": 630,
-          "compare_at_price": "17400",
+          "compare_at_price": "108.00",
           "position": 28,
           "product_id": 8294021857324,
           "created_at": "2026-05-29T19:10:03-04:00",
-          "updated_at": "2026-10-09T05:32:41-04:00"
+          "updated_at": "2026-10-09T08:34:05-04:00"
         }
       ],
       "images": [
