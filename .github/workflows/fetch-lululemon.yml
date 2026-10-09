@@ -37,7 +37,7 @@ jobs:
         run: python scripts/fetch_lululemon.py
         continue-on-error: true
 
-      - name: Run all-brands scraper (alo/adan/dfyne/tala/blakely/gym)
+      - name: Run all-brands scraper (alo/adan/dfyne/tala/blakely/comfrt/gym)
         if: ${{ always() }}
         run: python scripts/fetch_all_brands.py
         continue-on-error: true
@@ -54,7 +54,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          files="lululemon-new.json alo.json adan.json dfyne.json tala.json blakely.json gym.json shein.json"
+          files="lululemon-new.json alo.json adan.json dfyne.json tala.json blakely.json comfrt.json gym.json shein.json"
           tmp_dir="/tmp/new-arrivals-json"
           rm -rf "$tmp_dir"
           mkdir -p "$tmp_dir"
