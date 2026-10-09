@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T08:24:46.995447+00:00",
+  "fetchedAt": "2026-10-09T08:28:42.382123+00:00",
   "source": "https://dfyne.com/products.json?limit=50",
   "count": 50,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<p>Vision Collection</p>",
       "published_at": "2026-10-01T02:40:20+01:00",
       "created_at": "2026-08-07T15:47:02+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Fuchsia",
       "product_type": "Sports Bras",
       "tags": [
@@ -44,7 +44,7 @@
           "position": 1,
           "product_id": 8198527713373,
           "created_at": "2026-08-07T15:47:02+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44874450501725,
@@ -63,7 +63,7 @@
           "position": 2,
           "product_id": 8198527713373,
           "created_at": "2026-08-07T15:47:02+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44874450534493,
@@ -82,7 +82,7 @@
           "position": 3,
           "product_id": 8198527713373,
           "created_at": "2026-08-07T15:47:02+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44874450567261,
@@ -101,7 +101,7 @@
           "position": 4,
           "product_id": 8198527713373,
           "created_at": "2026-08-07T15:47:02+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44874450600029,
@@ -120,7 +120,7 @@
           "position": 5,
           "product_id": 8198527713373,
           "created_at": "2026-08-07T15:47:02+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -190,7 +190,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:08+01:00",
       "created_at": "2026-08-21T15:14:09+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Matcha",
       "product_type": "Sports Bras",
       "tags": [
@@ -224,7 +224,7 @@
           "position": 1,
           "product_id": 8208333013085,
           "created_at": "2026-08-21T15:14:09+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661175389,
@@ -243,7 +243,7 @@
           "position": 2,
           "product_id": 8208333013085,
           "created_at": "2026-08-21T15:14:09+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661208157,
@@ -262,7 +262,7 @@
           "position": 3,
           "product_id": 8208333013085,
           "created_at": "2026-08-21T15:14:09+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661240925,
@@ -281,7 +281,7 @@
           "position": 4,
           "product_id": 8208333013085,
           "created_at": "2026-08-21T15:14:09+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661273693,
@@ -300,7 +300,7 @@
           "position": 5,
           "product_id": 8208333013085,
           "created_at": "2026-08-21T15:14:09+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661306461,
@@ -319,7 +319,7 @@
           "position": 6,
           "product_id": 8208333013085,
           "created_at": "2026-08-21T15:14:09+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -390,7 +390,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:08+01:00",
       "created_at": "2026-08-21T15:14:08+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Oat Milk",
       "product_type": "Sports Bras",
       "tags": [
@@ -425,7 +425,7 @@
           "position": 1,
           "product_id": 8208332980317,
           "created_at": "2026-08-21T15:14:08+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922660978781,
@@ -444,7 +444,7 @@
           "position": 2,
           "product_id": 8208332980317,
           "created_at": "2026-08-21T15:14:08+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661011549,
@@ -463,7 +463,7 @@
           "position": 3,
           "product_id": 8208332980317,
           "created_at": "2026-08-21T15:14:08+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661044317,
@@ -482,7 +482,7 @@
           "position": 4,
           "product_id": 8208332980317,
           "created_at": "2026-08-21T15:14:08+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661077085,
@@ -501,7 +501,7 @@
           "position": 5,
           "product_id": 8208332980317,
           "created_at": "2026-08-21T15:14:08+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661109853,
@@ -520,7 +520,7 @@
           "position": 6,
           "product_id": 8208332980317,
           "created_at": "2026-08-21T15:14:08+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -591,7 +591,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:07+01:00",
       "created_at": "2026-08-21T15:14:12+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Oat Milk",
       "product_type": "Tops",
       "tags": [
@@ -627,7 +627,7 @@
           "position": 1,
           "product_id": 8208333144157,
           "created_at": "2026-08-21T15:14:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661961821,
@@ -646,7 +646,7 @@
           "position": 2,
           "product_id": 8208333144157,
           "created_at": "2026-08-21T15:14:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661994589,
@@ -665,7 +665,7 @@
           "position": 3,
           "product_id": 8208333144157,
           "created_at": "2026-08-21T15:14:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662027357,
@@ -684,7 +684,7 @@
           "position": 4,
           "product_id": 8208333144157,
           "created_at": "2026-08-21T15:14:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662060125,
@@ -703,7 +703,7 @@
           "position": 5,
           "product_id": 8208333144157,
           "created_at": "2026-08-21T15:14:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662092893,
@@ -722,7 +722,7 @@
           "position": 6,
           "product_id": 8208333144157,
           "created_at": "2026-08-21T15:14:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -793,7 +793,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:07+01:00",
       "created_at": "2026-08-21T15:14:11+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Marshmallow",
       "product_type": "Tops",
       "tags": [
@@ -827,7 +827,7 @@
           "position": 1,
           "product_id": 8208333111389,
           "created_at": "2026-08-21T15:14:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661765213,
@@ -846,7 +846,7 @@
           "position": 2,
           "product_id": 8208333111389,
           "created_at": "2026-08-21T15:14:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661797981,
@@ -865,7 +865,7 @@
           "position": 3,
           "product_id": 8208333111389,
           "created_at": "2026-08-21T15:14:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661830749,
@@ -884,7 +884,7 @@
           "position": 4,
           "product_id": 8208333111389,
           "created_at": "2026-08-21T15:14:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661863517,
@@ -903,7 +903,7 @@
           "position": 5,
           "product_id": 8208333111389,
           "created_at": "2026-08-21T15:14:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661896285,
@@ -922,7 +922,7 @@
           "position": 6,
           "product_id": 8208333111389,
           "created_at": "2026-08-21T15:14:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -993,7 +993,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:07+01:00",
       "created_at": "2026-08-21T15:14:10+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sports Bras",
       "tags": [
@@ -1026,7 +1026,7 @@
           "position": 1,
           "product_id": 8208333045853,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661371997,
@@ -1045,7 +1045,7 @@
           "position": 2,
           "product_id": 8208333045853,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661404765,
@@ -1064,7 +1064,7 @@
           "position": 3,
           "product_id": 8208333045853,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661437533,
@@ -1083,7 +1083,7 @@
           "position": 4,
           "product_id": 8208333045853,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661470301,
@@ -1095,14 +1095,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "47.50",
           "grams": 60,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8208333045853,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661503069,
@@ -1121,7 +1121,7 @@
           "position": 6,
           "product_id": 8208333045853,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -1192,7 +1192,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:06+01:00",
       "created_at": "2026-08-21T15:14:10+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Strawberry",
       "product_type": "Sports Bras",
       "tags": [
@@ -1226,7 +1226,7 @@
           "position": 1,
           "product_id": 8208333078621,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661568605,
@@ -1238,14 +1238,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "47.50",
           "grams": 60,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8208333078621,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661601373,
@@ -1264,7 +1264,7 @@
           "position": 3,
           "product_id": 8208333078621,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661634141,
@@ -1283,7 +1283,7 @@
           "position": 4,
           "product_id": 8208333078621,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661666909,
@@ -1302,7 +1302,7 @@
           "position": 5,
           "product_id": 8208333078621,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922661699677,
@@ -1321,7 +1321,7 @@
           "position": 6,
           "product_id": 8208333078621,
           "created_at": "2026-08-21T15:14:10+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -1392,7 +1392,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:05+01:00",
       "created_at": "2026-08-21T15:14:16+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Oat Milk",
       "product_type": "Shorts",
       "tags": [
@@ -1428,7 +1428,7 @@
           "position": 1,
           "product_id": 8208333275229,
           "created_at": "2026-08-21T15:14:16+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662748253,
@@ -1447,7 +1447,7 @@
           "position": 2,
           "product_id": 8208333275229,
           "created_at": "2026-08-21T15:14:16+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662781021,
@@ -1466,7 +1466,7 @@
           "position": 3,
           "product_id": 8208333275229,
           "created_at": "2026-08-21T15:14:16+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662813789,
@@ -1485,7 +1485,7 @@
           "position": 4,
           "product_id": 8208333275229,
           "created_at": "2026-08-21T15:14:16+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662846557,
@@ -1504,7 +1504,7 @@
           "position": 5,
           "product_id": 8208333275229,
           "created_at": "2026-08-21T15:14:16+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662879325,
@@ -1523,7 +1523,7 @@
           "position": 6,
           "product_id": 8208333275229,
           "created_at": "2026-08-21T15:14:16+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -1594,7 +1594,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:05+01:00",
       "created_at": "2026-08-21T15:14:15+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Strawberry",
       "product_type": "Tops",
       "tags": [
@@ -1628,7 +1628,7 @@
           "position": 1,
           "product_id": 8208333242461,
           "created_at": "2026-08-21T15:14:15+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662551645,
@@ -1647,7 +1647,7 @@
           "position": 2,
           "product_id": 8208333242461,
           "created_at": "2026-08-21T15:14:15+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662584413,
@@ -1666,7 +1666,7 @@
           "position": 3,
           "product_id": 8208333242461,
           "created_at": "2026-08-21T15:14:15+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662617181,
@@ -1685,7 +1685,7 @@
           "position": 4,
           "product_id": 8208333242461,
           "created_at": "2026-08-21T15:14:15+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662649949,
@@ -1704,7 +1704,7 @@
           "position": 5,
           "product_id": 8208333242461,
           "created_at": "2026-08-21T15:14:15+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662682717,
@@ -1723,7 +1723,7 @@
           "position": 6,
           "product_id": 8208333242461,
           "created_at": "2026-08-21T15:14:15+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -1794,7 +1794,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:05+01:00",
       "created_at": "2026-08-21T15:14:14+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -1828,7 +1828,7 @@
           "position": 1,
           "product_id": 8208333209693,
           "created_at": "2026-08-21T15:14:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662355037,
@@ -1847,7 +1847,7 @@
           "position": 2,
           "product_id": 8208333209693,
           "created_at": "2026-08-21T15:14:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662387805,
@@ -1866,7 +1866,7 @@
           "position": 3,
           "product_id": 8208333209693,
           "created_at": "2026-08-21T15:14:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662420573,
@@ -1885,7 +1885,7 @@
           "position": 4,
           "product_id": 8208333209693,
           "created_at": "2026-08-21T15:14:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662453341,
@@ -1904,7 +1904,7 @@
           "position": 5,
           "product_id": 8208333209693,
           "created_at": "2026-08-21T15:14:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662486109,
@@ -1923,7 +1923,7 @@
           "position": 6,
           "product_id": 8208333209693,
           "created_at": "2026-08-21T15:14:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -1994,7 +1994,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:05+01:00",
       "created_at": "2026-08-21T15:14:13+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Matcha",
       "product_type": "Tops",
       "tags": [
@@ -2022,14 +2022,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "59.00",
           "grams": 160,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8208333176925,
           "created_at": "2026-08-21T15:14:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662158429,
@@ -2048,7 +2048,7 @@
           "position": 2,
           "product_id": 8208333176925,
           "created_at": "2026-08-21T15:14:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662191197,
@@ -2067,7 +2067,7 @@
           "position": 3,
           "product_id": 8208333176925,
           "created_at": "2026-08-21T15:14:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662223965,
@@ -2086,7 +2086,7 @@
           "position": 4,
           "product_id": 8208333176925,
           "created_at": "2026-08-21T15:14:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662256733,
@@ -2105,7 +2105,7 @@
           "position": 5,
           "product_id": 8208333176925,
           "created_at": "2026-08-21T15:14:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662289501,
@@ -2124,7 +2124,7 @@
           "position": 6,
           "product_id": 8208333176925,
           "created_at": "2026-08-21T15:14:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -2195,7 +2195,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:03+01:00",
       "created_at": "2026-08-21T15:14:19+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Oat Milk",
       "product_type": "One Piece",
       "tags": [
@@ -2223,14 +2223,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663829597,
@@ -2242,14 +2242,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663862365,
@@ -2261,14 +2261,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663895133,
@@ -2280,14 +2280,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663927901,
@@ -2299,14 +2299,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663960669,
@@ -2318,14 +2318,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663993437,
@@ -2337,14 +2337,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664026205,
@@ -2356,14 +2356,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664058973,
@@ -2375,14 +2375,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664091741,
@@ -2394,14 +2394,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664124509,
@@ -2413,14 +2413,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664157277,
@@ -2432,14 +2432,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8208333439069,
           "created_at": "2026-08-21T15:14:19+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -2507,7 +2507,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:03+01:00",
       "created_at": "2026-08-21T15:14:18+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Strawberry",
       "product_type": "Shorts",
       "tags": [
@@ -2542,7 +2542,7 @@
           "position": 1,
           "product_id": 8208333406301,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663632989,
@@ -2561,7 +2561,7 @@
           "position": 2,
           "product_id": 8208333406301,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663665757,
@@ -2580,7 +2580,7 @@
           "position": 3,
           "product_id": 8208333406301,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663698525,
@@ -2599,7 +2599,7 @@
           "position": 4,
           "product_id": 8208333406301,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663731293,
@@ -2618,7 +2618,7 @@
           "position": 5,
           "product_id": 8208333406301,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663764061,
@@ -2637,7 +2637,7 @@
           "position": 6,
           "product_id": 8208333406301,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -2708,7 +2708,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:03+01:00",
       "created_at": "2026-08-21T15:14:17+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Shorts",
       "tags": [
@@ -2742,7 +2742,7 @@
           "position": 1,
           "product_id": 8208333340765,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663141469,
@@ -2761,7 +2761,7 @@
           "position": 2,
           "product_id": 8208333340765,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663174237,
@@ -2780,7 +2780,7 @@
           "position": 3,
           "product_id": 8208333340765,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663207005,
@@ -2799,7 +2799,7 @@
           "position": 4,
           "product_id": 8208333340765,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663239773,
@@ -2818,7 +2818,7 @@
           "position": 5,
           "product_id": 8208333340765,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663272541,
@@ -2837,7 +2837,7 @@
           "position": 6,
           "product_id": 8208333340765,
           "created_at": "2026-08-21T15:14:18+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -2908,7 +2908,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:03+01:00",
       "created_at": "2026-08-21T15:14:17+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Matcha",
       "product_type": "Shorts",
       "tags": [
@@ -2943,7 +2943,7 @@
           "position": 1,
           "product_id": 8208333307997,
           "created_at": "2026-08-21T15:14:17+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662944861,
@@ -2962,7 +2962,7 @@
           "position": 2,
           "product_id": 8208333307997,
           "created_at": "2026-08-21T15:14:17+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922662977629,
@@ -2981,7 +2981,7 @@
           "position": 3,
           "product_id": 8208333307997,
           "created_at": "2026-08-21T15:14:17+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663010397,
@@ -3000,7 +3000,7 @@
           "position": 4,
           "product_id": 8208333307997,
           "created_at": "2026-08-21T15:14:17+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663043165,
@@ -3019,7 +3019,7 @@
           "position": 5,
           "product_id": 8208333307997,
           "created_at": "2026-08-21T15:14:17+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922663075933,
@@ -3038,7 +3038,7 @@
           "position": 6,
           "product_id": 8208333307997,
           "created_at": "2026-08-21T15:14:17+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -3098,7 +3098,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:02+01:00",
       "created_at": "2026-09-01T12:03:51+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Bags",
       "tags": [
@@ -3133,7 +3133,7 @@
           "position": 1,
           "product_id": 8221504143453,
           "created_at": "2026-09-01T12:03:51+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -3210,7 +3210,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:01+01:00",
       "created_at": "2026-08-21T15:14:22+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Strawberry",
       "product_type": "One Piece",
       "tags": [
@@ -3237,14 +3237,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665009245,
@@ -3256,14 +3256,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665042013,
@@ -3275,14 +3275,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665074781,
@@ -3294,14 +3294,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665107549,
@@ -3313,14 +3313,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665140317,
@@ -3332,14 +3332,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665173085,
@@ -3351,14 +3351,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665205853,
@@ -3370,14 +3370,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665238621,
@@ -3389,14 +3389,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665271389,
@@ -3408,14 +3408,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665304157,
@@ -3427,14 +3427,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922665336925,
@@ -3446,14 +3446,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8208333537373,
           "created_at": "2026-08-21T15:14:22+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -3521,7 +3521,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:01+01:00",
       "created_at": "2026-08-21T15:14:21+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "One Piece",
       "tags": [
@@ -3548,14 +3548,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664616029,
@@ -3567,14 +3567,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664648797,
@@ -3586,14 +3586,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664681565,
@@ -3605,14 +3605,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664714333,
@@ -3624,14 +3624,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664747101,
@@ -3643,14 +3643,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664779869,
@@ -3662,14 +3662,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664812637,
@@ -3681,14 +3681,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664845405,
@@ -3700,14 +3700,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664878173,
@@ -3719,14 +3719,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664910941,
@@ -3738,14 +3738,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664943709,
@@ -3757,14 +3757,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8208333504605,
           "created_at": "2026-08-21T15:14:21+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -3832,7 +3832,7 @@
       "body_html": "<p>Anisia Collection</p>",
       "published_at": "2026-09-29T15:59:01+01:00",
       "created_at": "2026-08-21T15:14:20+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Matcha",
       "product_type": "One Piece",
       "tags": [
@@ -3859,14 +3859,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664222813,
@@ -3878,14 +3878,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664255581,
@@ -3897,14 +3897,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664288349,
@@ -3916,14 +3916,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664321117,
@@ -3935,14 +3935,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664353885,
@@ -3954,14 +3954,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664386653,
@@ -3973,14 +3973,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664419421,
@@ -3992,14 +3992,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664452189,
@@ -4011,14 +4011,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664484957,
@@ -4030,14 +4030,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664517725,
@@ -4049,14 +4049,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44922664550493,
@@ -4068,14 +4068,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "89.00",
           "grams": 500,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8208333471837,
           "created_at": "2026-08-21T15:14:20+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -4143,7 +4143,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-09-22T09:26:09+01:00",
       "created_at": "2026-03-25T13:47:04+00:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Chestnut",
       "product_type": "Shorts",
       "tags": [
@@ -4178,7 +4178,7 @@
           "position": 1,
           "product_id": 8097296679005,
           "created_at": "2026-03-25T13:47:04+00:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44306430361693,
@@ -4197,7 +4197,7 @@
           "position": 2,
           "product_id": 8097296679005,
           "created_at": "2026-03-25T13:47:04+00:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44306430394461,
@@ -4216,7 +4216,7 @@
           "position": 3,
           "product_id": 8097296679005,
           "created_at": "2026-03-25T13:47:04+00:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44306430427229,
@@ -4235,7 +4235,7 @@
           "position": 4,
           "product_id": 8097296679005,
           "created_at": "2026-03-25T13:47:04+00:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44306430459997,
@@ -4254,7 +4254,7 @@
           "position": 5,
           "product_id": 8097296679005,
           "created_at": "2026-03-25T13:47:04+00:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -4324,7 +4324,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:25+01:00",
       "created_at": "2026-08-12T10:30:27+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Charcoal",
       "product_type": "Tops",
       "tags": [
@@ -4334,6 +4334,7 @@
         "Grey",
         "JMR::Dynamic Longline Halter Top",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic Longline Halter Top::Charcoal",
         "T-Shirts & Tops",
         "Tops",
@@ -4351,14 +4352,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897302937693,
@@ -4370,14 +4371,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897302970461,
@@ -4389,14 +4390,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303003229,
@@ -4408,14 +4409,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303035997,
@@ -4427,14 +4428,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331015773,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -4504,7 +4505,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:24+01:00",
       "created_at": "2026-08-12T10:30:29+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Chocolate",
       "product_type": "Tops",
       "tags": [
@@ -4514,6 +4515,7 @@
         "Dynamic",
         "JMR::Dynamic Longline Halter Top",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic Longline Halter Top::Chocolate",
         "T-Shirts & Tops",
         "Tops",
@@ -4531,14 +4533,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303461981,
@@ -4550,14 +4552,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303494749,
@@ -4569,14 +4571,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303527517,
@@ -4588,14 +4590,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303560285,
@@ -4607,14 +4609,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331114077,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -4684,7 +4686,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:24+01:00",
       "created_at": "2026-08-12T10:30:27+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Optic White",
       "product_type": "Tops",
       "tags": [
@@ -4693,6 +4695,7 @@
         "JMR::Dynamic Longline Halter Top",
         "New Releases",
         "Optic White",
+        "restock recent",
         "SAPG::Dynamic Longline Halter Top::Optic White",
         "T-Shirts & Tops",
         "Tops",
@@ -4711,14 +4714,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303134301,
@@ -4730,14 +4733,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303167069,
@@ -4749,14 +4752,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303199837,
@@ -4768,14 +4771,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303232605,
@@ -4794,7 +4797,7 @@
           "position": 5,
           "product_id": 8201331048541,
           "created_at": "2026-08-12T10:30:27+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -4864,7 +4867,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:23+01:00",
       "created_at": "2026-08-12T10:30:28+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Powder Blue",
       "product_type": "Tops",
       "tags": [
@@ -4874,6 +4877,7 @@
         "JMR::Dynamic Longline Halter Top",
         "New Releases",
         "Powder Blue",
+        "restock recent",
         "SAPG::Dynamic Longline Halter Top::Powder Blue",
         "T-Shirts & Tops",
         "Tops",
@@ -4891,14 +4895,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303298141,
@@ -4910,14 +4914,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303330909,
@@ -4929,14 +4933,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303363677,
@@ -4948,14 +4952,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303396445,
@@ -4967,14 +4971,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331081309,
           "created_at": "2026-08-12T10:30:28+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -5044,7 +5048,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:22+01:00",
       "created_at": "2026-08-12T10:30:31+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Charcoal",
       "product_type": "Sports Bras",
       "tags": [
@@ -5054,6 +5058,7 @@
         "Grey",
         "JMR::Dynamic High Neck Halter Bra",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic High Neck Halter Bra::Charcoal",
         "Sports Bras",
         "Womens",
@@ -5070,14 +5075,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303986269,
@@ -5089,14 +5094,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304019037,
@@ -5108,14 +5113,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304051805,
@@ -5127,14 +5132,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304084573,
@@ -5153,7 +5158,7 @@
           "position": 5,
           "product_id": 8201331245149,
           "created_at": "2026-08-12T10:30:31+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -5223,7 +5228,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:21+01:00",
       "created_at": "2026-08-12T10:30:31+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Optic White",
       "product_type": "Sports Bras",
       "tags": [
@@ -5232,6 +5237,7 @@
         "JMR::Dynamic High Neck Halter Bra",
         "New Releases",
         "Optic White",
+        "restock recent",
         "SAPG::Dynamic High Neck Halter Bra::Optic White",
         "Sports Bras",
         "White",
@@ -5249,14 +5255,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304182877,
@@ -5268,14 +5274,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304215645,
@@ -5287,14 +5293,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304248413,
@@ -5306,14 +5312,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304281181,
@@ -5332,7 +5338,7 @@
           "position": 5,
           "product_id": 8201331277917,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -5402,7 +5408,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:20+01:00",
       "created_at": "2026-08-12T10:30:30+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Berry",
       "product_type": "Tops",
       "tags": [
@@ -5412,6 +5418,7 @@
         "JMR::Dynamic Longline Halter Top",
         "New Releases",
         "Red",
+        "restock recent",
         "SAPG::Dynamic Longline Halter Top::Berry",
         "T-Shirts & Tops",
         "Tops",
@@ -5429,14 +5436,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303789661,
@@ -5448,14 +5455,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303822429,
@@ -5467,14 +5474,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303855197,
@@ -5486,14 +5493,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303887965,
@@ -5505,14 +5512,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331179613,
           "created_at": "2026-08-12T10:30:30+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -5582,7 +5589,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:19+01:00",
       "created_at": "2026-08-12T10:30:29+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -5592,6 +5599,7 @@
         "JMR::Dynamic Longline Halter Top",
         "Midnight Black",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic Longline Halter Top::Midnight Black",
         "T-Shirts & Tops",
         "Tops",
@@ -5609,14 +5617,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303625821,
@@ -5628,14 +5636,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303658589,
@@ -5647,14 +5655,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303691357,
@@ -5666,14 +5674,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897303724125,
@@ -5685,14 +5693,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "55.00",
           "grams": 120,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331146845,
           "created_at": "2026-08-12T10:30:29+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -5762,7 +5770,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:18+01:00",
       "created_at": "2026-08-12T10:30:34+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Berry",
       "product_type": "Sports Bras",
       "tags": [
@@ -5772,6 +5780,7 @@
         "JMR::Dynamic High Neck Halter Bra",
         "New Releases",
         "Red",
+        "restock recent",
         "SAPG::Dynamic High Neck Halter Bra::Berry",
         "Sports Bras",
         "Womens",
@@ -5788,14 +5797,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304838237,
@@ -5807,14 +5816,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304871005,
@@ -5826,14 +5835,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304903773,
@@ -5845,14 +5854,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304936541,
@@ -5871,7 +5880,7 @@
           "position": 5,
           "product_id": 8201331408989,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -5941,7 +5950,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:17+01:00",
       "created_at": "2026-08-12T10:30:33+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Sports Bras",
       "tags": [
@@ -5951,6 +5960,7 @@
         "JMR::Dynamic High Neck Halter Bra",
         "Midnight Black",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic High Neck Halter Bra::Midnight Black",
         "Sports Bras",
         "Womens",
@@ -5967,14 +5977,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304674397,
@@ -5986,14 +5996,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304707165,
@@ -6005,14 +6015,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304739933,
@@ -6024,14 +6034,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304772701,
@@ -6050,7 +6060,7 @@
           "position": 5,
           "product_id": 8201331376221,
           "created_at": "2026-08-12T10:30:34+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -6120,7 +6130,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:17+01:00",
       "created_at": "2026-08-12T10:30:32+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Powder Blue",
       "product_type": "Sports Bras",
       "tags": [
@@ -6130,6 +6140,7 @@
         "JMR::Dynamic High Neck Halter Bra",
         "New Releases",
         "Powder Blue",
+        "restock recent",
         "SAPG::Dynamic High Neck Halter Bra::Powder Blue",
         "Sports Bras",
         "Womens",
@@ -6146,14 +6157,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304346717,
@@ -6165,14 +6176,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304379485,
@@ -6184,14 +6195,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304412253,
@@ -6203,14 +6214,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304445021,
@@ -6229,7 +6240,7 @@
           "position": 5,
           "product_id": 8201331310685,
           "created_at": "2026-08-12T10:30:32+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -6299,7 +6310,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:16+01:00",
       "created_at": "2026-08-12T10:30:33+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Chocolate",
       "product_type": "Sports Bras",
       "tags": [
@@ -6309,6 +6320,7 @@
         "Dynamic",
         "JMR::Dynamic High Neck Halter Bra",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic High Neck Halter Bra::Chocolate",
         "Sports Bras",
         "Womens",
@@ -6325,14 +6337,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304510557,
@@ -6344,14 +6356,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304543325,
@@ -6363,14 +6375,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304576093,
@@ -6382,14 +6394,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "45.00",
           "grams": 100,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897304608861,
@@ -6408,7 +6420,7 @@
           "position": 5,
           "product_id": 8201331343453,
           "created_at": "2026-08-12T10:30:33+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -6478,7 +6490,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:15+01:00",
       "created_at": "2026-08-12T10:30:35+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Powder Blue",
       "product_type": "Shorts",
       "tags": [
@@ -6488,6 +6500,7 @@
         "JMR::Dynamic Shorts | 4.5\" | V-Back",
         "New Releases",
         "Powder Blue",
+        "restock recent",
         "SAPG::Dynamic Shorts | 4.5\" | V-Back::Powder Blue",
         "Shorts",
         "Shorts 4.5\"",
@@ -6505,14 +6518,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305165917,
@@ -6524,14 +6537,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305198685,
@@ -6543,14 +6556,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305231453,
@@ -6562,14 +6575,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305264221,
@@ -6581,14 +6594,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331474525,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -6658,7 +6671,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:14+01:00",
       "created_at": "2026-08-12T10:30:35+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Charcoal",
       "product_type": "Shorts",
       "tags": [
@@ -6668,6 +6681,7 @@
         "Grey",
         "JMR::Dynamic Shorts | 4.5\" | V-Back",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic Shorts | 4.5\" | V-Back::Charcoal",
         "Shorts",
         "Shorts 4.5\"",
@@ -6685,14 +6699,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305002077,
@@ -6704,14 +6718,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305034845,
@@ -6723,14 +6737,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305067613,
@@ -6742,14 +6756,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305100381,
@@ -6761,14 +6775,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331441757,
           "created_at": "2026-08-12T10:30:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -6838,7 +6852,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:13+01:00",
       "created_at": "2026-08-12T10:30:36+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Chocolate",
       "product_type": "Shorts",
       "tags": [
@@ -6848,6 +6862,7 @@
         "Dynamic",
         "JMR::Dynamic Shorts | 4.5\" | V-Back",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic Shorts | 4.5\" | V-Back::Chocolate",
         "Shorts",
         "Shorts 4.5\"",
@@ -6865,14 +6880,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305329757,
@@ -6884,14 +6899,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305362525,
@@ -6903,14 +6918,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305395293,
@@ -6922,14 +6937,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305428061,
@@ -6948,7 +6963,7 @@
           "position": 5,
           "product_id": 8201331507293,
           "created_at": "2026-08-12T10:30:36+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -7018,7 +7033,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:12+01:00",
       "created_at": "2026-08-12T10:30:37+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Shorts",
       "tags": [
@@ -7028,6 +7043,7 @@
         "JMR::Dynamic Shorts | 4.5\" | V-Back",
         "Midnight Black",
         "New Releases",
+        "restock recent",
         "SAPG::Dynamic Shorts | 4.5\" | V-Back::Midnight Black",
         "Shorts",
         "Shorts 4.5\"",
@@ -7045,14 +7061,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305493597,
@@ -7064,14 +7080,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305526365,
@@ -7083,14 +7099,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305559133,
@@ -7102,14 +7118,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305591901,
@@ -7121,14 +7137,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331540061,
           "created_at": "2026-08-12T10:30:37+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -7198,7 +7214,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:11+01:00",
       "created_at": "2026-08-12T10:30:40+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Flares",
       "tags": [
@@ -7210,6 +7226,7 @@
         "Midnight Black",
         "New Releases",
         "Pants & Leggings",
+        "restock recent",
         "SAPG::Dynamic Flares | V-Back ::Midnight Black",
         "Womens",
         "Womenswear"
@@ -7225,14 +7242,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306804317,
@@ -7244,14 +7261,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306837085,
@@ -7263,14 +7280,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306869853,
@@ -7282,14 +7299,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306902621,
@@ -7301,14 +7318,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306935389,
@@ -7320,14 +7337,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306968157,
@@ -7339,14 +7356,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307000925,
@@ -7358,14 +7375,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307033693,
@@ -7377,14 +7394,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307066461,
@@ -7396,14 +7413,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307099229,
@@ -7415,14 +7432,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307131997,
@@ -7434,14 +7451,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307164765,
@@ -7453,14 +7470,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 13,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307197533,
@@ -7472,14 +7489,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 14,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307230301,
@@ -7491,14 +7508,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 15,
           "product_id": 8201331671133,
           "created_at": "2026-08-12T10:30:40+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -7577,7 +7594,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:11+01:00",
       "created_at": "2026-08-12T10:30:39+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Chocolate",
       "product_type": "Flares",
       "tags": [
@@ -7589,6 +7606,7 @@
         "JMR::Dynamic Flares | V-Back",
         "New Releases",
         "Pants & Leggings",
+        "restock recent",
         "SAPG::Dynamic Flares | V-Back ::Chocolate",
         "Womens",
         "Womenswear"
@@ -7604,14 +7622,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306312797,
@@ -7623,14 +7641,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306345565,
@@ -7642,14 +7660,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306378333,
@@ -7661,14 +7679,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306411101,
@@ -7687,7 +7705,7 @@
           "position": 5,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306443869,
@@ -7699,14 +7717,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306476637,
@@ -7718,14 +7736,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306509405,
@@ -7737,14 +7755,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306542173,
@@ -7756,14 +7774,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306574941,
@@ -7782,7 +7800,7 @@
           "position": 10,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306607709,
@@ -7794,14 +7812,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306640477,
@@ -7813,14 +7831,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306673245,
@@ -7832,14 +7850,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 13,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306706013,
@@ -7851,14 +7869,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 14,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306738781,
@@ -7877,7 +7895,7 @@
           "position": 15,
           "product_id": 8201331638365,
           "created_at": "2026-08-12T10:30:39+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -7956,7 +7974,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:10+01:00",
       "created_at": "2026-08-12T10:30:38+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Berry",
       "product_type": "Shorts",
       "tags": [
@@ -7966,6 +7984,7 @@
         "JMR::Dynamic Shorts | 4.5\" | V-Back",
         "New Releases",
         "Red",
+        "restock recent",
         "SAPG::Dynamic Shorts | 4.5\" | V-Back::Berry",
         "Shorts",
         "Shorts 4.5\"",
@@ -7983,14 +8002,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305657437,
@@ -8002,14 +8021,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305690205,
@@ -8021,14 +8040,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305722973,
@@ -8040,14 +8059,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305755741,
@@ -8059,14 +8078,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "52.50",
           "grams": 105,
           "compare_at_price": null,
           "position": 5,
           "product_id": 8201331572829,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -8136,7 +8155,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:09+01:00",
       "created_at": "2026-08-12T10:30:38+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Charcoal",
       "product_type": "Flares",
       "tags": [
@@ -8148,6 +8167,7 @@
         "JMR::Dynamic Flares | V-Back",
         "New Releases",
         "Pants & Leggings",
+        "restock recent",
         "SAPG::Dynamic Flares | V-Back ::Charcoal",
         "Womens",
         "Womenswear"
@@ -8163,14 +8183,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305821277,
@@ -8182,14 +8202,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305854045,
@@ -8201,14 +8221,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305886813,
@@ -8220,14 +8240,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305919581,
@@ -8246,7 +8266,7 @@
           "position": 5,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305952349,
@@ -8258,14 +8278,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897305985117,
@@ -8277,14 +8297,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306017885,
@@ -8296,14 +8316,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306050653,
@@ -8315,14 +8335,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306083421,
@@ -8334,14 +8354,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306116189,
@@ -8353,14 +8373,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306148957,
@@ -8372,14 +8392,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306181725,
@@ -8391,14 +8411,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 13,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306214493,
@@ -8410,14 +8430,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 14,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897306247261,
@@ -8436,7 +8456,7 @@
           "position": 15,
           "product_id": 8201331605597,
           "created_at": "2026-08-12T10:30:38+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -8515,7 +8535,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:08+01:00",
       "created_at": "2026-08-12T10:30:44+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Powder Blue",
       "product_type": "Sports Bras",
       "tags": [
@@ -8525,6 +8545,7 @@
         "JMR::Dynamic Twist Back Bra",
         "New Releases",
         "Powder Blue",
+        "restock recent",
         "SAPG::Dynamic Twist Back Bra::Powder Blue",
         "Sports Bras",
         "Womens",
@@ -8541,14 +8562,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "45.00",
           "grams": 108,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308672093,
@@ -8560,14 +8581,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "45.00",
           "grams": 108,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308704861,
@@ -8586,7 +8607,7 @@
           "position": 3,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308737629,
@@ -8605,7 +8626,7 @@
           "position": 4,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308770397,
@@ -8624,7 +8645,7 @@
           "position": 5,
           "product_id": 8201331867741,
           "created_at": "2026-08-12T10:30:44+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -8683,7 +8704,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:07+01:00",
       "created_at": "2026-08-12T10:30:41+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Berry",
       "product_type": "Flares",
       "tags": [
@@ -8711,14 +8732,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307295837,
@@ -8730,14 +8751,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307328605,
@@ -8749,14 +8770,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307361373,
@@ -8768,14 +8789,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307394141,
@@ -8794,7 +8815,7 @@
           "position": 5,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307426909,
@@ -8806,14 +8827,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307459677,
@@ -8825,14 +8846,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307492445,
@@ -8844,14 +8865,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307525213,
@@ -8863,14 +8884,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307557981,
@@ -8889,7 +8910,7 @@
           "position": 10,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307590749,
@@ -8901,14 +8922,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307623517,
@@ -8920,14 +8941,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307656285,
@@ -8939,14 +8960,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 13,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307689053,
@@ -8958,14 +8979,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 14,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307721821,
@@ -8984,7 +9005,7 @@
           "position": 15,
           "product_id": 8201331703901,
           "created_at": "2026-08-12T10:30:41+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -9063,7 +9084,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:14+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Truffle",
       "product_type": "Tops",
       "tags": [
@@ -9097,7 +9118,7 @@
           "position": 1,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741835869,
@@ -9116,7 +9137,7 @@
           "position": 2,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741868637,
@@ -9135,7 +9156,7 @@
           "position": 3,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741901405,
@@ -9154,7 +9175,7 @@
           "position": 4,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741934173,
@@ -9173,7 +9194,7 @@
           "position": 5,
           "product_id": 8202564927581,
           "created_at": "2026-08-13T11:52:14+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -9243,7 +9264,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:13+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Navy",
       "product_type": "Tops",
       "tags": [
@@ -9277,7 +9298,7 @@
           "position": 1,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741639261,
@@ -9296,7 +9317,7 @@
           "position": 2,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741672029,
@@ -9315,7 +9336,7 @@
           "position": 3,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741704797,
@@ -9334,7 +9355,7 @@
           "position": 4,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741737565,
@@ -9353,7 +9374,7 @@
           "position": 5,
           "product_id": 8202564862045,
           "created_at": "2026-08-13T11:52:13+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -9423,7 +9444,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:12+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Grey Marl",
       "product_type": "Tops",
       "tags": [
@@ -9457,7 +9478,7 @@
           "position": 1,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741442653,
@@ -9476,7 +9497,7 @@
           "position": 2,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741475421,
@@ -9495,7 +9516,7 @@
           "position": 3,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741508189,
@@ -9514,7 +9535,7 @@
           "position": 4,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741540957,
@@ -9533,7 +9554,7 @@
           "position": 5,
           "product_id": 8202564796509,
           "created_at": "2026-08-13T11:52:12+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -9603,7 +9624,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-13T11:52:11+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Midnight Black",
       "product_type": "Tops",
       "tags": [
@@ -9631,14 +9652,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "35.00",
           "grams": 110,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741246045,
@@ -9657,7 +9678,7 @@
           "position": 2,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741278813,
@@ -9676,7 +9697,7 @@
           "position": 3,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741311581,
@@ -9695,7 +9716,7 @@
           "position": 4,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44902741344349,
@@ -9714,7 +9735,7 @@
           "position": 5,
           "product_id": 8202564730973,
           "created_at": "2026-08-13T11:52:11+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -9784,7 +9805,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:06+01:00",
       "created_at": "2026-08-12T10:30:42+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Powder Blue",
       "product_type": "Tops",
       "tags": [
@@ -9794,6 +9815,7 @@
         "JMR::Dynamic Twist Back Top",
         "New Releases",
         "Powder Blue",
+        "restock recent",
         "SAPG::Dynamic Twist Back Top::Powder Blue",
         "T-Shirts & Tops",
         "Tops",
@@ -9818,7 +9840,7 @@
           "position": 1,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308344413,
@@ -9830,14 +9852,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "55.00",
           "grams": 155,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308377181,
@@ -9849,14 +9871,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "55.00",
           "grams": 155,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308409949,
@@ -9868,14 +9890,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "55.00",
           "grams": 155,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308442717,
@@ -9894,7 +9916,7 @@
           "position": 5,
           "product_id": 8201331802205,
           "created_at": "2026-08-12T10:30:43+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -9964,7 +9986,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:05+01:00",
       "created_at": "2026-08-12T10:30:48+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Berry",
       "product_type": "Leggings",
       "tags": [
@@ -9993,14 +10015,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310539869,
@@ -10012,14 +10034,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310572637,
@@ -10031,14 +10053,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310605405,
@@ -10050,14 +10072,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310638173,
@@ -10076,7 +10098,7 @@
           "position": 5,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310670941,
@@ -10088,14 +10110,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310703709,
@@ -10107,14 +10129,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310736477,
@@ -10126,14 +10148,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310769245,
@@ -10145,14 +10167,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310802013,
@@ -10171,7 +10193,7 @@
           "position": 10,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310834781,
@@ -10183,14 +10205,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310867549,
@@ -10202,14 +10224,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310900317,
@@ -10221,14 +10243,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 13,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310933085,
@@ -10240,14 +10262,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "62.50",
           "grams": 158,
           "compare_at_price": null,
           "position": 14,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897310965853,
@@ -10266,7 +10288,7 @@
           "position": 15,
           "product_id": 8201332064349,
           "created_at": "2026-08-12T10:30:48+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -10345,7 +10367,7 @@
       "body_html": "<p>Dynamic Collection</p>",
       "published_at": "2026-09-15T15:59:05+01:00",
       "created_at": "2026-08-12T10:30:42+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Powder Blue",
       "product_type": "Flares",
       "tags": [
@@ -10357,6 +10379,7 @@
         "New Releases",
         "Pants & Leggings",
         "Powder Blue",
+        "restock recent",
         "SAPG::Dynamic Flares | V-Back ::Powder Blue",
         "Womens",
         "Womenswear"
@@ -10372,14 +10395,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 1,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307820125,
@@ -10391,14 +10414,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 2,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307852893,
@@ -10410,14 +10433,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 3,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307885661,
@@ -10429,14 +10452,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 4,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307918429,
@@ -10455,7 +10478,7 @@
           "position": 5,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307951197,
@@ -10467,14 +10490,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 6,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897307983965,
@@ -10486,14 +10509,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 7,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308016733,
@@ -10505,14 +10528,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 8,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308049501,
@@ -10524,14 +10547,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 9,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308082269,
@@ -10543,14 +10566,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 10,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308115037,
@@ -10562,14 +10585,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 11,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308147805,
@@ -10581,14 +10604,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 12,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308180573,
@@ -10600,14 +10623,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 13,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308213341,
@@ -10619,14 +10642,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "72.50",
           "grams": 430,
           "compare_at_price": null,
           "position": 14,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44897308246109,
@@ -10645,7 +10668,7 @@
           "position": 15,
           "product_id": 8201331769437,
           "created_at": "2026-08-12T10:30:42+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
@@ -10724,7 +10747,7 @@
       "body_html": "<p>Revive Collection</p>",
       "published_at": "2026-09-15T15:59:04+01:00",
       "created_at": "2026-08-25T10:39:35+01:00",
-      "updated_at": "2026-10-08T09:24:46+01:00",
+      "updated_at": "2026-10-09T09:28:42+01:00",
       "vendor": "Truffle",
       "product_type": "Sweatshirts",
       "tags": [
@@ -10758,7 +10781,7 @@
           "position": 1,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44943323627613,
@@ -10777,7 +10800,7 @@
           "position": 2,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44943323660381,
@@ -10796,7 +10819,7 @@
           "position": 3,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44943323693149,
@@ -10815,7 +10838,7 @@
           "position": 4,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         },
         {
           "id": 44943323725917,
@@ -10834,7 +10857,7 @@
           "position": 5,
           "product_id": 8211296354397,
           "created_at": "2026-08-25T10:39:35+01:00",
-          "updated_at": "2026-10-08T09:24:46+01:00"
+          "updated_at": "2026-10-09T09:28:42+01:00"
         }
       ],
       "images": [
