@@ -20,7 +20,7 @@
        dfyne    -> https://dfyne.com/products.json?limit=50
        tala     -> https://www.wearetala.com/products.json?limit=50
        blakely  -> https://blakelyclothing.com/collections/womens-activewear/products.json?limit=250
-       comfrt   -> https://www.comfrt.com/collections/new-arrivals/products.json?limit=250
+       comfrt   -> https://www.comfrt.com/products.json?limit=250（分页抓取全部商品）
   2) Gymshark（gym）：抓取 new-releases 第 1~3 页，解析页面内嵌
        <script id="__NEXT_DATA__"> 的 JSON，读取
        props.pageProps.ssrQuery.hits（Algolia hit 数组），跨页按
@@ -61,7 +61,7 @@ SHOPIFY_BRANDS = {
     "dfyne": {"domain": "dfyne.com", "path": "/products.json", "limit": 50},
     "tala": {"domain": "www.wearetala.com", "path": "/products.json", "limit": 50},
     "blakely": {"domain": "blakelyclothing.com", "path": "/collections/womens-activewear/products.json", "limit": 250},
-    "comfrt": {"domain": "www.comfrt.com", "path": "/collections/new-arrivals/products.json", "limit": 250},
+    "comfrt": {"domain": "www.comfrt.com", "path": "/products.json", "limit": 250, "paginate": True, "max_pages": 10},
 }
 
 # Gymshark new-releases 页面
@@ -134,16 +134,40 @@ def fetch_shopify(key, conf):
     domain = conf["domain"]
     path = conf.get("path", "/products.json")
     limit = conf.get("limit", 50)
-    url = f"https://{domain}{path}?limit={limit}"
-    print(f"[fetch] {key} (shopify): {url}", flush=True)
-    text = fetch_text(url, JSON_HEADERS, expect_json=True)
-    if not text:
-        raise RuntimeError("空响应")
-    data = json.loads(text)
-    products = data.get("products") if isinstance(data, dict) else None
-    if not isinstance(products, list) or not products:
+    paginate = conf.get("paginate", False)
+    max_pages = conf.get("max_pages", 1) if paginate else 1
+    source = f"https://{domain}{path}?limit={limit}"
+    products = []
+    seen = set()
+
+    for page in range(1, max_pages + 1):
+        url = source if page == 1 else f"{source}&page={page}"
+        print(f"[fetch] {key} (shopify) page {page}: {url}", flush=True)
+        text = fetch_text(url, JSON_HEADERS, expect_json=True)
+        if not text:
+            raise RuntimeError(f"第 {page} 页空响应")
+        data = json.loads(text)
+        page_products = data.get("products") if isinstance(data, dict) else None
+        if not isinstance(page_products, list):
+            raise RuntimeError(f"第 {page} 页 products 字段缺失")
+        if not page_products:
+            break
+
+        for product in page_products:
+            product_id = product.get("id") or product.get("handle")
+            if product_id in seen:
+                continue
+            if product_id is not None:
+                seen.add(product_id)
+            products.append(product)
+
+        if not paginate or len(page_products) < limit:
+            break
+        time.sleep(1.3)
+
+    if not products:
         raise RuntimeError("products 字段缺失或为空")
-    write_output(key, url, products)
+    write_output(key, source, products)
     return len(products)
 
 
