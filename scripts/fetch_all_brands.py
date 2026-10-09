@@ -20,13 +20,14 @@
        dfyne    -> https://dfyne.com/products.json?limit=50
        tala     -> https://www.wearetala.com/products.json?limit=50
        blakely  -> https://blakelyclothing.com/collections/womens-activewear/products.json?limit=250
+       comfrt   -> https://www.comfrt.com/collections/new-arrivals/products.json?limit=250
   2) Gymshark（gym）：抓取 new-releases 第 1~3 页，解析页面内嵌
        <script id="__NEXT_DATA__"> 的 JSON，读取
        props.pageProps.ssrQuery.hits（Algolia hit 数组），跨页按
        objectID/id/handle/title 去重，原样保存 hit 对象。
 
-输出（仓库根目录，6 个文件）：
-  alo.json / adan.json / dfyne.json / tala.json / blakely.json / gym.json
+输出（仓库根目录，7 个文件）：
+  alo.json / adan.json / dfyne.json / tala.json / blakely.json / comfrt.json / gym.json
   统一形如：
     {
       "fetchedAt": "<iso8601 UTC>",
@@ -60,6 +61,7 @@ SHOPIFY_BRANDS = {
     "dfyne": {"domain": "dfyne.com", "path": "/products.json", "limit": 50},
     "tala": {"domain": "www.wearetala.com", "path": "/products.json", "limit": 50},
     "blakely": {"domain": "blakelyclothing.com", "path": "/collections/womens-activewear/products.json", "limit": 250},
+    "comfrt": {"domain": "www.comfrt.com", "path": "/collections/new-arrivals/products.json", "limit": 250},
 }
 
 # Gymshark new-releases 页面
