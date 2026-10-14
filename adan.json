@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T08:55:59.596599+00:00",
+  "fetchedAt": "2026-10-14T07:05:59.437333+00:00",
   "source": "https://adanola.com/products.json?limit=50",
   "count": 50,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<div>\n<meta charset=\"utf-8\">\n<div>\n<meta charset=\"utf-8\">\n<p>Socks with a branded bold logo, made for every day. Style with your Adanola set to complete the look. A pack of three available in Cream, White &amp; Black. Because one pair just isn't enough.</p>\n<p><br></p>\n<p>→<span> 80% Organic Cotton, 15% Polyester, 5% Elastane</span><br>→<span> </span>13cm from heel to top<br></p>\n<p><br></p>\n<p class=\"descriptionLeft\">Our pieces require some love and care, we suggest the following;<br></p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>\n</div>\n</div>",
       "published_at": "2026-10-08T16:34:19+01:00",
       "created_at": "2023-12-13T16:16:40+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -42,7 +42,7 @@
           "position": 1,
           "product_id": 6942887805030,
           "created_at": "2025-09-02T19:58:46+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -86,7 +86,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span data-teams=\"true\">Meet your new effortless everyday staple. These trousers have wide draped legs and feature a branded waistband. Wear yours everyday, everywhere. A super versatile staple that you'll wear on repeat.</span></p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ 88% Polyester, 12% Elastane<br></span><span><meta charset=\"utf-8\">→ Easy pull on design<br><meta charset=\"utf-8\">→ Branded elasticated waistband<br><meta charset=\"utf-8\">→ Zip at hem and pockets<br><meta charset=\"utf-8\">→ Lightweight feel</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-08T11:33:10+01:00",
       "created_at": "2026-03-04T18:33:10+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Trousers",
       "tags": [
@@ -116,7 +116,7 @@
           "position": 1,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998087029,
@@ -135,7 +135,7 @@
           "position": 2,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998119797,
@@ -154,7 +154,7 @@
           "position": 3,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998152565,
@@ -173,7 +173,7 @@
           "position": 4,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998185333,
@@ -192,7 +192,7 @@
           "position": 5,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998218101,
@@ -211,7 +211,7 @@
           "position": 6,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998250869,
@@ -230,7 +230,7 @@
           "position": 7,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998283637,
@@ -249,7 +249,7 @@
           "position": 8,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998316405,
@@ -268,7 +268,7 @@
           "position": 9,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998349173,
@@ -287,7 +287,7 @@
           "position": 10,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998381941,
@@ -306,7 +306,7 @@
           "position": 11,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998414709,
@@ -325,7 +325,7 @@
           "position": 12,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998447477,
@@ -344,7 +344,7 @@
           "position": 13,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998480245,
@@ -363,7 +363,7 @@
           "position": 14,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998513013,
@@ -382,7 +382,7 @@
           "position": 15,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868998545781,
@@ -401,7 +401,7 @@
           "position": 16,
           "product_id": 15792511385973,
           "created_at": "2026-03-04T18:33:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -482,7 +482,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span data-teams=\"true\">Meet your new effortless everyday staple. These trousers have wide draped legs and feature a branded waistband. Wear yours everyday, everywhere. A super versatile staple that you'll wear on repeat.</span></p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">88% Polyester, 12% Elastane<br><meta charset=\"utf-8\">→ Easy pull on design</span><br><meta charset=\"utf-8\">→ Branded elasticated waistband<br><meta charset=\"utf-8\">→ Zip at hem and pockets<br><meta charset=\"utf-8\"><span>→ Lightweight feel<br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-08T11:33:08+01:00",
       "created_at": "2026-03-04T18:31:52+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Trousers",
       "tags": [
@@ -512,7 +512,7 @@
           "position": 1,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994220405,
@@ -531,7 +531,7 @@
           "position": 2,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994253173,
@@ -550,7 +550,7 @@
           "position": 3,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994285941,
@@ -569,7 +569,7 @@
           "position": 4,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994318709,
@@ -588,7 +588,7 @@
           "position": 5,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994351477,
@@ -607,7 +607,7 @@
           "position": 6,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994384245,
@@ -626,7 +626,7 @@
           "position": 7,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994417013,
@@ -645,7 +645,7 @@
           "position": 8,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994449781,
@@ -664,7 +664,7 @@
           "position": 9,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994482549,
@@ -683,7 +683,7 @@
           "position": 10,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994515317,
@@ -702,7 +702,7 @@
           "position": 11,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994548085,
@@ -721,7 +721,7 @@
           "position": 12,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994580853,
@@ -740,7 +740,7 @@
           "position": 13,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994613621,
@@ -759,7 +759,7 @@
           "position": 14,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994646389,
@@ -778,7 +778,7 @@
           "position": 15,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56868994679157,
@@ -797,7 +797,7 @@
           "position": 16,
           "product_id": 15792510599541,
           "created_at": "2026-03-04T18:31:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -889,7 +889,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Your new running look has landed. The Mesh Active Short Sleeve T-shirt is lightweight and has a breathable fabric, so you can feel fresh from running to running errands. It has a relaxed silhouette and features Adanola branding on the front. Style yours with our Ultimate leggings for an active look.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 89% Recycled Polyester, 11% Elastane<br><meta charset=\"utf-8\">→ Lightweight</span><br><meta charset=\"utf-8\">→ Breathable mesh fabric<br><meta charset=\"utf-8\"><span>→ Branding at centre chest<br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-08T11:33:07+01:00",
       "created_at": "2025-12-17T14:34:27+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -922,7 +922,7 @@
           "position": 1,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486858162549,
@@ -941,7 +941,7 @@
           "position": 2,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486858195317,
@@ -960,7 +960,7 @@
           "position": 3,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486858228085,
@@ -979,7 +979,7 @@
           "position": 4,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486858260853,
@@ -998,7 +998,7 @@
           "position": 5,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486858293621,
@@ -1017,7 +1017,7 @@
           "position": 6,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486858326389,
@@ -1036,7 +1036,7 @@
           "position": 7,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486858359157,
@@ -1055,7 +1055,7 @@
           "position": 8,
           "product_id": 15667820560757,
           "created_at": "2025-12-17T14:34:27+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -1128,7 +1128,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Your new running look has landed. The Mesh Active Short Sleeve T-shirt is lightweight and has a breathable fabric, so you can feel fresh from running to running errands. It has a relaxed silhouette and features Adanola branding on the front. Style yours with our Ultimate leggings for an active look.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 89% Recycled Polyester, 11% Elastane<br><meta charset=\"utf-8\">→ Lightweight</span><br><meta charset=\"utf-8\">→ Breathable mesh fabric<br><meta charset=\"utf-8\"><span>→ Branding at centre chest<br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-08T11:33:05+01:00",
       "created_at": "2025-12-17T14:34:16+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -1162,7 +1162,7 @@
           "position": 1,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486854164853,
@@ -1181,7 +1181,7 @@
           "position": 2,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486854197621,
@@ -1200,7 +1200,7 @@
           "position": 3,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486854230389,
@@ -1219,7 +1219,7 @@
           "position": 4,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486854263157,
@@ -1238,7 +1238,7 @@
           "position": 5,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486854295925,
@@ -1257,7 +1257,7 @@
           "position": 6,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486854328693,
@@ -1276,7 +1276,7 @@
           "position": 7,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486854361461,
@@ -1295,7 +1295,7 @@
           "position": 8,
           "product_id": 15667820069237,
           "created_at": "2025-12-17T14:34:16+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -1379,7 +1379,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Your new running look has landed. The Mesh Active Short Sleeve T-shirt is lightweight and has a breathable fabric, so you can feel fresh from running to running errands. It has a relaxed silhouette and features Adanola branding on the front. Style yours with our Ultimate leggings for an active look.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 89% Recycled Polyester, 11% Elastane<br><meta charset=\"utf-8\">→ Lightweight</span><br><meta charset=\"utf-8\">→ Breathable mesh fabric<br><meta charset=\"utf-8\"><span>→ Branding at centre chest<br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-08T11:33:03+01:00",
       "created_at": "2025-12-17T14:34:10+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -1412,7 +1412,7 @@
           "position": 1,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486852886901,
@@ -1431,7 +1431,7 @@
           "position": 2,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486852919669,
@@ -1450,7 +1450,7 @@
           "position": 3,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486852952437,
@@ -1469,7 +1469,7 @@
           "position": 4,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486852985205,
@@ -1488,7 +1488,7 @@
           "position": 5,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486853017973,
@@ -1507,7 +1507,7 @@
           "position": 6,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486853050741,
@@ -1526,7 +1526,7 @@
           "position": 7,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486853083509,
@@ -1545,7 +1545,7 @@
           "position": 8,
           "product_id": 15667819938165,
           "created_at": "2025-12-17T14:34:10+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -1618,7 +1618,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Your new running look has landed. The Mesh Active Long Sleeve T-shirt is lightweight and has a breathable fabric, so you can feel fresh from running to running errands. It has a relaxed silhouette, features thumbholes and an Adanola branding on the front. Style yours with our Ultimate leggings for an active look.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 89% Recycled Polyester, 11% Elastane<br><meta charset=\"utf-8\">→ Lightweight</span><br><meta charset=\"utf-8\">→ Breathable mesh fabric<br><meta charset=\"utf-8\">→ Bonded edge thumbholes<br><meta charset=\"utf-8\"><span>→ Branding at centre chest<br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-08T11:33:02+01:00",
       "created_at": "2025-12-17T14:32:54+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -1653,7 +1653,7 @@
           "position": 1,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486851281269,
@@ -1672,7 +1672,7 @@
           "position": 2,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486851314037,
@@ -1691,7 +1691,7 @@
           "position": 3,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486851346805,
@@ -1710,7 +1710,7 @@
           "position": 4,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486851379573,
@@ -1729,7 +1729,7 @@
           "position": 5,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486851412341,
@@ -1748,7 +1748,7 @@
           "position": 6,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486851445109,
@@ -1767,7 +1767,7 @@
           "position": 7,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486851477877,
@@ -1786,7 +1786,7 @@
           "position": 8,
           "product_id": 15667819315573,
           "created_at": "2025-12-17T14:32:54+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -1859,7 +1859,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Your new running look has landed. The Mesh Active Long Sleeve T-shirt is lightweight and has a breathable fabric, so you can feel fresh from running to running errands. It has a relaxed silhouette, features thumbholes and an Adanola branding on the front. Style yours with our Ultimate leggings for an active look.</span><br></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 89% Recycled Polyester, 11% Elastane<br><meta charset=\"utf-8\">→ Lightweight</span><br><meta charset=\"utf-8\">→ Breathable mesh fabric<br><meta charset=\"utf-8\">→ Bonded edge thumbholes<br><meta charset=\"utf-8\"><span>→ Branding at centre chest<br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-08T11:33:00+01:00",
       "created_at": "2025-12-17T14:32:28+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -1894,7 +1894,7 @@
           "position": 1,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486850363765,
@@ -1913,7 +1913,7 @@
           "position": 2,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486850396533,
@@ -1932,7 +1932,7 @@
           "position": 3,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486850429301,
@@ -1951,7 +1951,7 @@
           "position": 4,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486850462069,
@@ -1970,7 +1970,7 @@
           "position": 5,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486850494837,
@@ -1989,7 +1989,7 @@
           "position": 6,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486850527605,
@@ -2008,7 +2008,7 @@
           "position": 7,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56486850560373,
@@ -2027,7 +2027,7 @@
           "position": 8,
           "product_id": 15667819053429,
           "created_at": "2025-12-17T14:32:28+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -2089,7 +2089,7 @@
       "body_html": "<p>The Relaxed Quarter Zip Sweatshirt is here for the winter; the perfect mixture of comfort and style. This Quarter Zip is perfect for keeping you cool after your fave gym class. Featuring a Relaxed fit with dropped shoulders and a screen-printed varsity logo on the chest. Made from 100% Organic Cotton.</p>\n<p><br></p>\n<p class=\"p1\"><span>→ 1</span>00% Organic Cotton Fleece-back 420GSM<br>→ <meta charset=\"utf-8\"><span>Quarter</span><span> Zip Funnel Neck</span><br>→ S<span>creen-printed Marshmallow White Varsity graphic on front left chest</span><br><meta charset=\"utf-8\"><span>→ Relaxed fit – dropped shoulders</span><br><span>→ 2X2 Rib at cuff &amp; hem</span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\" dir=\"ltr\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\" dir=\"ltr\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when we<br>→ L<span class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\" dir=\"ltr\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-06T10:30:19+01:00",
       "created_at": "2025-10-22T18:02:57+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
@@ -2122,7 +2122,7 @@
           "position": 1,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140190777717,
@@ -2141,7 +2141,7 @@
           "position": 2,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140190810485,
@@ -2160,7 +2160,7 @@
           "position": 3,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140190843253,
@@ -2179,7 +2179,7 @@
           "position": 4,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140190876021,
@@ -2198,7 +2198,7 @@
           "position": 5,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140190908789,
@@ -2217,7 +2217,7 @@
           "position": 6,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140190941557,
@@ -2236,7 +2236,7 @@
           "position": 7,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140190974325,
@@ -2255,7 +2255,7 @@
           "position": 8,
           "product_id": 15567737946485,
           "created_at": "2025-10-22T18:02:57+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -2328,7 +2328,7 @@
       "body_html": "<p><meta charset=\"utf-8\">Introducing the Striped Long Sleeve T-shirt. A timeless wardrobe staple, perfect for the colder season. Cut from a soft 100% Cotton fabric. Designed with a relaxed, boxy fit and finished with an embroidered logo, it’s made for everyday, everywhere.<br></p>\n<p> </p>\n<p><meta charset=\"utf-8\"><span>→ 100% Cotton<br><meta charset=\"utf-8\">→ 'Adanola Sport' badge branding on left hand chest, with <meta charset=\"utf-8\">Marshmallow White base and <meta charset=\"utf-8\">Dark Cherry embroidery</span><br><meta charset=\"utf-8\">→ Boxy fit<br><meta charset=\"utf-8\">→ Coffee Bean base, with Marshmallow White and Dark Cherry stripes<span><br></span></p>\n<p> </p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>\n<div><br></div>\n<div><br></div>",
       "published_at": "2026-10-06T09:42:51+01:00",
       "created_at": "2025-05-01T14:34:20+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -2361,7 +2361,7 @@
           "position": 1,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 55339395907957,
@@ -2380,7 +2380,7 @@
           "position": 2,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 55339395940725,
@@ -2399,7 +2399,7 @@
           "position": 3,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 55339395973493,
@@ -2418,7 +2418,7 @@
           "position": 4,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 55339396006261,
@@ -2437,7 +2437,7 @@
           "position": 5,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 55339396039029,
@@ -2456,7 +2456,7 @@
           "position": 6,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 55339396071797,
@@ -2475,7 +2475,7 @@
           "position": 7,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 55339396104565,
@@ -2494,7 +2494,7 @@
           "position": 8,
           "product_id": 15011931390325,
           "created_at": "2025-05-01T14:34:20+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -2567,7 +2567,7 @@
       "body_html": "<div>\n<p><span>For on the go and in the flow. Adanola Seamless designed to move with you. Introducing the newest addition to our Seamless category. Meet Classic Seamless; designed to gently support you on and off the mat. The Classic Seamless Cross Back Tank Top features subtle ribbed details and tonal branding. The fabric offers a smooth, sculpting fit with medium compression and light support for all day comfort. Style your Top with the Classic Seamless Leggings for a complete look.</span></p>\n<p><br></p>\n<p>Learn more about our <strong><a href=\"/pages/explore-the-fabrics\">Activewear fabrics</a></strong>.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 91% Nylon, 9% Elastane<br><meta charset=\"utf-8\">→ Sleek &amp; soft touch</span><br><meta charset=\"utf-8\">→ Medium compression<br><meta charset=\"utf-8\">→ Mid-to-heavyweight<br><meta charset=\"utf-8\"><span>→ Light-textured knitted fabric<br><meta charset=\"utf-8\">→ Supportive fabrication<br><meta charset=\"utf-8\">→ Subtle ribbed details<br><meta charset=\"utf-8\">→ Cross back detail<br><meta charset=\"utf-8\">→ 3D silicone tonal branding on front ribbed hem<br></span></p>\n</div>\n<p> </p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-06T09:37:16+01:00",
       "created_at": "2026-02-19T18:41:08+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -2609,7 +2609,7 @@
           "position": 1,
           "product_id": 15729924407669,
           "created_at": "2026-02-19T18:41:08+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56762956349813,
@@ -2628,7 +2628,7 @@
           "position": 2,
           "product_id": 15729924407669,
           "created_at": "2026-02-19T18:41:08+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56762956382581,
@@ -2647,7 +2647,7 @@
           "position": 3,
           "product_id": 15729924407669,
           "created_at": "2026-02-19T18:41:08+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56762956415349,
@@ -2666,7 +2666,7 @@
           "position": 4,
           "product_id": 15729924407669,
           "created_at": "2026-02-19T18:41:08+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56762956448117,
@@ -2685,7 +2685,7 @@
           "position": 5,
           "product_id": 15729924407669,
           "created_at": "2026-02-19T18:41:08+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56762956480885,
@@ -2704,7 +2704,7 @@
           "position": 6,
           "product_id": 15729924407669,
           "created_at": "2026-02-19T18:41:08+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -2764,7 +2764,7 @@
       "body_html": "<p>Meet our seamless activewear fabric designed to support you through heavier workouts. Crafted from a soft, lightweight composition. This sweat-wicking fabric keeps you cool and comfortable with breathable compression that hugs your body like a second skin. This new fabric provides support through every rep and set, adapting effortlessly to every motion. The Seamless Racer Back Bra features engineered breathable panels, bonded edges, adjustable straps and tonal branding. Style yours with the matching leggings for a complete look. Get ready to move with Seamless.</p>\n<p> </p>\n<p><meta charset=\"utf-8\">Learn more about our<a href=\"/pages/seamless\"><strong> Seamless fabric</strong></a>.<br><br></p>\n<p><meta charset=\"utf-8\"><span>→ New Active Fabric<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">90% Nylon, 10% Elastane</span><br><meta charset=\"utf-8\">→ Sweat-wicking<br><meta charset=\"utf-8\">→ 4-way stretch<br><meta charset=\"utf-8\"><span>→ 3D silicone tonal branding on centre back</span><br><meta charset=\"utf-8\"><span>→ Compression sculpting fit<br><meta charset=\"utf-8\">→ Mesh panel inserts<br><meta charset=\"utf-8\">→ Bonded edges<br><meta charset=\"utf-8\">→ Racer back cut<br><meta charset=\"utf-8\"> <meta charset=\"utf-8\">→ Adjustable straps<br><meta charset=\"utf-8\"> <meta charset=\"utf-8\">→ Removable pads<br></span></p>\n<p> </p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-06T09:19:49+01:00",
       "created_at": "2026-02-13T15:36:50+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sports Bras",
       "tags": [
@@ -2802,7 +2802,7 @@
           "position": 1,
           "product_id": 15722829316469,
           "created_at": "2026-02-13T15:36:50+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56737651425653,
@@ -2821,7 +2821,7 @@
           "position": 2,
           "product_id": 15722829316469,
           "created_at": "2026-02-13T15:36:50+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56737651458421,
@@ -2840,7 +2840,7 @@
           "position": 3,
           "product_id": 15722829316469,
           "created_at": "2026-02-13T15:36:50+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56737651491189,
@@ -2859,7 +2859,7 @@
           "position": 4,
           "product_id": 15722829316469,
           "created_at": "2026-02-13T15:36:50+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56737651523957,
@@ -2878,7 +2878,7 @@
           "position": 5,
           "product_id": 15722829316469,
           "created_at": "2026-02-13T15:36:50+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56737651556725,
@@ -2897,7 +2897,7 @@
           "position": 6,
           "product_id": 15722829316469,
           "created_at": "2026-02-13T15:36:50+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -3012,7 +3012,7 @@
       "body_html": "<p>Socks with a branded bold logo, made for every day. Style with your Adanola set to complete the look.</p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ 63% Organic Cotton, 24% Recycled Polyester, 5% Polyamide, 8% Elastane<br></span><span><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">13cm from heel to top<br><meta charset=\"utf-8\">→ Contrast Adanola branding on the sides</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-01T14:59:45+01:00",
       "created_at": "2026-05-18T12:32:17+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -3044,7 +3044,7 @@
           "position": 1,
           "product_id": 15879000162677,
           "created_at": "2026-05-18T12:32:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -3088,7 +3088,7 @@
       "body_html": "<p>Made from cotton canvas, this everyday tote features an external pocket and branding. It’s the perfect go-to for everyday use.</p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ 100% Cotton<br><meta charset=\"utf-8\">→ Side pockets </span><br><meta charset=\"utf-8\">→ Scripted embroidered branding<br><meta charset=\"utf-8\">→ Size: W: 61.5cm, H: 34cm, D: 18cm<span><br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-01T14:59:44+01:00",
       "created_at": "2026-04-29T12:32:00+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -3120,7 +3120,7 @@
           "position": 1,
           "product_id": 15861346009461,
           "created_at": "2026-04-29T12:32:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -3219,7 +3219,7 @@
       "body_html": "<p>This cap is crafted from cotton canvas with a timeless curved brim silhouette. Designed with an embroidery logo. A perfect hat for all of the bad hair days.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 100% Cotton<br><meta charset=\"utf-8\">→ Adjustable branded closure on back</span><br><meta charset=\"utf-8\">→ Scripted Adanola embroidered branding on side<br><meta charset=\"utf-8\">→ 6 panel curved brim<span><br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-01T14:59:44+01:00",
       "created_at": "2026-04-27T12:33:46+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -3253,7 +3253,7 @@
           "position": 1,
           "product_id": 15860120846709,
           "created_at": "2026-04-27T12:33:46+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -3308,7 +3308,7 @@
       "body_html": "<p><span>The Chunky Knit Hoodie is the perfect layer for the new season. Designed with a cropped, oversized silhouette for a relaxed fit, it’s finished with branding on the chest. Style yours with the Ultimate Leggings for a complete look.</span></p>\n<p><br></p>\n<p><span>→ 70% Nylon, 30% Wool<br><meta charset=\"utf-8\">→ Cropped, oversized shape<br><meta charset=\"utf-8\">→ Contrast branding across centre front chest <br><meta charset=\"utf-8\">→ Branded satin label on centre back</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash cold, and by hand<br>→ Do not tumble dry or dry at high temperatures<br>→ Lay flat to dry<br>→ Reshape while damp<br>→ Ironing once dry will help regain softness of fabric</p>",
       "published_at": "2026-10-01T14:59:43+01:00",
       "created_at": "2026-04-22T13:31:34+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Knit Tops",
       "tags": [
@@ -3344,7 +3344,7 @@
           "position": 1,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57092922704245,
@@ -3363,7 +3363,7 @@
           "position": 2,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57092922737013,
@@ -3382,7 +3382,7 @@
           "position": 3,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57092922769781,
@@ -3401,7 +3401,7 @@
           "position": 4,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57092922802549,
@@ -3420,7 +3420,7 @@
           "position": 5,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57092922835317,
@@ -3439,7 +3439,7 @@
           "position": 6,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57092922868085,
@@ -3458,7 +3458,7 @@
           "position": 7,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57092922900853,
@@ -3477,7 +3477,7 @@
           "position": 8,
           "product_id": 15857475912053,
           "created_at": "2026-04-22T13:31:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -3572,15 +3572,12 @@
       "body_html": "<p>Ease into the new season with our new Sweatshirt. Designed with a relaxed fit, it features ribbed cuffs and hem, and subtle branding at the chest. Wear the collar up for a sleek funnel-neck silhouette, or fold it down for a relaxed, everyday look.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ Relaxed fit</span><br><meta charset=\"utf-8\">→ Soft, velvety feel fabric<br><meta charset=\"utf-8\">→ Full zip through<br><meta charset=\"utf-8\"><span>→ Adanola Script embroidered branding on chest left hand side<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:42+01:00",
       "created_at": "2026-04-17T14:39:11+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
         "01 oct 26",
         "1",
-        "badge_1::New",
-        "HB-full-range",
-        "new arrivals",
         "RGroup_studio-relaxed-zip-through-sweatshirt",
         "seasonal",
         "Studio Sweats",
@@ -3607,7 +3604,7 @@
           "position": 1,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509746037,
@@ -3626,7 +3623,7 @@
           "position": 2,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509778805,
@@ -3645,7 +3642,7 @@
           "position": 3,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509811573,
@@ -3664,7 +3661,7 @@
           "position": 4,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509844341,
@@ -3683,7 +3680,7 @@
           "position": 5,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509877109,
@@ -3702,7 +3699,7 @@
           "position": 6,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509909877,
@@ -3721,7 +3718,7 @@
           "position": 7,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509942645,
@@ -3740,7 +3737,7 @@
           "position": 8,
           "product_id": 15854425407861,
           "created_at": "2026-04-17T14:39:11+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -3824,15 +3821,12 @@
       "body_html": "<p>The Balloon Sleeve Sweatshirt is a timeless wardrobe essential, designed with a relaxed silhouette,<span> ballon sleeves and cinched waist detail</span>. It features concealed poppers, embroidered branding at the chest and a soft cotton blend with a brushed interior for added comfort. The perfect layer to throw on post-Pilates class.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Relaxed fit, cinched waist</span><br><meta charset=\"utf-8\">→ Soft, velvety feel fabric<br><meta charset=\"utf-8\">→ Popper placket detailing<br><meta charset=\"utf-8\"><span>→ Adanola Signature embroidered branding on chest left hand side<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:42+01:00",
       "created_at": "2026-04-17T14:38:55+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
         "01 oct 26",
         "1",
-        "badge_1::New",
-        "HB-full-range",
-        "new arrivals",
         "RGroup_studio-henley-sweatshirt",
         "Studio Sweats",
         "Sweaters",
@@ -3857,7 +3851,7 @@
           "position": 1,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509188981,
@@ -3876,7 +3870,7 @@
           "position": 2,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509221749,
@@ -3895,7 +3889,7 @@
           "position": 3,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509254517,
@@ -3914,7 +3908,7 @@
           "position": 4,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509287285,
@@ -3933,7 +3927,7 @@
           "position": 5,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509320053,
@@ -3952,7 +3946,7 @@
           "position": 6,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509352821,
@@ -3971,7 +3965,7 @@
           "position": 7,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079509385589,
@@ -3990,7 +3984,7 @@
           "position": 8,
           "product_id": 15854425309557,
           "created_at": "2026-04-17T14:38:56+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -4096,15 +4090,12 @@
       "body_html": "<p>Refresh your wardrobe with the V-Neck Sweatshirt. Crafted from a soft cotton blend with a brushed interior, it’s designed with <meta charset=\"utf-8\">pleat detail ballon sleeves for effortless comfort on laid-back days. Finished with embroidered branding on the centre back, it pairs perfectly with the matching sweatpants or Ultimate Leggings for an elevated take on everyday dressing.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Relaxed fit, ballon sleeves</span><br><meta charset=\"utf-8\">→ Soft, velvety feel fabric<br><meta charset=\"utf-8\">→ Shallow v-neck shape<br><meta charset=\"utf-8\"><span>→ Ribbed detailing on neckline and cuffs<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:41+01:00",
       "created_at": "2026-04-17T14:38:16+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
         "01 oct 26",
         "1",
-        "badge_1::New",
-        "HB-full-range",
-        "new arrivals",
         "RGroup_studio-v-neck-relaxed-sweatshirt",
         "seasonal",
         "Studio Sweats",
@@ -4132,7 +4123,7 @@
           "position": 1,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079505322357,
@@ -4151,7 +4142,7 @@
           "position": 2,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079505355125,
@@ -4170,7 +4161,7 @@
           "position": 3,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079505387893,
@@ -4189,7 +4180,7 @@
           "position": 4,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079505420661,
@@ -4208,7 +4199,7 @@
           "position": 5,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079505453429,
@@ -4227,7 +4218,7 @@
           "position": 6,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079505486197,
@@ -4246,7 +4237,7 @@
           "position": 7,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079505518965,
@@ -4265,7 +4256,7 @@
           "position": 8,
           "product_id": 15854425014645,
           "created_at": "2026-04-17T14:38:16+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -4371,7 +4362,7 @@
       "body_html": "<p>This Hoodie is a comfortable essential for laid-back days. Designed with a cropped fit and rib panel detailing, it’s crafted from a soft cotton blend with a peached exterior and gently brushed interior for added comfort. </p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ Relaxed fit </span><br><meta charset=\"utf-8\">→ Soft, velvety feel fabric<br><meta charset=\"utf-8\">→ Ribbed detailing down the sides<span><br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:41+01:00",
       "created_at": "2026-04-17T14:33:35+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Hoodies",
       "tags": [
@@ -4405,7 +4396,7 @@
           "position": 1,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493886325,
@@ -4424,7 +4415,7 @@
           "position": 2,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493919093,
@@ -4443,7 +4434,7 @@
           "position": 3,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493951861,
@@ -4462,7 +4453,7 @@
           "position": 4,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493984629,
@@ -4481,7 +4472,7 @@
           "position": 5,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079494017397,
@@ -4500,7 +4491,7 @@
           "position": 6,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079494050165,
@@ -4519,7 +4510,7 @@
           "position": 7,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079494082933,
@@ -4538,7 +4529,7 @@
           "position": 8,
           "product_id": 15854423867765,
           "created_at": "2026-04-17T14:33:35+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -4611,7 +4602,7 @@
       "body_html": "<p>The Henley Sweatshirt is a timeless wardrobe essential, designed with an oversized silhouette for effortless comfort. It features concealed poppers, embroidered branding at the chest and a soft cotton blend with a brushed interior for added comfort. The perfect layer to throw on post-Pilates class.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ Oversized fit </span><br><meta charset=\"utf-8\">→ Soft, velvety feel fabric <br><meta charset=\"utf-8\">→ Popper placket detailing<br><meta charset=\"utf-8\"><span>→ Embroidered branding on chest left hand side<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:40+01:00",
       "created_at": "2026-04-17T14:33:27+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
@@ -4646,7 +4637,7 @@
           "position": 1,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:27+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493591413,
@@ -4665,7 +4656,7 @@
           "position": 2,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:27+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493624181,
@@ -4684,7 +4675,7 @@
           "position": 3,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:27+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493656949,
@@ -4703,7 +4694,7 @@
           "position": 4,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:27+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493689717,
@@ -4722,7 +4713,7 @@
           "position": 5,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:27+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493722485,
@@ -4741,7 +4732,7 @@
           "position": 6,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:27+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493755253,
@@ -4760,7 +4751,7 @@
           "position": 7,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:28+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493788021,
@@ -4779,7 +4770,7 @@
           "position": 8,
           "product_id": 15854423802229,
           "created_at": "2026-04-17T14:33:28+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -4852,7 +4843,7 @@
       "body_html": "<p>Our Oversized Sweatshirt is made from organic cotton loop-back fabric perfect for the transitioning season. It has an oversized fit with dropped shoulders. Featuring a varsity screen-printed graphic on the chest. Style yours with the Ultimate Leggings for a laid back look.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 100% Organic Cotton<br><meta charset=\"utf-8\">→ Loopback - 420GSM</span><br><meta charset=\"utf-8\">→ Applique Varsity graphic on centre front chest<br><meta charset=\"utf-8\">→ Oversized fit - dropped shoulders<span><br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:39+01:00",
       "created_at": "2026-04-17T14:33:00+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
@@ -4885,7 +4876,7 @@
           "position": 1,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493001589,
@@ -4904,7 +4895,7 @@
           "position": 2,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493034357,
@@ -4923,7 +4914,7 @@
           "position": 3,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493067125,
@@ -4942,7 +4933,7 @@
           "position": 4,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493099893,
@@ -4961,7 +4952,7 @@
           "position": 5,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493132661,
@@ -4980,7 +4971,7 @@
           "position": 6,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493165429,
@@ -4999,7 +4990,7 @@
           "position": 7,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079493198197,
@@ -5018,7 +5009,7 @@
           "position": 8,
           "product_id": 15854423671157,
           "created_at": "2026-04-17T14:33:00+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -5091,16 +5082,13 @@
       "body_html": "<p>The Signature Zip Hoodie is a comfortable essential for laid-back days. Designed with a cropped fit, cinched waist and rib panel detailing, it’s crafted from a soft cotton blend with a peached exterior and gently brushed interior for added comfort. Style yours with the matching sweatpants for a complete look.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Relaxed fit, cinched waist</span><br><meta charset=\"utf-8\">→ Ribbed style down the sides<br><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">Soft, velvety feel fabric<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:39+01:00",
       "created_at": "2026-04-17T14:08:07+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Hoodies",
       "tags": [
         "01 oct 26",
         "1",
-        "badge_1::New",
-        "HB-full-range",
         "Hoodies",
-        "new arrivals",
         "RGroup_studio-relaxed-zip-through-hoodie",
         "Studio Sweats",
         "Sweaters",
@@ -5127,7 +5115,7 @@
           "position": 1,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079448011125,
@@ -5146,7 +5134,7 @@
           "position": 2,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079448043893,
@@ -5165,7 +5153,7 @@
           "position": 3,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079448076661,
@@ -5184,7 +5172,7 @@
           "position": 4,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079448109429,
@@ -5203,7 +5191,7 @@
           "position": 5,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079448142197,
@@ -5222,7 +5210,7 @@
           "position": 6,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079448174965,
@@ -5241,7 +5229,7 @@
           "position": 7,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079448207733,
@@ -5260,7 +5248,7 @@
           "position": 8,
           "product_id": 15854414299509,
           "created_at": "2026-04-17T14:08:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -5377,16 +5365,13 @@
       "body_html": "<p>The Signature Sweatpants are a comfortable essential for laid-back days. Designed with a relaxed loose fit and ribbed detailing, they’re crafted from a soft cotton blend with a peached exterior and gently brushed interior for added comfort.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Relaxed fit - straight leg shape</span><br><meta charset=\"utf-8\">→ Ribbed style down the sides<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\"><span>Soft, velvety feel fabric<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Coin pocket detail</span><span><br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:38+01:00",
       "created_at": "2026-04-17T14:07:09+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatpants",
       "tags": [
         "01 oct 26",
         "1",
-        "badge_1::New",
-        "HB-full-range",
         "loose fit pants",
-        "new arrivals",
         "RGroup_studio-straight-leg-sweatpants",
         "Studio Sweats",
         "Sweatpants",
@@ -5412,7 +5397,7 @@
           "position": 1,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445160309,
@@ -5431,7 +5416,7 @@
           "position": 2,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445193077,
@@ -5450,7 +5435,7 @@
           "position": 3,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445225845,
@@ -5469,7 +5454,7 @@
           "position": 4,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445258613,
@@ -5488,7 +5473,7 @@
           "position": 5,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445291381,
@@ -5507,7 +5492,7 @@
           "position": 6,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445324149,
@@ -5526,7 +5511,7 @@
           "position": 7,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445356917,
@@ -5545,7 +5530,7 @@
           "position": 8,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445389685,
@@ -5564,7 +5549,7 @@
           "position": 9,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445422453,
@@ -5583,7 +5568,7 @@
           "position": 10,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445455221,
@@ -5602,7 +5587,7 @@
           "position": 11,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445487989,
@@ -5621,7 +5606,7 @@
           "position": 12,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445520757,
@@ -5640,7 +5625,7 @@
           "position": 13,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445553525,
@@ -5659,7 +5644,7 @@
           "position": 14,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445586293,
@@ -5678,7 +5663,7 @@
           "position": 15,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079445619061,
@@ -5697,7 +5682,7 @@
           "position": 16,
           "product_id": 15854414070133,
           "created_at": "2026-04-17T14:07:09+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -5800,16 +5785,13 @@
       "body_html": "<p>Our Loose Fit Sweatpants are an effortless everyday essential, perfect for lounging or running errands. Designed with a relaxed silhouette and flexible drawstring waistband for all-day comfort, they feature embroidered branding on the leg. Made from soft cotton with a brushed interior for added warmth and comfort, they’re a pair you’ll reach for time and time again.</p>\n<p><br></p> <p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p> <p><br></p>\n<p><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">80% Cotton, 20% Polyester<br><meta charset=\"utf-8\">→ Loose fit - cuffed leg shape</span><br><meta charset=\"utf-8\">→ Thin waistband and cuff detail<br><meta charset=\"utf-8\">→ Soft, velvety feel fabric<span><br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>",
       "published_at": "2026-10-01T14:59:37+01:00",
       "created_at": "2026-04-17T14:06:23+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatpants",
       "tags": [
         "01 oct 26",
         "1",
-        "badge_1::New",
-        "HB-full-range",
         "loose fit pants",
-        "new arrivals",
         "RGroup_studio-loose-fit-sweatpants",
         "seasonal",
         "Studio Sweats",
@@ -5836,7 +5818,7 @@
           "position": 1,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443489141,
@@ -5855,7 +5837,7 @@
           "position": 2,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443521909,
@@ -5874,7 +5856,7 @@
           "position": 3,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443554677,
@@ -5893,7 +5875,7 @@
           "position": 4,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443587445,
@@ -5912,7 +5894,7 @@
           "position": 5,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443620213,
@@ -5931,7 +5913,7 @@
           "position": 6,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443652981,
@@ -5950,7 +5932,7 @@
           "position": 7,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443685749,
@@ -5969,7 +5951,7 @@
           "position": 8,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443718517,
@@ -5988,7 +5970,7 @@
           "position": 9,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443751285,
@@ -6007,7 +5989,7 @@
           "position": 10,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443784053,
@@ -6026,7 +6008,7 @@
           "position": 11,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443816821,
@@ -6045,7 +6027,7 @@
           "position": 12,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443849589,
@@ -6064,7 +6046,7 @@
           "position": 13,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443882357,
@@ -6083,7 +6065,7 @@
           "position": 14,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443915125,
@@ -6102,7 +6084,7 @@
           "position": 15,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079443947893,
@@ -6121,7 +6103,7 @@
           "position": 16,
           "product_id": 15854413939061,
           "created_at": "2026-04-17T14:06:23+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -6235,7 +6217,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span data-teams=\"true\"><span>Introducing the Ruched Jacket, the perfect lightweight layer for throwing on post-Pilates. It has a fitted silhouette and designed with ruching details through the body and sleeves, adjustable toggles to customise the fit, and finished with a branded zip fastening. Style yours over your favourite Adanola set for an effortless off-duty look.</span></span></p>\n<p><br></p>\n<p><span data-teams=\"true\"><span> </span></span><br></p>\n<p><meta charset=\"utf-8\"><span>→ 90% Nylon, 10% Spandex<br><meta charset=\"utf-8\">→ Slim fit design<br><meta charset=\"utf-8\">→ Ruched detail on body and sleeves</span><br><meta charset=\"utf-8\">→ Elasticated hem <br><meta charset=\"utf-8\">→ Toggles on front neck and centre back<br><meta charset=\"utf-8\"><span>→ Branded metal zip<br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-01T14:59:37+01:00",
       "created_at": "2026-04-17T13:36:34+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Jackets",
       "tags": [
@@ -6266,7 +6248,7 @@
           "position": 1,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079324737909,
@@ -6285,7 +6267,7 @@
           "position": 2,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079324770677,
@@ -6304,7 +6286,7 @@
           "position": 3,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079324803445,
@@ -6323,7 +6305,7 @@
           "position": 4,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079324836213,
@@ -6342,7 +6324,7 @@
           "position": 5,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079324868981,
@@ -6361,7 +6343,7 @@
           "position": 6,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079324901749,
@@ -6380,7 +6362,7 @@
           "position": 7,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57079324934517,
@@ -6399,7 +6381,7 @@
           "position": 8,
           "product_id": 15854398210421,
           "created_at": "2026-04-17T13:36:34+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -6516,7 +6498,7 @@
       "body_html": "<p>The Narrow racer back bra is specially designed to keep you feeling secure and comfortable through your workouts to your daily errands. Made from a new better than ever premium Ultimate fabric that is even more hardworking. It features a narrow racer back design. Style with the matching Ultimate Leggings for a complete set.</p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ Outer Fabric: 79% Polyamide, 21% Elastane <br><meta charset=\"utf-8\">→ Lining Fabric: 90% Polyamide, 10% Elastane<br></span><span><meta charset=\"utf-8\">→ Smoothing &amp; sculpting<br><meta charset=\"\" utf-8=\"\">→ Medium compression<br><meta charset=\"\" utf-8=\"\">→ 4-way stretch<br><meta charset=\"\" utf-8=\"\">→ Internal shelf bra, with removable padding</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-01T14:59:36+01:00",
       "created_at": "2026-04-13T13:04:58+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sports Bras",
       "tags": [
@@ -6524,7 +6506,6 @@
         "1",
         "Active",
         "badge_1::Ultimate",
-        "badge_2::Updated Fabric",
         "HB-full-range",
         "new arrivals",
         "purple",
@@ -6552,7 +6533,7 @@
           "position": 1,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067054072181,
@@ -6571,7 +6552,7 @@
           "position": 2,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067054104949,
@@ -6590,7 +6571,7 @@
           "position": 3,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067054137717,
@@ -6609,7 +6590,7 @@
           "position": 4,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067054170485,
@@ -6628,7 +6609,7 @@
           "position": 5,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067054203253,
@@ -6647,7 +6628,7 @@
           "position": 6,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067054236021,
@@ -6666,7 +6647,7 @@
           "position": 7,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067054268789,
@@ -6685,7 +6666,7 @@
           "position": 8,
           "product_id": 15851489165685,
           "created_at": "2026-04-13T13:04:58+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -6769,7 +6750,7 @@
       "body_html": "<p>Meet our best selling Ultimate Leggings. Made from a new better than ever premium Ultimate fabric that is even more hardworking. These leggings are designed without a front seam as well as a higher waistline for extra support and to contour the body. For everyday movement, our Ultimate delivers far beyond the gym. So versatile with your daily rotation in mind. Available in three lengths: full length, 7/8 and tall. <meta charset=\"utf-8\">Style with the matching Ultimate Narrow Racer Back Bra for a complete set.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 79% Polyamide, 21% Elastane<br></span><span><meta charset=\"utf-8\">→ Medium compression<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Smoothing &amp; sculpting<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">High rise waistband<br><meta charset=\"utf-8\">→ Squat proof<br><meta charset=\"utf-8\">→ 4-way stretch</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-01T14:59:36+01:00",
       "created_at": "2026-04-13T13:04:10+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Leggings",
       "tags": [
@@ -6777,7 +6758,6 @@
         "1",
         "Active",
         "badge_1::Ultimate",
-        "badge_2::Updated Fabric",
         "HB-full-range",
         "Leggings",
         "new arrivals",
@@ -6804,7 +6784,7 @@
           "position": 1,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050729845,
@@ -6823,7 +6803,7 @@
           "position": 2,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050762613,
@@ -6842,7 +6822,7 @@
           "position": 3,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050795381,
@@ -6861,7 +6841,7 @@
           "position": 4,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050828149,
@@ -6880,7 +6860,7 @@
           "position": 5,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050860917,
@@ -6899,7 +6879,7 @@
           "position": 6,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050893685,
@@ -6918,7 +6898,7 @@
           "position": 7,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050926453,
@@ -6937,7 +6917,7 @@
           "position": 8,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050959221,
@@ -6956,7 +6936,7 @@
           "position": 9,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067050991989,
@@ -6975,7 +6955,7 @@
           "position": 10,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051024757,
@@ -6994,7 +6974,7 @@
           "position": 11,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051057525,
@@ -7013,7 +6993,7 @@
           "position": 12,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051090293,
@@ -7032,7 +7012,7 @@
           "position": 13,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051123061,
@@ -7051,7 +7031,7 @@
           "position": 14,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051155829,
@@ -7070,7 +7050,7 @@
           "position": 15,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051188597,
@@ -7089,7 +7069,7 @@
           "position": 16,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051221365,
@@ -7108,7 +7088,7 @@
           "position": 17,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051254133,
@@ -7127,7 +7107,7 @@
           "position": 18,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051286901,
@@ -7146,7 +7126,7 @@
           "position": 19,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051319669,
@@ -7165,7 +7145,7 @@
           "position": 20,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051352437,
@@ -7184,7 +7164,7 @@
           "position": 21,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051385205,
@@ -7203,7 +7183,7 @@
           "position": 22,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051417973,
@@ -7222,7 +7202,7 @@
           "position": 23,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067051450741,
@@ -7241,7 +7221,7 @@
           "position": 24,
           "product_id": 15851488575861,
           "created_at": "2026-04-13T13:04:10+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -7334,7 +7314,7 @@
       "body_html": "<p>Meet the Low Rise Yoga Pants, your new activewear staple. Crafted from our signature soft, breathable yoga fabric, they're designed to move with you throughout the day. Featuring a low-rise waistband and flared legs for a sleek silhouette. Style them with the matching top for a complete look that transitions seamlessly from low-impact workouts to everyday wear.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 78% Polyester, 22% Elastane<br></span><span><meta charset=\"utf-8\">→ Low rise fit<br>→ Buttery soft texture<br><meta charset=\"utf-8\"> <meta charset=\"utf-8\">→ 4-way stretch<br><meta charset=\"utf-8\">→ Weightless feel<br><meta charset=\"utf-8\">→ Sweat-wicking<br>→ Screen-printed branding on centre back</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-10-01T14:59:34+01:00",
       "created_at": "2026-04-13T13:03:07+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Trousers",
       "tags": [
@@ -7368,7 +7348,7 @@
           "position": 1,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:07+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042734453,
@@ -7387,7 +7367,7 @@
           "position": 2,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042767221,
@@ -7406,7 +7386,7 @@
           "position": 3,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042799989,
@@ -7425,7 +7405,7 @@
           "position": 4,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042832757,
@@ -7444,7 +7424,7 @@
           "position": 5,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042865525,
@@ -7463,7 +7443,7 @@
           "position": 6,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042898293,
@@ -7482,7 +7462,7 @@
           "position": 7,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042963829,
@@ -7501,7 +7481,7 @@
           "position": 8,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067042996597,
@@ -7520,7 +7500,7 @@
           "position": 9,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067043029365,
@@ -7539,7 +7519,7 @@
           "position": 10,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067043062133,
@@ -7558,7 +7538,7 @@
           "position": 11,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067043094901,
@@ -7577,7 +7557,7 @@
           "position": 12,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067043127669,
@@ -7596,7 +7576,7 @@
           "position": 13,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067043160437,
@@ -7615,7 +7595,7 @@
           "position": 14,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067043193205,
@@ -7634,7 +7614,7 @@
           "position": 15,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57067043225973,
@@ -7653,7 +7633,7 @@
           "position": 16,
           "product_id": 15851487789429,
           "created_at": "2026-04-13T13:03:08+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -7745,7 +7725,7 @@
       "body_html": "<p>The Waffle Straight Leg Trousers are a comfortable choice. Made from a soft waffle fabric and features a draw string for adjustability and added comfort. Style yours with the matching top for a complete look.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 95% Organic Cotton, 5% Elastane<br><meta charset=\"utf-8\">→ Waffle - 460GSM</span><br><meta charset=\"utf-8\">→ 2x front pockets<br><meta charset=\"utf-8\">→ 1x contrast detail back pocket<br><span><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Woven label with coffee bean branding on the left hand-side seam</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>\n<div><br></div>\n<div><br></div>",
       "published_at": "2026-09-30T11:02:37+01:00",
       "created_at": "2026-07-10T15:04:23+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Trousers",
       "tags": [
@@ -7778,7 +7758,7 @@
           "position": 1,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349407932789,
@@ -7797,7 +7777,7 @@
           "position": 2,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349407965557,
@@ -7816,7 +7796,7 @@
           "position": 3,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349407998325,
@@ -7835,7 +7815,7 @@
           "position": 4,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349408031093,
@@ -7854,7 +7834,7 @@
           "position": 5,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349408063861,
@@ -7873,7 +7853,7 @@
           "position": 6,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349408096629,
@@ -7892,7 +7872,7 @@
           "position": 7,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349408129397,
@@ -7911,7 +7891,7 @@
           "position": 8,
           "product_id": 15923881083253,
           "created_at": "2026-07-10T15:04:24+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -7984,7 +7964,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>This cap is crafted from cotton canvas with a timeless curved brim silhouette. Designed with an embroidery logo. A perfect hat for all of the bad hair days.</span></p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ 100% Cotton<br><meta charset=\"utf-8\">→ Branded metal adjuster</span><br><meta charset=\"utf-8\">→ Embroidered ADA branding on front<span><br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-30T11:02:35+01:00",
       "created_at": "2026-05-22T16:31:44+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -8017,7 +7997,7 @@
           "position": 1,
           "product_id": 15884126257525,
           "created_at": "2026-05-22T16:31:44+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -8061,7 +8041,7 @@
       "body_html": "<p><span>This cap is crafted from cotton canvas with a timeless curved brim silhouette. Designed with an embroidery logo. A perfect hat for all of the bad hair days.</span></p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ 100% Cotton<br></span><span><meta charset=\"utf-8\">→ Branded metal adjuster<br><meta charset=\"utf-8\">→ Embroidered ADA branding on front</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-30T11:02:33+01:00",
       "created_at": "2026-05-22T12:33:40+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -8093,7 +8073,7 @@
           "position": 1,
           "product_id": 15883762827637,
           "created_at": "2026-05-22T12:33:40+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -8148,7 +8128,7 @@
       "body_html": "<div>\n<p><span>Meet your new go-to gym bag. Crafted from 100% nylon, it’s designed to carry all your daily essentials with ease. Featuring signature branding on the front and adjustable toggles to customise the shape.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 100% Nylon<br><meta charset=\"utf-8\">→ Screen-printed tonal branding on front</span><br><meta charset=\"utf-8\">→ Adjustable toggles<br><meta charset=\"utf-8\">→ Zip fastening<br><meta charset=\"utf-8\">→ Size: <span>60cm W x 31.5cm H x 14cm D</span><span><br></span></p>\n</div>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Do not machine wash<br>→ Hand wash only<br>→ Do not tumble dry, dry clean, or bleach</p>",
       "published_at": "2026-09-30T11:02:31+01:00",
       "created_at": "2026-04-29T10:02:17+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -8161,7 +8141,6 @@
         "gifting",
         "Gym Gifts",
         "new arrivals",
-        "oct 26 move on",
         "red",
         "RGroup_gym-bag",
         "sport-yoga"
@@ -8184,7 +8163,7 @@
           "position": 1,
           "product_id": 15861220475253,
           "created_at": "2026-04-29T10:02:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -8261,7 +8240,7 @@
       "body_html": "<p>Our new Waffle Raglan Long Sleeve Top is our go-to for laid back days or as a layering piece. It has a relaxed silhouette and is made from a light breathable fabric composition. Style yours with the matching pants for a complete look.</p>\n<p> </p>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ 95% Organic Cotton, 5% Elastane<br><meta charset=\"utf-8\">→ Waffle - 460GSM</span><br><meta charset=\"utf-8\">→ Raglan sleeves<br><meta charset=\"utf-8\"><meta charset=\"utf-8\">→ Long sleeve with cuff and crew neck contrast details<br>→ Woven label with coffee bean branding on the left hand-side seam<span><br></span></p>\n<p> </p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>\n<div><br></div>\n<div><br></div>",
       "published_at": "2026-09-30T11:02:30+01:00",
       "created_at": "2026-03-09T09:34:58+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -8295,7 +8274,7 @@
           "position": 1,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56883444679029,
@@ -8314,7 +8293,7 @@
           "position": 2,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56883444711797,
@@ -8333,7 +8312,7 @@
           "position": 3,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56883444744565,
@@ -8352,7 +8331,7 @@
           "position": 4,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56883444777333,
@@ -8371,7 +8350,7 @@
           "position": 5,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56883444810101,
@@ -8390,7 +8369,7 @@
           "position": 6,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56883444842869,
@@ -8409,7 +8388,7 @@
           "position": 7,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56883444875637,
@@ -8428,7 +8407,7 @@
           "position": 8,
           "product_id": 15796557087093,
           "created_at": "2026-03-09T09:34:58+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -8512,7 +8491,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Introducing Adanola Modal Soft. Your new destination for reliable wardrobe foundations. The Adanola Modal Soft Hooded Top is a great layering piece whatever the season. It has a classic silhouette with a hood and features a minimal branded tab. Cut from the Adanola Modal Soft Rib fabric. Style yours with capri leggings for running errands or running late. So soft and endlessly versatile, you'll reach for it every day.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ Adanola Modal Soft<br><meta charset=\"utf-8\">→ 93% Modal, 7 % Elastane<br><meta charset=\"utf-8\">→ Small embossed branded woven label on hem left hand-side<br><meta charset=\"utf-8\">→ Ribbed fabric</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-30T11:02:28+01:00",
       "created_at": "2026-01-21T17:07:41+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -8544,7 +8523,7 @@
           "position": 1,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643112370549,
@@ -8563,7 +8542,7 @@
           "position": 2,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643112403317,
@@ -8582,7 +8561,7 @@
           "position": 3,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643112436085,
@@ -8601,7 +8580,7 @@
           "position": 4,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643112468853,
@@ -8620,7 +8599,7 @@
           "position": 5,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643112501621,
@@ -8639,7 +8618,7 @@
           "position": 6,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643112534389,
@@ -8658,7 +8637,7 @@
           "position": 7,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643112567157,
@@ -8677,7 +8656,7 @@
           "position": 8,
           "product_id": 15700597440885,
           "created_at": "2026-01-21T17:07:42+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -8761,7 +8740,7 @@
       "body_html": "<p><meta charset=\"utf-8\"><span>Introducing Adanola Modal Soft. Your new destination for reliable wardrobe foundations. The Adanola Modal Soft Hooded Top is a great layering piece whatever the season. It has a classic silhouette with a hood and features a minimal branded tab. Cut from the Adanola Modal Soft Rib fabric. Style yours with capri leggings for running errands or running late. So soft and endlessly versatile, you'll reach for it every day.</span></p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ Adanola Modal Soft<br><meta charset=\"utf-8\">→ 93% Modal, 7 % Elastane<br><meta charset=\"utf-8\">→ Small embossed branded woven label on hem left hand-side<br><meta charset=\"utf-8\">→ Ribbed fabric</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-30T11:02:25+01:00",
       "created_at": "2026-01-21T17:07:21+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Tops",
       "tags": [
@@ -8793,7 +8772,7 @@
           "position": 1,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643110568309,
@@ -8812,7 +8791,7 @@
           "position": 2,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643110601077,
@@ -8831,7 +8810,7 @@
           "position": 3,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643110633845,
@@ -8850,7 +8829,7 @@
           "position": 4,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643110666613,
@@ -8869,7 +8848,7 @@
           "position": 5,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643110699381,
@@ -8888,7 +8867,7 @@
           "position": 6,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643110732149,
@@ -8907,7 +8886,7 @@
           "position": 7,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56643110764917,
@@ -8926,7 +8905,7 @@
           "position": 8,
           "product_id": 15700597244277,
           "created_at": "2026-01-21T17:07:21+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -8999,16 +8978,14 @@
       "body_html": "<div>\n<p>Meet your new hair hero - the Large Claw Clip. Designed for all-day hold and effortless style, its larger size is made for securing thick locks or creating that chic updo. The perfect accessory to top off your look.<br></p>\n<p><br></p>\n<p><span>→ <meta charset=\"utf-8\">90% Acrylic, 5% Plastic, 5% Zinc Alloy<br><meta charset=\"utf-8\">→ Large size claw clip: 10.5 cm<br><meta charset=\"utf-8\">→Small debossed branding at centre<br></span></p>\n</div>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash by hand if possible<br></p>",
       "published_at": "2026-09-25T14:05:00+01:00",
       "created_at": "2026-06-23T15:31:04+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
         "1",
         "25 sep 26",
         "Accessories",
-        "badge_1::New",
         "Hair",
-        "new arrivals",
         "RGroup_large-claw-clip"
       ],
       "variants": [
@@ -9029,7 +9006,7 @@
           "position": 1,
           "product_id": 15914859004277,
           "created_at": "2026-06-23T15:31:05+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -9084,7 +9061,7 @@
       "body_html": "<p>The Oversized Hoodie is a feel-good piece. Made from our 100% Organic Cotton, this hoodie combines comfort and style with its relaxed oversized fit. Featuring an applique patch varsity logo, dropped shoulders and large kangaroo pocket. Wear it on casual days with the matching sweatpants.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 100% Organic Cotton Loop-back<br><meta charset=\"utf-8\">→ 3-piece hood fit<br><meta charset=\"utf-8\">→ Applique patch varsity logo </span><br><meta charset=\"utf-8\"><span>→ 420GSM medium weight</span><br></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting, inside out - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>\n<div><br></div>",
       "published_at": "2026-09-21T13:19:28+01:00",
       "created_at": "2025-10-22T17:37:01+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Hoodies",
       "tags": [
@@ -9119,7 +9096,7 @@
           "position": 1,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140120359285,
@@ -9138,7 +9115,7 @@
           "position": 2,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140120392053,
@@ -9157,7 +9134,7 @@
           "position": 3,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140120424821,
@@ -9176,7 +9153,7 @@
           "position": 4,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140120457589,
@@ -9195,7 +9172,7 @@
           "position": 5,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140120490357,
@@ -9214,7 +9191,7 @@
           "position": 6,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140120523125,
@@ -9233,7 +9210,7 @@
           "position": 7,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56140120555893,
@@ -9252,7 +9229,7 @@
           "position": 8,
           "product_id": 15567727591797,
           "created_at": "2025-10-22T17:37:01+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -9314,16 +9291,14 @@
       "body_html": "<p>The Vintage Straight Leg Sweatpants are crafted from washed fabric with a vintage-inspired, worn-in appearance. Made from mid-weight 100% organic cotton, they feature raised puff print branding on the leg and a relaxed straight-leg fit for everyday comfort. Pair them with the matching hoodie for effortless laid-back days.</p>\n<p><br></p> <p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p> <p><br></p>\n<p><span>→ 100% Organic Cotton<br>→ 420GSM - medium weight<br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">→ Straight leg cut<br></span>→ Vintage washed style<br>→ Soft hand-feel fabric<br>→ Raised puff-print branding on left leg</span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>\n<p><br></p>\n<p><span><meta charset=\"utf-8\">\n<strong>*<meta charset=\"utf-8\">This garment has a unique appearance thanks to its special washing process. As a result, colour may vary slightly.</strong></span></p>",
       "published_at": "2026-09-17T18:54:01+01:00",
       "created_at": "2026-07-10T15:38:48+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatpants",
       "tags": [
         "1",
         "17 sep 26",
         "autumn-winter",
-        "badge_1::New",
         "loose fit pants",
-        "new arrivals",
         "RGroup_vintage-washed-adanola-straight-leg-sweatpants",
         "size-table-sweatpants",
         "Sweatpants",
@@ -9350,7 +9325,7 @@
           "position": 1,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444632949,
@@ -9369,7 +9344,7 @@
           "position": 2,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444665717,
@@ -9388,7 +9363,7 @@
           "position": 3,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444698485,
@@ -9407,7 +9382,7 @@
           "position": 4,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444731253,
@@ -9426,7 +9401,7 @@
           "position": 5,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444764021,
@@ -9445,7 +9420,7 @@
           "position": 6,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444796789,
@@ -9464,7 +9439,7 @@
           "position": 7,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444829557,
@@ -9483,7 +9458,7 @@
           "position": 8,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444862325,
@@ -9502,7 +9477,7 @@
           "position": 9,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444895093,
@@ -9521,7 +9496,7 @@
           "position": 10,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444927861,
@@ -9540,7 +9515,7 @@
           "position": 11,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444960629,
@@ -9559,7 +9534,7 @@
           "position": 12,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349444993397,
@@ -9578,7 +9553,7 @@
           "position": 13,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349445026165,
@@ -9597,7 +9572,7 @@
           "position": 14,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349445058933,
@@ -9616,7 +9591,7 @@
           "position": 15,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57349445091701,
@@ -9635,7 +9610,7 @@
           "position": 16,
           "product_id": 15923887767925,
           "created_at": "2026-07-10T15:38:48+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -9716,17 +9691,15 @@
       "body_html": "<p>Knitwear is making its return to your wardrobe. Timeless, dependable styles designed to stay in rotation for seasons to come. Meet the Knit Sweatshirt, designed with an oversized fit for the perfect layering piece. It features a classic crew neckline and embroidered branding on the chest. Style yours over your favourite activewear set for heading to those cold morning gym classes.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ 53% Cotton, 39% Recycled Polyester, 5% Wool, 3% Elastane<br><meta charset=\"utf-8\">→ Oversized fit<br><meta charset=\"utf-8\">→ Wool blend<br><meta charset=\"utf-8\">→ Adanola embroidered branding on chest left hand side</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash cold, and by hand<br>→ Do not tumble dry or dry at high temperatures<br>→ Lay flat to dry<br>→ Reshape while damp<br>→ Ironing once dry will help regain softness of fabric</p>",
       "published_at": "2026-09-17T18:53:59+01:00",
       "created_at": "2026-04-29T14:06:29+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Knit Tops",
       "tags": [
         "1",
         "17 sep 26",
         "autumn-winter",
-        "badge_1::New",
         "Knit Tops",
         "Knitwear",
-        "new arrivals",
         "RGroup_chest-signature-oversized-knit-sweatshirt",
         "Sweaters",
         "Sweats",
@@ -9751,7 +9724,7 @@
           "position": 1,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57113087738229,
@@ -9770,7 +9743,7 @@
           "position": 2,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57113087770997,
@@ -9789,7 +9762,7 @@
           "position": 3,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57113087803765,
@@ -9808,7 +9781,7 @@
           "position": 4,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57113087836533,
@@ -9827,7 +9800,7 @@
           "position": 5,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57113087869301,
@@ -9846,7 +9819,7 @@
           "position": 6,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57113087902069,
@@ -9865,7 +9838,7 @@
           "position": 7,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57113087934837,
@@ -9884,7 +9857,7 @@
           "position": 8,
           "product_id": 15861398012277,
           "created_at": "2026-04-29T14:06:29+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -9957,19 +9930,17 @@
       "body_html": "<p>Meet the Ribbed Zip Through Knit Sweatshirt, a refined take on your everyday sweatshirt. Crafted from a soft wool blend, it features a relaxed silhouette with dropped shoulders, a high neck, full-zip fastening and an embroidered Adanola logo on the chest. For a complete look, style with our Ultimate Leggings for an effortless look.</p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ 53% Cotton, 39% Recycled Polyester, 5% Wool, 3% Elastane<br></span><meta charset=\"utf-8\"><span>→ Funnel neck style</span><br><meta charset=\"utf-8\">→ Varsity Adanola branding on chest left hand side<br><meta charset=\"utf-8\">→ Ribbed hem<br><meta charset=\"utf-8\"><span>→ Metal branded full zip</span><br></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash cold, and by hand<br>→ Do not tumble dry or dry at high temperatures<br>→ Lay flat to dry<br>→ Reshape while damp<br>→ Ironing once dry will help regain softness of fabric</p>",
       "published_at": "2026-09-17T18:53:58+01:00",
       "created_at": "2026-04-29T13:37:17+01:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Knit Tops",
       "tags": [
         "1",
         "17 sep 26",
         "autumn-winter",
-        "badge_1::New",
         "graphic-varsity",
         "Knit Tops",
         "Knitwear",
         "meet the greys-email",
-        "new arrivals",
         "RGroup_varsity-ribbed-zip-through-knit-sweatshirt",
         "seasonal",
         "Sweaters",
@@ -9997,7 +9968,7 @@
           "position": 1,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57112872223093,
@@ -10016,7 +9987,7 @@
           "position": 2,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57112872255861,
@@ -10035,7 +10006,7 @@
           "position": 3,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57112872288629,
@@ -10054,7 +10025,7 @@
           "position": 4,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57112872321397,
@@ -10073,7 +10044,7 @@
           "position": 5,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57112872354165,
@@ -10092,7 +10063,7 @@
           "position": 6,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57112872386933,
@@ -10111,7 +10082,7 @@
           "position": 7,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 57112872419701,
@@ -10130,7 +10101,7 @@
           "position": 8,
           "product_id": 15861379334517,
           "created_at": "2026-04-29T13:37:17+01:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -10203,7 +10174,7 @@
       "body_html": "<p>Your cold-weather wardrobe just got cosier. The Chunky Boucle Scarf is the perfect finishing touch, crafted in a chunky knit and finished with boucle branding for a signature look. Style yours with your favourite puffer jacket for effortless cold-weather layering.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 85% Polyester, 10% Nylon, 5% Wool<br><meta charset=\"utf-8\">→ Soft touch boucle scarf</span><br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\"><span>Script embroidered branding</span><span><br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→<meta charset=\"utf-8\">Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-17T18:53:56+01:00",
       "created_at": "2026-02-13T14:08:50+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -10211,10 +10182,8 @@
         "17 sep 26",
         "Accessories",
         "autumn-winter",
-        "badge_1::New",
         "gifting",
         "Knitwear",
-        "new arrivals",
         "RGroup_chunky-boucle-scarf",
         "Scarf"
       ],
@@ -10236,7 +10205,7 @@
           "position": 1,
           "product_id": 15722769449333,
           "created_at": "2026-02-13T14:08:50+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -10313,7 +10282,7 @@
       "body_html": "<p>The Rib Beanie is crafted from a premium Merino wool blend in a chunky ribbed knit. Designed with a wide folded cuff for added warmth, it has a relaxed shape and is finished with a branding. </p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ 70% Merino Wool, 30% Nylon<br><meta charset=\"utf-8\">→ Soft rib knit fabric<br><meta charset=\"utf-8\">→ Sewn in branding</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine<meta charset=\"utf-8\"></p>",
       "published_at": "2026-09-17T18:53:55+01:00",
       "created_at": "2026-02-11T16:02:06+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -10321,10 +10290,8 @@
         "17 sep 26",
         "Accessories",
         "autumn-winter",
-        "badge_1::New",
         "gifting",
         "Knitwear",
-        "new arrivals",
         "RGroup_rib-knit-beanie",
         "winter-knits"
       ],
@@ -10346,7 +10313,7 @@
           "position": 1,
           "product_id": 15719830684021,
           "created_at": "2026-02-11T16:02:07+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -10423,7 +10390,7 @@
       "body_html": "<p>The Rib Beanie is crafted from a premium Merino wool blend in a chunky ribbed knit. Designed with a wide folded cuff for added warmth, it has a relaxed shape and is finished with a branding. </p>\n<br>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ 70% Merino Wool, 30% Nylon<br><meta charset=\"utf-8\">→ Soft rib knit fabric<br><meta charset=\"utf-8\">→ Sewn in branding</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-17T18:53:53+01:00",
       "created_at": "2026-02-04T16:32:36+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -10431,10 +10398,8 @@
         "17 sep 26",
         "Accessories",
         "autumn-winter",
-        "badge_1::New",
         "gifting",
         "Knitwear",
-        "new arrivals",
         "RGroup_rib-knit-beanie",
         "seasonal",
         "winter-knits"
@@ -10457,7 +10422,7 @@
           "position": 1,
           "product_id": 15711767495029,
           "created_at": "2026-02-04T16:32:36+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -10534,7 +10499,7 @@
       "body_html": "<p>Your cold-weather wardrobe just got cosier. The Chunky Boucle Scarf is the perfect finishing touch, crafted in a chunky knit and finished with boucle branding for a signature look. Style yours with your favourite puffer jacket for effortless cold-weather layering.</p>\n<p><br></p>\n<p><meta charset=\"utf-8\"><span>→ <meta charset=\"utf-8\">85% Polyester, 10% Nylon, 5% Wool<br></span><span><meta charset=\"utf-8\">→ Soft touch boucle scarf<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Script embroidered branding</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ <meta charset=\"utf-8\">Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-17T18:53:52+01:00",
       "created_at": "2026-02-04T16:32:29+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -10542,10 +10507,8 @@
         "17 sep 26",
         "Accessories",
         "autumn-winter",
-        "badge_1::New",
         "gifting",
         "Knitwear",
-        "new arrivals",
         "RGroup_chunky-boucle-scarf",
         "Scarf"
       ],
@@ -10567,7 +10530,7 @@
           "position": 1,
           "product_id": 15711767363957,
           "created_at": "2026-02-04T16:32:29+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -10633,7 +10596,7 @@
       "body_html": "<p>Your cold-weather wardrobe just got cosier. This knitted scarf is the perfect finishing touch, crafted from a soft wool blend and finished with the signature Adanola logo. Style yours with your favourite puffer jacket for effortless cold-weather layering.</p>\n<br>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ 7% Alpaca, 25% Wool, 50% Polyester, 15% Nylon, 3% Spandex<br><meta charset=\"utf-8\">→ Branded yarn detail <br><meta charset=\"utf-8\">→ Soft touch knit scarf</span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-17T18:53:50+01:00",
       "created_at": "2026-02-04T16:32:22+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -10641,10 +10604,8 @@
         "17 sep 26",
         "Accessories",
         "autumn-winter",
-        "badge_1::New",
         "gifting",
         "Knitwear",
-        "new arrivals",
         "RGroup_knit-marl-scarf",
         "Scarf",
         "winter-knits"
@@ -10667,7 +10628,7 @@
           "position": 1,
           "product_id": 15711767265653,
           "created_at": "2026-02-04T16:32:22+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -10744,7 +10705,7 @@
       "body_html": "<p>The Rib Beanie is crafted from a premium Merino wool blend in a chunky ribbed knit. Designed with a wide folded cuff for added warmth, it has a relaxed shape and is finished with a branding. </p>\n<br>\n<p><meta charset=\"utf-8\"><span>→ 70% Merino Wool, 30% Nylon<br><meta charset=\"utf-8\">→ Soft rib knit fabric</span><br><meta charset=\"utf-8\">→ Sewn in branding<br><span><br></span></p>\n<p><br></p>\n<p>Take good care of me:</p>\n<p>→ Wash inside out<br>→ Wash on a gentle setting<br>→ Wash on low temperature, no more than 30 degrees<br>→ Wash by hand if possible<br>→ Do not tumble dry<br>→ Do not overload washing machine</p>",
       "published_at": "2026-09-17T18:53:48+01:00",
       "created_at": "2026-02-04T16:31:50+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Accessories",
       "tags": [
@@ -10752,10 +10713,8 @@
         "17 sep 26",
         "Accessories",
         "autumn-winter",
-        "badge_1::New",
         "gifting",
         "Knitwear",
-        "new arrivals",
         "RGroup_rib-knit-beanie",
         "winter-knits"
       ],
@@ -10777,7 +10736,7 @@
           "position": 1,
           "product_id": 15711766806901,
           "created_at": "2026-02-04T16:31:51+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -10854,16 +10813,14 @@
       "body_html": "<p>The Vintage Zip Through Hoodie is crafted from washed fabric with a vintage-inspired, worn-in appearance. Made from mid-weight 100% organic cotton, it features raised puff print branding on the chest, dropped shoulders and a large kangaroo pocket. Pair it with the matching sweatpants for effortless laid-back days.</p>\n<p><br></p> <p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p> <p><br></p>\n<p><meta charset=\"utf-8\"><span>→ 100% Organic Cotton<br><meta charset=\"utf-8\">→ 420GSM - medium weight</span><br><meta charset=\"utf-8\">→ Vintage washed style<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\"><span>Raised puff-print branding on chest left hand side</span><br><meta charset=\"utf-8\"><span>→ Full zip<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>\n<p><br></p>\n<p><span><meta charset=\"utf-8\">\n<strong>*<meta charset=\"utf-8\">This garment has a unique appearance thanks to its special washing process. As a result, colour may vary slightly.</strong></span></p>",
       "published_at": "2026-09-17T18:53:47+01:00",
       "created_at": "2026-02-02T11:50:24+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Hoodies",
       "tags": [
         "1",
         "17 sep 26",
         "autumn-winter",
-        "badge_1::New",
         "Hoodies",
-        "new arrivals",
         "RGroup_vintage-washed-adanola-zip-through-hoodie",
         "Sweaters",
         "Sweats",
@@ -10890,7 +10847,7 @@
           "position": 1,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:24+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688984228213,
@@ -10909,7 +10866,7 @@
           "position": 2,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:24+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688984260981,
@@ -10928,7 +10885,7 @@
           "position": 3,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:24+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688984293749,
@@ -10947,7 +10904,7 @@
           "position": 4,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:25+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688984326517,
@@ -10966,7 +10923,7 @@
           "position": 5,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:25+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688984359285,
@@ -10985,7 +10942,7 @@
           "position": 6,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:25+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688984392053,
@@ -11004,7 +10961,7 @@
           "position": 7,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:25+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688984424821,
@@ -11023,7 +10980,7 @@
           "position": 8,
           "product_id": 15709935042933,
           "created_at": "2026-02-02T11:50:25+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -11107,15 +11064,13 @@
       "body_html": "<p>The Vintage Sweatshirt is crafted from washed fabric with a vintage-inspired, worn-in appearance. Made from mid-weight 100% organic cotton, it features raised puff print branding on the chest and dropped shoulders. Pair it with the matching sweatpants for effortless laid-back days.</p>\n<p><br></p> <p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p> <p><br></p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>→ 100% Organic Cotton<br><meta charset=\"utf-8\">→ 420GSM - medium weight</span><br><span><meta charset=\"utf-8\">→ Vintage washed style<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Raised puff-print branding on chest left hand side<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>\n<p><br></p>\n<p><span><meta charset=\"utf-8\">\n<strong>*<meta charset=\"utf-8\">This garment has a unique appearance thanks to its special washing process. As a result, colour may vary slightly.</strong></span></p>",
       "published_at": "2026-09-17T18:53:45+01:00",
       "created_at": "2026-02-02T11:47:52+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
         "1",
         "17 sep 26",
         "autumn-winter",
-        "badge_1::New",
-        "new arrivals",
         "RGroup_vintage-washed-adanola-sweatshirt",
         "seasonal",
         "Sweaters",
@@ -11143,7 +11098,7 @@
           "position": 1,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688981246325,
@@ -11162,7 +11117,7 @@
           "position": 2,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688981279093,
@@ -11181,7 +11136,7 @@
           "position": 3,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688981311861,
@@ -11200,7 +11155,7 @@
           "position": 4,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688981344629,
@@ -11219,7 +11174,7 @@
           "position": 5,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688981377397,
@@ -11238,7 +11193,7 @@
           "position": 6,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688981410165,
@@ -11257,7 +11212,7 @@
           "position": 7,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688981442933,
@@ -11276,7 +11231,7 @@
           "position": 8,
           "product_id": 15709933994357,
           "created_at": "2026-02-02T11:47:52+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
@@ -11360,15 +11315,13 @@
       "body_html": "<p>The Vintage Sweatshirt is crafted from washed fabric with a vintage-inspired, worn-in appearance. Made from mid-weight 100% organic cotton, it features raised puff print branding on the chest and dropped shoulders. </p>\n<p><br></p> <p><meta charset=\"utf-8\"><span>Learn more about our <strong><a href=\"/pages/explore-the-sweats-fabrics\">Sweats fabrics</a></strong>.</span></p> <p><br></p>\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">→ 100% Organic Cotton<br><meta charset=\"utf-8\">→ 420GSM - medium weight<br><meta charset=\"utf-8\">→ Vintage washed style<br><meta charset=\"utf-8\">→ <meta charset=\"utf-8\">Raised puff-print branding on chest left hand side<br></span></p>\n<p><br></p>\n<p><span>How to care for your organic cotton sweats.</span></p>\n<p><span>Our new organic cotton is a natural fibre and should be washed with care:</span></p>\n<p><span>→ W<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ash cold, on a gentle setting - do not wash on a hot cycle as the natural fibres will warp and reduce in size</span></span><span><br></span><span>→ <span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">Avoid using fabric conditioner - it clogs the pores causing the fabric to lose their natural softness</span><br>→ Gently reshape when wet<br>→ L<span dir=\"ltr\" class=\"ui-provider ec bdk bdl bdm bdn bdo bdp bdq bdr bds bdt bdu bdv bdw bdx bdy bdz bea beb bec bed bee bef beg beh bei bej bek bel bem ben beo bep beq ber\">ay flat to dry &amp; make sure to remove from the washer promptly</span><br>→ Iron on a warm temp to remove any creases</span></p>\n<p><br></p>\n<p><span><meta charset=\"utf-8\">\n<strong>*<meta charset=\"utf-8\">This garment has a unique appearance thanks to its special washing process. As a result, colour may vary slightly.</strong></span></p>",
       "published_at": "2026-09-17T18:53:44+01:00",
       "created_at": "2026-02-02T11:47:23+00:00",
-      "updated_at": "2026-10-13T09:55:59+01:00",
+      "updated_at": "2026-10-14T08:05:59+01:00",
       "vendor": "Adanola",
       "product_type": "Sweatshirts",
       "tags": [
         "1",
         "17 sep 26",
         "autumn-winter",
-        "badge_1::New",
-        "new arrivals",
         "RGroup_vintage-washed-adanola-sweatshirt",
         "seasonal",
         "Sweaters",
@@ -11394,7 +11347,7 @@
           "position": 1,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688980394357,
@@ -11413,7 +11366,7 @@
           "position": 2,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688980427125,
@@ -11432,7 +11385,7 @@
           "position": 3,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688980459893,
@@ -11451,7 +11404,7 @@
           "position": 4,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688980492661,
@@ -11470,7 +11423,7 @@
           "position": 5,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688980525429,
@@ -11489,7 +11442,7 @@
           "position": 6,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688980558197,
@@ -11508,7 +11461,7 @@
           "position": 7,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         },
         {
           "id": 56688980590965,
@@ -11527,7 +11480,7 @@
           "position": 8,
           "product_id": 15709933896053,
           "created_at": "2026-02-02T11:47:23+00:00",
-          "updated_at": "2026-10-13T09:55:59+01:00"
+          "updated_at": "2026-10-14T08:05:59+01:00"
         }
       ],
       "images": [
