@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T07:04:40.235228+00:00",
+  "fetchedAt": "2026-10-23T06:56:44.577679+00:00",
   "source": "https://www.wearetala.com/products.json?limit=50",
   "count": 50,
   "products": [
@@ -10,23 +10,12 @@
       "body_html": "<p>Feeling speedy? Run errands (or a pb) with the coverage you need and the style you want.</p>",
       "published_at": "2026-10-21T17:21:11+01:00",
       "created_at": "2025-05-20T22:02:09+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Active Shorts",
       "tags": [
         "In Stock",
-        "LARGE",
-        "large-large",
-        "large-x-large",
-        "large-x-small",
-        "luxe",
         "MEDIUM",
-        "medium-large",
-        "medium-x-large",
-        "medium-x-small",
-        "non sale",
-        "shorts",
-        "Signature Ink",
         "size-large",
         "size-medium",
         "size-small",
@@ -34,12 +23,7 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "skin luxe",
         "SkinLuxe SS26",
-        "SMALL",
-        "small-large",
-        "small-x-large",
-        "small-x-small",
         "spo-default",
         "spo-disabled",
         "vt-size-l",
@@ -48,11 +32,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "x-large-large",
-        "x-large-x-large",
-        "x-large-x-small",
-        "X-SMALL",
-        "x-small-large",
         "YGroup_skinluxe-built-in-short"
       ],
       "variants": [
@@ -73,7 +52,7 @@
           "position": 1,
           "product_id": 15298912190844,
           "created_at": "2026-08-03T17:10:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57242741014908,
@@ -92,7 +71,7 @@
           "position": 2,
           "product_id": 15298912190844,
           "created_at": "2026-08-03T17:10:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57242741047676,
@@ -111,7 +90,7 @@
           "position": 3,
           "product_id": 15298912190844,
           "created_at": "2026-08-03T17:10:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57242741080444,
@@ -130,7 +109,7 @@
           "position": 4,
           "product_id": 15298912190844,
           "created_at": "2026-08-03T17:10:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57242741113212,
@@ -149,7 +128,7 @@
           "position": 5,
           "product_id": 15298912190844,
           "created_at": "2026-08-03T17:10:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -252,32 +231,16 @@
       "body_html": "",
       "published_at": "2026-10-20T10:41:33+01:00",
       "created_at": "2026-09-17T12:42:08+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Socks",
       "tags": [
         "Feb Drop 2",
         "In Stock",
         "MEDIUM",
-        "medium-large",
-        "mother's day gifts",
-        "multi-pack",
-        "non sale",
-        "pilates outfit",
-        "pilates princess gift",
-        "regular",
-        "SMALL",
-        "small-medium",
-        "socks",
-        "soft girl pilates",
-        "spring shades",
-        "Stocking fillers",
         "swap_no_return",
         "swap_noreturn",
-        "Tracksuits",
-        "Underwear & Nightwear",
         "vt-size-one-size",
-        "White",
         "YGroup_ballet-pilates-grip-sock"
       ],
       "variants": [
@@ -298,7 +261,7 @@
           "position": 1,
           "product_id": 16123937948028,
           "created_at": "2026-09-17T12:42:09+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -342,13 +305,12 @@
       "body_html": "<p><meta charset=\"utf-8\">The gift of choice</p>",
       "published_at": "2026-10-15T13:50:12+01:00",
       "created_at": "2025-08-22T13:18:20+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Gift Cards",
       "tags": [
         "spo-default",
         "spo-disabled",
-        "voucher",
         "YGroup_gift-card"
       ],
       "variants": [
@@ -369,7 +331,7 @@
           "position": 1,
           "product_id": 15525895176572,
           "created_at": "2025-08-22T13:18:20+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55663351759228,
@@ -388,7 +350,7 @@
           "position": 2,
           "product_id": 15525895176572,
           "created_at": "2025-08-22T13:18:20+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55663351791996,
@@ -407,7 +369,7 @@
           "position": 3,
           "product_id": 15525895176572,
           "created_at": "2025-08-22T13:18:20+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57687397597564,
@@ -426,7 +388,7 @@
           "position": 4,
           "product_id": 15525895176572,
           "created_at": "2026-10-16T13:52:36+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55663351824764,
@@ -445,7 +407,7 @@
           "position": 5,
           "product_id": 15525895176572,
           "created_at": "2025-08-22T13:18:20+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55663351857532,
@@ -464,7 +426,7 @@
           "position": 6,
           "product_id": 15525895176572,
           "created_at": "2025-08-22T13:18:20+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55663351890300,
@@ -483,7 +445,7 @@
           "position": 7,
           "product_id": 15525895176572,
           "created_at": "2025-08-22T13:18:20+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -522,7 +484,7 @@
       "body_html": "<ul></ul>\n<p dir=\"ltr\"><span>Like our bestselling Cocoon just </span><span><em>bigger</em> </span></p>",
       "published_at": "2026-10-15T10:32:31+01:00",
       "created_at": "2026-10-08T15:41:31+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -561,7 +523,7 @@
           "position": 1,
           "product_id": 16152171905404,
           "created_at": "2026-10-08T15:41:32+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616739795324,
@@ -580,7 +542,7 @@
           "position": 2,
           "product_id": 16152171905404,
           "created_at": "2026-10-08T15:41:32+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616739828092,
@@ -599,7 +561,7 @@
           "position": 3,
           "product_id": 16152171905404,
           "created_at": "2026-10-08T15:41:32+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616739860860,
@@ -618,7 +580,7 @@
           "position": 4,
           "product_id": 16152171905404,
           "created_at": "2026-10-08T15:41:32+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616739893628,
@@ -637,7 +599,7 @@
           "position": 5,
           "product_id": 16152171905404,
           "created_at": "2026-10-08T15:41:32+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -718,7 +680,7 @@
       "body_html": "<p>Full bloom, fully packed.<br></p>",
       "published_at": "2026-10-15T10:32:29+01:00",
       "created_at": "2026-10-08T15:40:08+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Bags",
       "tags": [
@@ -745,7 +707,7 @@
           "position": 1,
           "product_id": 16152169283964,
           "created_at": "2026-10-08T15:40:08+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -811,27 +773,24 @@
       "body_html": "<p>Made with 100% organic cotton.</p>",
       "published_at": "2026-10-15T10:32:28+01:00",
       "created_at": "2026-10-08T15:37:37+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "T-Shirts",
       "tags": [
         "In Stock",
         "MEDIUM",
-        "non sale",
         "OCTOBER OUTERWEAR AW26",
         "size-large",
         "size-medium",
         "size-small",
         "size-x-large",
         "size-x-small",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
         "vt-size-xs",
-        "X Small",
         "X-LARGE",
         "YGroup_les-fleurs-graphic-t-shirt"
       ],
@@ -853,7 +812,7 @@
           "position": 1,
           "product_id": 16152165974396,
           "created_at": "2026-10-08T15:37:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616689824124,
@@ -872,7 +831,7 @@
           "position": 2,
           "product_id": 16152165974396,
           "created_at": "2026-10-08T15:37:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616689856892,
@@ -891,7 +850,7 @@
           "position": 3,
           "product_id": 16152165974396,
           "created_at": "2026-10-08T15:37:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616689889660,
@@ -910,7 +869,7 @@
           "position": 4,
           "product_id": 16152165974396,
           "created_at": "2026-10-08T15:37:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616689922428,
@@ -929,7 +888,7 @@
           "position": 5,
           "product_id": 16152165974396,
           "created_at": "2026-10-08T15:37:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -1021,12 +980,11 @@
       "body_html": "<p>Made with 100% organic cotton.</p>",
       "published_at": "2026-10-15T10:32:27+01:00",
       "created_at": "2026-10-08T15:36:25+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "T-Shirts",
       "tags": [
         "In Stock",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -1060,7 +1018,7 @@
           "position": 1,
           "product_id": 16152163778940,
           "created_at": "2026-10-08T15:36:25+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616676553084,
@@ -1079,7 +1037,7 @@
           "position": 2,
           "product_id": 16152163778940,
           "created_at": "2026-10-08T15:36:25+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616676585852,
@@ -1098,7 +1056,7 @@
           "position": 3,
           "product_id": 16152163778940,
           "created_at": "2026-10-08T15:36:25+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616676618620,
@@ -1117,7 +1075,7 @@
           "position": 4,
           "product_id": 16152163778940,
           "created_at": "2026-10-08T15:36:25+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616676651388,
@@ -1136,7 +1094,7 @@
           "position": 5,
           "product_id": 16152163778940,
           "created_at": "2026-10-08T15:36:25+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -1228,13 +1186,11 @@
       "body_html": "<p dir=\"ltr\"><span>90% TENCEL™ Modal, 100% chance of compliments </span></p>",
       "published_at": "2026-10-15T10:32:25+01:00",
       "created_at": "2026-10-08T15:32:45+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Tops",
       "tags": [
         "In Stock",
-        "LARGE",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -1268,7 +1224,7 @@
           "position": 1,
           "product_id": 16152157159804,
           "created_at": "2026-10-08T15:32:46+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616617472380,
@@ -1287,7 +1243,7 @@
           "position": 2,
           "product_id": 16152157159804,
           "created_at": "2026-10-08T15:32:46+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616617505148,
@@ -1306,7 +1262,7 @@
           "position": 3,
           "product_id": 16152157159804,
           "created_at": "2026-10-08T15:32:46+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616617537916,
@@ -1325,7 +1281,7 @@
           "position": 4,
           "product_id": 16152157159804,
           "created_at": "2026-10-08T15:32:46+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616617570684,
@@ -1344,7 +1300,7 @@
           "position": 5,
           "product_id": 16152157159804,
           "created_at": "2026-10-08T15:32:46+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -1425,13 +1381,11 @@
       "body_html": "<p dir=\"ltr\"><span>90% TENCEL™ Modal, 100% chance of compliments </span></p>",
       "published_at": "2026-10-15T10:32:22+01:00",
       "created_at": "2026-10-08T15:32:06+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Tops",
       "tags": [
         "In Stock",
-        "LARGE",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -1465,7 +1419,7 @@
           "position": 1,
           "product_id": 16152154866044,
           "created_at": "2026-10-08T15:32:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616609673596,
@@ -1484,7 +1438,7 @@
           "position": 2,
           "product_id": 16152154866044,
           "created_at": "2026-10-08T15:32:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616609706364,
@@ -1503,7 +1457,7 @@
           "position": 3,
           "product_id": 16152154866044,
           "created_at": "2026-10-08T15:32:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616609739132,
@@ -1522,7 +1476,7 @@
           "position": 4,
           "product_id": 16152154866044,
           "created_at": "2026-10-08T15:32:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616609771900,
@@ -1541,7 +1495,7 @@
           "position": 5,
           "product_id": 16152154866044,
           "created_at": "2026-10-08T15:32:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -1622,13 +1576,11 @@
       "body_html": "<p dir=\"ltr\"><span>90% TENCEL™ Modal, 100% chance of compliments </span></p>",
       "published_at": "2026-10-15T10:32:21+01:00",
       "created_at": "2026-10-08T15:31:48+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Tops",
       "tags": [
         "In Stock",
-        "LARGE",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -1637,7 +1589,6 @@
         "sizes-2xs-xs",
         "sizes-L-XL",
         "SOFTSET FIG OCT AW26",
-        "SP",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
@@ -1663,7 +1614,7 @@
           "position": 1,
           "product_id": 16152153620860,
           "created_at": "2026-10-08T15:31:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616605086076,
@@ -1682,7 +1633,7 @@
           "position": 2,
           "product_id": 16152153620860,
           "created_at": "2026-10-08T15:31:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616605118844,
@@ -1701,7 +1652,7 @@
           "position": 3,
           "product_id": 16152153620860,
           "created_at": "2026-10-08T15:31:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616605151612,
@@ -1720,7 +1671,7 @@
           "position": 4,
           "product_id": 16152153620860,
           "created_at": "2026-10-08T15:31:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616605184380,
@@ -1739,7 +1690,7 @@
           "position": 5,
           "product_id": 16152153620860,
           "created_at": "2026-10-08T15:31:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -1820,14 +1771,12 @@
       "body_html": "<div id=\"message-list_1781274402.497059\">\n<meta charset=\"utf-8\">\n<div id=\"message-list_1781274517.099509\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p dir=\"ltr\"><span>Your bum has never looked better</span></p>\n<b id=\"docs-internal-guid-8b2a4121-7fff-7d2e-4f75-29a768135007\"></b>\n</div>\n</div>\n<p><b> </b></p>",
       "published_at": "2026-10-15T10:32:18+01:00",
       "created_at": "2026-10-08T15:30:11+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -1835,7 +1784,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
@@ -1843,7 +1791,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_SoftSet-Fold-Waist-Straight-Leg-Yoga-Pant"
       ],
       "variants": [
@@ -1864,7 +1811,7 @@
           "position": 1,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616571892092,
@@ -1883,7 +1830,7 @@
           "position": 2,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616571924860,
@@ -1902,7 +1849,7 @@
           "position": 3,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616571957628,
@@ -1921,7 +1868,7 @@
           "position": 4,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616571990396,
@@ -1940,7 +1887,7 @@
           "position": 5,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616572023164,
@@ -1959,7 +1906,7 @@
           "position": 6,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616572055932,
@@ -1978,7 +1925,7 @@
           "position": 7,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616572088700,
@@ -1997,7 +1944,7 @@
           "position": 8,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616572121468,
@@ -2016,7 +1963,7 @@
           "position": 9,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616572154236,
@@ -2035,7 +1982,7 @@
           "position": 10,
           "product_id": 16152146575740,
           "created_at": "2026-10-08T15:30:12+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -2135,14 +2082,12 @@
       "body_html": "<div id=\"message-list_1781274402.497059\">\n<meta charset=\"utf-8\">\n<div id=\"message-list_1781274517.099509\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p dir=\"ltr\">Our viral flares, now naturally-derived.<br></p>\n<b id=\"docs-internal-guid-8b2a4121-7fff-7d2e-4f75-29a768135007\"></b>\n</div>\n</div>\n<p><b> </b></p>",
       "published_at": "2026-10-15T10:32:17+01:00",
       "created_at": "2026-10-08T15:29:34+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "qf-stock-availability-check",
         "size-large",
         "size-medium",
@@ -2151,7 +2096,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
@@ -2159,7 +2103,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_softset-high-waisted-flare-yoga-pant"
       ],
       "variants": [
@@ -2180,7 +2123,7 @@
           "position": 1,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616557932924,
@@ -2199,7 +2142,7 @@
           "position": 2,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616557965692,
@@ -2218,7 +2161,7 @@
           "position": 3,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616557998460,
@@ -2237,7 +2180,7 @@
           "position": 4,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616558031228,
@@ -2256,7 +2199,7 @@
           "position": 5,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616558063996,
@@ -2275,7 +2218,7 @@
           "position": 6,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616558096764,
@@ -2294,7 +2237,7 @@
           "position": 7,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616558129532,
@@ -2313,7 +2256,7 @@
           "position": 8,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616558162300,
@@ -2332,7 +2275,7 @@
           "position": 9,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616558195068,
@@ -2351,7 +2294,7 @@
           "position": 10,
           "product_id": 16152143757692,
           "created_at": "2026-10-08T15:29:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -2440,14 +2383,12 @@
       "body_html": "<div id=\"message-list_1781274402.497059\">\n<meta charset=\"utf-8\">\n<div id=\"message-list_1781274517.099509\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p dir=\"ltr\">Our viral flares, now naturally-derived.<br></p>\n<b id=\"docs-internal-guid-8b2a4121-7fff-7d2e-4f75-29a768135007\"></b>\n</div>\n</div>\n<p><b> </b></p>",
       "published_at": "2026-10-15T10:32:15+01:00",
       "created_at": "2026-10-08T15:28:25+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -2455,7 +2396,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
@@ -2463,7 +2403,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_softset-high-waisted-flare-yoga-pant"
       ],
       "variants": [
@@ -2484,7 +2423,7 @@
           "position": 1,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545644924,
@@ -2503,7 +2442,7 @@
           "position": 2,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545677692,
@@ -2522,7 +2461,7 @@
           "position": 3,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545710460,
@@ -2541,7 +2480,7 @@
           "position": 4,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545743228,
@@ -2560,7 +2499,7 @@
           "position": 5,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545775996,
@@ -2579,7 +2518,7 @@
           "position": 6,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545808764,
@@ -2598,7 +2537,7 @@
           "position": 7,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545841532,
@@ -2617,7 +2556,7 @@
           "position": 8,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545874300,
@@ -2636,7 +2575,7 @@
           "position": 9,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616545907068,
@@ -2655,7 +2594,7 @@
           "position": 10,
           "product_id": 16152139727228,
           "created_at": "2026-10-08T15:28:26+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -2755,14 +2694,12 @@
       "body_html": "<p dir=\"ltr\"><span>Made from 87% wood. Wild.</span></p>",
       "published_at": "2026-10-15T10:32:14+01:00",
       "created_at": "2026-10-08T15:27:01+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Leggings",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -2796,7 +2733,7 @@
           "position": 1,
           "product_id": 16152136843644,
           "created_at": "2026-10-08T15:27:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616525918588,
@@ -2815,7 +2752,7 @@
           "position": 2,
           "product_id": 16152136843644,
           "created_at": "2026-10-08T15:27:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616525951356,
@@ -2834,7 +2771,7 @@
           "position": 3,
           "product_id": 16152136843644,
           "created_at": "2026-10-08T15:27:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616525984124,
@@ -2853,7 +2790,7 @@
           "position": 4,
           "product_id": 16152136843644,
           "created_at": "2026-10-08T15:27:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616526016892,
@@ -2872,7 +2809,7 @@
           "position": 5,
           "product_id": 16152136843644,
           "created_at": "2026-10-08T15:27:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57651523125628,
@@ -2891,7 +2828,7 @@
           "position": 6,
           "product_id": 16152136843644,
           "created_at": "2026-10-12T16:38:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57651523158396,
@@ -2910,7 +2847,7 @@
           "position": 7,
           "product_id": 16152136843644,
           "created_at": "2026-10-12T16:38:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57651523191164,
@@ -2929,7 +2866,7 @@
           "position": 8,
           "product_id": 16152136843644,
           "created_at": "2026-10-12T16:38:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57651523223932,
@@ -2948,7 +2885,7 @@
           "position": 9,
           "product_id": 16152136843644,
           "created_at": "2026-10-12T16:38:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57651523256700,
@@ -2967,7 +2904,7 @@
           "position": 10,
           "product_id": 16152136843644,
           "created_at": "2026-10-12T16:38:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -3067,12 +3004,11 @@
       "body_html": "<p dir=\"ltr\">Au natural, baby<br></p>",
       "published_at": "2026-10-15T10:32:12+01:00",
       "created_at": "2026-10-08T15:26:29+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tank Tops",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
         "size-large",
         "size-medium",
@@ -3081,7 +3017,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
@@ -3089,7 +3024,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_softset-v-neck-halter-tank"
       ],
       "variants": [
@@ -3110,7 +3044,7 @@
           "position": 1,
           "product_id": 16152135926140,
           "created_at": "2026-10-08T15:26:29+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616522641788,
@@ -3129,7 +3063,7 @@
           "position": 2,
           "product_id": 16152135926140,
           "created_at": "2026-10-08T15:26:29+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616522674556,
@@ -3148,7 +3082,7 @@
           "position": 3,
           "product_id": 16152135926140,
           "created_at": "2026-10-08T15:26:29+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616522707324,
@@ -3167,7 +3101,7 @@
           "position": 4,
           "product_id": 16152135926140,
           "created_at": "2026-10-08T15:26:29+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616522740092,
@@ -3186,7 +3120,7 @@
           "position": 5,
           "product_id": 16152135926140,
           "created_at": "2026-10-08T15:26:29+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -3278,12 +3212,11 @@
       "body_html": "<p dir=\"ltr\">Au natural, baby<br></p>",
       "published_at": "2026-10-15T10:32:11+01:00",
       "created_at": "2026-10-08T15:26:10+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tank Tops",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
         "size-large",
         "size-medium",
@@ -3292,7 +3225,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
@@ -3300,7 +3232,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_softset-v-neck-halter-tank"
       ],
       "variants": [
@@ -3321,7 +3252,7 @@
           "position": 1,
           "product_id": 16152135500156,
           "created_at": "2026-10-08T15:26:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616510648700,
@@ -3340,7 +3271,7 @@
           "position": 2,
           "product_id": 16152135500156,
           "created_at": "2026-10-08T15:26:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616510681468,
@@ -3359,7 +3290,7 @@
           "position": 3,
           "product_id": 16152135500156,
           "created_at": "2026-10-08T15:26:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616510714236,
@@ -3378,7 +3309,7 @@
           "position": 4,
           "product_id": 16152135500156,
           "created_at": "2026-10-08T15:26:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616510747004,
@@ -3397,7 +3328,7 @@
           "position": 5,
           "product_id": 16152135500156,
           "created_at": "2026-10-08T15:26:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -3489,12 +3420,11 @@
       "body_html": "<p dir=\"ltr\">Au natural, baby<br></p>",
       "published_at": "2026-10-15T10:32:09+01:00",
       "created_at": "2026-10-08T15:25:27+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tank Tops",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
         "size-large",
         "size-medium",
@@ -3503,7 +3433,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
@@ -3511,7 +3440,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_softset-v-neck-halter-tank"
       ],
       "variants": [
@@ -3532,7 +3460,7 @@
           "position": 1,
           "product_id": 16152134484348,
           "created_at": "2026-10-08T15:25:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506552700,
@@ -3551,7 +3479,7 @@
           "position": 2,
           "product_id": 16152134484348,
           "created_at": "2026-10-08T15:25:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506585468,
@@ -3570,7 +3498,7 @@
           "position": 3,
           "product_id": 16152134484348,
           "created_at": "2026-10-08T15:25:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506618236,
@@ -3589,7 +3517,7 @@
           "position": 4,
           "product_id": 16152134484348,
           "created_at": "2026-10-08T15:25:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506651004,
@@ -3608,7 +3536,7 @@
           "position": 5,
           "product_id": 16152134484348,
           "created_at": "2026-10-08T15:25:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -3700,12 +3628,11 @@
       "body_html": "<p dir=\"ltr\"><span>Started as a tree, now she’s here.</span></p>",
       "published_at": "2026-10-15T10:32:08+01:00",
       "created_at": "2026-10-08T15:25:09+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tank Tops",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
         "size-large",
         "size-medium",
@@ -3714,7 +3641,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
@@ -3722,7 +3648,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_SoftSet-Strappy-Tank"
       ],
       "variants": [
@@ -3743,7 +3668,7 @@
           "position": 1,
           "product_id": 16152134156668,
           "created_at": "2026-10-08T15:25:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506093948,
@@ -3762,7 +3687,7 @@
           "position": 2,
           "product_id": 16152134156668,
           "created_at": "2026-10-08T15:25:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506126716,
@@ -3781,7 +3706,7 @@
           "position": 3,
           "product_id": 16152134156668,
           "created_at": "2026-10-08T15:25:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506159484,
@@ -3800,7 +3725,7 @@
           "position": 4,
           "product_id": 16152134156668,
           "created_at": "2026-10-08T15:25:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616506192252,
@@ -3819,7 +3744,7 @@
           "position": 5,
           "product_id": 16152134156668,
           "created_at": "2026-10-08T15:25:10+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -3900,14 +3825,12 @@
       "body_html": "<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\" dir=\"auto\">\n<div class=\"p-rich_text_section\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p>From forest floor to reformer bed</p>\n<b id=\"docs-internal-guid-d20dc1be-7fff-e8cc-aa61-c66645b0401a\"></b>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "published_at": "2026-10-15T10:32:07+01:00",
       "created_at": "2026-10-08T15:24:05+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -3915,7 +3838,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "spo-default",
         "spo-disabled",
@@ -3925,7 +3847,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_Softset-v-neck-halter-sports-bra"
       ],
       "variants": [
@@ -3946,7 +3867,7 @@
           "position": 1,
           "product_id": 16152132551036,
           "created_at": "2026-10-08T15:24:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616494199164,
@@ -3965,7 +3886,7 @@
           "position": 2,
           "product_id": 16152132551036,
           "created_at": "2026-10-08T15:24:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616494231932,
@@ -3984,7 +3905,7 @@
           "position": 3,
           "product_id": 16152132551036,
           "created_at": "2026-10-08T15:24:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616494264700,
@@ -4003,7 +3924,7 @@
           "position": 4,
           "product_id": 16152132551036,
           "created_at": "2026-10-08T15:24:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616494297468,
@@ -4022,7 +3943,7 @@
           "position": 5,
           "product_id": 16152132551036,
           "created_at": "2026-10-08T15:24:06+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -4114,14 +4035,12 @@
       "body_html": "<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\" dir=\"auto\">\n<div class=\"p-rich_text_section\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p>From forest floor to reformer bed</p>\n<b id=\"docs-internal-guid-d20dc1be-7fff-e8cc-aa61-c66645b0401a\"></b>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "published_at": "2026-10-15T10:32:05+01:00",
       "created_at": "2026-10-08T15:23:51+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -4129,7 +4048,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "spo-default",
         "spo-disabled",
@@ -4139,7 +4057,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_Softset-v-neck-halter-sports-bra"
       ],
       "variants": [
@@ -4160,7 +4077,7 @@
           "position": 1,
           "product_id": 16152131961212,
           "created_at": "2026-10-08T15:23:51+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616490791292,
@@ -4179,7 +4096,7 @@
           "position": 2,
           "product_id": 16152131961212,
           "created_at": "2026-10-08T15:23:51+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616490824060,
@@ -4198,7 +4115,7 @@
           "position": 3,
           "product_id": 16152131961212,
           "created_at": "2026-10-08T15:23:51+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616490856828,
@@ -4217,7 +4134,7 @@
           "position": 4,
           "product_id": 16152131961212,
           "created_at": "2026-10-08T15:23:51+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616490889596,
@@ -4236,7 +4153,7 @@
           "position": 5,
           "product_id": 16152131961212,
           "created_at": "2026-10-08T15:23:51+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -4328,15 +4245,12 @@
       "body_html": "<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\" dir=\"auto\">\n<div class=\"p-rich_text_section\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p>From forest floor to reformer bed</p>\n<b id=\"docs-internal-guid-d20dc1be-7fff-e8cc-aa61-c66645b0401a\"></b>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "published_at": "2026-10-15T10:32:04+01:00",
       "created_at": "2026-10-08T15:23:01+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
-        "pilates outfit",
         "size-large",
         "size-medium",
         "size-small",
@@ -4344,7 +4258,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "spo-default",
         "spo-disabled",
@@ -4354,7 +4267,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_Softset-v-neck-halter-sports-bra"
       ],
       "variants": [
@@ -4375,7 +4287,7 @@
           "position": 1,
           "product_id": 16152130158972,
           "created_at": "2026-10-08T15:23:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616484532604,
@@ -4394,7 +4306,7 @@
           "position": 2,
           "product_id": 16152130158972,
           "created_at": "2026-10-08T15:23:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616484565372,
@@ -4413,7 +4325,7 @@
           "position": 3,
           "product_id": 16152130158972,
           "created_at": "2026-10-08T15:23:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616484598140,
@@ -4432,7 +4344,7 @@
           "position": 4,
           "product_id": 16152130158972,
           "created_at": "2026-10-08T15:23:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616484630908,
@@ -4451,7 +4363,7 @@
           "position": 5,
           "product_id": 16152130158972,
           "created_at": "2026-10-08T15:23:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -4543,14 +4455,12 @@
       "body_html": "<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\" dir=\"auto\">\n<div class=\"p-rich_text_section\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p>From forest floor to reformer bed</p>\n<b id=\"docs-internal-guid-d20dc1be-7fff-e8cc-aa61-c66645b0401a\"></b>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "published_at": "2026-10-15T10:32:01+01:00",
       "created_at": "2026-10-08T15:22:41+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -4558,7 +4468,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "spo-default",
         "spo-disabled",
@@ -4568,7 +4477,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_SoftSet-Cross-Back-Sports-Bra"
       ],
       "variants": [
@@ -4589,7 +4497,7 @@
           "position": 1,
           "product_id": 16152129175932,
           "created_at": "2026-10-08T15:22:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616474079612,
@@ -4608,7 +4516,7 @@
           "position": 2,
           "product_id": 16152129175932,
           "created_at": "2026-10-08T15:22:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616474112380,
@@ -4627,7 +4535,7 @@
           "position": 3,
           "product_id": 16152129175932,
           "created_at": "2026-10-08T15:22:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616474145148,
@@ -4646,7 +4554,7 @@
           "position": 4,
           "product_id": 16152129175932,
           "created_at": "2026-10-08T15:22:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616474177916,
@@ -4665,7 +4573,7 @@
           "position": 5,
           "product_id": 16152129175932,
           "created_at": "2026-10-08T15:22:42+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -4746,13 +4654,11 @@
       "body_html": "<p>High or low it's up to you, choose your style with a fold waistband</p>",
       "published_at": "2026-10-15T10:30:50+01:00",
       "created_at": "2026-10-08T15:34:04+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
         "In Stock",
-        "LARGE",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -4787,7 +4693,7 @@
           "position": 1,
           "product_id": 16152160502140,
           "created_at": "2026-10-08T15:34:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616636248444,
@@ -4806,7 +4712,7 @@
           "position": 2,
           "product_id": 16152160502140,
           "created_at": "2026-10-08T15:34:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616636281212,
@@ -4825,7 +4731,7 @@
           "position": 3,
           "product_id": 16152160502140,
           "created_at": "2026-10-08T15:34:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616636313980,
@@ -4844,7 +4750,7 @@
           "position": 4,
           "product_id": 16152160502140,
           "created_at": "2026-10-08T15:34:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616636346748,
@@ -4863,7 +4769,7 @@
           "position": 5,
           "product_id": 16152160502140,
           "created_at": "2026-10-08T15:34:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616636379516,
@@ -4882,7 +4788,7 @@
           "position": 6,
           "product_id": 16152160502140,
           "created_at": "2026-10-08T15:34:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -4964,13 +4870,11 @@
       "body_html": "<p dir=\"ltr\"><span>90% TENCEL™ Modal, 100% chance of compliments </span></p>",
       "published_at": "2026-10-15T10:30:50+01:00",
       "created_at": "2026-10-08T15:32:23+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Tops",
       "tags": [
         "In Stock",
-        "LARGE",
-        "non sale",
         "size-large",
         "size-medium",
         "size-small",
@@ -5004,7 +4908,7 @@
           "position": 1,
           "product_id": 16152155947388,
           "created_at": "2026-10-08T15:32:24+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616613835132,
@@ -5023,7 +4927,7 @@
           "position": 2,
           "product_id": 16152155947388,
           "created_at": "2026-10-08T15:32:24+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616613867900,
@@ -5042,7 +4946,7 @@
           "position": 3,
           "product_id": 16152155947388,
           "created_at": "2026-10-08T15:32:24+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616613900668,
@@ -5061,7 +4965,7 @@
           "position": 4,
           "product_id": 16152155947388,
           "created_at": "2026-10-08T15:32:24+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616613933436,
@@ -5080,7 +4984,7 @@
           "position": 5,
           "product_id": 16152155947388,
           "created_at": "2026-10-08T15:32:24+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -5161,12 +5065,11 @@
       "body_html": "<p dir=\"ltr\"><span>Meet your new favourite top: the Reversible Two-Way Racer Tank, because who doesn’t love options? </span><br></p>",
       "published_at": "2026-10-15T10:30:50+01:00",
       "created_at": "2026-10-08T15:30:58+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Tank Tops",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
         "size-large",
         "size-medium",
@@ -5175,14 +5078,12 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "SMALL",
         "SOFTSET FIG OCT AW26",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
         "vt-size-xs",
-        "X Small",
         "X-LARGE",
         "YGroup_365-sculpting-lounge-reversible-racer-tank"
       ],
@@ -5204,7 +5105,7 @@
           "position": 1,
           "product_id": 16152150245756,
           "created_at": "2026-10-08T15:30:59+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616592470396,
@@ -5223,7 +5124,7 @@
           "position": 2,
           "product_id": 16152150245756,
           "created_at": "2026-10-08T15:30:59+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616592503164,
@@ -5242,7 +5143,7 @@
           "position": 3,
           "product_id": 16152150245756,
           "created_at": "2026-10-08T15:30:59+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616592535932,
@@ -5261,7 +5162,7 @@
           "position": 4,
           "product_id": 16152150245756,
           "created_at": "2026-10-08T15:30:59+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57616592568700,
@@ -5280,7 +5181,7 @@
           "position": 5,
           "product_id": 16152150245756,
           "created_at": "2026-10-08T15:30:59+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -5405,35 +5306,23 @@
       "body_html": "<p dir=\"ltr\"><span>Our wisest t-shirt yet. Made from 100% organic cotton.</span></p>",
       "published_at": "2026-10-08T15:02:25+01:00",
       "created_at": "2025-10-03T13:53:04+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "T-Shirts",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "new in",
-        "non sale",
         "OCTOBER DROP 1",
-        "olive",
-        "Short Sleeve Tops & Vests",
         "size-large",
         "size-medium",
         "size-small",
         "size-x-large",
         "size-x-small",
-        "SMALL",
-        "SP",
-        "T-SHIRT",
-        "TEE",
-        "TOP",
-        "TSHIRT",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
         "vt-size-xs",
-        "X Small",
         "X-LARGE",
         "YGroup_olive-graphic-tee"
       ],
@@ -5455,7 +5344,7 @@
           "position": 1,
           "product_id": 15617912996220,
           "created_at": "2025-10-03T13:53:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55830309831036,
@@ -5474,7 +5363,7 @@
           "position": 2,
           "product_id": 15617912996220,
           "created_at": "2025-10-03T13:53:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55830309863804,
@@ -5493,7 +5382,7 @@
           "position": 3,
           "product_id": 15617912996220,
           "created_at": "2025-10-03T13:53:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55830309896572,
@@ -5512,7 +5401,7 @@
           "position": 4,
           "product_id": 15617912996220,
           "created_at": "2025-10-03T13:53:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 55830309929340,
@@ -5531,7 +5420,7 @@
           "position": 5,
           "product_id": 15617912996220,
           "created_at": "2025-10-03T13:53:05+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -5634,14 +5523,13 @@
       "body_html": "<p dir=\"ltr\"><span>And, relax!</span></p>",
       "published_at": "2026-10-08T10:57:07+01:00",
       "created_at": "2026-10-01T14:37:39+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
         "FLEECE DROP SEPT 26",
         "In Stock",
         "OCTOBER OUTERWEAR AW26",
-        "outerwear",
         "size-large",
         "size-medium",
         "size-small",
@@ -5674,7 +5562,7 @@
           "position": 1,
           "product_id": 16142096367996,
           "created_at": "2026-10-01T14:37:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525907587452,
@@ -5693,7 +5581,7 @@
           "position": 2,
           "product_id": 16142096367996,
           "created_at": "2026-10-01T14:37:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525907620220,
@@ -5712,7 +5600,7 @@
           "position": 3,
           "product_id": 16142096367996,
           "created_at": "2026-10-01T14:37:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525907652988,
@@ -5731,7 +5619,7 @@
           "position": 4,
           "product_id": 16142096367996,
           "created_at": "2026-10-01T14:37:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525907685756,
@@ -5750,7 +5638,7 @@
           "position": 5,
           "product_id": 16142096367996,
           "created_at": "2026-10-01T14:37:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -5842,7 +5730,7 @@
       "body_html": "<p dir=\"ltr\"><span>Tell the world you were there from the start in a TALA Active Embroidered Cap</span><span></span></p>\n<p> </p>",
       "published_at": "2026-10-08T10:44:38+01:00",
       "created_at": "2026-08-05T15:51:12+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Cap",
       "tags": [
@@ -5869,7 +5757,7 @@
           "position": 1,
           "product_id": 16074430742908,
           "created_at": "2026-08-05T15:51:13+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -5946,13 +5834,12 @@
       "body_html": "<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\">\n<div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\" dir=\"auto\">\n<div class=\"p-rich_text_section\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<p dir=\"ltr\"><span>She’s got your back</span></p>\n<b id=\"docs-internal-guid-d20dc1be-7fff-e8cc-aa61-c66645b0401a\"></b>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "published_at": "2026-10-08T10:35:19+01:00",
       "created_at": "2026-10-01T16:10:57+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Sports Bras",
       "tags": [
         "In Stock",
         "March SkinLuxe KTH",
-        "non sale",
         "OCTOBER OUTERWEAR AW26",
         "size-large",
         "size-medium",
@@ -5989,7 +5876,7 @@
           "position": 1,
           "product_id": 16142277738876,
           "created_at": "2026-10-01T16:10:58+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57527447388540,
@@ -6008,7 +5895,7 @@
           "position": 2,
           "product_id": 16142277738876,
           "created_at": "2026-10-01T16:10:58+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57527447421308,
@@ -6027,7 +5914,7 @@
           "position": 3,
           "product_id": 16142277738876,
           "created_at": "2026-10-01T16:10:58+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57527447454076,
@@ -6046,7 +5933,7 @@
           "position": 4,
           "product_id": 16142277738876,
           "created_at": "2026-10-01T16:10:58+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57527447486844,
@@ -6065,7 +5952,7 @@
           "position": 5,
           "product_id": 16142277738876,
           "created_at": "2026-10-01T16:10:58+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -6146,14 +6033,12 @@
       "body_html": "<p>Inspired by the great outdoors<br></p>",
       "published_at": "2026-10-08T10:35:17+01:00",
       "created_at": "2026-10-01T14:46:16+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "T-Shirts",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "OCTOBER DROP 1",
         "OCTOBER OUTERWEAR AW26",
         "size-large",
@@ -6161,13 +6046,11 @@
         "size-small",
         "size-x-large",
         "size-x-small",
-        "SMALL",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
         "vt-size-xs",
-        "X Small",
         "X-LARGE",
         "YGroup_olive-graphic-tee"
       ],
@@ -6189,7 +6072,7 @@
           "position": 1,
           "product_id": 16142111211900,
           "created_at": "2026-10-01T14:46:16+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525953364348,
@@ -6208,7 +6091,7 @@
           "position": 2,
           "product_id": 16142111211900,
           "created_at": "2026-10-01T14:46:16+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525953397116,
@@ -6227,7 +6110,7 @@
           "position": 3,
           "product_id": 16142111211900,
           "created_at": "2026-10-01T14:46:16+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525953429884,
@@ -6246,7 +6129,7 @@
           "position": 4,
           "product_id": 16142111211900,
           "created_at": "2026-10-01T14:46:16+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525953462652,
@@ -6265,7 +6148,7 @@
           "position": 5,
           "product_id": 16142111211900,
           "created_at": "2026-10-01T14:46:16+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -6346,29 +6229,24 @@
       "body_html": "<p>Inspired by the great outdoors<br></p>",
       "published_at": "2026-10-08T10:35:16+01:00",
       "created_at": "2026-10-01T14:45:47+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "T-Shirts",
       "tags": [
         "In Stock",
-        "LARGE",
         "MEDIUM",
-        "non sale",
         "OCTOBER DROP 1",
         "OCTOBER OUTERWEAR AW26",
-        "olive",
         "size-large",
         "size-medium",
         "size-small",
         "size-x-large",
         "size-x-small",
-        "SMALL",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
         "vt-size-xs",
-        "X Small",
         "X-LARGE",
         "YGroup_olive-graphic-tee"
       ],
@@ -6390,7 +6268,7 @@
           "position": 1,
           "product_id": 16142110884220,
           "created_at": "2026-10-01T14:45:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525952446844,
@@ -6409,7 +6287,7 @@
           "position": 2,
           "product_id": 16142110884220,
           "created_at": "2026-10-01T14:45:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525952479612,
@@ -6428,7 +6306,7 @@
           "position": 3,
           "product_id": 16142110884220,
           "created_at": "2026-10-01T14:45:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525952512380,
@@ -6447,7 +6325,7 @@
           "position": 4,
           "product_id": 16142110884220,
           "created_at": "2026-10-01T14:45:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525952545148,
@@ -6466,7 +6344,7 @@
           "position": 5,
           "product_id": 16142110884220,
           "created_at": "2026-10-01T14:45:48+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -6547,7 +6425,7 @@
       "body_html": "<p>Inspired by the great outdoors<br></p>",
       "published_at": "2026-10-08T10:35:14+01:00",
       "created_at": "2026-10-01T14:42:01+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -6583,7 +6461,7 @@
           "position": 1,
           "product_id": 16142104723836,
           "created_at": "2026-10-01T14:42:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923807612,
@@ -6602,7 +6480,7 @@
           "position": 2,
           "product_id": 16142104723836,
           "created_at": "2026-10-01T14:42:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923840380,
@@ -6621,7 +6499,7 @@
           "position": 3,
           "product_id": 16142104723836,
           "created_at": "2026-10-01T14:42:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923873148,
@@ -6640,7 +6518,7 @@
           "position": 4,
           "product_id": 16142104723836,
           "created_at": "2026-10-01T14:42:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923905916,
@@ -6659,7 +6537,7 @@
           "position": 5,
           "product_id": 16142104723836,
           "created_at": "2026-10-01T14:42:01+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -6740,7 +6618,7 @@
       "body_html": "<p>Inspired by the great outdoors<br></p>",
       "published_at": "2026-10-08T10:35:12+01:00",
       "created_at": "2026-10-01T14:41:39+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -6777,7 +6655,7 @@
           "position": 1,
           "product_id": 16142104297852,
           "created_at": "2026-10-01T14:41:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923119484,
@@ -6796,7 +6674,7 @@
           "position": 2,
           "product_id": 16142104297852,
           "created_at": "2026-10-01T14:41:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923152252,
@@ -6815,7 +6693,7 @@
           "position": 3,
           "product_id": 16142104297852,
           "created_at": "2026-10-01T14:41:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923185020,
@@ -6834,7 +6712,7 @@
           "position": 4,
           "product_id": 16142104297852,
           "created_at": "2026-10-01T14:41:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525923217788,
@@ -6853,7 +6731,7 @@
           "position": 5,
           "product_id": 16142104297852,
           "created_at": "2026-10-01T14:41:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -6934,7 +6812,7 @@
       "body_html": "<p>Inspired by the great outdoors<br></p>",
       "published_at": "2026-10-08T10:35:10+01:00",
       "created_at": "2026-10-01T14:41:11+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
@@ -6971,7 +6849,7 @@
           "position": 1,
           "product_id": 16142103675260,
           "created_at": "2026-10-01T14:41:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525921317244,
@@ -6990,7 +6868,7 @@
           "position": 2,
           "product_id": 16142103675260,
           "created_at": "2026-10-01T14:41:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525921350012,
@@ -7009,7 +6887,7 @@
           "position": 3,
           "product_id": 16142103675260,
           "created_at": "2026-10-01T14:41:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525921382780,
@@ -7028,7 +6906,7 @@
           "position": 4,
           "product_id": 16142103675260,
           "created_at": "2026-10-01T14:41:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525921415548,
@@ -7047,7 +6925,7 @@
           "position": 5,
           "product_id": 16142103675260,
           "created_at": "2026-10-01T14:41:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -7139,14 +7017,13 @@
       "body_html": "<p dir=\"ltr\"><span>And, relax!</span></p>",
       "published_at": "2026-10-08T10:35:08+01:00",
       "created_at": "2026-10-01T14:38:43+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Hoodies",
       "tags": [
         "FLEECE DROP SEPT 26",
         "In Stock",
         "OCTOBER OUTERWEAR AW26",
-        "outerwear",
         "size-large",
         "size-medium",
         "size-small",
@@ -7179,7 +7056,7 @@
           "position": 1,
           "product_id": 16142098235772,
           "created_at": "2026-10-01T14:38:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525910831484,
@@ -7198,7 +7075,7 @@
           "position": 2,
           "product_id": 16142098235772,
           "created_at": "2026-10-01T14:38:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525910864252,
@@ -7217,7 +7094,7 @@
           "position": 3,
           "product_id": 16142098235772,
           "created_at": "2026-10-01T14:38:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525910897020,
@@ -7236,7 +7113,7 @@
           "position": 4,
           "product_id": 16142098235772,
           "created_at": "2026-10-01T14:38:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525910929788,
@@ -7255,7 +7132,7 @@
           "position": 5,
           "product_id": 16142098235772,
           "created_at": "2026-10-01T14:38:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -7347,14 +7224,11 @@
       "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">For team no front seam.</p>",
       "published_at": "2026-10-08T10:35:06+01:00",
       "created_at": "2026-10-01T14:36:15+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Leggings",
       "tags": [
         "In Stock",
-        "LARGE",
-        "luxe",
-        "non sale",
         "OCTOBER OUTERWEAR AW26",
         "size-large",
         "size-medium",
@@ -7390,7 +7264,7 @@
           "position": 1,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892317564,
@@ -7409,7 +7283,7 @@
           "position": 2,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892350332,
@@ -7428,7 +7302,7 @@
           "position": 3,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892383100,
@@ -7447,7 +7321,7 @@
           "position": 4,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892415868,
@@ -7466,7 +7340,7 @@
           "position": 5,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892546940,
@@ -7485,7 +7359,7 @@
           "position": 6,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892579708,
@@ -7504,7 +7378,7 @@
           "position": 7,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892612476,
@@ -7523,7 +7397,7 @@
           "position": 8,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892645244,
@@ -7542,7 +7416,7 @@
           "position": 9,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525892678012,
@@ -7561,7 +7435,7 @@
           "position": 10,
           "product_id": 16142092599676,
           "created_at": "2026-10-01T14:36:15+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -7661,18 +7535,14 @@
       "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Perfect if running has become your personality and if it hasn’t.</p>",
       "published_at": "2026-10-08T10:35:05+01:00",
       "created_at": "2026-10-01T14:35:08+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Jackets",
       "tags": [
         "coffee date outfit",
         "In Stock",
-        "jacket",
-        "long sleeve",
         "March SkinLuxe KTH",
-        "non sale",
         "OCTOBER OUTERWEAR AW26",
-        "outerwear",
         "size-large",
         "size-medium",
         "size-small",
@@ -7680,7 +7550,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "skin luxe",
         "SKINLUXE RIB AUG 26",
         "spo-default",
         "spo-disabled",
@@ -7689,8 +7558,7 @@
         "vt-size-s",
         "vt-size-xl",
         "vt-size-xs",
-        "YGroup_SkinLuxe-Long-Sleeve-Jacket",
-        "zip"
+        "YGroup_SkinLuxe-Long-Sleeve-Jacket"
       ],
       "variants": [
         {
@@ -7710,7 +7578,7 @@
           "position": 1,
           "product_id": 16142090502524,
           "created_at": "2026-10-01T14:35:08+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525888254332,
@@ -7729,7 +7597,7 @@
           "position": 2,
           "product_id": 16142090502524,
           "created_at": "2026-10-01T14:35:08+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525888287100,
@@ -7748,7 +7616,7 @@
           "position": 3,
           "product_id": 16142090502524,
           "created_at": "2026-10-01T14:35:08+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525888319868,
@@ -7767,7 +7635,7 @@
           "position": 4,
           "product_id": 16142090502524,
           "created_at": "2026-10-01T14:35:08+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525888352636,
@@ -7786,7 +7654,7 @@
           "position": 5,
           "product_id": 16142090502524,
           "created_at": "2026-10-01T14:35:08+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -7867,15 +7735,13 @@
       "body_html": "<p dir=\"ltr\"><span>The vest you’ll wear on repeat.</span></p>",
       "published_at": "2026-10-08T10:35:03+01:00",
       "created_at": "2026-10-01T14:31:38+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Vest Tops",
       "tags": [
         "In Stock",
         "March SkinLuxe KTH",
         "OCTOBER OUTERWEAR AW26",
-        "short sleeve",
-        "Short Sleeve Tops & Vests",
         "size-large",
         "size-medium",
         "size-small",
@@ -7883,13 +7749,7 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "skin",
-        "skinluxe",
         "SKINLUXE RIB AUG 26",
-        "sleeveless",
-        "tank top",
-        "vest",
-        "vest top",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
@@ -7915,7 +7775,7 @@
           "position": 1,
           "product_id": 16142088044924,
           "created_at": "2026-10-01T14:31:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525879439740,
@@ -7934,7 +7794,7 @@
           "position": 2,
           "product_id": 16142088044924,
           "created_at": "2026-10-01T14:31:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525879472508,
@@ -7953,7 +7813,7 @@
           "position": 3,
           "product_id": 16142088044924,
           "created_at": "2026-10-01T14:31:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525879505276,
@@ -7972,7 +7832,7 @@
           "position": 4,
           "product_id": 16142088044924,
           "created_at": "2026-10-01T14:31:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525879538044,
@@ -7991,7 +7851,7 @@
           "position": 5,
           "product_id": 16142088044924,
           "created_at": "2026-10-01T14:31:38+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -8083,7 +7943,7 @@
       "body_html": "<p dir=\"ltr\">First layer on, last layer off<br></p>",
       "published_at": "2026-10-08T10:35:01+01:00",
       "created_at": "2026-10-01T14:30:23+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tops",
       "tags": [
@@ -8095,10 +7955,6 @@
         "size-x-large",
         "size-x-small",
         "sizes-L-XL",
-        "sleeveless",
-        "tank top",
-        "vest",
-        "vest top",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
@@ -8124,7 +7980,7 @@
           "position": 1,
           "product_id": 16142086799740,
           "created_at": "2026-10-01T14:30:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525870199164,
@@ -8143,7 +7999,7 @@
           "position": 2,
           "product_id": 16142086799740,
           "created_at": "2026-10-01T14:30:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525870231932,
@@ -8162,7 +8018,7 @@
           "position": 3,
           "product_id": 16142086799740,
           "created_at": "2026-10-01T14:30:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525870264700,
@@ -8181,7 +8037,7 @@
           "position": 4,
           "product_id": 16142086799740,
           "created_at": "2026-10-01T14:30:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525870297468,
@@ -8200,7 +8056,7 @@
           "position": 5,
           "product_id": 16142086799740,
           "created_at": "2026-10-01T14:30:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -8292,7 +8148,7 @@
       "body_html": "<p dir=\"ltr\">First layer on, last layer off<br></p>",
       "published_at": "2026-10-08T10:34:59+01:00",
       "created_at": "2026-10-01T14:27:11+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Tops",
       "tags": [
@@ -8304,10 +8160,6 @@
         "size-x-large",
         "size-x-small",
         "sizes-L-XL",
-        "sleeveless",
-        "tank top",
-        "vest",
-        "vest top",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
@@ -8333,7 +8185,7 @@
           "position": 1,
           "product_id": 16142084145532,
           "created_at": "2026-10-01T14:27:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525864563068,
@@ -8352,7 +8204,7 @@
           "position": 2,
           "product_id": 16142084145532,
           "created_at": "2026-10-01T14:27:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525864595836,
@@ -8371,7 +8223,7 @@
           "position": 3,
           "product_id": 16142084145532,
           "created_at": "2026-10-01T14:27:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525864628604,
@@ -8390,7 +8242,7 @@
           "position": 4,
           "product_id": 16142084145532,
           "created_at": "2026-10-01T14:27:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525864661372,
@@ -8409,7 +8261,7 @@
           "position": 5,
           "product_id": 16142084145532,
           "created_at": "2026-10-01T14:27:11+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -8501,7 +8353,7 @@
       "body_html": "<p dir=\"ltr\"><span>Workout, whatever the weather.</span></p>",
       "published_at": "2026-10-08T10:34:57+01:00",
       "created_at": "2026-10-01T14:24:44+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Leggings",
       "tags": [
@@ -8512,14 +8364,12 @@
         "size-small",
         "size-x-large",
         "size-x-small",
-        "SMALL",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_skinluxe-fleece-high-waisted-legging"
       ],
       "variants": [
@@ -8540,7 +8390,7 @@
           "position": 1,
           "product_id": 16142082376060,
           "created_at": "2026-10-01T14:24:44+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525859975548,
@@ -8559,7 +8409,7 @@
           "position": 2,
           "product_id": 16142082376060,
           "created_at": "2026-10-01T14:24:44+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525860008316,
@@ -8578,7 +8428,7 @@
           "position": 3,
           "product_id": 16142082376060,
           "created_at": "2026-10-01T14:24:44+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525860041084,
@@ -8597,7 +8447,7 @@
           "position": 4,
           "product_id": 16142082376060,
           "created_at": "2026-10-01T14:24:44+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525860073852,
@@ -8616,7 +8466,7 @@
           "position": 5,
           "product_id": 16142082376060,
           "created_at": "2026-10-01T14:24:44+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -8708,7 +8558,7 @@
       "body_html": "<p dir=\"ltr\"><span>We made the flares you love, cosy. </span></p>",
       "published_at": "2026-10-08T10:34:56+01:00",
       "created_at": "2026-10-01T14:21:40+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Flares",
       "tags": [
@@ -8725,7 +8575,6 @@
         "vt-size-xl",
         "vt-size-xs",
         "X-LARGE",
-        "X-SMALL",
         "YGroup_skinluxe-fleece-high-waisted-flared-yoga-pant"
       ],
       "variants": [
@@ -8746,7 +8595,7 @@
           "position": 1,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525841035644,
@@ -8765,7 +8614,7 @@
           "position": 2,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525841068412,
@@ -8784,7 +8633,7 @@
           "position": 3,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525841101180,
@@ -8803,7 +8652,7 @@
           "position": 4,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525841133948,
@@ -8822,7 +8671,7 @@
           "position": 5,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525840740732,
@@ -8841,7 +8690,7 @@
           "position": 6,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525840773500,
@@ -8860,7 +8709,7 @@
           "position": 7,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525840806268,
@@ -8879,7 +8728,7 @@
           "position": 8,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525840839036,
@@ -8898,7 +8747,7 @@
           "position": 9,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525840871804,
@@ -8917,7 +8766,7 @@
           "position": 10,
           "product_id": 16142077165948,
           "created_at": "2026-10-01T14:21:41+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -9017,7 +8866,7 @@
       "body_html": "<p dir=\"ltr\"><span>Runners, we've solved winter runs.</span></p>",
       "published_at": "2026-10-08T10:34:54+01:00",
       "created_at": "2026-10-01T14:07:30+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Activewear Jackets",
       "tags": [
@@ -9058,7 +8907,7 @@
           "position": 1,
           "product_id": 16142048035196,
           "created_at": "2026-10-01T14:07:31+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525757378940,
@@ -9077,7 +8926,7 @@
           "position": 2,
           "product_id": 16142048035196,
           "created_at": "2026-10-01T14:07:31+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525757411708,
@@ -9096,7 +8945,7 @@
           "position": 3,
           "product_id": 16142048035196,
           "created_at": "2026-10-01T14:07:31+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525757444476,
@@ -9115,7 +8964,7 @@
           "position": 4,
           "product_id": 16142048035196,
           "created_at": "2026-10-01T14:07:31+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525757477244,
@@ -9134,7 +8983,7 @@
           "position": 5,
           "product_id": 16142048035196,
           "created_at": "2026-10-01T14:07:31+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -9237,13 +9086,12 @@
       "body_html": "<p dir=\"ltr\"><span>The cutest way to stay cosy and warm</span></p>",
       "published_at": "2026-10-08T10:34:52+01:00",
       "created_at": "2026-10-01T13:30:09+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Scarf",
       "tags": [
         "In Stock",
         "OCTOBER OUTERWEAR AW26",
-        "Tala",
         "vt-size-one-size",
         "YGroup_t-logo-brushed-scarf"
       ],
@@ -9265,7 +9113,7 @@
           "position": 1,
           "product_id": 16142004355452,
           "created_at": "2026-10-01T13:30:09+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -9331,12 +9179,11 @@
       "body_html": "<p dir=\"ltr\">Pockets for every trail snack<br></p>",
       "published_at": "2026-10-08T10:34:50+01:00",
       "created_at": "2026-10-01T13:14:39+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Womens Trousers",
       "tags": [
         "In Stock",
-        "LARGE",
         "November AW25",
         "November Luxe Lifestyle AW25",
         "OCTOBER OUTERWEAR AW26",
@@ -9347,8 +9194,6 @@
         "size-x-small",
         "sizes-2xs-xs",
         "sizes-L-XL",
-        "Tailoring collection",
-        "trousers",
         "vt-size-l",
         "vt-size-m",
         "vt-size-s",
@@ -9374,7 +9219,7 @@
           "position": 1,
           "product_id": 16141986234748,
           "created_at": "2026-10-01T13:14:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525508637052,
@@ -9393,7 +9238,7 @@
           "position": 2,
           "product_id": 16141986234748,
           "created_at": "2026-10-01T13:14:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525508669820,
@@ -9412,7 +9257,7 @@
           "position": 3,
           "product_id": 16141986234748,
           "created_at": "2026-10-01T13:14:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525508702588,
@@ -9431,7 +9276,7 @@
           "position": 4,
           "product_id": 16141986234748,
           "created_at": "2026-10-01T13:14:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525508735356,
@@ -9450,7 +9295,7 @@
           "position": 5,
           "product_id": 16141986234748,
           "created_at": "2026-10-01T13:14:39+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -9571,7 +9416,7 @@
       "body_html": "<p dir=\"ltr\"><span>Proof that you can have it all (&amp; look good doing it)</span></p>",
       "published_at": "2026-10-08T10:34:48+01:00",
       "created_at": "2026-10-01T13:11:33+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Coats",
       "tags": [
@@ -9607,7 +9452,7 @@
           "position": 1,
           "product_id": 16141978468732,
           "created_at": "2026-10-01T13:11:34+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57526692184444,
@@ -9626,7 +9471,7 @@
           "position": 2,
           "product_id": 16141978468732,
           "created_at": "2026-10-01T15:32:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57526692217212,
@@ -9645,7 +9490,7 @@
           "position": 3,
           "product_id": 16141978468732,
           "created_at": "2026-10-01T15:32:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57526692249980,
@@ -9664,7 +9509,7 @@
           "position": 4,
           "product_id": 16141978468732,
           "created_at": "2026-10-01T15:32:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57526692282748,
@@ -9683,7 +9528,7 @@
           "position": 5,
           "product_id": 16141978468732,
           "created_at": "2026-10-01T15:32:43+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -9786,14 +9631,12 @@
       "body_html": "<p dir=\"ltr\">Forecast? Collar up.<br></p>",
       "published_at": "2026-10-08T10:34:46+01:00",
       "created_at": "2026-10-01T13:07:35+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Coats",
       "tags": [
         "In Stock",
-        "non sale",
         "OCTOBER OUTERWEAR AW26",
-        "schedule sept outerwear",
         "size-large",
         "size-medium",
         "size-small",
@@ -9826,7 +9669,7 @@
           "position": 1,
           "product_id": 16141975748988,
           "created_at": "2026-10-01T13:07:36+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525480259964,
@@ -9845,7 +9688,7 @@
           "position": 2,
           "product_id": 16141975748988,
           "created_at": "2026-10-01T13:07:36+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525480292732,
@@ -9864,7 +9707,7 @@
           "position": 3,
           "product_id": 16141975748988,
           "created_at": "2026-10-01T13:07:36+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525480325500,
@@ -9883,7 +9726,7 @@
           "position": 4,
           "product_id": 16141975748988,
           "created_at": "2026-10-01T13:07:36+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57525480358268,
@@ -9902,7 +9745,7 @@
           "position": 5,
           "product_id": 16141975748988,
           "created_at": "2026-10-01T13:07:36+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -10005,7 +9848,7 @@
       "body_html": "<p>Flip side? Also cute &amp; cosy.<br></p>",
       "published_at": "2026-10-08T10:34:44+01:00",
       "created_at": "2026-09-29T17:26:13+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Jackets",
       "tags": [
@@ -10043,7 +9886,7 @@
           "position": 1,
           "product_id": 16139892818300,
           "created_at": "2026-09-29T17:26:13+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515212439932,
@@ -10062,7 +9905,7 @@
           "position": 2,
           "product_id": 16139892818300,
           "created_at": "2026-09-29T17:26:13+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515212472700,
@@ -10081,7 +9924,7 @@
           "position": 3,
           "product_id": 16139892818300,
           "created_at": "2026-09-29T17:26:13+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515212505468,
@@ -10100,7 +9943,7 @@
           "position": 4,
           "product_id": 16139892818300,
           "created_at": "2026-09-29T17:26:13+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515212538236,
@@ -10119,7 +9962,7 @@
           "position": 5,
           "product_id": 16139892818300,
           "created_at": "2026-09-29T17:26:13+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -10244,7 +10087,7 @@
       "body_html": "<p>Flip side? Also cute &amp; cosy.<br></p>",
       "published_at": "2026-10-08T10:34:42+01:00",
       "created_at": "2026-09-29T17:18:28+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Jackets",
       "tags": [
@@ -10282,7 +10125,7 @@
           "position": 1,
           "product_id": 16139883348348,
           "created_at": "2026-09-29T17:18:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515187536252,
@@ -10301,7 +10144,7 @@
           "position": 2,
           "product_id": 16139883348348,
           "created_at": "2026-09-29T17:18:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515187569020,
@@ -10320,7 +10163,7 @@
           "position": 3,
           "product_id": 16139883348348,
           "created_at": "2026-09-29T17:18:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515187601788,
@@ -10339,7 +10182,7 @@
           "position": 4,
           "product_id": 16139883348348,
           "created_at": "2026-09-29T17:18:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515187634556,
@@ -10358,7 +10201,7 @@
           "position": 5,
           "product_id": 16139883348348,
           "created_at": "2026-09-29T17:18:28+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
@@ -10472,7 +10315,7 @@
       "body_html": "<p>The fan favourite returns<br></p>",
       "published_at": "2026-10-08T10:34:40+01:00",
       "created_at": "2026-09-29T17:14:23+01:00",
-      "updated_at": "2026-10-22T08:04:40+01:00",
+      "updated_at": "2026-10-23T07:56:44+01:00",
       "vendor": "TALA",
       "product_type": "Jackets",
       "tags": [
@@ -10510,7 +10353,7 @@
           "position": 1,
           "product_id": 16139880202620,
           "created_at": "2026-09-29T17:14:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515174101372,
@@ -10529,7 +10372,7 @@
           "position": 2,
           "product_id": 16139880202620,
           "created_at": "2026-09-29T17:14:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515174134140,
@@ -10548,7 +10391,7 @@
           "position": 3,
           "product_id": 16139880202620,
           "created_at": "2026-09-29T17:14:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515174166908,
@@ -10567,7 +10410,7 @@
           "position": 4,
           "product_id": 16139880202620,
           "created_at": "2026-09-29T17:14:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         },
         {
           "id": 57515174199676,
@@ -10586,7 +10429,7 @@
           "position": 5,
           "product_id": 16139880202620,
           "created_at": "2026-09-29T17:14:23+01:00",
-          "updated_at": "2026-10-22T08:04:40+01:00"
+          "updated_at": "2026-10-23T07:56:44+01:00"
         }
       ],
       "images": [
