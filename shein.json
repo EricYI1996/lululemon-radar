@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T09:23:21Z",
+  "fetchedAt": "2026-11-23T10:26:18Z",
   "source": "SHEIN store pages",
   "count": 0,
   "products": [],
@@ -14,8 +14,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
@@ -32,8 +32,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
@@ -50,8 +50,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
@@ -68,8 +68,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
@@ -88,8 +88,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
@@ -106,8 +106,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
@@ -124,8 +124,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
@@ -142,8 +142,8 @@
         "ok": false,
         "error": "api_failed",
         "apiErrors": [
-          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
-          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 403 len=2",
+          "GET https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
+          "POST https://us.shein.com/product/get_products_by_keywords -> HTTP 404 len=37",
           "GET https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37",
           "POST https://us.shein.com/ccc/store/home_page -> HTTP 404 len=37"
         ]
