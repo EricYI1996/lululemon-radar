@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T10:27:21.207691+00:00",
+  "fetchedAt": "2026-11-27T10:30:45.699813+00:00",
   "source": "https://dfyne.com/products.json?limit=50",
   "count": 50,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<p>Move with freedom.</p><p>DYNAMIC moves effortlessly with you. The contouring fabric creates a sculpted silhouette and the cropped design shows off your core. With the ribbed underband locking in support, you can feel comfortable and confident through every rep.</p>",
       "published_at": "2026-11-23T08:33:46+00:00",
       "created_at": "2024-10-08T09:59:02+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Marine Blue",
       "product_type": "Tops",
       "tags": [
@@ -47,7 +47,7 @@
           "position": 1,
           "product_id": 7750658883677,
           "created_at": "2024-10-08T09:59:02+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42771160072285,
@@ -66,7 +66,7 @@
           "position": 2,
           "product_id": 7750658883677,
           "created_at": "2024-10-08T09:59:02+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42771160105053,
@@ -85,7 +85,7 @@
           "position": 3,
           "product_id": 7750658883677,
           "created_at": "2024-10-08T09:59:02+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42771160137821,
@@ -104,7 +104,7 @@
           "position": 4,
           "product_id": 7750658883677,
           "created_at": "2024-10-08T09:59:02+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42771160170589,
@@ -123,7 +123,7 @@
           "position": 5,
           "product_id": 7750658883677,
           "created_at": "2024-10-08T09:59:02+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -204,7 +204,7 @@
       "body_html": "<p>Are you ready to RECHARGE? In a heavyweight fabric, the RECHARGE Graphic Hoodie has an oversized fit and pairs effortlessly for strong everyday fits.</p>",
       "published_at": "2026-11-23T08:33:38+00:00",
       "created_at": "2024-08-22T10:18:52+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Stone",
       "product_type": "Hoodies",
       "tags": [
@@ -238,7 +238,7 @@
           "position": 1,
           "product_id": 7685787779165,
           "created_at": "2024-08-22T10:18:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610857738333,
@@ -257,7 +257,7 @@
           "position": 2,
           "product_id": 7685787779165,
           "created_at": "2024-08-22T10:18:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610857771101,
@@ -276,7 +276,7 @@
           "position": 3,
           "product_id": 7685787779165,
           "created_at": "2024-08-22T10:18:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610857803869,
@@ -295,7 +295,7 @@
           "position": 4,
           "product_id": 7685787779165,
           "created_at": "2024-08-22T10:18:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610857836637,
@@ -314,7 +314,7 @@
           "position": 5,
           "product_id": 7685787779165,
           "created_at": "2024-08-22T10:18:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610857869405,
@@ -333,7 +333,7 @@
           "position": 6,
           "product_id": 7685787779165,
           "created_at": "2024-08-22T10:18:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -426,7 +426,7 @@
       "body_html": "<p>Are you ready to RECHARGE? Meet your new go-to gym Tank in a relaxed, oversized fit. Featuring dropped armholes for flexing on arm day and a bold new graphic print, pair the RECHARGE Graphic Tank effortlessly with RECHARGE Shorts and Joggers - available with both plain and graphic options.</p>",
       "published_at": "2026-11-23T08:33:37+00:00",
       "created_at": "2024-08-22T10:18:43+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Stone",
       "product_type": "Tanks",
       "tags": [
@@ -459,7 +459,7 @@
           "position": 1,
           "product_id": 7685787451485,
           "created_at": "2024-08-22T10:18:43+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610855837789,
@@ -478,7 +478,7 @@
           "position": 2,
           "product_id": 7685787451485,
           "created_at": "2024-08-22T10:18:43+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610855870557,
@@ -497,7 +497,7 @@
           "position": 3,
           "product_id": 7685787451485,
           "created_at": "2024-08-22T10:18:43+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610855903325,
@@ -516,7 +516,7 @@
           "position": 4,
           "product_id": 7685787451485,
           "created_at": "2024-08-22T10:18:43+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610855936093,
@@ -535,7 +535,7 @@
           "position": 5,
           "product_id": 7685787451485,
           "created_at": "2024-08-22T10:18:43+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610855968861,
@@ -554,7 +554,7 @@
           "position": 6,
           "product_id": 7685787451485,
           "created_at": "2024-08-22T10:18:43+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -636,7 +636,7 @@
       "body_html": "<p>It's time to make your mark with these boxy, cropped SIGNATURE tanks. Repping the brand you love in fits you love to wear, these tanks are designed to keep you cool and comfortable while you crush your goals in the gym. Featuring a bold screen print across the back, pair your tank with our STEALTH and RECHARGE ranges for the ultimate gym fit.</p>",
       "published_at": "2026-11-23T08:33:36+00:00",
       "created_at": "2024-08-22T10:03:36+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Off White",
       "product_type": "Tanks",
       "tags": [
@@ -670,7 +670,7 @@
           "position": 1,
           "product_id": 7685779816541,
           "created_at": "2024-08-22T10:03:36+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824970333,
@@ -689,7 +689,7 @@
           "position": 2,
           "product_id": 7685779816541,
           "created_at": "2024-08-22T10:03:36+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610825003101,
@@ -708,7 +708,7 @@
           "position": 3,
           "product_id": 7685779816541,
           "created_at": "2024-08-22T10:03:36+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42763047796829,
@@ -727,7 +727,7 @@
           "position": 4,
           "product_id": 7685779816541,
           "created_at": "2024-10-03T14:28:12+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42763049140317,
@@ -746,7 +746,7 @@
           "position": 5,
           "product_id": 7685779816541,
           "created_at": "2024-10-03T14:29:17+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42763050254429,
@@ -765,7 +765,7 @@
           "position": 6,
           "product_id": 7685779816541,
           "created_at": "2024-10-03T14:29:53+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -847,7 +847,7 @@
       "body_html": "<p>Are you ready to RECHARGE? In a heavyweight fabric, the RECHARGE Graphic Straight Leg Joggers have an oversized fit. Pair effortlessly with the rest of our RECHARGE collection for strong everyday fits.</p>",
       "published_at": "2026-11-23T08:33:35+00:00",
       "created_at": "2024-08-22T10:03:32+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Grey Marl",
       "product_type": "Joggers",
       "tags": [
@@ -882,7 +882,7 @@
           "position": 1,
           "product_id": 7685779751005,
           "created_at": "2024-08-22T10:03:33+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824577117,
@@ -901,7 +901,7 @@
           "position": 2,
           "product_id": 7685779751005,
           "created_at": "2024-08-22T10:03:33+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824609885,
@@ -920,7 +920,7 @@
           "position": 3,
           "product_id": 7685779751005,
           "created_at": "2024-08-22T10:03:33+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824642653,
@@ -939,7 +939,7 @@
           "position": 4,
           "product_id": 7685779751005,
           "created_at": "2024-08-22T10:03:33+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824675421,
@@ -958,7 +958,7 @@
           "position": 5,
           "product_id": 7685779751005,
           "created_at": "2024-08-22T10:03:33+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824708189,
@@ -977,7 +977,7 @@
           "position": 6,
           "product_id": 7685779751005,
           "created_at": "2024-08-22T10:03:33+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -1048,7 +1048,7 @@
       "body_html": "<p>Are you ready to RECHARGE? In a heavyweight fabric, the RECHARGE Graphic Straight Leg Joggers have an oversized fit. Pair effortlessly with the rest of our RECHARGE collection for strong everyday fits.</p>",
       "published_at": "2026-11-23T08:33:35+00:00",
       "created_at": "2024-08-22T10:03:31+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Stone",
       "product_type": "Joggers",
       "tags": [
@@ -1082,7 +1082,7 @@
           "position": 1,
           "product_id": 7685779685469,
           "created_at": "2024-08-22T10:03:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824314973,
@@ -1101,7 +1101,7 @@
           "position": 2,
           "product_id": 7685779685469,
           "created_at": "2024-08-22T10:03:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824347741,
@@ -1120,7 +1120,7 @@
           "position": 3,
           "product_id": 7685779685469,
           "created_at": "2024-08-22T10:03:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824380509,
@@ -1139,7 +1139,7 @@
           "position": 4,
           "product_id": 7685779685469,
           "created_at": "2024-08-22T10:03:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824413277,
@@ -1158,7 +1158,7 @@
           "position": 5,
           "product_id": 7685779685469,
           "created_at": "2024-08-22T10:03:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42610824446045,
@@ -1177,7 +1177,7 @@
           "position": 6,
           "product_id": 7685779685469,
           "created_at": "2024-08-22T10:03:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -1248,7 +1248,7 @@
       "body_html": "<p>Move with freedom.</p><p>DYNAMIC moves effortlessly with you. Your glute gains are highlighted by the firm scrunch and contouring, and the fabric and high waistband support your every rep. The hem stretches over the thigh muscle without digging in, delivering the perfect balance of sculpt and flexibility.</p>",
       "published_at": "2026-11-23T08:33:31+00:00",
       "created_at": "2024-06-17T13:58:34+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Berry",
       "product_type": "Shorts",
       "tags": [
@@ -1283,7 +1283,7 @@
           "position": 1,
           "product_id": 7589308235869,
           "created_at": "2024-06-17T13:58:34+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42334574313565,
@@ -1302,7 +1302,7 @@
           "position": 2,
           "product_id": 7589308235869,
           "created_at": "2024-06-17T13:58:35+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42334574346333,
@@ -1321,7 +1321,7 @@
           "position": 3,
           "product_id": 7589308235869,
           "created_at": "2024-06-17T13:58:35+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42334574379101,
@@ -1340,7 +1340,7 @@
           "position": 4,
           "product_id": 7589308235869,
           "created_at": "2024-06-17T13:58:35+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 42334574411869,
@@ -1359,7 +1359,7 @@
           "position": 5,
           "product_id": 7589308235869,
           "created_at": "2024-06-17T13:58:35+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -1429,7 +1429,7 @@
       "body_html": "<p>Ready for reps and relaxing.</p><p>REVIVE fits into your active lifestyle. The perfect, relaxed layering piece to throw over your seamless sets or pair with joggers for a comfortable rest day fit.</p>",
       "published_at": "2026-11-23T08:30:12+00:00",
       "created_at": "2025-07-09T11:52:23+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Navy",
       "product_type": "Hoodies",
       "tags": [
@@ -1439,6 +1439,7 @@
         "JMR::Revive Zip Core Hoodie",
         "Navy",
         "New Releases",
+        "restock recent",
         "Revive",
         "SAPG::Revive Zip Core Hoodie::Navy",
         "tracksuit",
@@ -1463,7 +1464,7 @@
           "position": 1,
           "product_id": 7935959269469,
           "created_at": "2025-07-09T11:52:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43519669567581,
@@ -1475,14 +1476,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": false,
+          "available": true,
           "price": "50.75",
           "grams": 590,
           "compare_at_price": "72.50",
           "position": 2,
           "product_id": 7935959269469,
           "created_at": "2025-07-09T11:52:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43519669600349,
@@ -1501,7 +1502,7 @@
           "position": 3,
           "product_id": 7935959269469,
           "created_at": "2025-07-09T11:52:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43519669633117,
@@ -1520,7 +1521,7 @@
           "position": 4,
           "product_id": 7935959269469,
           "created_at": "2025-07-09T11:52:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43519669665885,
@@ -1539,7 +1540,7 @@
           "position": 5,
           "product_id": 7935959269469,
           "created_at": "2025-07-09T11:52:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -1609,7 +1610,7 @@
       "body_html": "<p>Move with freedom.</p><p>DYNAMIC moves effortlessly with you. The flattering racer back shape and contouring fabric create a sculpted silhouette, highlighting your upper body gains. With the ribbed underband providing support and coverage, you can train with confidence.</p>",
       "published_at": "2026-11-23T08:30:11+00:00",
       "created_at": "2025-06-27T12:11:31+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Sage",
       "product_type": "Sports Bras",
       "tags": [
@@ -1643,7 +1644,7 @@
           "position": 1,
           "product_id": 7930226966621,
           "created_at": "2025-06-27T12:11:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496481718365,
@@ -1655,14 +1656,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.75",
           "grams": 153,
           "compare_at_price": "42.50",
           "position": 2,
           "product_id": 7930226966621,
           "created_at": "2025-06-27T12:11:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496481751133,
@@ -1681,7 +1682,7 @@
           "position": 3,
           "product_id": 7930226966621,
           "created_at": "2025-06-27T12:11:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496481783901,
@@ -1700,7 +1701,7 @@
           "position": 4,
           "product_id": 7930226966621,
           "created_at": "2025-06-27T12:11:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496481816669,
@@ -1719,7 +1720,7 @@
           "position": 5,
           "product_id": 7930226966621,
           "created_at": "2025-06-27T12:11:31+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -1789,7 +1790,7 @@
       "body_html": "",
       "published_at": "2026-11-23T08:30:07+00:00",
       "created_at": "2025-06-27T12:11:19+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Sage",
       "product_type": "Leggings",
       "tags": [
@@ -1825,7 +1826,7 @@
           "position": 1,
           "product_id": 7930226475101,
           "created_at": "2025-06-27T12:11:19+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496479162461,
@@ -1844,7 +1845,7 @@
           "position": 2,
           "product_id": 7930226475101,
           "created_at": "2025-06-27T12:11:19+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496479195229,
@@ -1863,7 +1864,7 @@
           "position": 3,
           "product_id": 7930226475101,
           "created_at": "2025-06-27T12:11:19+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496479227997,
@@ -1882,7 +1883,7 @@
           "position": 4,
           "product_id": 7930226475101,
           "created_at": "2025-06-27T12:11:19+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496479260765,
@@ -1901,7 +1902,7 @@
           "position": 5,
           "product_id": 7930226475101,
           "created_at": "2025-06-27T12:11:19+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -1971,7 +1972,7 @@
       "body_html": "",
       "published_at": "2026-11-23T08:30:07+00:00",
       "created_at": "2025-06-27T12:11:16+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Dusk",
       "product_type": "Leggings",
       "tags": [
@@ -2009,7 +2010,7 @@
           "position": 1,
           "product_id": 7930226376797,
           "created_at": "2025-06-27T12:11:17+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496478670941,
@@ -2028,7 +2029,7 @@
           "position": 2,
           "product_id": 7930226376797,
           "created_at": "2025-06-27T12:11:17+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496478703709,
@@ -2047,7 +2048,7 @@
           "position": 3,
           "product_id": 7930226376797,
           "created_at": "2025-06-27T12:11:17+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496478736477,
@@ -2066,7 +2067,7 @@
           "position": 4,
           "product_id": 7930226376797,
           "created_at": "2025-06-27T12:11:17+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43496478769245,
@@ -2085,7 +2086,7 @@
           "position": 5,
           "product_id": 7930226376797,
           "created_at": "2025-06-27T12:11:17+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -2155,12 +2156,13 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:30:06+00:00",
       "created_at": "2025-06-02T08:55:30+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Meadow",
       "product_type": "Shorts",
       "tags": [
         "_label_NEW",
         "bottoms",
+        "BTTD",
         "Defy",
         "Green",
         "JMR::Defy Shorts 4.5\"",
@@ -2190,7 +2192,7 @@
           "position": 1,
           "product_id": 7916123652189,
           "created_at": "2025-06-02T08:55:30+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541509725,
@@ -2209,7 +2211,7 @@
           "position": 2,
           "product_id": 7916123652189,
           "created_at": "2025-06-02T08:55:30+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541542493,
@@ -2228,7 +2230,7 @@
           "position": 3,
           "product_id": 7916123652189,
           "created_at": "2025-06-02T08:55:30+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541575261,
@@ -2247,7 +2249,7 @@
           "position": 4,
           "product_id": 7916123652189,
           "created_at": "2025-06-02T08:55:30+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541608029,
@@ -2266,7 +2268,7 @@
           "position": 5,
           "product_id": 7916123652189,
           "created_at": "2025-06-02T08:55:30+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -2336,7 +2338,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:30:05+00:00",
       "created_at": "2025-06-02T08:55:28+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Raspberry",
       "product_type": "Shorts",
       "tags": [
@@ -2371,7 +2373,7 @@
           "position": 1,
           "product_id": 7916123553885,
           "created_at": "2025-06-02T08:55:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541018205,
@@ -2390,7 +2392,7 @@
           "position": 2,
           "product_id": 7916123553885,
           "created_at": "2025-06-02T08:55:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541050973,
@@ -2409,7 +2411,7 @@
           "position": 3,
           "product_id": 7916123553885,
           "created_at": "2025-06-02T08:55:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541083741,
@@ -2428,7 +2430,7 @@
           "position": 4,
           "product_id": 7916123553885,
           "created_at": "2025-06-02T08:55:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436541116509,
@@ -2447,7 +2449,7 @@
           "position": 5,
           "product_id": 7916123553885,
           "created_at": "2025-06-02T08:55:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -2517,7 +2519,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:30:05+00:00",
       "created_at": "2025-06-02T08:55:27+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Amethyst",
       "product_type": "Shorts",
       "tags": [
@@ -2554,7 +2556,7 @@
           "position": 1,
           "product_id": 7916123521117,
           "created_at": "2025-06-02T08:55:27+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540854365,
@@ -2573,7 +2575,7 @@
           "position": 2,
           "product_id": 7916123521117,
           "created_at": "2025-06-02T08:55:27+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540887133,
@@ -2592,7 +2594,7 @@
           "position": 3,
           "product_id": 7916123521117,
           "created_at": "2025-06-02T08:55:27+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540919901,
@@ -2611,7 +2613,7 @@
           "position": 4,
           "product_id": 7916123521117,
           "created_at": "2025-06-02T08:55:27+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540952669,
@@ -2630,7 +2632,7 @@
           "position": 5,
           "product_id": 7916123521117,
           "created_at": "2025-06-02T08:55:27+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -2689,7 +2691,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:30:04+00:00",
       "created_at": "2025-06-02T08:55:25+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Meadow",
       "product_type": "Leggings",
       "tags": [
@@ -2724,7 +2726,7 @@
           "position": 1,
           "product_id": 7916123455581,
           "created_at": "2025-06-02T08:55:25+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540526685,
@@ -2743,7 +2745,7 @@
           "position": 2,
           "product_id": 7916123455581,
           "created_at": "2025-06-02T08:55:25+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540559453,
@@ -2762,7 +2764,7 @@
           "position": 3,
           "product_id": 7916123455581,
           "created_at": "2025-06-02T08:55:25+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540592221,
@@ -2774,14 +2776,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "43.75",
           "grams": 158,
           "compare_at_price": "62.50",
           "position": 4,
           "product_id": 7916123455581,
           "created_at": "2025-06-02T08:55:25+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540624989,
@@ -2800,7 +2802,7 @@
           "position": 5,
           "product_id": 7916123455581,
           "created_at": "2025-06-02T08:55:25+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -2870,7 +2872,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:30:03+00:00",
       "created_at": "2025-06-02T08:55:23+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Ice",
       "product_type": "Leggings",
       "tags": [
@@ -2906,7 +2908,7 @@
           "position": 1,
           "product_id": 7916123390045,
           "created_at": "2025-06-02T08:55:24+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540199005,
@@ -2925,7 +2927,7 @@
           "position": 2,
           "product_id": 7916123390045,
           "created_at": "2025-06-02T08:55:24+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540231773,
@@ -2944,7 +2946,7 @@
           "position": 3,
           "product_id": 7916123390045,
           "created_at": "2025-06-02T08:55:24+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540264541,
@@ -2963,7 +2965,7 @@
           "position": 4,
           "product_id": 7916123390045,
           "created_at": "2025-06-02T08:55:24+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540297309,
@@ -2982,7 +2984,7 @@
           "position": 5,
           "product_id": 7916123390045,
           "created_at": "2025-06-02T08:55:24+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -3052,7 +3054,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:30:02+00:00",
       "created_at": "2025-06-02T08:55:23+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Raspberry",
       "product_type": "Leggings",
       "tags": [
@@ -3088,7 +3090,7 @@
           "position": 1,
           "product_id": 7916123357277,
           "created_at": "2025-06-02T08:55:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540035165,
@@ -3107,7 +3109,7 @@
           "position": 2,
           "product_id": 7916123357277,
           "created_at": "2025-06-02T08:55:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540067933,
@@ -3126,7 +3128,7 @@
           "position": 3,
           "product_id": 7916123357277,
           "created_at": "2025-06-02T08:55:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540100701,
@@ -3145,7 +3147,7 @@
           "position": 4,
           "product_id": 7916123357277,
           "created_at": "2025-06-02T08:55:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436540133469,
@@ -3164,7 +3166,7 @@
           "position": 5,
           "product_id": 7916123357277,
           "created_at": "2025-06-02T08:55:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -3234,7 +3236,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:30:01+00:00",
       "created_at": "2025-06-02T08:55:22+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Amethyst",
       "product_type": "Leggings",
       "tags": [
@@ -3270,7 +3272,7 @@
           "position": 1,
           "product_id": 7916123324509,
           "created_at": "2025-06-02T08:55:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436539871325,
@@ -3289,7 +3291,7 @@
           "position": 2,
           "product_id": 7916123324509,
           "created_at": "2025-06-02T08:55:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436539904093,
@@ -3308,7 +3310,7 @@
           "position": 3,
           "product_id": 7916123324509,
           "created_at": "2025-06-02T08:55:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436539936861,
@@ -3327,7 +3329,7 @@
           "position": 4,
           "product_id": 7916123324509,
           "created_at": "2025-06-02T08:55:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43436539969629,
@@ -3346,7 +3348,7 @@
           "position": 5,
           "product_id": 7916123324509,
           "created_at": "2025-06-02T08:55:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -3416,7 +3418,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The longline design and contour zones create a sculpted silhouette, giving you that snatched look, and the firm fabric hugs your shape so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:30:00+00:00",
       "created_at": "2025-03-14T12:20:35+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Electric Blue",
       "product_type": "Zippy",
       "tags": [
@@ -3454,7 +3456,7 @@
           "position": 1,
           "product_id": 7863820386397,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028183133,
@@ -3473,7 +3475,7 @@
           "position": 2,
           "product_id": 7863820386397,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028215901,
@@ -3492,7 +3494,7 @@
           "position": 3,
           "product_id": 7863820386397,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028248669,
@@ -3511,7 +3513,7 @@
           "position": 4,
           "product_id": 7863820386397,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028281437,
@@ -3530,7 +3532,7 @@
           "position": 5,
           "product_id": 7863820386397,
           "created_at": "2025-03-14T12:20:36+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -3611,7 +3613,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The longline design and contour zones create a sculpted silhouette, giving you that snatched look, and the firm fabric hugs your shape so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:30:00+00:00",
       "created_at": "2025-03-14T12:20:35+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Light Rose Pink",
       "product_type": "Zippy",
       "tags": [
@@ -3650,7 +3652,7 @@
           "position": 1,
           "product_id": 7863820353629,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028019293,
@@ -3669,7 +3671,7 @@
           "position": 2,
           "product_id": 7863820353629,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028052061,
@@ -3688,7 +3690,7 @@
           "position": 3,
           "product_id": 7863820353629,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028084829,
@@ -3707,7 +3709,7 @@
           "position": 4,
           "product_id": 7863820353629,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167028117597,
@@ -3726,7 +3728,7 @@
           "position": 5,
           "product_id": 7863820353629,
           "created_at": "2025-03-14T12:20:35+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -3796,7 +3798,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The longline design and contour zones create a sculpted silhouette, giving you that snatched look, and the firm fabric hugs your shape so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:29:59+00:00",
       "created_at": "2025-03-14T12:20:34+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Truffle",
       "product_type": "Zippy",
       "tags": [
@@ -3834,7 +3836,7 @@
           "position": 1,
           "product_id": 7863820320861,
           "created_at": "2025-03-14T12:20:34+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167027855453,
@@ -3853,7 +3855,7 @@
           "position": 2,
           "product_id": 7863820320861,
           "created_at": "2025-03-14T12:20:34+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167027888221,
@@ -3872,7 +3874,7 @@
           "position": 3,
           "product_id": 7863820320861,
           "created_at": "2025-03-14T12:20:34+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167027920989,
@@ -3891,7 +3893,7 @@
           "position": 4,
           "product_id": 7863820320861,
           "created_at": "2025-03-14T12:20:34+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43167027953757,
@@ -3910,7 +3912,7 @@
           "position": 5,
           "product_id": 7863820320861,
           "created_at": "2025-03-14T12:20:34+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -3980,7 +3982,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The flattering scoop back shape and contour zones highlight your back day gains. The ribbed underband locks in support so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:25:10+00:00",
       "created_at": "2025-08-28T10:47:53+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Winter Berry",
       "product_type": "Sports Bras",
       "tags": [
@@ -4013,7 +4015,7 @@
           "position": 1,
           "product_id": 7959971528797,
           "created_at": "2025-08-28T10:47:53+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499381853,
@@ -4032,7 +4034,7 @@
           "position": 2,
           "product_id": 7959971528797,
           "created_at": "2025-08-28T10:47:53+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499414621,
@@ -4051,7 +4053,7 @@
           "position": 3,
           "product_id": 7959971528797,
           "created_at": "2025-08-28T10:47:53+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499447389,
@@ -4070,7 +4072,7 @@
           "position": 4,
           "product_id": 7959971528797,
           "created_at": "2025-08-28T10:47:53+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499480157,
@@ -4089,7 +4091,7 @@
           "position": 5,
           "product_id": 7959971528797,
           "created_at": "2025-08-28T10:47:53+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -4148,7 +4150,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The flattering scoop back shape and contour zones highlight your back day gains. The ribbed underband locks in support so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:25:09+00:00",
       "created_at": "2025-08-28T10:47:52+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Espresso",
       "product_type": "Sports Bras",
       "tags": [
@@ -4181,7 +4183,7 @@
           "position": 1,
           "product_id": 7959971496029,
           "created_at": "2025-08-28T10:47:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499218013,
@@ -4200,7 +4202,7 @@
           "position": 2,
           "product_id": 7959971496029,
           "created_at": "2025-08-28T10:47:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499250781,
@@ -4219,7 +4221,7 @@
           "position": 3,
           "product_id": 7959971496029,
           "created_at": "2025-08-28T10:47:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499283549,
@@ -4238,7 +4240,7 @@
           "position": 4,
           "product_id": 7959971496029,
           "created_at": "2025-08-28T10:47:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499316317,
@@ -4257,7 +4259,7 @@
           "position": 5,
           "product_id": 7959971496029,
           "created_at": "2025-08-28T10:47:52+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -4316,7 +4318,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The flattering scoop back shape and contour zones highlight your back day gains. The ribbed underband locks in support so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:25:08+00:00",
       "created_at": "2025-08-28T10:47:51+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Pine",
       "product_type": "Sports Bras",
       "tags": [
@@ -4325,6 +4327,7 @@
         "JMR::Impact Scoop Back Bra",
         "New Releases",
         "Pine",
+        "restock recent",
         "SAPG::Impact Scoop Back Bra::Pine",
         "Sports Bras",
         "Womens",
@@ -4348,7 +4351,7 @@
           "position": 1,
           "product_id": 7959971463261,
           "created_at": "2025-08-28T10:47:51+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499054173,
@@ -4367,7 +4370,7 @@
           "position": 2,
           "product_id": 7959971463261,
           "created_at": "2025-08-28T10:47:51+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499086941,
@@ -4386,7 +4389,7 @@
           "position": 3,
           "product_id": 7959971463261,
           "created_at": "2025-08-28T10:47:51+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499119709,
@@ -4405,7 +4408,7 @@
           "position": 4,
           "product_id": 7959971463261,
           "created_at": "2025-08-28T10:47:51+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617499152477,
@@ -4424,7 +4427,7 @@
           "position": 5,
           "product_id": 7959971463261,
           "created_at": "2025-08-28T10:47:51+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -4505,7 +4508,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The flattering scoop back shape and contour zones highlight your back day gains. The ribbed underband locks in support so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:25:07+00:00",
       "created_at": "2025-08-28T10:47:48+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Ink",
       "product_type": "Sports Bras",
       "tags": [
@@ -4538,7 +4541,7 @@
           "position": 1,
           "product_id": 7959971430493,
           "created_at": "2025-08-28T10:47:49+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617498890333,
@@ -4557,7 +4560,7 @@
           "position": 2,
           "product_id": 7959971430493,
           "created_at": "2025-08-28T10:47:49+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617498923101,
@@ -4576,7 +4579,7 @@
           "position": 3,
           "product_id": 7959971430493,
           "created_at": "2025-08-28T10:47:49+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617498955869,
@@ -4595,7 +4598,7 @@
           "position": 4,
           "product_id": 7959971430493,
           "created_at": "2025-08-28T10:47:49+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617498988637,
@@ -4614,7 +4617,7 @@
           "position": 5,
           "product_id": 7959971430493,
           "created_at": "2025-08-28T10:47:49+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -4673,7 +4676,7 @@
       "body_html": "<p>It starts with you, in the new ORIGIN Strappy Top. The minimal design and peach-soft fabric lay the foundation for any gym fit that perfectly contours the body. With built in support, the Strappy Top is as comfortable as it is flattering. Discover our other ORIGIN styles to create a matching set you’ll never want to take off.</p>",
       "published_at": "2026-11-23T08:25:05+00:00",
       "created_at": "2025-08-21T09:49:53+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Mauve",
       "product_type": "Tops",
       "tags": [
@@ -4706,7 +4709,7 @@
           "position": 1,
           "product_id": 7956628734045,
           "created_at": "2025-08-21T09:49:54+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43604112146525,
@@ -4725,7 +4728,7 @@
           "position": 2,
           "product_id": 7956628734045,
           "created_at": "2025-08-21T09:49:54+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43604112179293,
@@ -4744,7 +4747,7 @@
           "position": 3,
           "product_id": 7956628734045,
           "created_at": "2025-08-21T09:49:54+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43604112212061,
@@ -4756,14 +4759,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "29.75",
           "grams": 180,
           "compare_at_price": "42.50",
           "position": 4,
           "product_id": 7956628734045,
           "created_at": "2025-08-21T09:49:54+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43604112244829,
@@ -4782,7 +4785,7 @@
           "position": 5,
           "product_id": 7956628734045,
           "created_at": "2025-08-21T09:49:54+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43604112277597,
@@ -4801,7 +4804,7 @@
           "position": 6,
           "product_id": 7956628734045,
           "created_at": "2025-08-21T09:49:54+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -4872,7 +4875,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The flattering scoop back shape and contour zones highlight your back day gains. The ribbed underband locks in support so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:18:29+00:00",
       "created_at": "2026-01-05T15:51:50+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Slate Grey",
       "product_type": "Sports Bras",
       "tags": [
@@ -4904,7 +4907,7 @@
           "position": 1,
           "product_id": 8048196649053,
           "created_at": "2026-01-05T15:51:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941220483165,
@@ -4923,7 +4926,7 @@
           "position": 2,
           "product_id": 8048196649053,
           "created_at": "2026-01-05T15:51:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941220515933,
@@ -4942,7 +4945,7 @@
           "position": 3,
           "product_id": 8048196649053,
           "created_at": "2026-01-05T15:51:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941220548701,
@@ -4961,7 +4964,7 @@
           "position": 4,
           "product_id": 8048196649053,
           "created_at": "2026-01-05T15:51:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941220581469,
@@ -4980,7 +4983,7 @@
           "position": 5,
           "product_id": 8048196649053,
           "created_at": "2026-01-05T15:51:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -5050,7 +5053,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The longline design and contour zones create a sculpted silhouette, giving you that snatched look, and the firm fabric hugs your shape so you can feel your strongest and most confident.</p>",
       "published_at": "2026-11-23T08:18:28+00:00",
       "created_at": "2026-01-05T15:51:46+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Slate Grey",
       "product_type": "Zippy",
       "tags": [
@@ -5083,7 +5086,7 @@
           "position": 1,
           "product_id": 8048196485213,
           "created_at": "2026-01-05T15:51:46+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941219893341,
@@ -5102,7 +5105,7 @@
           "position": 2,
           "product_id": 8048196485213,
           "created_at": "2026-01-05T15:51:46+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941219926109,
@@ -5121,7 +5124,7 @@
           "position": 3,
           "product_id": 8048196485213,
           "created_at": "2026-01-05T15:51:46+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941219958877,
@@ -5140,7 +5143,7 @@
           "position": 4,
           "product_id": 8048196485213,
           "created_at": "2026-01-05T15:51:46+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941219991645,
@@ -5159,7 +5162,7 @@
           "position": 5,
           "product_id": 8048196485213,
           "created_at": "2026-01-05T15:51:46+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -5229,11 +5232,12 @@
       "body_html": "<p>Move with freedom.</p><p>DYNAMIC moves effortlessly with you. Your glute gains are highlighted by the firm scrunch and contouring, and the fabric and high waistband support your every rep. The hem stretches over the thigh muscle without digging in, delivering the perfect balance of sculpt and flexibility.</p>",
       "published_at": "2026-11-23T08:18:27+00:00",
       "created_at": "2026-01-05T14:01:28+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Coast",
       "product_type": "Shorts",
       "tags": [
         "Blue",
+        "BTTD",
         "Coast",
         "Dynamic",
         "JMR::Dynamic Shorts | 4.5'",
@@ -5264,7 +5268,7 @@
           "position": 1,
           "product_id": 8048139862109,
           "created_at": "2026-01-05T14:01:28+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132435549,
@@ -5283,7 +5287,7 @@
           "position": 2,
           "product_id": 8048139862109,
           "created_at": "2026-01-05T14:01:28+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132468317,
@@ -5302,7 +5306,7 @@
           "position": 3,
           "product_id": 8048139862109,
           "created_at": "2026-01-05T14:01:28+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132501085,
@@ -5321,7 +5325,7 @@
           "position": 4,
           "product_id": 8048139862109,
           "created_at": "2026-01-05T14:01:28+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132533853,
@@ -5340,7 +5344,7 @@
           "position": 5,
           "product_id": 8048139862109,
           "created_at": "2026-01-05T14:01:28+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -5410,10 +5414,11 @@
       "body_html": "<p>Move with freedom.</p><p>DYNAMIC moves effortlessly with you. Your glute gains are highlighted by the firm scrunch and contouring, and the fabric and high waistband support your every rep. The hem stretches over the thigh muscle without digging in, delivering the perfect balance of sculpt and flexibility.</p>",
       "published_at": "2026-11-23T08:18:27+00:00",
       "created_at": "2026-01-05T14:01:27+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Peony",
       "product_type": "Shorts",
       "tags": [
+        "BTTD",
         "Dynamic",
         "JMR::Dynamic Shorts | 4.5'",
         "New Releases",
@@ -5444,7 +5449,7 @@
           "position": 1,
           "product_id": 8048139829341,
           "created_at": "2026-01-05T14:01:27+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132271709,
@@ -5463,7 +5468,7 @@
           "position": 2,
           "product_id": 8048139829341,
           "created_at": "2026-01-05T14:01:27+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132304477,
@@ -5482,7 +5487,7 @@
           "position": 3,
           "product_id": 8048139829341,
           "created_at": "2026-01-05T14:01:27+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132337245,
@@ -5501,7 +5506,7 @@
           "position": 4,
           "product_id": 8048139829341,
           "created_at": "2026-01-05T14:01:27+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43941132370013,
@@ -5520,7 +5525,7 @@
           "position": 5,
           "product_id": 8048139829341,
           "created_at": "2026-01-05T14:01:27+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -5590,7 +5595,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is designed with invisible contour zones combined with an elasticated scrunch to subtly define your glutes. The lightweight, high-stretch and buttery-soft fabric keeps you comfortable no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:18:26+00:00",
       "created_at": "2025-12-15T13:04:50+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Rain",
       "product_type": "Shorts",
       "tags": [
@@ -5626,7 +5631,7 @@
           "position": 1,
           "product_id": 8033229471837,
           "created_at": "2025-12-15T13:04:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43895088250973,
@@ -5645,7 +5650,7 @@
           "position": 2,
           "product_id": 8033229471837,
           "created_at": "2025-12-15T13:04:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43895088283741,
@@ -5664,7 +5669,7 @@
           "position": 3,
           "product_id": 8033229471837,
           "created_at": "2025-12-15T13:04:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43895088316509,
@@ -5683,7 +5688,7 @@
           "position": 4,
           "product_id": 8033229471837,
           "created_at": "2025-12-15T13:04:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43895088349277,
@@ -5702,7 +5707,7 @@
           "position": 5,
           "product_id": 8033229471837,
           "created_at": "2025-12-15T13:04:50+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -5772,7 +5777,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The fabric snatches in your core, and the scrunch and contour zones create structure that flatters your natural shape, so you can look and feel your strongest.</p>",
       "published_at": "2026-11-23T08:18:25+00:00",
       "created_at": "2025-12-15T10:14:23+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Ice",
       "product_type": "Tops",
       "tags": [
@@ -5808,7 +5813,7 @@
           "position": 1,
           "product_id": 8032975749213,
           "created_at": "2025-12-15T10:14:23+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894790291549,
@@ -5827,7 +5832,7 @@
           "position": 2,
           "product_id": 8032975749213,
           "created_at": "2025-12-15T10:14:23+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894790324317,
@@ -5846,7 +5851,7 @@
           "position": 3,
           "product_id": 8032975749213,
           "created_at": "2025-12-15T10:14:23+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894790357085,
@@ -5865,7 +5870,7 @@
           "position": 4,
           "product_id": 8032975749213,
           "created_at": "2025-12-15T10:14:23+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894790389853,
@@ -5884,7 +5889,7 @@
           "position": 5,
           "product_id": 8032975749213,
           "created_at": "2025-12-15T10:14:23+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -5943,7 +5948,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions, IMPACT combines firm sculpting fabric with a flexible scrunch and contouring to lift and define your glutes. The mid to low waistband and contour zones support your natural shape so you can look and feel your strongest.</p>",
       "published_at": "2026-11-23T08:18:25+00:00",
       "created_at": "2025-12-15T10:14:22+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Ice",
       "product_type": "Leggings",
       "tags": [
@@ -5979,7 +5984,7 @@
           "position": 1,
           "product_id": 8032975683677,
           "created_at": "2025-12-15T10:14:22+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894789963869,
@@ -5998,7 +6003,7 @@
           "position": 2,
           "product_id": 8032975683677,
           "created_at": "2025-12-15T10:14:22+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894789996637,
@@ -6017,7 +6022,7 @@
           "position": 3,
           "product_id": 8032975683677,
           "created_at": "2025-12-15T10:14:22+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894790029405,
@@ -6036,7 +6041,7 @@
           "position": 4,
           "product_id": 8032975683677,
           "created_at": "2025-12-15T10:14:22+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43894790062173,
@@ -6055,7 +6060,7 @@
           "position": 5,
           "product_id": 8032975683677,
           "created_at": "2025-12-15T10:14:22+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -6125,7 +6130,7 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is created with lightweight, high-stretch and buttery-soft fabric that keeps you comfortable throughout every workout. The shrug is the ultimate layering piece for elevating your gym fit.</p>",
       "published_at": "2026-11-23T08:18:23+00:00",
       "created_at": "2025-12-05T09:33:53+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Optic White",
       "product_type": "Shrugs",
       "tags": [
@@ -6160,7 +6165,7 @@
           "position": 1,
           "product_id": 8027819442269,
           "created_at": "2025-12-05T09:33:53+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871370084445,
@@ -6179,7 +6184,7 @@
           "position": 2,
           "product_id": 8027819442269,
           "created_at": "2025-12-05T09:33:53+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871370117213,
@@ -6198,7 +6203,7 @@
           "position": 3,
           "product_id": 8027819442269,
           "created_at": "2025-12-05T09:33:53+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871370149981,
@@ -6217,7 +6222,7 @@
           "position": 4,
           "product_id": 8027819442269,
           "created_at": "2025-12-05T09:33:53+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871370182749,
@@ -6236,7 +6241,7 @@
           "position": 5,
           "product_id": 8027819442269,
           "created_at": "2025-12-05T09:33:53+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -6306,10 +6311,11 @@
       "body_html": "<p>Achieve the impossible.</p><p>Made for training without limits. DEFY is created with lightweight, high-stretch and buttery-soft fabric. The flat, elastic straps feel secure without digging in, providing comfort no matter how intense your training gets.</p>",
       "published_at": "2026-11-23T08:18:23+00:00",
       "created_at": "2025-12-05T09:33:52+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Optic White",
       "product_type": "Sports Bras",
       "tags": [
+        "BTTD",
         "Defy",
         "JMR::Defy Strappy Bra",
         "New Releases",
@@ -6338,7 +6344,7 @@
           "position": 1,
           "product_id": 8027819180125,
           "created_at": "2025-12-05T09:33:52+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871369658461,
@@ -6357,7 +6363,7 @@
           "position": 2,
           "product_id": 8027819180125,
           "created_at": "2025-12-05T09:33:52+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871369691229,
@@ -6376,7 +6382,7 @@
           "position": 3,
           "product_id": 8027819180125,
           "created_at": "2025-12-05T09:33:52+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871369723997,
@@ -6395,7 +6401,7 @@
           "position": 4,
           "product_id": 8027819180125,
           "created_at": "2025-12-05T09:33:52+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43871369756765,
@@ -6414,7 +6420,7 @@
           "position": 5,
           "product_id": 8027819180125,
           "created_at": "2025-12-05T09:33:52+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -6495,7 +6501,7 @@
       "body_html": "<p>It’s time to make your mark with the SIGNATURE Hoodie. Repping the brand you love in fits you love to wear. Our boxy fit hoodie is designed with a dropped shoulder for the perfect relaxed fit. Pair with the rest of the SIGNATURE range for the ultimate pump cover fits</p>",
       "published_at": "2026-11-23T08:18:22+00:00",
       "created_at": "2025-11-17T16:23:00+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Grape",
       "product_type": "Hoodies",
       "tags": [
@@ -6530,7 +6536,7 @@
           "position": 1,
           "product_id": 8008939667549,
           "created_at": "2025-11-17T16:23:00+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882857053,
@@ -6549,7 +6555,7 @@
           "position": 2,
           "product_id": 8008939667549,
           "created_at": "2025-11-17T16:23:00+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882889821,
@@ -6568,7 +6574,7 @@
           "position": 3,
           "product_id": 8008939667549,
           "created_at": "2025-11-17T16:23:00+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882922589,
@@ -6587,7 +6593,7 @@
           "position": 4,
           "product_id": 8008939667549,
           "created_at": "2025-11-17T16:23:00+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882955357,
@@ -6606,7 +6612,7 @@
           "position": 5,
           "product_id": 8008939667549,
           "created_at": "2025-11-17T16:23:00+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -6676,7 +6682,7 @@
       "body_html": "<p>It’s time to make your mark with the SIGNATURE Hoodie. Repping the brand you love in fits you love to wear. Our boxy fit hoodie is designed with a dropped shoulder for the perfect relaxed fit. Pair with the rest of the SIGNATURE range for the ultimate pump cover fits</p>",
       "published_at": "2026-11-23T08:18:21+00:00",
       "created_at": "2025-11-17T16:22:59+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Graphite",
       "product_type": "Hoodies",
       "tags": [
@@ -6712,7 +6718,7 @@
           "position": 1,
           "product_id": 8008939634781,
           "created_at": "2025-11-17T16:22:59+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882693213,
@@ -6731,7 +6737,7 @@
           "position": 2,
           "product_id": 8008939634781,
           "created_at": "2025-11-17T16:22:59+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882725981,
@@ -6750,7 +6756,7 @@
           "position": 3,
           "product_id": 8008939634781,
           "created_at": "2025-11-17T16:22:59+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882758749,
@@ -6769,7 +6775,7 @@
           "position": 4,
           "product_id": 8008939634781,
           "created_at": "2025-11-17T16:22:59+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806882791517,
@@ -6788,7 +6794,7 @@
           "position": 5,
           "product_id": 8008939634781,
           "created_at": "2025-11-17T16:22:59+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -6858,7 +6864,7 @@
       "body_html": "<p>Level up with CHARGE Tank. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Tank is the perfect top for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-11-23T08:18:14+00:00",
       "created_at": "2025-11-17T13:05:11+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Mint",
       "product_type": "Tanks",
       "tags": [
@@ -6891,7 +6897,7 @@
           "position": 1,
           "product_id": 8008906440797,
           "created_at": "2025-11-17T13:05:11+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806751883357,
@@ -6910,7 +6916,7 @@
           "position": 2,
           "product_id": 8008906440797,
           "created_at": "2025-11-17T13:05:11+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806751916125,
@@ -6929,7 +6935,7 @@
           "position": 3,
           "product_id": 8008906440797,
           "created_at": "2025-11-17T13:05:11+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806751948893,
@@ -6948,7 +6954,7 @@
           "position": 4,
           "product_id": 8008906440797,
           "created_at": "2025-11-17T13:05:11+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806751981661,
@@ -6967,7 +6973,7 @@
           "position": 5,
           "product_id": 8008906440797,
           "created_at": "2025-11-17T13:05:11+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -7026,7 +7032,7 @@
       "body_html": "<p>Are you ready to RECHARGE? In a heavyweight fabric, the RECHARGE Straight Leg Joggers have an oversized fit and pair effortlessly for strong everyday fits.</p>",
       "published_at": "2026-11-23T08:18:12+00:00",
       "created_at": "2025-11-17T13:05:06+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Burgundy",
       "product_type": "Joggers",
       "tags": [
@@ -7060,7 +7066,7 @@
           "position": 1,
           "product_id": 8008906211421,
           "created_at": "2025-11-17T13:05:06+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750736477,
@@ -7079,7 +7085,7 @@
           "position": 2,
           "product_id": 8008906211421,
           "created_at": "2025-11-17T13:05:06+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750769245,
@@ -7098,7 +7104,7 @@
           "position": 3,
           "product_id": 8008906211421,
           "created_at": "2025-11-17T13:05:06+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750802013,
@@ -7117,7 +7123,7 @@
           "position": 4,
           "product_id": 8008906211421,
           "created_at": "2025-11-17T13:05:06+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750834781,
@@ -7136,7 +7142,7 @@
           "position": 5,
           "product_id": 8008906211421,
           "created_at": "2025-11-17T13:05:06+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -7206,7 +7212,7 @@
       "body_html": "<p>Are you ready to RECHARGE? In a heavyweight fabric, the RECHARGE Graphic Hoodie has an oversized fit and pairs effortlessly for strong everyday fits.</p>",
       "published_at": "2026-11-23T08:18:10+00:00",
       "created_at": "2025-11-17T13:05:04+00:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Burgundy",
       "product_type": "Hoodies",
       "tags": [
@@ -7240,7 +7246,7 @@
           "position": 1,
           "product_id": 8008906113117,
           "created_at": "2025-11-17T13:05:04+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750244957,
@@ -7259,7 +7265,7 @@
           "position": 2,
           "product_id": 8008906113117,
           "created_at": "2025-11-17T13:05:04+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750277725,
@@ -7278,7 +7284,7 @@
           "position": 3,
           "product_id": 8008906113117,
           "created_at": "2025-11-17T13:05:04+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750310493,
@@ -7297,7 +7303,7 @@
           "position": 4,
           "product_id": 8008906113117,
           "created_at": "2025-11-17T13:05:04+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43806750343261,
@@ -7316,7 +7322,7 @@
           "position": 5,
           "product_id": 8008906113117,
           "created_at": "2025-11-17T13:05:04+00:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -7375,7 +7381,7 @@
       "body_html": "<p>It starts with you, in the ORIGIN 4.5\" Shorts. The minimal design paired with the peach-soft fabric creates the foundation for your strong gym fit. Pair with the rest of the ORIGIN range for sets you'll never want to take off.</p>",
       "published_at": "2026-11-23T08:18:04+00:00",
       "created_at": "2025-10-07T10:31:29+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Mauve",
       "product_type": "Shorts",
       "tags": [
@@ -7410,7 +7416,7 @@
           "position": 1,
           "product_id": 7984151887965,
           "created_at": "2025-10-07T10:31:29+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627310173,
@@ -7429,7 +7435,7 @@
           "position": 2,
           "product_id": 7984151887965,
           "created_at": "2025-10-07T10:31:29+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627342941,
@@ -7448,7 +7454,7 @@
           "position": 3,
           "product_id": 7984151887965,
           "created_at": "2025-10-07T10:31:29+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627375709,
@@ -7467,7 +7473,7 @@
           "position": 4,
           "product_id": 7984151887965,
           "created_at": "2025-10-07T10:31:29+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627408477,
@@ -7486,7 +7492,7 @@
           "position": 5,
           "product_id": 7984151887965,
           "created_at": "2025-10-07T10:31:29+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627441245,
@@ -7505,7 +7511,7 @@
           "position": 6,
           "product_id": 7984151887965,
           "created_at": "2025-10-07T10:31:29+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -7576,7 +7582,7 @@
       "body_html": "<p>It starts with you, in the ORIGIN 4.5\" Shorts. The minimal design paired with the peach-soft fabric creates the foundation for your strong gym fit. Pair with the rest of the ORIGIN range for sets you'll never want to take off.</p>",
       "published_at": "2026-11-23T08:18:03+00:00",
       "created_at": "2025-10-07T10:31:28+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Thunder",
       "product_type": "Shorts",
       "tags": [
@@ -7611,7 +7617,7 @@
           "position": 1,
           "product_id": 7984151855197,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627113565,
@@ -7630,7 +7636,7 @@
           "position": 2,
           "product_id": 7984151855197,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627146333,
@@ -7649,7 +7655,7 @@
           "position": 3,
           "product_id": 7984151855197,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627179101,
@@ -7661,14 +7667,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "36.75",
           "grams": 85,
           "compare_at_price": "52.50",
           "position": 4,
           "product_id": 7984151855197,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627211869,
@@ -7687,7 +7693,7 @@
           "position": 5,
           "product_id": 7984151855197,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627244637,
@@ -7706,7 +7712,7 @@
           "position": 6,
           "product_id": 7984151855197,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -7777,7 +7783,7 @@
       "body_html": "<p>It starts with you, in the ORIGIN 4.5\" Shorts. The minimal design paired with the peach-soft fabric creates the foundation for your strong gym fit. Pair with the rest of the ORIGIN range for sets you'll never want to take off.</p>",
       "published_at": "2026-11-23T08:18:03+00:00",
       "created_at": "2025-10-07T10:31:28+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Midnight Black",
       "product_type": "Shorts",
       "tags": [
@@ -7811,7 +7817,7 @@
           "position": 1,
           "product_id": 7984151822429,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693626916957,
@@ -7830,7 +7836,7 @@
           "position": 2,
           "product_id": 7984151822429,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693626949725,
@@ -7849,7 +7855,7 @@
           "position": 3,
           "product_id": 7984151822429,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693626982493,
@@ -7868,7 +7874,7 @@
           "position": 4,
           "product_id": 7984151822429,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627015261,
@@ -7887,7 +7893,7 @@
           "position": 5,
           "product_id": 7984151822429,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693627048029,
@@ -7906,7 +7912,7 @@
           "position": 6,
           "product_id": 7984151822429,
           "created_at": "2025-10-07T10:31:28+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -7955,7 +7961,7 @@
       "body_html": "<p>Build your foundation.</p><p>Start strong with all-day comfort. Made from our softest fabric, Origin’s minimalist design pairs and layers for multiple fits. The built-in bra paired with a deep V-neck creates a flattering, lifted effect while the peached-finish fabric smooths your silhouette.</p>",
       "published_at": "2026-11-23T08:18:02+00:00",
       "created_at": "2025-10-07T10:31:23+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Mauve",
       "product_type": "Tops",
       "tags": [
@@ -7989,7 +7995,7 @@
           "position": 1,
           "product_id": 7984151593053,
           "created_at": "2025-10-07T10:31:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625540701,
@@ -8008,7 +8014,7 @@
           "position": 2,
           "product_id": 7984151593053,
           "created_at": "2025-10-07T10:31:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625573469,
@@ -8027,7 +8033,7 @@
           "position": 3,
           "product_id": 7984151593053,
           "created_at": "2025-10-07T10:31:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625606237,
@@ -8046,7 +8052,7 @@
           "position": 4,
           "product_id": 7984151593053,
           "created_at": "2025-10-07T10:31:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625639005,
@@ -8065,7 +8071,7 @@
           "position": 5,
           "product_id": 7984151593053,
           "created_at": "2025-10-07T10:31:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625671773,
@@ -8084,7 +8090,7 @@
           "position": 6,
           "product_id": 7984151593053,
           "created_at": "2025-10-07T10:31:23+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -8144,7 +8150,7 @@
       "body_html": "<p>Build your foundation.</p><p>Start strong with all-day comfort. Made from our softest fabric, Origin’s minimalist design pairs and layers for multiple fits. The built-in bra paired with a deep V-neck creates a flattering, lifted effect while the peached-finish fabric smooths your silhouette.</p>",
       "published_at": "2026-11-23T08:18:01+00:00",
       "created_at": "2025-10-07T10:31:22+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Thunder",
       "product_type": "Tops",
       "tags": [
@@ -8177,7 +8183,7 @@
           "position": 1,
           "product_id": 7984151560285,
           "created_at": "2025-10-07T10:31:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625344093,
@@ -8196,7 +8202,7 @@
           "position": 2,
           "product_id": 7984151560285,
           "created_at": "2025-10-07T10:31:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625376861,
@@ -8215,7 +8221,7 @@
           "position": 3,
           "product_id": 7984151560285,
           "created_at": "2025-10-07T10:31:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625409629,
@@ -8234,7 +8240,7 @@
           "position": 4,
           "product_id": 7984151560285,
           "created_at": "2025-10-07T10:31:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625442397,
@@ -8253,7 +8259,7 @@
           "position": 5,
           "product_id": 7984151560285,
           "created_at": "2025-10-07T10:31:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43693625475165,
@@ -8272,7 +8278,7 @@
           "position": 6,
           "product_id": 7984151560285,
           "created_at": "2025-10-07T10:31:22+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -8332,7 +8338,7 @@
       "body_html": "<p>Your style. Your SIGNATURE</p><p>Stand out with your signature fits. Designed in a lightweight fabric for easy layering and a relaxed feel. The bold, racing-inspired style with unique DFYNE graphics and a cropped length makes this your statement piece for life around your gym sessions.</p>",
       "published_at": "2026-11-23T08:18:00+00:00",
       "created_at": "2025-09-19T13:35:38+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Midnight Black",
       "product_type": "Jackets",
       "tags": [
@@ -8366,7 +8372,7 @@
           "position": 1,
           "product_id": 7975242465373,
           "created_at": "2025-09-19T13:35:38+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43664551411805,
@@ -8385,7 +8391,7 @@
           "position": 2,
           "product_id": 7975242465373,
           "created_at": "2025-09-19T13:35:38+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43664551444573,
@@ -8404,7 +8410,7 @@
           "position": 3,
           "product_id": 7975242465373,
           "created_at": "2025-09-19T13:35:38+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43664551477341,
@@ -8423,7 +8429,7 @@
           "position": 4,
           "product_id": 7975242465373,
           "created_at": "2025-09-19T13:35:38+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43664551510109,
@@ -8442,7 +8448,7 @@
           "position": 5,
           "product_id": 7975242465373,
           "created_at": "2025-09-19T13:35:38+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -8512,7 +8518,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions. The thick halter strap and built-in bra provide support, and the contour zones create structure that hugs your natural shape, so you can look and feel your most confident.</p>",
       "published_at": "2026-11-23T08:18:00+00:00",
       "created_at": "2025-08-28T10:48:11+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Graphite",
       "product_type": "Tops",
       "tags": [
@@ -8545,7 +8551,7 @@
           "position": 1,
           "product_id": 7959972315229,
           "created_at": "2025-08-28T10:48:12+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617503379549,
@@ -8564,7 +8570,7 @@
           "position": 2,
           "product_id": 7959972315229,
           "created_at": "2025-08-28T10:48:12+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617503412317,
@@ -8583,7 +8589,7 @@
           "position": 3,
           "product_id": 7959972315229,
           "created_at": "2025-08-28T10:48:12+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617503445085,
@@ -8602,7 +8608,7 @@
           "position": 4,
           "product_id": 7959972315229,
           "created_at": "2025-08-28T10:48:12+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617503477853,
@@ -8621,7 +8627,7 @@
           "position": 5,
           "product_id": 7959972315229,
           "created_at": "2025-08-28T10:48:12+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -8702,7 +8708,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions, IMPACT combines firm sculpting fabric with a flexible scrunch and contouring to lift and define your glutes. The mid to low waistband and contour zones support your natural shape so you can look and feel your strongest.</p>",
       "published_at": "2026-11-23T08:17:59+00:00",
       "created_at": "2025-08-28T10:48:04+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Pine",
       "product_type": "Leggings",
       "tags": [
@@ -8736,7 +8742,7 @@
           "position": 1,
           "product_id": 7959972020317,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617501904989,
@@ -8755,7 +8761,7 @@
           "position": 2,
           "product_id": 7959972020317,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617501937757,
@@ -8774,7 +8780,7 @@
           "position": 3,
           "product_id": 7959972020317,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617501970525,
@@ -8793,7 +8799,7 @@
           "position": 4,
           "product_id": 7959972020317,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617502003293,
@@ -8812,7 +8818,7 @@
           "position": 5,
           "product_id": 7959972020317,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -8882,7 +8888,7 @@
       "body_html": "<p>Lift heavier. Train harder.</p><p>Built for your toughest sessions, IMPACT combines firm sculpting fabric with a flexible scrunch and contouring to lift and define your glutes. The mid to low waistband and contour zones support your natural shape so you can look and feel your strongest.</p>",
       "published_at": "2026-11-23T08:17:58+00:00",
       "created_at": "2025-08-28T10:48:03+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Ink",
       "product_type": "Leggings",
       "tags": [
@@ -8915,7 +8921,7 @@
           "position": 1,
           "product_id": 7959971987549,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617501741149,
@@ -8934,7 +8940,7 @@
           "position": 2,
           "product_id": 7959971987549,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617501773917,
@@ -8953,7 +8959,7 @@
           "position": 3,
           "product_id": 7959971987549,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617501806685,
@@ -8972,7 +8978,7 @@
           "position": 4,
           "product_id": 7959971987549,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 43617501839453,
@@ -8991,7 +8997,7 @@
           "position": 5,
           "product_id": 7959971987549,
           "created_at": "2025-08-28T10:48:04+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [
@@ -9061,7 +9067,7 @@
       "body_html": "<p>Level up with CHARGE Active Top. Designed to highlight your arm day gains, without restricting your movement. Whether your workout is for strength or speed our Active Top is the perfect go-to for any session. Pair with the rest of the CHARGE range for the ultimate gym fit.</p>",
       "published_at": "2026-11-23T08:14:27+00:00",
       "created_at": "2026-04-29T12:43:07+01:00",
-      "updated_at": "2026-11-26T10:27:21+00:00",
+      "updated_at": "2026-11-27T10:30:45+00:00",
       "vendor": "Burgundy",
       "product_type": "Tops",
       "tags": [
@@ -9094,7 +9100,7 @@
           "position": 1,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 44407534583901,
@@ -9113,7 +9119,7 @@
           "position": 2,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 44407534616669,
@@ -9132,7 +9138,7 @@
           "position": 3,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 44407534649437,
@@ -9151,7 +9157,7 @@
           "position": 4,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         },
         {
           "id": 44407534682205,
@@ -9170,7 +9176,7 @@
           "position": 5,
           "product_id": 8126358683741,
           "created_at": "2026-04-29T12:43:07+01:00",
-          "updated_at": "2026-11-26T10:27:21+00:00"
+          "updated_at": "2026-11-27T10:30:45+00:00"
         }
       ],
       "images": [

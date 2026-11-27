@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T10:27:20.801882+00:00",
+  "fetchedAt": "2026-11-27T10:30:45.306385+00:00",
   "source": "https://www.aloyoga.com/products.json?limit=50",
   "count": 28,
   "products": [
@@ -10,7 +10,7 @@
       "body_html": "<p>She’s iconic for a reason. The Suit Up Trouser is the cool-girl silhouette your closet has been missing. Crafted from a lightweight, swishy fabric, this style features a comfortable stretch, side pockets, and our signature boxer-style waistband that’s easy to wear high or low-waisted. This style has a regular-length inseam for figures 5’7” and under. It has a loose, relaxed fit that’s oh-so flattering and features front pleats that add a tailored touch to any look. Pair it with your favorite top, and you’ll be ready for anything.</p>",
       "published_at": "2026-11-22T22:06:44-08:00",
       "created_at": "2025-12-23T10:53:23-08:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Pants",
       "tags": [
@@ -21,13 +21,12 @@
         "Color:Gravel:Color",
         "ColorGroup:Beige",
         "Computed:IsAlmostGone",
+        "Computed:UnderInventoryThreshold:5:for:L",
         "Computed:UnderInventoryThreshold:5:for:M",
         "Computed:UnderInventoryThreshold:5:for:S",
         "Content:Builder",
-        "Filter:DisplaySize:5:L - XL",
         "Filter:PercentOffBucket:20-30%",
         "Filter:PercentOffBucket:30-40%",
-        "Filter:Size:L",
         "Length:Bottoms:Regular",
         "Maintenance:ColorwayProduct",
         "master-woman-all",
@@ -66,7 +65,7 @@
           "position": 1,
           "product_id": 9092867850599,
           "created_at": "2025-12-23T10:53:23-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661940003175,
@@ -85,7 +84,7 @@
           "position": 2,
           "product_id": 9092867850599,
           "created_at": "2025-12-23T10:53:23-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661940035943,
@@ -104,7 +103,7 @@
           "position": 3,
           "product_id": 9092867850599,
           "created_at": "2025-12-23T10:53:23-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661940068711,
@@ -123,7 +122,7 @@
           "position": 4,
           "product_id": 9092867850599,
           "created_at": "2025-12-23T10:53:23-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661940101479,
@@ -135,14 +134,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "103.00",
           "grams": 340,
           "compare_at_price": "148.00",
           "position": 5,
           "product_id": 9092867850599,
           "created_at": "2025-12-23T10:53:23-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -237,7 +236,7 @@
       "body_html": "<p>Game, set, match. The Match Point Short is a performance staple. It’s made from a lightweight swishy fabric and has a relaxed fit and built-in brief that was made to keep up while you’re pushing the limits on the court. An elastic logo waistband adds a comfortable touch, and the invisible side pocket stores your essentials while you’re on the go. Pair it with your favorite tee, tank, or bra, and you’re ready to serve.</p>",
       "published_at": "2026-11-22T22:02:59-08:00",
       "created_at": "2025-12-23T11:12:00-08:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Shorts",
       "tags": [
@@ -253,7 +252,6 @@
         "Filter:PercentOffBucket:30-40%",
         "Filter:Size:S",
         "Filter:Size:XS",
-        "Filter:Size:XXS",
         "Maintenance:ColorwayProduct",
         "master-woman-all",
         "not_clearance",
@@ -285,14 +283,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "54.00",
           "grams": 118,
           "compare_at_price": "78.00",
           "position": 1,
           "product_id": 9092870177127,
           "created_at": "2025-12-23T11:12:00-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661951635815,
@@ -311,7 +309,7 @@
           "position": 2,
           "product_id": 9092870177127,
           "created_at": "2025-12-23T11:12:00-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661951668583,
@@ -330,7 +328,7 @@
           "position": 3,
           "product_id": 9092870177127,
           "created_at": "2025-12-23T11:12:00-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661951701351,
@@ -349,7 +347,7 @@
           "position": 4,
           "product_id": 9092870177127,
           "created_at": "2025-12-23T11:12:00-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661951734119,
@@ -368,7 +366,7 @@
           "position": 5,
           "product_id": 9092870177127,
           "created_at": "2025-12-23T11:12:00-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -478,7 +476,7 @@
       "body_html": "<p><meta charset=\"utf-8\">Okay, so we’re pretty much obsessed with this new, straight-leg version of the Accolade Sweatpant — it’s a super soft, leveled-up classic with a chrome ALO logo detail and powerful, performance tech for studio &amp; street. Wear it in cold weather with a bold jacket and transition to warmer weather with slides. Find your fit and see all the ways to style it. <a href=\"https://www.aloyoga.com/pages/accolade\">EXPLORE ACCOLADE.</a></p>",
       "published_at": "2026-11-22T22:02:27-08:00",
       "created_at": "2024-04-04T17:01:22-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Sweatpants",
       "tags": [
@@ -547,7 +545,7 @@
           "position": 1,
           "product_id": 7569945690292,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866031853748,
@@ -566,7 +564,7 @@
           "position": 2,
           "product_id": 7569945690292,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866031952052,
@@ -585,7 +583,7 @@
           "position": 3,
           "product_id": 7569945690292,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866032050356,
@@ -604,7 +602,7 @@
           "position": 4,
           "product_id": 7569945690292,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866032115892,
@@ -623,7 +621,7 @@
           "position": 5,
           "product_id": 7569945690292,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866032148660,
@@ -642,7 +640,7 @@
           "position": 6,
           "product_id": 7569945690292,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866032181428,
@@ -661,7 +659,7 @@
           "position": 7,
           "product_id": 7569945690292,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -762,7 +760,7 @@
       "body_html": "<p>Okay, so we’re pretty much obsessed with this new, straight-leg version of the Accolade Sweatpant — it’s a super soft, leveled-up classic with a chrome ALO logo detail and powerful, performance tech for studio &amp; street. Wear it in cold weather with a bold jacket and transition to warmer weather with slides.</p>",
       "published_at": "2026-11-22T22:02:11-08:00",
       "created_at": "2024-04-05T08:07:25-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Bottoms:Sweatpants",
       "tags": [
@@ -829,7 +827,7 @@
           "position": 1,
           "product_id": 7576302682292,
           "created_at": "2024-04-05T08:07:25-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42873194545332,
@@ -848,7 +846,7 @@
           "position": 2,
           "product_id": 7576302682292,
           "created_at": "2024-04-05T08:07:25-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42873194643636,
@@ -867,7 +865,7 @@
           "position": 3,
           "product_id": 7576302682292,
           "created_at": "2024-04-05T08:07:25-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42873194807476,
@@ -886,7 +884,7 @@
           "position": 4,
           "product_id": 7576302682292,
           "created_at": "2024-04-05T08:07:25-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42873194905780,
@@ -905,7 +903,7 @@
           "position": 5,
           "product_id": 7576302682292,
           "created_at": "2024-04-05T08:07:25-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42873194938548,
@@ -924,7 +922,7 @@
           "position": 6,
           "product_id": 7576302682292,
           "created_at": "2024-04-05T08:07:25-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42873194971316,
@@ -943,7 +941,7 @@
           "position": 7,
           "product_id": 7576302682292,
           "created_at": "2024-04-05T08:07:25-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -1022,7 +1020,7 @@
       "body_html": "<p>They’re iconic for a reason. The Airlift 7/8 Legging is sleek and sculpting, featuring a subtle sheen and a high-rise fit with a hold-you-in feel. They’re perfect for everything from Pilates class to running errands to lounging around. Pair it with your favorite Airlift bra (we’re a big fan of the Intrigue) for a complete look that requires no outfit changes. Our 7/8 length is perfect for petite girls or for taller girls who want to show a little ankle.</p>",
       "published_at": "2026-11-22T22:01:39-08:00",
       "created_at": "2024-04-04T17:01:22-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -1085,7 +1083,7 @@
           "position": 1,
           "product_id": 7569945657524,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866031820980,
@@ -1104,7 +1102,7 @@
           "position": 2,
           "product_id": 7569945657524,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866031919284,
@@ -1123,7 +1121,7 @@
           "position": 3,
           "product_id": 7569945657524,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866032017588,
@@ -1142,7 +1140,7 @@
           "position": 4,
           "product_id": 7569945657524,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42866032083124,
@@ -1161,7 +1159,7 @@
           "position": 5,
           "product_id": 7569945657524,
           "created_at": "2024-04-04T17:01:22-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -1256,7 +1254,7 @@
       "body_html": "<p>A modern take on the classic crew, the Muse Crewneck Pullover is designed with a relaxed drape, ribbed finishing, and a cropped hemline that looks good with everything. Cut in an ultra-soft knit, this style was made for layering over sets or pairing with the matching Muse Wide Leg Pant.</p>",
       "published_at": "2026-11-22T22:01:08-08:00",
       "created_at": "2025-06-24T10:55:52-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -1270,7 +1268,6 @@
         "FA25D6-2-family",
         "FA25Drops-family",
         "FA26D3-Carryover",
-        "Filter:DisplaySize:1:XXS - XS",
         "Filter:DisplaySize:3:Small",
         "Filter:DisplaySize:4:Medium",
         "Filter:DisplaySize:5:L - XL",
@@ -1278,7 +1275,6 @@
         "Filter:Size:L",
         "Filter:Size:M",
         "Filter:Size:S",
-        "Filter:Size:XS",
         "Maintenance:ColorwayProduct",
         "master-woman-all",
         "not_clearance",
@@ -1311,7 +1307,7 @@
           "position": 1,
           "product_id": 9092774560103,
           "created_at": "2025-06-24T10:55:52-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661492654439,
@@ -1323,14 +1319,14 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": null,
-          "available": true,
+          "available": false,
           "price": "75.00",
           "grams": 191,
           "compare_at_price": "108.00",
           "position": 2,
           "product_id": 9092774560103,
           "created_at": "2025-06-24T10:55:52-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661492687207,
@@ -1349,7 +1345,7 @@
           "position": 3,
           "product_id": 9092774560103,
           "created_at": "2025-06-24T10:55:52-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661492719975,
@@ -1368,7 +1364,7 @@
           "position": 4,
           "product_id": 9092774560103,
           "created_at": "2025-06-24T10:55:52-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661492752743,
@@ -1387,7 +1383,7 @@
           "position": 5,
           "product_id": 9092774560103,
           "created_at": "2025-06-24T10:55:52-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -1486,7 +1482,7 @@
       "body_html": "<p>Instant classic. The Unisex Half-Crew Throwback Sock has all the features of a fave: a super-soft feel, comfy cushioning and classic stripe detail. Wear it tall or scrunched with leggings or shorts and your go-to sneakers.</p>",
       "published_at": "2026-11-22T22:00:23-08:00",
       "created_at": "2022-09-12T13:50:18-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Accessories:Socks",
       "tags": [
@@ -1553,7 +1549,7 @@
           "position": 1,
           "product_id": 7256611422388,
           "created_at": "2022-09-12T13:50:18-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 41853538173108,
@@ -1587,7 +1583,7 @@
           "position": 2,
           "product_id": 7256611422388,
           "created_at": "2022-09-12T13:50:18-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 41853538205876,
@@ -1621,7 +1617,7 @@
           "position": 3,
           "product_id": 7256611422388,
           "created_at": "2022-09-12T13:50:18-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -1689,7 +1685,7 @@
       "body_html": "<p>The Light Weight Takeaway Track Pullover has just the right amount of retro vibes, done in a lightweight, softly swishy fabric with a quarter-zip neck. It has a cool relaxed cut, stretchy cuffs, zippered pockets and an adjustable bungee hem. Don't sleep on the matching pants, too.</p>",
       "published_at": "2026-11-22T20:27:30-08:00",
       "created_at": "2025-06-24T10:12:53-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -1744,7 +1740,7 @@
           "position": 1,
           "product_id": 9092769284455,
           "created_at": "2025-06-24T10:12:53-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661463884135,
@@ -1763,7 +1759,7 @@
           "position": 2,
           "product_id": 9092769284455,
           "created_at": "2025-06-24T10:12:53-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661463916903,
@@ -1782,7 +1778,7 @@
           "position": 3,
           "product_id": 9092769284455,
           "created_at": "2025-06-24T10:12:53-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661463949671,
@@ -1801,7 +1797,7 @@
           "position": 4,
           "product_id": 9092769284455,
           "created_at": "2025-06-24T10:12:53-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661463982439,
@@ -1820,7 +1816,7 @@
           "position": 5,
           "product_id": 9092769284455,
           "created_at": "2025-06-24T10:12:53-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -1897,7 +1893,7 @@
       "body_html": "<p>Bring a little cozy comfort to every look. With a soft, ribbed texture and easy-to-style scrunch fit, the Half-Crew Scrunch Sock is the finishing touch you need. Designed for all-day wear with just the right amount of stretch, this style was made to pair with your favorite sneakers or on its own when you’re in off-duty mode.</p>",
       "published_at": "2026-11-22T20:27:29-08:00",
       "created_at": "2025-06-24T10:12:34-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Accessories:Socks",
       "tags": [
@@ -1951,7 +1947,7 @@
           "position": 1,
           "product_id": 9092768072039,
           "created_at": "2025-06-24T10:12:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661457920359,
@@ -1970,7 +1966,7 @@
           "position": 2,
           "product_id": 9092768072039,
           "created_at": "2025-06-24T10:12:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661457953127,
@@ -1989,7 +1985,7 @@
           "position": 3,
           "product_id": 9092768072039,
           "created_at": "2025-06-24T10:12:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -2053,7 +2049,7 @@
       "body_html": "<p>Keep your cool. The Chill Crew is the workout to wear-out hero of your wardrobe made with an ultra-soft, breathable French terry. Drop shoulders and cuffed detailing on the hem, sleeves and neckline enhance the cool plus a non-fuzzy, anti-cling interior makes this a warm-up essential — there’s nothing this crew can’t do.</p>",
       "published_at": "2026-11-22T19:37:16-08:00",
       "created_at": "2025-10-15T15:53:51-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -2125,7 +2121,7 @@
           "position": 1,
           "product_id": 9092831117671,
           "created_at": "2025-10-15T15:53:51-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661764563303,
@@ -2162,7 +2158,7 @@
           "position": 2,
           "product_id": 9092831117671,
           "created_at": "2025-10-15T15:53:51-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661764596071,
@@ -2199,7 +2195,7 @@
           "position": 3,
           "product_id": 9092831117671,
           "created_at": "2025-10-15T15:53:51-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661764628839,
@@ -2236,7 +2232,7 @@
           "position": 4,
           "product_id": 9092831117671,
           "created_at": "2025-10-15T15:53:51-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661764661607,
@@ -2273,7 +2269,7 @@
           "position": 5,
           "product_id": 9092831117671,
           "created_at": "2025-10-15T15:53:51-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661764694375,
@@ -2310,7 +2306,7 @@
           "position": 6,
           "product_id": 9092831117671,
           "created_at": "2025-10-15T15:53:51-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -2395,7 +2391,7 @@
       "body_html": "<p>Keep your cool. The Chill Crew is the workout to wear-out hero of your wardrobe made with an ultra-soft, breathable French terry. Drop shoulders and cuffed detailing on the hem, sleeves and neckline enhance the cool plus a non-fuzzy, anti-cling interior makes this a warm-up essential — there’s nothing this crew can’t do.</p>",
       "published_at": "2026-11-22T19:37:15-08:00",
       "created_at": "2025-10-15T15:53:50-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -2468,7 +2464,7 @@
           "position": 1,
           "product_id": 9092830495079,
           "created_at": "2025-10-15T15:53:50-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661760106855,
@@ -2505,7 +2501,7 @@
           "position": 2,
           "product_id": 9092830495079,
           "created_at": "2025-10-15T15:53:50-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661760139623,
@@ -2542,7 +2538,7 @@
           "position": 3,
           "product_id": 9092830495079,
           "created_at": "2025-10-15T15:53:50-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661760172391,
@@ -2579,7 +2575,7 @@
           "position": 4,
           "product_id": 9092830495079,
           "created_at": "2025-10-15T15:53:50-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661760205159,
@@ -2616,7 +2612,7 @@
           "position": 5,
           "product_id": 9092830495079,
           "created_at": "2025-10-15T15:53:50-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661760237927,
@@ -2653,7 +2649,7 @@
           "position": 6,
           "product_id": 9092830495079,
           "created_at": "2025-10-15T15:53:50-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -2760,7 +2756,7 @@
       "body_html": "<p>Take your look to the next level. The ALO Softsculpt Amp It Up Short Sleeve Bra is made from our signature medium-compression fabric that sculpts and smooths while allowing you the freedom to move. The naturally breathable material has a subtle sheen that keeps your look polished and an ultra-soft feel that’s comfortable enough for all-day wear. This style features removable cups and a ribbed band with contrast trim for a little added texture. Pair it with your favorite bottoms from the Amp It Up collection for a head-to-toe look that was made to serve.</p>",
       "published_at": "2026-11-22T18:57:24-08:00",
       "created_at": "2026-03-31T17:38:13-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -2815,7 +2811,7 @@
           "position": 1,
           "product_id": 9092914250087,
           "created_at": "2026-03-31T17:38:13-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662160597351,
@@ -2834,7 +2830,7 @@
           "position": 2,
           "product_id": 9092914250087,
           "created_at": "2026-03-31T17:38:13-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662160630119,
@@ -2853,7 +2849,7 @@
           "position": 3,
           "product_id": 9092914250087,
           "created_at": "2026-03-31T17:38:13-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662160662887,
@@ -2872,7 +2868,7 @@
           "position": 4,
           "product_id": 9092914250087,
           "created_at": "2026-03-31T17:38:13-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662160695655,
@@ -2891,7 +2887,7 @@
           "position": 5,
           "product_id": 9092914250087,
           "created_at": "2026-03-31T17:38:13-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -2979,7 +2975,7 @@
       "body_html": "<p>Your go-to cap, with a velvet upgrade. The luxe texture of the Velvet Off-Duty Cap brings dimension to an everyday classic that’s easy to style from studio to street. Consider it a must-have accessory for cold weather or no-shampoo days.</p>",
       "published_at": "2026-11-22T18:47:23-08:00",
       "created_at": "2026-07-09T08:27:16-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Accessories:Hats:Caps",
       "tags": [
@@ -3026,7 +3022,7 @@
           "position": 1,
           "product_id": 9092941250919,
           "created_at": "2026-07-09T08:27:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -3110,7 +3106,7 @@
       "body_html": "<p>Singles? How about doubles? You’ll want more than one of the Aces Tennis Skirt, a lightweight, wrap-style tennis skirt (!) that’s perfect for on-the-go. A forward, repeating ALO logo on the waistband and hidden pocket on inner short are the ultimate finishing touches.</p>\n<ul>\n<li>Wrap-style tennis skirt with comfy inner short</li>\n<li>Hidden inner pocket for key or cards</li>\n<li>Designed &amp; uniquely fit to flatter every size</li>\n<li>Wear-tested by our in-house team for the perfect fit</li>\n</ul>",
       "published_at": "2026-11-22T18:08:07-08:00",
       "created_at": "2021-04-14T15:44:11-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Skirts",
       "tags": [
@@ -3194,7 +3190,7 @@
           "position": 1,
           "product_id": 6610230083764,
           "created_at": "2021-04-14T15:44:12-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39601769447604,
@@ -3230,7 +3226,7 @@
           "position": 2,
           "product_id": 6610230083764,
           "created_at": "2021-04-14T15:44:12-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39601769480372,
@@ -3266,7 +3262,7 @@
           "position": 3,
           "product_id": 6610230083764,
           "created_at": "2021-04-14T15:44:12-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39601769513140,
@@ -3302,7 +3298,7 @@
           "position": 4,
           "product_id": 6610230083764,
           "created_at": "2021-04-14T15:44:12-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39601769545908,
@@ -3338,7 +3334,7 @@
           "position": 5,
           "product_id": 6610230083764,
           "created_at": "2021-04-14T15:44:12-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -3432,7 +3428,7 @@
       "body_html": "<p>Keep your style effortlessly sleek with the Denim Knit Sleeveless Top. With its full zipper detail, your style options are endless. Wear it fully zipped for a chic look or unzip it a few inches when you have plans to go out. In the mood for a fully ribbed moment? Pair it with the matching pants and cloche for a head-to-toe look.</p>",
       "published_at": "2026-11-22T17:37:15-08:00",
       "created_at": "2024-09-19T14:44:10-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Tops:Short Sleeves",
       "tags": [
@@ -3505,7 +3501,7 @@
           "position": 1,
           "product_id": 7850761355444,
           "created_at": "2024-09-19T14:44:10-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591357792436,
@@ -3540,7 +3536,7 @@
           "position": 2,
           "product_id": 7850761355444,
           "created_at": "2024-09-19T14:44:10-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591358251188,
@@ -3575,7 +3571,7 @@
           "position": 3,
           "product_id": 7850761355444,
           "created_at": "2024-09-19T14:44:10-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591358611636,
@@ -3610,7 +3606,7 @@
           "position": 4,
           "product_id": 7850761355444,
           "created_at": "2024-09-19T14:44:10-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -3702,7 +3698,7 @@
       "body_html": "<p>The ALO Softsculpt Precision Short Sleeve Top is your new everyday essential. Made from our signature ALO Softsculpt fabric, it has a soft, subtle sheen and an ultra-soft feel that was made for all-day wear. Designed with a sleek, body-hugging fit, this short-sleeved top pairs perfectly with your favorite leggings, skirts, or shorts. It’s the type of style that goes from studio flows to weekend plans without skipping a beat.</p>",
       "published_at": "2026-11-22T17:17:14-08:00",
       "created_at": "2026-03-31T14:33:34-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Tops:Short Sleeves",
       "tags": [
@@ -3757,7 +3753,7 @@
           "position": 1,
           "product_id": 9092901339495,
           "created_at": "2026-03-31T14:33:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662095978855,
@@ -3776,7 +3772,7 @@
           "position": 2,
           "product_id": 9092901339495,
           "created_at": "2026-03-31T14:33:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662096011623,
@@ -3795,7 +3791,7 @@
           "position": 3,
           "product_id": 9092901339495,
           "created_at": "2026-03-31T14:33:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662096044391,
@@ -3814,7 +3810,7 @@
           "position": 4,
           "product_id": 9092901339495,
           "created_at": "2026-03-31T14:33:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50662096077159,
@@ -3833,7 +3829,7 @@
           "position": 5,
           "product_id": 9092901339495,
           "created_at": "2026-03-31T14:33:34-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -3943,7 +3939,7 @@
       "body_html": "<p>The Airlift Line Up Legging goes everywhere and makes it look easy. Made from our signature Airlift fabric, this high-compression style features cool flocking details and sweetheart shaping on the back for a versatile look that also stands out. Pair it with the matching Airlift Line Up Bra to complete your effortless, off-duty vibe. Our 7/8 length is perfect for petite girls or for taller girls who want to show a little ankle.</p>",
       "published_at": "2026-11-22T16:37:28-08:00",
       "created_at": "2025-10-06T11:36:45-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -4001,7 +3997,7 @@
           "position": 1,
           "product_id": 9092816437607,
           "created_at": "2025-10-06T11:36:45-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661696569703,
@@ -4020,7 +4016,7 @@
           "position": 2,
           "product_id": 9092816437607,
           "created_at": "2025-10-06T11:36:45-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661696602471,
@@ -4039,7 +4035,7 @@
           "position": 3,
           "product_id": 9092816437607,
           "created_at": "2025-10-06T11:36:45-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661696635239,
@@ -4058,7 +4054,7 @@
           "position": 4,
           "product_id": 9092816437607,
           "created_at": "2025-10-06T11:36:45-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661696668007,
@@ -4077,7 +4073,7 @@
           "position": 5,
           "product_id": 9092816437607,
           "created_at": "2025-10-06T11:36:45-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -4165,7 +4161,7 @@
       "body_html": "<p>Meet the legging that deserves a place in your rotation. Crafted from our signature Airbrush fabric, the Airbrush 7/8 Legging feels like a second skin and looks like you meant to wear them out. They have a high-rise fit that sits just right and smooths and sculpts through every move you make. This style also has a four-way stretch that flows from studio sessions to coffee breaks with ease. Trust us when we say you’ll be obsessed. Our 7/8 length is perfect for petite girls or for taller girls who want to show a little ankle.</p>",
       "published_at": "2026-11-22T16:07:37-08:00",
       "created_at": "2021-02-23T11:53:13-08:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -4180,9 +4176,7 @@
         "Computed:UnderInventoryThreshold:5:for:S",
         "EOYSale:Under100",
         "EOYSale:Under150",
-        "Filter:DisplaySize:5:L - XL",
         "Filter:PercentOffBucket:30-40%",
-        "Filter:Size:L",
         "FurtherMDs-SinglesDay25",
         "HO23EOYSale",
         "HO23EOYSaleFurtherMD",
@@ -4243,7 +4237,7 @@
           "position": 1,
           "product_id": 6239929925812,
           "created_at": "2021-02-23T11:53:14-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 38169675497652,
@@ -4280,7 +4274,7 @@
           "position": 2,
           "product_id": 6239929925812,
           "created_at": "2021-02-23T11:53:14-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 38169675530420,
@@ -4317,7 +4311,7 @@
           "position": 3,
           "product_id": 6239929925812,
           "created_at": "2021-02-23T11:53:14-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 38169675563188,
@@ -4354,7 +4348,7 @@
           "position": 4,
           "product_id": 6239929925812,
           "created_at": "2021-02-23T11:53:14-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 38169675595956,
@@ -4384,14 +4378,14 @@
               38169675628724
             ]
           },
-          "available": true,
+          "available": false,
           "price": "82.00",
           "grams": 159,
           "compare_at_price": "118.00",
           "position": 5,
           "product_id": 6239929925812,
           "created_at": "2021-02-23T11:53:14-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 38169675628724,
@@ -4428,7 +4422,7 @@
           "position": 6,
           "product_id": 6239929925812,
           "created_at": "2021-02-23T11:53:14-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -4542,7 +4536,7 @@
       "body_html": "<p>Cozy and comfortable with plenty of street cred, too, thanks to a chrome ALO logo on the chest and an on-trend offering of colors. It has a classic crewneck, ribbing at the cuffs and hem and a laid-back, dropped-shoulder fit. It’s made from drapey, midweight French terry that’s smooth on the outside and fleecy on the inside. Finish off your studio-to-street look with the matching Accolade sweatpants.</p>",
       "published_at": "2026-11-22T15:57:29-08:00",
       "created_at": "2024-09-20T10:01:00-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -4616,7 +4610,7 @@
           "position": 1,
           "product_id": 7851459739828,
           "created_at": "2024-09-20T10:01:00-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43594920394932,
@@ -4654,7 +4648,7 @@
           "position": 2,
           "product_id": 7851459739828,
           "created_at": "2024-09-20T10:01:00-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43594920493236,
@@ -4692,7 +4686,7 @@
           "position": 3,
           "product_id": 7851459739828,
           "created_at": "2024-09-20T10:01:01-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43594920558772,
@@ -4730,7 +4724,7 @@
           "position": 4,
           "product_id": 7851459739828,
           "created_at": "2024-09-20T10:01:01-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43594920657076,
@@ -4768,7 +4762,7 @@
           "position": 5,
           "product_id": 7851459739828,
           "created_at": "2024-09-20T10:01:01-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43594920820916,
@@ -4806,7 +4800,7 @@
           "position": 6,
           "product_id": 7851459739828,
           "created_at": "2024-09-20T10:01:01-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43594921017524,
@@ -4844,7 +4838,7 @@
           "position": 7,
           "product_id": 7851459739828,
           "created_at": "2024-09-20T10:01:01-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -4931,7 +4925,7 @@
       "body_html": "<p>This best seller is cozy, comfortable, cute and done in classic neutrals and on-trend colors—each finished with a chrome ALO logo. It has a classic crewneck, ribbed cuffs and hem, and a laid-back dropped-shoulder fit. It’s made from midweight French terry that’s smooth on the outside and fleecy on the inside with the perfect drape. Pair with the Accolade sweatpants to make a matching set—and get one for your bestie, sibling, or partner, if you’re into that. Find your fit and see all the ways to style it. <a href=\"https://www.aloyoga.com/pages/accolade\">EXPLORE ACCOLADE.</a></p>",
       "published_at": "2026-11-22T15:57:28-08:00",
       "created_at": "2024-09-19T14:39:16-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Outerwear:Coverups:Pullovers",
       "tags": [
@@ -5004,7 +4998,7 @@
           "position": 1,
           "product_id": 7850757259444,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591335215284,
@@ -5042,7 +5036,7 @@
           "position": 2,
           "product_id": 7850757259444,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591335608500,
@@ -5080,7 +5074,7 @@
           "position": 3,
           "product_id": 7850757259444,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591335968948,
@@ -5118,7 +5112,7 @@
           "position": 4,
           "product_id": 7850757259444,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591336263860,
@@ -5156,7 +5150,7 @@
           "position": 5,
           "product_id": 7850757259444,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591336591540,
@@ -5194,7 +5188,7 @@
           "position": 6,
           "product_id": 7850757259444,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43591336886452,
@@ -5232,7 +5226,7 @@
           "position": 7,
           "product_id": 7850757259444,
           "created_at": "2024-09-19T14:39:16-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -5319,7 +5313,7 @@
       "body_html": "<p>A studio class essential, this crew-length barre sock features cushioned soles with no-slip silicone grips, elastic cross-strap details and ribbed ankle cuffs.</p>",
       "published_at": "2026-11-22T15:17:41-08:00",
       "created_at": "2025-06-24T10:06:18-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Accessories:Socks",
       "tags": [
@@ -5380,7 +5374,7 @@
           "position": 1,
           "product_id": 9092763681127,
           "created_at": "2025-06-24T10:06:18-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661449302375,
@@ -5413,7 +5407,7 @@
           "position": 2,
           "product_id": 9092763681127,
           "created_at": "2025-06-24T10:06:18-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -5468,7 +5462,7 @@
       "body_html": "<p>The Airbrush Bootcut 7/8 Legging is a must-have. Made from our signature Airbrush performance fabric, this style features a sleek silhouette that flatters from every angle with a high-rise fit complete with a wide waistband. They’re the perfect style for dressing up or down, making them a staple piece that no wardrobe is complete without. Pair them with your favorite cropped tee, bra, or blazer, and you’re ready to hit practice or pavement—no outfit change required. Our 7/8 length is perfect for petite girls or for taller girls who want to show a little ankle.</p>",
       "published_at": "2026-11-22T15:17:41-08:00",
       "created_at": "2025-04-03T18:59:29-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -5531,7 +5525,7 @@
           "position": 1,
           "product_id": 9092742971751,
           "created_at": "2025-04-03T18:59:29-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661352341863,
@@ -5550,7 +5544,7 @@
           "position": 2,
           "product_id": 9092742971751,
           "created_at": "2025-04-03T18:59:29-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661352374631,
@@ -5569,7 +5563,7 @@
           "position": 3,
           "product_id": 9092742971751,
           "created_at": "2025-04-03T18:59:29-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661352407399,
@@ -5588,7 +5582,7 @@
           "position": 4,
           "product_id": 9092742971751,
           "created_at": "2025-04-03T18:59:29-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661352440167,
@@ -5607,7 +5601,7 @@
           "position": 5,
           "product_id": 9092742971751,
           "created_at": "2025-04-03T18:59:29-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -5691,7 +5685,7 @@
       "body_html": "<p>Meet your new outfit staple. The Triumph Tee is a classic silhouette that will live in your closet forever. This relaxed fit can easily take you from a workout circuit to a recovery session.</p>",
       "published_at": "2026-11-22T15:17:40-08:00",
       "created_at": "2024-12-12T15:55:40-08:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Tops:Short Sleeves",
       "tags": [
@@ -5768,7 +5762,7 @@
           "position": 1,
           "product_id": 7900136014004,
           "created_at": "2024-12-12T15:55:40-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43766368927924,
@@ -5804,7 +5798,7 @@
           "position": 2,
           "product_id": 7900136014004,
           "created_at": "2024-12-12T15:55:40-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43766368960692,
@@ -5840,7 +5834,7 @@
           "position": 3,
           "product_id": 7900136014004,
           "created_at": "2024-12-12T15:55:40-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43766368993460,
@@ -5876,7 +5870,7 @@
           "position": 4,
           "product_id": 7900136014004,
           "created_at": "2024-12-12T15:55:40-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43766369026228,
@@ -5912,7 +5906,7 @@
           "position": 5,
           "product_id": 7900136014004,
           "created_at": "2024-12-12T15:55:40-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -5995,7 +5989,7 @@
       "body_html": "<p>Your favorite fabric is getting a new must-have style. The Chill Hoodie is going to be a staple piece your closet is going to want and need. As a workout-to-wear-out staple, this style is the epitome of classic. From gym sessions to nights out, you’ll be wearing the Chill Hoodie for seasons on end. </p>",
       "published_at": "2026-11-22T15:07:36-08:00",
       "created_at": "2024-12-20T16:25:12-08:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Men:Outerwear:Coverups:Hoodies",
       "tags": [
@@ -6066,7 +6060,7 @@
           "position": 1,
           "product_id": 7902721671348,
           "created_at": "2024-12-20T16:25:12-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43774083825844,
@@ -6102,7 +6096,7 @@
           "position": 2,
           "product_id": 7902721671348,
           "created_at": "2024-12-20T16:25:12-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43774083858612,
@@ -6138,7 +6132,7 @@
           "position": 3,
           "product_id": 7902721671348,
           "created_at": "2024-12-20T16:25:12-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43774083891380,
@@ -6174,7 +6168,7 @@
           "position": 4,
           "product_id": 7902721671348,
           "created_at": "2024-12-20T16:25:12-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 43774083924148,
@@ -6210,7 +6204,7 @@
           "position": 5,
           "product_id": 7902721671348,
           "created_at": "2024-12-20T16:25:12-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -6304,7 +6298,7 @@
       "body_html": "<p>Sometimes it’s good to play favorites — enter the Seamless Ribbed Favorite Bra Tank. It’s a go-to for wear-everywhere, all-day support — and it’s practice-perfect, thanks to buttery soft, seamless ribbed fabric and adjustable straps. Match it up with a Seamless bottom for a total look.</p>",
       "published_at": "2026-11-22T14:27:10-08:00",
       "created_at": "2025-06-24T12:04:24-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Tops:Tanks",
       "tags": [
@@ -6377,7 +6371,7 @@
           "position": 1,
           "product_id": 9092782719335,
           "created_at": "2025-06-24T12:04:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661533253991,
@@ -6413,7 +6407,7 @@
           "position": 2,
           "product_id": 9092782719335,
           "created_at": "2025-06-24T12:04:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661533286759,
@@ -6449,7 +6443,7 @@
           "position": 3,
           "product_id": 9092782719335,
           "created_at": "2025-06-24T12:04:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661533319527,
@@ -6485,7 +6479,7 @@
           "position": 4,
           "product_id": 9092782719335,
           "created_at": "2025-06-24T12:04:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661533352295,
@@ -6521,7 +6515,7 @@
           "position": 5,
           "product_id": 9092782719335,
           "created_at": "2025-06-24T12:04:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -6604,7 +6598,7 @@
       "body_html": "<p>Instant classic. The Unisex Half-Crew Throwback Sock has all the features of a fave: a super-soft feel, comfy cushioning and classic stripe detail. Wear it tall or scrunched with leggings or shorts and your go-to sneakers.</p>",
       "published_at": "2026-11-22T14:07:07-08:00",
       "created_at": "2025-10-06T12:44:44-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Accessories:Socks",
       "tags": [
@@ -6660,7 +6654,7 @@
           "position": 1,
           "product_id": 9092827578727,
           "created_at": "2025-10-06T12:44:44-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661744378215,
@@ -6679,7 +6673,7 @@
           "position": 2,
           "product_id": 9092827578727,
           "created_at": "2025-10-06T12:44:44-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 50661744410983,
@@ -6698,7 +6692,7 @@
           "position": 3,
           "product_id": 9092827578727,
           "created_at": "2025-10-06T12:44:44-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -6762,7 +6756,7 @@
       "body_html": "<p data-pm-slice=\"1 1 []\">Nail the layered look in the Double Trouble Bra, designed with a mesh lining peeking out from under a classic sports bra silhouette. Fitwise, it’s solidly supportive with tank straps and a wide, stretchy, underbust band. And it’s all made from Airlift—our signature fabric that’s sleek and sculpting with a subtly sheeny finish. </p>\n<ul></ul>",
       "published_at": "2026-11-22T14:07:07-08:00",
       "created_at": "2022-12-07T12:29:19-08:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bras",
       "tags": [
@@ -6828,7 +6822,7 @@
           "position": 1,
           "product_id": 7325042311348,
           "created_at": "2022-12-07T12:29:19-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42062721122484,
@@ -6847,7 +6841,7 @@
           "position": 2,
           "product_id": 7325042311348,
           "created_at": "2022-12-07T12:29:19-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42062721155252,
@@ -6866,7 +6860,7 @@
           "position": 3,
           "product_id": 7325042311348,
           "created_at": "2022-12-07T12:29:19-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 42062721188020,
@@ -6885,7 +6879,7 @@
           "position": 4,
           "product_id": 7325042311348,
           "created_at": "2022-12-07T12:29:19-08:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
@@ -6961,7 +6955,7 @@
       "body_html": "<p>The Alosoft Lounge Legging is definitely a wardrobe must-have. Made from our signature Alosoft fabric, this lightweight and breathable style delivers easy comfort for practice and beyond. Ribbed details at the waistband and cuffs add a bit of dimension to any look, while the sweetheart detailing on the back adds a little lift. Throw on your favorite sweatshirt or pair it with an Alosoft bra for a look you’ll never take off.</p>",
       "published_at": "2026-11-22T13:57:14-08:00",
       "created_at": "2021-06-09T16:29:24-07:00",
-      "updated_at": "2026-11-26T02:27:20-08:00",
+      "updated_at": "2026-11-27T02:30:45-08:00",
       "vendor": "Alo Yoga",
       "product_type": "Women:Bottoms:Leggings",
       "tags": [
@@ -7034,7 +7028,7 @@
           "position": 1,
           "product_id": 6695201439924,
           "created_at": "2021-06-09T16:29:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39952240181428,
@@ -7071,7 +7065,7 @@
           "position": 2,
           "product_id": 6695201439924,
           "created_at": "2021-06-09T16:29:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39952240214196,
@@ -7108,7 +7102,7 @@
           "position": 3,
           "product_id": 6695201439924,
           "created_at": "2021-06-09T16:29:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39952240246964,
@@ -7145,7 +7139,7 @@
           "position": 4,
           "product_id": 6695201439924,
           "created_at": "2021-06-09T16:29:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 39952240279732,
@@ -7182,7 +7176,7 @@
           "position": 5,
           "product_id": 6695201439924,
           "created_at": "2021-06-09T16:29:24-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         },
         {
           "id": 40706374009012,
@@ -7219,7 +7213,7 @@
           "position": 6,
           "product_id": 6695201439924,
           "created_at": "2021-09-24T12:17:35-07:00",
-          "updated_at": "2026-11-26T02:27:20-08:00"
+          "updated_at": "2026-11-27T02:30:45-08:00"
         }
       ],
       "images": [
